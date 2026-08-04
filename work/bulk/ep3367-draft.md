@@ -56,7 +56,7 @@ Real estate expert Winnie Rodgers on ignoring her intuition, setting boundaries 
 <p>Connect with her on <a href="https://instagram.com/winnieandcompany" target="_blank" rel="noopener">Instagram</a>, or learn more about her teaching at <a href="https://winnierodgers.com" target="_blank" rel="noopener">Winnie's website</a>.</p>
 
 <h2>Favorite quotes</h2>
-<blockquote>"I'm not interested in having dinner with you. [...] I didn't give a reason. I didn't give an excuse. I didn't soften it so that it didn't hurt his feelings." —Winnie Rodgers</blockquote>
+<blockquote>"I'm not interested in having dinner with you. [...] In the past, I would have given a reason, I would have given an excuse, I would have softened it so that it didn't hurt his feelings." —Winnie Rodgers</blockquote>
 <blockquote>"I felt like I knew my business better than I knew myself at that time." —Winnie Rodgers</blockquote>
 <blockquote>"It isn't necessarily that you're not good at it. It is that there's something that is challenging or pushing against one of your boundaries or one of your values, and you just haven't identified it yet." —Winnie Rodgers</blockquote>
 
@@ -94,34 +94,9 @@ This is wonderful. Guys, Winnie and I were talking earlier before the podcast st
 You're like, that's a good one.</p>
 
 <p><strong>[Dana] (01:13)</strong><br>
-...the tagline is pushing through and transforming even when you feel like a pile of ash. And we've had so many absolutely wonderful guests on the podcast who've done amazing things, but we're interested also in the backstory. I love to hear biographies, I love to read biographies, finding out, these people that we see that have accomplished so many things, but then with the biographies, you find out from the backstory, what did they go through, what was hard for them, what were their failures, how did they come through? That's the essence of Phoenix and Flame. It's like, what was the fire, what was it that just burnt you down to ash, what did it feel like to sit in that ash pile not knowing if you were going to rise or not, and then what helped you rise into the phoenix? And those stories, I think, are very fascinating. So, Winnie, when you think about all of that, you had shared with me at some point about experiencing some turmoil in your life because you weren't really paying much attention to your intuition. I can't hear you. I can edit this part out. I can't hear you, Winnie, can you hear me? Okay, say something, do you hear me? This is technology again. I don't know what's going on. Can you hear me?</p>
+...the tagline is pushing through and transforming even when you feel like a pile of ash. And we've had so many absolutely wonderful guests on the podcast who've done amazing things, but we're interested also in the backstory. I love to hear biographies, I love to read biographies, finding out, these people that we see that have accomplished so many things, but then with the biographies, you find out from the backstory, what did they go through, what was hard for them, what were their failures, how did they come through? That's the essence of Phoenix and Flame. It's like, what was the fire, what was it that just burnt you down to ash, what did it feel like to sit in that ash pile not knowing if you were going to rise or not, and then what helped you rise into the phoenix? And those stories, I think, are very fascinating. So, Winnie, when you think about all of that, you had shared with me at some point about experiencing some turmoil in your life because you weren't really paying much attention to your intuition.</p>
 
-<p><strong>[Winnie] (03:14)</strong><br>
-Okay, I can hear you now, but without my headphones. Do you think I should just move on? Because I didn't hear any of that, unfortunately.</p>
-
-<p><strong>[Dana] (03:16)</strong><br>
-I can hear you now.</p>
-
-<p><strong>[Winnie] (03:28)</strong><br>
-I'm going to try this again.</p>
-
-<p><strong>[Dana] (03:32)</strong><br>
-Yeah, what, do you know what happened?</p>
-
-<p><strong>[Winnie] (03:36)</strong><br>
-My phone started ringing, but I pressed Do Not Disturb, so that's frustrating, but I don't know if it just picked up my headphones or what. Let me try this again. Okay.</p>
-
-<p><strong>[Dana] (03:50)</strong><br>
-So, are you in a situation, is your phone gonna ring again, is it gonna knock you off again, or can you set up on a laptop or something so your phone line's not gonna come through?</p>
-
-<p><strong>[Winnie] (03:53)</strong><br>
-Yeah, I can hear you again. I have it on Do Not Disturb, but I put my laptop on it, but I guess that doesn't put my phone on it. So now the phone's on Do Not Disturb.</p>
-
-<p><strong>[Dana] (04:22)</strong><br>
-Okay, alright, I'm going to edit all this part out, we'll just keep going, all this I'll edit out. But basically, so when I was doing all the intro, you were not hearing that.</p>
-
-<p><strong>[Winnie] (04:23)</strong><br>
-Okay, I heard the intro part about me, that's kind of where I was.</p>
+<p><em>[About three minutes of audio-dropout troubleshooting removed here. Winnie's headphones and phone briefly knocked out the connection; Dana said on air she'd edit the interruption out ("I can edit this part out... I'm going to edit all this part out"), and the cut portion is pure technical back-and-forth (can-you-hear-me, Do Not Disturb settings, switching to a laptop) with no story content. Winnie confirms at the end of it that she missed Dana's spoken intro, which is why Dana recaps it below.]</em></p>
 
 <p><strong>[Dana] (04:36)</strong><br>
 Okay, then basically I was just telling the listeners what we had talked about beforehand, about pushing through and transforming even when you feel like a pile of ash, and I like my guests to talk about all the stuff we talked about beforehand, about what was the fire in your life that created that issue for you, and what did it feel like to sit in that pile of ash not knowing if you're going to get out of it, and then...</p>
