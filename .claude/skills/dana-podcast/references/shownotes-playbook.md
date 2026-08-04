@@ -74,6 +74,16 @@ page missing its SEO fundamentals. Per-episode checklist, all mandatory:
 9. **CTA**: follow links + review ask, link-tree, and Dana's free Work
    Boundaries Quiz (https://danaskaggs.com/quiz/) written first-person
    ("Take my free..."). NOT "Book Dana" (Sadie, 2026-08-04).
+   The quiz CTA is a styled callout box, not a plain text link (Sadie,
+   2026-08-04: "the work boundaries quiz really needs to stand out").
+   Standard markup, placed after the link-tree line, before the
+   transcript block:
+   ```html
+   <div class="kosei-quiz-cta" style="background:#A02640;border-radius:10px;padding:30px 24px;margin:36px 0;text-align:center;"><p style="color:#ffffff;font-size:1.35em;font-weight:600;margin:0 0 10px;line-height:1.3;">Are your work boundaries supporting you&#8212;or quietly draining you?</p><p style="color:#f3d9e0;margin:0 0 20px;">Take my free Work Boundaries Quiz and find out where you stand.</p><a href="https://danaskaggs.com/quiz/" style="display:inline-block;background:#ffffff;color:#A02640;font-weight:700;padding:13px 32px;border-radius:999px;text-decoration:none;">Take the Free Quiz</a></div>
+   ```
+   Copy echoes the quiz page's own claim ("shows where your work
+   boundaries are supporting you and where they may be quietly draining
+   your energy") -- don't invent stats like "2-minute quiz".
    PRIMARY follow link: https://pod.link/1513991564 ("all apps in one
    place", verified by Sadie 2026-08-04), then the direct links.
    ALL external links get target="_blank" rel="noopener"; internal
