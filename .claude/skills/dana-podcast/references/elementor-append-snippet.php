@@ -26,7 +26,26 @@ add_action( 'rest_api_init', function () {
 		'callback'            => 'kosei_dana_append_section',
 		'permission_callback' => function () { return current_user_can( 'edit_pages' ); },
 	) );
+	register_rest_route( 'kosei-dana/v1', '/purge-podcast-page-cache', array(
+		'methods'             => 'POST',
+		'callback'            => 'kosei_dana_purge_cache',
+		'permission_callback' => function () { return current_user_can( 'edit_pages' ); },
+	) );
 } );
+
+function kosei_dana_purge_cache() {
+	$fired = array();
+	// LiteSpeed Cache: purging the specific post + a full-site purge, since
+	// this page's full-page HTML is what's stale (Elementor's own internal
+	// CSS/asset cache is separate and was already being cleared).
+	if ( has_action( 'litespeed_purge_post' ) || function_exists( 'do_action' ) ) {
+		do_action( 'litespeed_purge_post', KOSEI_DANA_PAGE_ID );
+		$fired[] = 'litespeed_purge_post';
+	}
+	do_action( 'litespeed_purge_all' );
+	$fired[] = 'litespeed_purge_all';
+	return new \WP_REST_Response( array( 'ok' => true, 'fired' => $fired ), 200 );
+}
 
 const KOSEI_DANA_PAGE_ID = 3048;
 
@@ -109,6 +128,14 @@ function kosei_dana_append_section( \WP_REST_Request $req ) {
 	if ( class_exists( '\Elementor\Plugin' ) ) {
 		\Elementor\Plugin::$instance->files_manager->clear_cache();
 	}
+	// Elementor's cache above is for compiled CSS/assets only -- the site
+	// also runs LiteSpeed Cache, which caches full rendered page HTML
+	// separately and does NOT get invalidated by an _elementor_data write
+	// alone (confirmed: page served x-litespeed-cache: hit with stale
+	// content after a successful append). Purge that too so the change is
+	// actually visible.
+	do_action( 'litespeed_purge_post', KOSEI_DANA_PAGE_ID );
+	do_action( 'litespeed_purge_all' );
 
 	return new \WP_REST_Response( array(
 		'ok'            => true,
