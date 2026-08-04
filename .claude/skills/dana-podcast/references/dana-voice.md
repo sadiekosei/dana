@@ -41,6 +41,21 @@ descriptions must sound like HER — not like a content agency.
 - **Curve balls, boomerangs, spinning plates, canoe/boxes**
 - "Whoever holds the upset is the one who needs to speak."
 
+## Opening-line variety (mandatory, added 2026-08-04)
+
+The very first pilot draft (ep3962) opened with "Picture this:" as a
+scene-setting hook, and it got imitated so consistently across the
+bulk run that 10 of 80 episodes opened with the literal phrase
+"Picture this:" — read back to back on the site, it reads as a tic,
+not a voice. Before writing an opening line, check what the last few
+episodes actually shipped with and do NOT reuse their exact construct.
+Vary the technique, not just the wording — pull from different tools
+each time: a direct question, a flat statement of fact, a quote from
+the transcript, an image without "picture this" framing it, starting
+mid-action, a number, a challenge to a common assumption. If you
+notice yourself reaching for the same opener two episodes in a row,
+stop and use a different one.
+
 ## Rules for show notes in her voice
 
 1. The episode summary should read like the opening of one of her blog
