@@ -60,7 +60,9 @@ page missing its SEO fundamentals. Per-episode checklist, all mandatory:
    via yt-dlp --flat-playlist). Insert after the summary, before "In
    this episode": H2 "Watch this episode" + responsive 16:9 iframe
    (youtube.com/embed/<id>). Match video by title; verify duration
-   ~= episode length.
+   ~= episode length. The responsive wrapper div MUST include
+   `margin-bottom:32px;` after `overflow:hidden;` — without it the
+   video sits flush against the next heading (Sadie, 2026-08-04).
 5. **Guest bio + links** (guest episodes): 2–3 sentences, link to their
    site/social. Guest names are search queries — include full name and
    title/company in text, not just in an image.
