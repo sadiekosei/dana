@@ -1,0 +1,269 @@
+Dana Skaggs (00:01)
+Welcome to Phoenix in Flame. I'm Dana and we have got a fantastic guest with us today. I have to tell you, I absolutely adore podcasting because we get access to these most amazing people who have these amazing experiences and we get to talk to them and find out what their journey was like and what helped them and what hindered them and all these wonderful things. And so today we're going to be talking with Katherine McCord. Now in 2014, she founded Titan Management, a national people operations consulting firm. And then in 2021, she shook up HR Tech by designing the first ever fully accessible, anti-bias applicant tracking system plugin that fires the resume. and showcases company diversity. Catherine, welcome to Phoenix in Flame.
+
+Katherine (01:04)
+Thank you so much for having me. And by the way, I love that in your intro, you called me both fantastic and awesome. And that has just made my day. So thank you.
+
+Dana Skaggs (01:14)
+Drop the mic, I'm done.
+
+Katherine (01:17)
+You did it! Success!
+
+Dana Skaggs (01:20)
+Alright girl, well there's some other things about your history that I want to share. So you are successful with six invisible disabilities, not in spite of them. You have bipolar disorder, obsessive compulsive disorder, and mesophonia, and also multiple physical diagnoses including a seizure disorder. And you say that your neurodiversity is your super power.
+
+Katherine (01:34)
+That's right. Yeah. Yeah it is.
+
+Dana Skaggs (01:49)
+This is so interesting to me. I love diversity. I love hearing people's walk and their journey. I'm really interested. So start to fill the listeners in and fill me in on what it has been like for you. Start wherever you would like and we'll just meander around and get to wherever we need to get. We will.
+
+Katherine (02:01)
+Sure. We'll get there. It'll be fine. We'll just we'll get there. So I do have six invisible disabilities. And actually, my doctor keeps trying to tack on a few more. And I've told her, no, ma'am, we have cut it off at six. This is the maximum allowed. You've just got to lump it in with something else for not having any more diagnoses, at least not for another decade.
+
+Dana Skaggs (02:18)
+We're done. Ha ha ha. Yeah
+
+Katherine (02:28)
+So I do, I have multiple physical and neuro diagnoses and neurodiversity for anybody listening, by the way, is just a medically visible and or diagnosable difference in how the brain and body process information and stimuli. So everything from like cerebral palsy and seizure disorders over to like autism, ADHD, dyslexia, dyspraxia, on over to the mental health spectrum of OCD, bipolar, anxiety, Tourette, all of this type of thing. So, and actually Tourette's not.
+
+Katherine (02:58)
+as much mental health, sorry about that. But anyway, that whole kind of spectrum is neurodiversity and kind of the whole concept there is that different is not a deficit, with science finally caught up to, by the way. We'll talk about that more here in a minute. But I do, I have so many, so many, so many things wrong with me. I don't even know. Like I just, I think that I'm secretly 80 years old and just nobody told me is what happened. Um, because, and I did, this is a true story. I had out, so I love Aflac by the way. So this is actually a plug for that. They're great auxiliary benefits, but, uh, years ago, I had them call me when I had signed up for their benefits and go, Ms. McCord, we're so sorry. We got your age wrong. And we went through the whole process and we figured out that they got my age right. But they were like, what? Like all, cause all of my health conditions made it look like I was like so much older.
+
+Dana Skaggs (03:56)
+Oh my goodness.
+
+Katherine (03:58)
+And I was like 26 when this happened and they were so embarrassed. I was like, no, it's good that you checked. That's perfectly fine. It's okay. But they were just so embarrassed. It was hilarious. But I've been different since childhood. My mom first noticed it when I was about three years old, three or four years old, that I had obsessive compulsive disorder. And my parents had the most beautiful response ever, that they just steered into it.
+
+Dana Skaggs (04:09)
+Oh.
+
+Katherine (04:26)
+And they were like, this is who you are. Cool, no problem. We're just gonna roll with it. And it's all right. And they taught me the strengths that go with all these different things about me. And then they taught me how to accommodate the rest of it because neurodiversity has both the disability aspect and the benefit aspect. So it's this kind of funky balance. And so they did, they just steered into it as did the rest of my family. They're just like, all right, well, that's Catherine. No problem. Yeah, it's all right. And then as the rest of it started to develop the exact same thing happened. And so I was unusually, unusually privileged in that way to have a family that could wrap their brains around it the way that they did and that could embrace it with nothing but love and support.
+
+Dana Skaggs (05:10)
+and yes, and acceptance and looking at the pros. So let me ask you, when you first ran into, we'll call it the blades or the buzzsaw of the people that are not open to diversity, the ones that are more homogenous and they don't have, their mindset is more set on
+
+Katherine (05:14)
+Yeah!
+
+Dana Skaggs (05:38)
+what they know and sometimes, let's just be perfectly honest, sometimes people, it's just, it's an ignorance thing. They just have never been around something and so they're like, I don't understand why you act this way. I don't understand why you speak this way. I don't understand why you do these things versus other people. There's other groups of people that it's not an ignorance thing. It's a malicious thing. It's a mean-spirited kind of thing. And so I'm, I'm thinking I more than likely have some listeners out there who are
+
+Katherine (05:44)
+It is! Yeah! Right. It can be. Yeah.
+
+Dana Skaggs (06:07)
+walking the path that you have walked. And so I'd like to sort of go back there with you and maybe have you share what that was like because you started out fortunately in such a wonderful, lovely nest of parents that were welcoming and accepting and said, hey, these are the great parts about, you know, how the neurodiversity is impacting your life. But at some point or another, you ran into these other individuals.
+
+Katherine (06:09)
+Yeah. I did. Yeah. I ran into the jerk. I did unintentional or otherwise I did. But you don't want to know it's funny. So my natural setting, and I don't know how this came to be other than that I have other people in my family like this. So there's just some genetic component to this that My automatic assumption, if you don't like me, is that you are defective. Then if you, and I don't mean like you don't like me, like we just aren't gonna be the best of friends. That's not what I mean. I just mean like, if you just like think that I'm wrong or bad or incorrect, you're just defective and I don't know what to do with you. Like that I'm sorry for you, that this is your experience, but that's, so as a child, that's how I automatically responded. it didn't occur to me that this other person was correct because all of the brilliant, smart people in my life said, no, you're great. And my instincts said, yeah, you're great. So I was like, okay, you're just weird, whatever. And just would kind of keep on going. And so that, and again, that's just me. That is my unique little brain. But I was also always very defensive of my friends that were not that way and who would become hurt because neurodiversity attracts. We're just like little magnets to each other. We're just drawn in this little vacuum to one another. And it was always highly defensive of my friends who would be hurt or experience pain from the kind of rejection of other people. And my instinct there was always to reassure them that they were awesome. And then to, actually my very first instinct was to be kind of, not physically, but verbally attacky. to other people when I was young, and I would shut them down, like make them cry and be like, no, you're the one that's bad. They're good, you're being bad. And then I learned earlier that that's not how you do that. That's little Catherine, that was her initial instinct, protective instinct, the tiger kind of came out. And then you learn better ways to do that as you get older and how to actually work with that. So now adult Catherine's response to this.
+
+Dana Skaggs (08:30)
+Yep. Yeah.
+
+Katherine (08:41)
+Whenever I run into it, even now when people respond that way to me, which does occasionally happen, not as often, not near as often, but what I do is I just respond with education now and I teach them because if it's just a matter of I don't know, which is quite often the case to your point, that is the most likely, I would say that probably 97 to 98 percent of people out there that struggle to understand this, it's just a lack. knowledge. So I share that knowledge with them and I talk to them about it and I let them ask all of their questions and I tell them what nothing's off-limits you're not going to offend me just go and they get so excited that they can ask all these questions and just let things come out of your mouth out of their mouths and ask the question that they've always been afraid to ask you know and I give them that opportunity and that creates a lot of growth and then a lot of times you get really wonderful advocates out of that. out of that experience, but you have to be in a place where you're ready to do that. There are days, there are a few days, I would say a year, not very many, when I'm like, not today. I would love to talk, I really want to talk to you about this, not today, let's put a time on the calendar. Because today I'm too, that tiger's going to come back out, right?
+
+Dana Skaggs (09:55)
+Mm-hmm. I love that you're kind of, you're honoring of that, you know, kind of where you're standing emotionally and mentally in that moment. And if you're not ready to give them education, then you don't just say, well, forget it. You say, let's put a time on the calendar. Let's come back around to it, you know, so that I can tell you later and we can, you know, have the discussion then. Yeah.
+
+Katherine (10:12)
+No. Yes. Yeah, we can work on this. Yeah, and that's my choice. I choose to be an educator. I choose to be a voice. And because I've made that choice, I feel that it is always, always my honor and my obligation to provide that education for other people. And for other people who don't want to be an educator, that's fine. There's nothing wrong with that. But I would say, still be an ally for yourself. and still be willing to have those conversations on behalf of you that you need to have. So not just with the whole public, but with people like maybe your employer, your partner, your friends, and be willing to kind of have those conversations to educate them, because these are the people that you've chosen for your life, right? And so you want to give them a little bit more priority. But you have to learn to respond in curiosity, not ego. Both sides.
+
+Dana Skaggs (11:14)
+That's wonderful. I love the way you're explaining this. And I also have a question. Sometimes we run into people who have different neurodiverse situations going on with them, different diagnoses, and sometimes because of their background or their personality or fill in the blank, they tend to take more of a victim stance. And sometimes they will kind of...
+
+Katherine (11:28)
+Oh yeah.
+
+Dana Skaggs (11:41)
+want to use different things to... I've run into people along the way, not a lot, thankfully, but I know someone very close to me actually that kind of would use different things that she struggled with as a manipulative ploy to kind of say, you know, this is, you have to excuse all of this and I get all these things. So I'm really interested because I love your mindset.
+
+Katherine (11:58)
+Oh, yes. That is very real.
+
+Dana Skaggs (12:06)
+And I love your owning and your honoring and accepting of the neurodiverse issues that you have had. So I'm just kind of wondering what your take would be on those individuals out there that are adding in that whole victim thing, because you do not seem to be that way at all. As a matter of fact, the opposite, you're like, this is my superpower. So what is your feeling toward those that are doing the opposite?
+
+Katherine (12:28)
+Yeah. Part of it can be where they are. So I give a lot of grace. It could be that everybody in their life has told them that they're broken. So they really don't know better. And that's just the truth. You see so much of that. You see so much that their whole lives, I get messages about this relatively frequently of, oh my God, thank you for telling me that I'm not broken. My whole life, I thought I was broken. Thank you, thank you, thank you, thank you, thank you. And... And it changes so much for them to just know the facts that scientifically, dramatically speaking, know you are not broken. You are just different from other humans. And and again, there's tons of science behind that. We don't have to get into that. But if anyone wants to know, they can reach out. But it's so I'll give a lot of grace for that. I give a lot of grace or maybe they just got diagnosed and the pain has hit them. of that. Like, okay, what does this mean for me? What is this confusion for me? Right? So I give a lot of grace for both of those two things. What I don't give grace for at all are the people who choose to use this as a way to manipulate others. And I want to differentiate that one thing is that there's neurodiversities that happen, right? That's a thing. And then there are choices that we make.
+
+Katherine (13:58)
+to be ugly, manipulative, hurtful. And people in the disability community and people in neurodiverse community are not immune from those kinds of choices. There is no like, oh, we're just so innocent over here because we have these things going on. No, absolutely not. That's not it. And so there are the people that choose to use that to manipulate. And these are the same people that would use anything. They would use anything, like, oh, my dog died. or oh my whatever the world it is that they feel is their particular tragedy and so that is its own thing I completely separate that from their neurodiversity or from their disability or whatever it is that's gone on with them I separate that and like this right here is a problem all this over here I'll support you with your neurodiversity stuff or your disability stuff or whatever but this behavior uh-uh no And I treat it just like anybody else who would be manipulative or ridiculous. And I have done a couple of those folks. I have, and I just shut them down. I just shut them down. Like, no, that's not it. And I just let them know.
+
+Dana Skaggs (15:08)
+You have a stance now, you can say, because you're experiencing so much of that and you can say, I know what it's like. And so I know that this is not gonna roll. It's a little.
+
+Katherine (15:18)
+But that's not even it though. It's not even this. So just so you know, like that's not even it because every manifestation is different. So there is no like, just because I know somebody with autism, just because I have bipolar, just because I have obsessive compulsive disorder. Now, there are times I flat out caught people like, oh no, see that's just factually not part of that diagnosis. So either you've been told wrong or you're full of it. But sometimes they've been told wrong. There are a lot of doctors out there that misdiagnosed. But anyway.
+
+Katherine (15:49)
+But that is very rare. Typically, sorry, getting over a flu. Typically what you see is that it's not about I have the right to tell you this. This is the behavior I'm going to accept versus not. And anytime that somebody's being manipulative and anytime that somebody is trying to be controlling, you have the right to stop that. And that doesn't matter even if they have a nerd and there are a couple of mental health. concerns that can cause that type of behavior, it does not matter. You have the right to stop that and to say, no thank you. And the way that you can do that is, and you wanna make sure that you're kind of walking that line is, I'm here to support your needs, but I also need you to be mindful and please not manipulate and please not exude this controlling behavior. So let them know, I'm here to support you, I got you, but we're not gonna be using this manipulation tactic, no thank you to that.
+
+Dana Skaggs (16:48)
+I love, love your explanation of that. That is so helpful because being a psychotherapist and also in relationships personally, I'm kind of a rubber-meets-the-road kind of person. I know how real life plays out and so I love the way you explain that because it's just kind of, I can see, I can imagine that somebody saying that and that being very effective. I want to wrap back real briefly when you were talking about sometimes when people get
+
+Katherine (16:52)
+Thank you. Right. Mm-hmm.
+
+Dana Skaggs (17:16)
+diagnosed, you know, there's that they thought that there was something wrong with them and when they finally get the diagnosis sometimes there's a process. It's not unusual for me to have diagnosed someone for the very first time as an adult with ADHD and they have been struggling so long and they thought they thought there was something off. They thought they were stupid. They thought that they were just they were scatterbrained. They'd been called names. They they try to go through school.
+
+Katherine (17:20)
+Yeah. Oh, yeah. Yes. Mm-hmm. Yeah.
+
+Dana Skaggs (17:44)
+And they couldn't do what their cohorts could do sometimes, and they couldn't process, they couldn't remember, they couldn't do reading comprehension. And so it was like when they were finally diagnosed, I'm like, you know what? It sounds strikingly like you have ADHD, and they just stared at me. They're like, what? And I'm like, let's...
+
+Katherine (17:48)
+Yeah. Yeah! Hehehehe
+
+Dana Skaggs (18:07)
+potentially try some medication and see what it does because the ADHD brain responds very differently to the medication than a non ADHD brain, yes.
+
+Katherine (18:15)
+Yes, yes, very differently. Yes, it does. A lot of people do not realize that. In fact, I had to talk to a woman who was on Facebook and she was talking about her son and how they were going to be dedicating his ADHD with marijuana. And I was like, no, do not do. Just the opposite. Please, God, do not do that to your child for so many reasons. Either a child and that, you know, anyway. But that was a whole other...
+
+Dana Skaggs (18:39)
+No.
+
+Katherine (18:45)
+whole other conversation, but yes, the body responds very differently in folks with ADHD. In fact, a friend of mine and I discussed how she realized after her diagnosis that that's why she behaved certain ways with alcohol, that her body just, and it wasn't like she was bad or awful, but it's just her behavior is very different than most people's. Her bodily response was very different to alcohol. And so it was interesting for her to kind of realize how all of these things played into it.
+
+Katherine (19:15)
+And you're right, it does, it explains so much for people. A lot of times they're like, oh, that's what it is. Like, and it can be a relief. It can be, it can be a source of pain. It can be a source of relief. And it's, I think a lot of it's how the provider gives the information. So when I'm speaking to like doctors, nurses, psychotherapists, et cetera, one of the things I tell them is be sure that when you say it, it's not, it doesn't have the, you have cancer tone.
+
+Dana Skaggs (19:25)
+Yeah. Yes.
+
+Katherine (19:41)
+Okay, like make sure that we're not giving them a death sentence. Okay. Just make sure that you're communicating both sides, the disability aspect and the benefit aspect, right? And make sure that you're talking to them just very practically. And another thing that I encourage people to do is to let them know, remember, this isn't actually new. You have a name for it now, but this is still just you. You are still you. And this is just a part of you. This is not you.
+
+Dana Skaggs (20:08)
+Uh-huh.
+
+Katherine (20:10)
+You are not whatever this diagnosis is. This diagnosis is no different than a finger on your hand. And nobody goes, I am my finger. That's ridiculous. Nobody is going to define themselves by this finger. That'd be very, very odd. So, but you want to embrace this. You want to learn to take care of it, right? You want to work with it, not against it. Like you said, making sure you have the right treatment or medication or whatever it is that you're going to do. And I do believe in all different types of treatment methods, but you should treat. You do need to self-care no matter how you do it. And just embracing all that and taking care of this part of you, but also knowing it's just a part. It does not define you.
+
+Dana Skaggs (20:57)
+I love that. I love it so much. It kind of reminds me and I'll just say this just briefly because I have some other questions for you. When I'm talking to a patient that has OCD and they start going into the well, but I start the, I've got to just the other day when I have to have the ornaments just so on my tree, I was driving me crazy. I have to and I'm like, okay, that's, that's the OCD. We call it the OCD loop. I said, that's, that's the OCD loop.
+
+Katherine (21:21)
+Yeah.
+
+Dana Skaggs (21:23)
+you have a little extra loop in your brain that's doing that OCD loop thing, but I said, that's not who you are, that is something you have to deal with, but that's not who you are as a person. And so then we talk about how do you deal, how do you lean into that and how do you deal with that? Now, I don't want to say, we said a diagnosis earlier that I'm not sure a lot of people know what it is, and I do because I've dealt with people that frequently is coexisting with ADHD, is mesophonia.
+
+Katherine (21:28)
+Mm-hmm. Yeah. That's right. Yeah! Okay. Yes. Yeah, so that's the quirky one.
+
+Dana Skaggs (21:52)
+Would you take a moment and describe? Because I might have a listener that has that and don't even know they have it.
+
+Katherine (21:57)
+So, okay, the way that I, this is not the medical definition. I want to be very clear about this, but this is my definition. Basically, there are certain sounds that make my neuro system malfunction, okay? And this isn't just like, oh, I don't like that sound, that isn't pleasant. It actually changes my neuro pathway. So I will feel sometimes pain or discomfort in certain areas. I get very tense. I get very aggressive in some cases, like way too aggressive for what this sound is doing. It can cause me discomfort. It can cause me to not be able to keep my executive function at a certain level because all of my neuropathias just kind of fire off and it kind of interacts negatively with other things and it's not good. So basically certain sounds and it's different for different people with mesophonia will make me malfunction. What is the most, how do you feel about that definition, first of all?
+
+Dana Skaggs (22:47)
+I love it, I love it. Just keep going. I wanna add something to it in just a minute, but just keep rolling.
+
+Katherine (22:55)
+One of the most prevalent diagnoses out there that has misophonia associated with it that can kind of help people visualize, a lot of people, not all, but a lot of people with autism experience misophonia. And so you'll see that like they wear the noise canceling headphones, which is also noise sensitivity, but also certain sounds will kind of make them like, I don't like that or they'll start tapping or something like that when they hear certain sounds. And that's processing through. the audio malfunction that we're experiencing, but that's what that is. Yeah, and I do have earbuds by the way that accommodate me
+
+Dana Skaggs (23:28)
+That's it. Okay, there is actually, I don't know if you've seen it or not, but there is a woman, a young woman that has some TikTok videos where she is trying to demonstrate. And I watched, I watched these videos a few times to try to figure out whether this was just a bunch of hooey, if she's just making this up or if it's legit, because sometimes we all know, sometimes people get on social media just to get attention grabs and they're making stuff up.
+
+Katherine (23:55)
+Oh yes, oh gosh yes. Oh yeah.
+
+Dana Skaggs (23:57)
+And so I'm like really paying attention because I don't like when people do that. I want someone to be authentic. I want them to be real, right? So, but I've watched her and I believe that she is authentic, but she has, her sound is the styrofoam. When like a styrofoam container that you would put food in from a restaurant, she tries to like move it or open it and her whole body has a...
+
+Katherine (24:03)
+Yes. Yeah, yeah, I can get that
+
+Dana Skaggs (24:23)
+of this or you can watch the visceral response that she has. She can't even, she can't even, I mean she starts gagging and she can't even.
+
+Katherine (24:25)
+Yeah, it's like, nope, can't do that. Yeah. Hehehehehehe. Yeah, that's it. It's a full on neuro response that you have to certain sounds. It's not just not liking it. It's just that like malfunction of like, I can't, I can't do this. One of the sounds for me, and this always makes people giggle is the sound of other people kissing. I'm like, I will actually like, like malfunction, like, nope, nope. I'm like, can't do it. Nope. No, no, no.
+
+Dana Skaggs (24:42)
+can't even. That's not funny. I love it. Stop that!
+
+Katherine (25:01)
+Stop kissing! And I'm not like, in fact, it's so funny because I once had a friend of mine, I was out with some friends of mine who were in the LGBTQIA community and one of the couples that was new to me, they did not know me, started kissing and I started kind of like do it like that and they were gonna say something and my friend goes, nope. It's a neurodiversity. It's not what you're thinking. Like, no, she's not grossed out by you. She's just, it's the sound. She doesn't like the sound. Yeah. But yeah, it's one of those things that she's like, nope, can't do it, can't do it. The sound is bad.
+
+Dana Skaggs (25:25)
+It's just the sound, right? Oh my God. That it's just, it's not funny to experience, but I mean, I'm glad we can kind of joke about it, you know, just, but I, but you pointed out, see, they assume that's why it's important to talk and that's why it's important to have these podcasts and stuff because see, they were assuming and we all assume, right? We all assume stuff. They assumed that when you had that, that kind of reaction that it was because that they were gay or whatever. And that was not.
+
+Katherine (25:38)
+No, it is funny. Like, what? Yes. Yes. Yes. Mm-hmm. Not at all. Not even close. It was the sound. Hehehehe.
+
+Dana Skaggs (26:02)
+the reason why you are reacting with it. It was the sound itself, it was not. And so that's why it's important to talk and say, hey, you know, I'm upset about this. You know, were you reacting this way because we're gay? And they would give you an opportunity to say, no, I don't care about that at all. It's the sound. And so that's why I love the fact that we can encourage people to be open and have transparent conversations and not feel.
+
+Katherine (26:16)
+Like, no! Yes. Yes.
+
+Dana Skaggs (26:26)
+judged and just feel very, hey, this is kind of what's going on with me. And let's talk about it. Let's get it out there. So, okay.
+
+Katherine (26:30)
+Yeah. And let's not assume, like always, always remember that your response has a lot more to do with your experience than it does with that other human, right? Like that we hear that a lot, but that's so very true. So you have to respond in curiosity. Hey, tell me about why that was your response to this, you know? It's the same thing. I want to say that I vehemently support public breastfeeding. I'm fine with it. I have zero complaints about it. But again, the suckling sound is one of those things that
+
+Dana Skaggs (26:45)
+Uh-huh. the sound.
+
+Katherine (26:58)
+And so especially if I'm eating, that's a big no-no for me. And so one time this poor woman, she was sitting behind me in a booth at the other table, and she started breastfeeding and I could hear it. And I was like, oh god, oh no. And I tried moving to the other side and I could still hear it. And I was like, oh no. And so I went over to it and I was so gentle about it. And I was like, I'm so sorry. This is, I have mesophonia. that sound as if there's any way you could sit on that side and I'll sit over there and I'll buy you a dessert. I will, I'm so sorry. And she was so nice to me about it. She was so flippant sweet and I so appreciated her because it was just a, it was also a bad day. A lot of times I can self-regulate. That was an off day. And I was like, okay, I can't get it under control. And she was so sweet and so kind about it, which was very lovely. But now I do just for the record for anyone out there who experiences this that wants to know.
+
+Dana Skaggs (27:32)
+No.
+
+Katherine (27:55)
+I use the Loop earbuds and you can, there's actually one of the versions where you can hear like the conversation that you want to hear but it drowns out the other noise. And that's really, yeah, it's really super helpful. And so yeah, so I highly recommend checking out Loop earbuds. There's other brands as well, but that's just the brand that I use.
+
+Dana Skaggs (28:05)
+Oh, wow. Lovely. Okay, that is amazing. Now, Katherine, you had said that your missions are integrity, innovation, and inclusion. So I want to make sure that you have a platform because we have a few more minutes left for you to really kind of talk about what your missions are. And, you know, several questions, you know, about inclusion and how does mental health fit into the workplace and those type of things. I'd really like for you to have an opportunity to
+
+Katherine (28:20)
+Yeah. Hehehehehehe Yeah. Oh yeah. Yeah, sure. So really and truly, one of the integrity for me, you can't go through life and not have, I don't understand how people go through life and don't have integrity. Whatever your values are need to be, eat, live and breathe at all moment, need to be uncompromisable. There is no compromising of my integrity. And that's one thing I let all my clients know.
+
+Dana Skaggs (28:44)
+Talk about that before we have to wrap up today.
+
+Katherine (29:09)
+anybody who books me to speak, anything like that, like, look, this is it. I was like, look, I'm flexible on so many things, but when it comes to my integrity and markers of ethics, there is no compromise. And so that's the integrity aspect. The innovation I've got, that's the neurodiversity in me. I'm always just thinking of different ways, new ways, the best way. I don't do the, oh, this is how it's always been done. This is, no. Whatever the best way is, that's what we're gonna do. And I love to shake things up and find new ways and find new ways to be helpful as part of inclusion, which rolls into inclusion, right? Inclusion, I think, is a really misunderstood term. You see a lot of pushback against inclusion, which is utterly ridiculous to me because it makes no sense. So, and one of the things I've kind of started saying to people that... has made some light bulbs go off, as I say, inclusion is the ultimate expression of freedom and embrace and embracing of freedom. Because what you're saying is, you get to be you, as long as you're not obviously hurting another human being physically or something. You get to be you. And we will fully embrace that and we will embrace you working as you are living as you are all of this. And I get to do that too. I'm completely different from you. But I get to do that too.
+
+Katherine (30:34)
+And that's what it is. So it's this embracing of freedom. And I don't think that there's anything more beautiful than that and embracing everyone exactly as they are because that's the part that we miss. We get the diversity part, right? We hire all the people or we're friends with all the people or whatever it is. We got that part down. It's the embracing them as they are that we struggle. We're always trying to change people. We want people to be this way. We want people to be that way. Oh, it's not normal for this. Oh, it's not normal for that. All of that is you. That is your normal. That is your healthy. That is your way to do certain things. It is different for every person. And so to just do exactly as my parents, who I think were light years ahead in parenting, just in how they handled me, to do what they did and to give that this is who you are, great, let's steer into it. Just do that. You know, just steer into however people are. Support them being healthy, working in natural ways to them. And by the way, this works. So if you're in the workplace, you could tell your employer that Hewlett Packard started a program that proved that when you embrace people working in ways that are natural to them, that their productivity increases over 30%, that retention goes up. that they released their whole study that innovation goes up, the health of the employees goes up, hiring and so on and so forth and eventually it ultimately increases profits as well. And that's since been duplicated in other companies as well. So if you're in the workplace, just tell people, look, if you support me like this, my productivity is going to go up and here's a study that proves it and just pull up that Hewlett Packard study. It's very easily accessible and just show it to them. It works. So inclusion. to me is about embracing freedom and about embracing people being able to live healthy lives.
+
+Dana Skaggs (32:36)
+I love it. Catherine, I appreciate your time and your experience and transparency and your personality and your diversity and everything. It's just been so wonderful to spend this time with you today and I know my listeners are going to be so they're going to benefit so much from what you what you've said and what you shared. So I know there's going to be listeners out there they're thinking this has been like a little taste. I would like a lot more.
+
+Katherine (32:40)
+Absolutely. Hehe Thank you. Thank you.
+
+Dana Skaggs (33:06)
+of what Catherine McCord has to say. So where do they go? Where do they go to get more of you and more of what you have to share?
+
+Katherine (33:12)
+Reach out. I love to meet people. Come connect with me on LinkedIn. I'm always on LinkedIn. Come connect with me. Reach out. We can talk about whatever's going on with you personally, professionally, whatever. Let's just do it. Let's have a conversation. I also have a speaker website. You can see more of my bios, photos, photos from my life, all of that. In fact, some of that's getting updated today. So that's kaymacordspeaking.com. And then if you ever want me to come speak or teach at your place of business, please do reach out to me I do some pro bono work still So if there's like a charitable organization or anything like that don't hesitate to reach out due to budget constrictions but and then also be aware go to the neuroverse join the neuroverse org so that's join the neuroverse in e you are ove rse org And there are a lot of wonderful resources there around neurodiversity, and we're going to be having some great virtual events coming up. It's a brand new nonprofit that I founded around neurodiversity. And then next year, we're going to have the first ever Neuro Wonderland in August in New York. And so please feel free to follow us to keep track of that and consider coming. It's gonna be an absolute blast.
+
+Dana Skaggs (34:27)
+That's awesome. Now listeners, I will have all of this in the show notes. Now, Catherine, let me ask you ahead Titan management, USA.com. Is that, is that a, still, is that a place that can go or not?
+
+Katherine (34:34)
+Yes. Oh yes, oh yeah, that's my business site. If you want any consulting, if you want me to handle your hiring, if you want to learn more about incorporating true inclusion into your workplace, absolutely. You can go to Titanmanagementusa.com or again, reach out to me directly on LinkedIn, either way.
+
+Dana Skaggs (34:53)
+Okay, fabulous. Catherine, thank you so much. Thank you. So guys, I know without a doubt, unequivocally, that you have heard things today that you're thinking, oh my gosh, this is amazing. And also you might be thinking, hey, I've got a friend or I've got a co worker or I've got a relative who this is right up their alley. They've been experiencing all these things, some of these things that Catherine was talking about.
+
+Katherine (34:57)
+Thank you so much for having me. It's been a pleasure.
+
+Dana Skaggs (35:21)
+I want them to hear this podcast episode. Then put the episode on your favorite social media platforms, copy and paste it in texting, copy and paste the link in emails, get the word out there where we can really reach out in our Phoenix in Flame community and support one another and really include and take this walk together. I hope your day has been great. I hope the rest of it goes fantastically. This is Dana on Phoenix in Flame.
