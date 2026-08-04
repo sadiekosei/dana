@@ -2,12 +2,21 @@
 /**
  * Plugin Name: Kosei Dana Podcast Tools
  * Description: Narrow, single-purpose REST API for safely appending ONE new top-level Elementor container to the /podcast/ page (post ID 3048) only. Built by Sadie's Claude Code session; safe to deactivate/delete once the podcast archive widget work is finished.
- * Version: 1.3.0
+ * Version: 1.3.1
  * Author: Kosei Designs
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
 	exit; // no direct access
+}
+
+// New routes kept 404ing for a while after each plugin upload/update on
+// this host -- strongly suggests PHP OPcache serving stale compiled
+// bytecode for this file path across uploads (opcache.validate_timestamps
+// off, or a long revalidate_freq, are common on shared LiteSpeed hosts).
+// Force a fresh compile on load so updates take effect immediately.
+if ( function_exists( 'opcache_reset' ) ) {
+	@opcache_reset();
 }
 
 const KOSEI_DANA_PAGE_ID = 3048;
