@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Kosei Dana Podcast Tools
  * Description: Narrow, single-purpose REST API for safely appending ONE new top-level Elementor container to the /podcast/ page (post ID 3048) only. Built by Sadie's Claude Code session; safe to deactivate/delete once the podcast archive widget work is finished.
- * Version: 1.8.0
+ * Version: 1.9.0
  * Author: Kosei Designs
  */
 
@@ -80,7 +80,94 @@ add_action( 'rest_api_init', function () {
 		'callback'            => 'kosei_dana_plugin_self_update',
 		'permission_callback' => function () { return current_user_can( 'activate_plugins' ); },
 	) );
+	register_rest_route( 'kosei-dana/v1', '/podcast-page-edit-sections', array(
+		'methods'             => 'POST',
+		'callback'            => 'kosei_dana_edit_sections',
+		'permission_callback' => function () { return current_user_can( 'edit_pages' ); },
+	) );
 } );
+
+// Top-level section surgery for the 2026-08 page redesign (Sadie asked to
+// remove the old local-TV appearances and add a logo strip + guest-show
+// grid). Unlike the earlier append/remove endpoints, this one may target
+// ORIGINAL sections -- but only the single top-level id named explicitly
+// in the request, verified against live data, one operation per call.
+// ops: {"op":"replace","target_id":"...","section":{...}}
+//      {"op":"insert_after","target_id":"...","section":{...}}
+//      {"op":"remove","target_id":"..."}
+function kosei_dana_edit_sections( \WP_REST_Request $req ) {
+	$body = json_decode( $req->get_body(), true );
+	$op   = is_array( $body ) ? ( $body['op'] ?? '' ) : '';
+	$tid  = is_array( $body ) ? ( $body['target_id'] ?? '' ) : '';
+	$sec  = is_array( $body ) ? ( $body['section'] ?? null ) : null;
+	if ( ! in_array( $op, array( 'replace', 'insert_after', 'remove' ), true ) || ! $tid ) {
+		return new \WP_Error( 'bad_body', 'Body must be {"op": "replace|insert_after|remove", "target_id": "<top-level id>", "section": {...}}.', array( 'status' => 400 ) );
+	}
+	if ( in_array( $op, array( 'replace', 'insert_after' ), true ) && ( ! is_array( $sec ) || empty( $sec['id'] ) ) ) {
+		return new \WP_Error( 'bad_body', 'This op requires a "section" element with an id.', array( 'status' => 400 ) );
+	}
+
+	$raw     = get_post_meta( KOSEI_DANA_PAGE_ID, '_elementor_data', true );
+	$decoded = json_decode( is_string( $raw ) ? $raw : '', true );
+	if ( ! is_array( $decoded ) ) {
+		return new \WP_Error( 'bad_data', 'Existing _elementor_data did not decode as an array.', array( 'status' => 500 ) );
+	}
+
+	$idx = null;
+	foreach ( $decoded as $i => $top ) {
+		if ( ( $top['id'] ?? '' ) === $tid ) { $idx = $i; break; }
+	}
+	if ( null === $idx ) {
+		return new \WP_Error( 'not_found', 'No TOP-LEVEL element with that id (nested elements are not valid targets).', array( 'status' => 404 ) );
+	}
+
+	if ( $sec ) {
+		$existing_ids = array();
+		kosei_dana_collect_ids( $decoded, $existing_ids );
+		if ( 'replace' === $op ) {
+			$keep = array();
+			kosei_dana_collect_ids( array( $decoded[ $idx ] ), $keep );
+			$existing_ids = array_diff( $existing_ids, $keep );
+		}
+		$new_ids = array();
+		kosei_dana_collect_ids( array( $sec ), $new_ids );
+		$collisions = array_intersect( $existing_ids, $new_ids );
+		if ( ! empty( $collisions ) ) {
+			return new \WP_Error( 'id_collision', 'Section ids collide with existing ids: ' . implode( ', ', $collisions ), array( 'status' => 409 ) );
+		}
+	}
+
+	$before = count( $decoded );
+	if ( 'replace' === $op ) {
+		$decoded[ $idx ] = $sec;
+	} elseif ( 'insert_after' === $op ) {
+		array_splice( $decoded, $idx + 1, 0, array( $sec ) );
+	} else {
+		array_splice( $decoded, $idx, 1 );
+	}
+
+	update_post_meta( KOSEI_DANA_PAGE_ID, '_elementor_data', wp_slash( wp_json_encode( $decoded ) ) );
+	if ( class_exists( '\Elementor\Core\Files\CSS\Post' ) ) {
+		try {
+			delete_post_meta( KOSEI_DANA_PAGE_ID, '_elementor_css' );
+			\Elementor\Core\Files\CSS\Post::create( KOSEI_DANA_PAGE_ID )->update();
+		} catch ( \Throwable $e ) { /* non-fatal */ }
+	}
+	if ( class_exists( '\Elementor\Plugin' ) ) {
+		\Elementor\Plugin::$instance->files_manager->clear_cache();
+	}
+	do_action( 'litespeed_purge_post', KOSEI_DANA_PAGE_ID );
+	do_action( 'litespeed_purge_all' );
+
+	return new \WP_REST_Response( array(
+		'ok'           => true,
+		'op'           => $op,
+		'target_id'    => $tid,
+		'index'        => $idx,
+		'before_count' => $before,
+		'after_count'  => count( $decoded ),
+	), 200 );
+}
 
 // Replaces this plugin's own file with a new version sent over REST, so
 // updates no longer require a manual zip re-upload in wp-admin (same
