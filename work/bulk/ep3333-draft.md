@@ -35,7 +35,7 @@ Life coach Jennifer Schwytzer on going from people-pleasing poster child to sett
 <li>What burnout actually feels like day to day, and how it's different from depression</li>
 <li>Why she starts every client with "priorities," not "goals"</li>
 <li>The idea behind Kindfulness Coaching: being kind to yourself first, mistakes and all</li>
-<li>How to set a boundary with family without losing the relationship</li>
+<li>The line she draws with family: open to feedback, not to criticism of her choices</li>
 </ul>
 
 <h2>Timestamps</h2>
@@ -47,7 +47,7 @@ Life coach Jennifer Schwytzer on going from people-pleasing poster child to sett
 <li>(09:05) Learning to advocate for yourself, one small realization at a time</li>
 <li>(11:07) The pushback that comes with new boundaries, and the friends she lost</li>
 <li>(14:03) How to tell who your real friends are once you start setting limits</li>
-<li>(17:50) Her husband's one-word answer when she told him she wanted to be a life coach</li>
+<li>(17:50) Her husband's simple "cool, let's do it" when she told him she wanted to be a life coach</li>
 <li>(21:49) Launching Kindfulness Coaching: being kind to yourself first</li>
 <li>(24:52) What burnout actually feels like, day to day</li>
 <li>(29:33) Burnout vs. depression: how to tell the difference</li>
@@ -201,10 +201,7 @@ Yeah, that's a big deal in trying to differentiate those two things. And I think
 Yes, yep, yes, yes, because I think a lot of us feel like we have something to prove, like, I can do this, I can help and do my own job, I can, you know, I don't need to ask for help. All of these things that, as high achievers, we want to be able to prove that we can do this.</p>
 
 <p><strong>[Dana] (31:24)</strong><br>
-All right, now unfortunately our time is up, I feel like, Jen, I feel like you and I could just sit and talk for probably another hour, because this is really good stuff. I mean, because we know as women what it's like, being mothers and what that feels like, and I know a lot of our listeners are right there with us just resonating, going, oh my gosh, they know exactly what we're going through, because we are all together. So let me make sure that my listeners know how to access you, if they want to learn more, if they want to see what you have to offer. Now, what I have is a website called KindfulnessCoaching.com, is that where they go?</p>
-
-<p><strong>[Jennifer Schwytzer] (32:27)</strong><br>
-Okay, KindfulnessCoaching.com, and I will definitely put that in the show notes and everything like that. So before I wrap up, is there any last-minute thoughts that you feel like we didn't cover, or that you want to kind of toss in there before we wrap up today?</p>
+All right, now unfortunately our time is up, I feel like, Jen, I feel like you and I could just sit and talk for probably another hour, because this is really good stuff. I mean, because we know as women what it's like, being mothers and what that feels like, and I know a lot of our listeners are right there with us just resonating, going, oh my gosh, they know exactly what we're going through, because we are all together. So let me make sure that my listeners know how to access you, if they want to learn more, if they want to see what you have to offer. Now, what I have is a website called KindfulnessCoaching.com, is that where they go? Okay, KindfulnessCoaching.com, and I will definitely put that in the show notes and everything like that. So before I wrap up, is there any last-minute thoughts that you feel like we didn't cover, or that you want to kind of toss in there before we wrap up today?</p>
 
 <p><strong>[Jennifer Schwytzer] (32:27)</strong><br>
 Yeah, no, just the overall idea of being kind to yourself, and how important it is to make yourself a priority. You are the person that's going to change where you go. So wherever you want to be, you have the ability to get there, and only you can do that.</p>
@@ -237,7 +234,7 @@ Now listeners, I know beyond a shadow of a doubt that you have heard multiple th
 <li>What burnout actually feels like day to day, and how it's different from depression</li>
 <li>Why she starts every client with "priorities," not "goals"</li>
 <li>The idea behind Kindfulness Coaching: being kind to yourself first</li>
-<li>How to set a boundary with family without losing the relationship</li>
+<li>The line she draws with family: open to feedback, not to criticism of her choices</li>
 </ul>
 
 <p><strong>About Jennifer Schwytzer:</strong> Jennifer is a certified life coach and founder of Kindfulness Coaching, with 17 years of experience as a licensed master social worker. Learn more at <a href="https://kindfulnesscoaching.com">KindfulnessCoaching.com</a>.</p>

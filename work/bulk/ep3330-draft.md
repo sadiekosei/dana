@@ -42,7 +42,7 @@ Author Rachel Lavin on healing body image after 40, ending 30 years of restricti
 <li>(00:05) Welcome and meet Rachel Lavin, author of The Doughnut Diaries</li>
 <li>(01:49) From Jazzercise to Central Park boot camps: Rachel's fitness career</li>
 <li>(03:39) Realizing at 11 that her body was "just different"</li>
-<li>(09:34) The mirror exercise, and why so many of us can't stand to look</li>
+<li>(05:20) The mirror exercise, and why so many of us can't stand to look</li>
 <li>(11:37) The mural analogy: stepping back to see your whole self</li>
 <li>(13:10) The 40th-birthday mirror moment that changed everything</li>
 <li>(16:40) Setting a hard boundary: "My body is none of your business"</li>

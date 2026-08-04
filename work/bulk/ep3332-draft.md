@@ -51,7 +51,7 @@ Motivational speaker Steve Gamlin on losing everything at 35, hitting golf balls
 <li>(17:35) The spelling-bee humiliation at 13 that cost him his confidence for 20 years</li>
 <li>(19:12) Volunteering for the morning radio show he'd never actually been on air for</li>
 <li>(24:01) Discovering The Secret, vision boards, and John Assaraf's three-minute segment</li>
-<li>(25:53) Writing "I am ready to fall in love," and the email from Tina 10 days later</li>
+<li>(24:01) Writing "I am ready to fall in love," and the email from Tina 10 days later</li>
 <li>(30:43) The eight-spoke life wheel, and why physical health impacts everything else</li>
 <li>(34:11) Where to find Steve Gamlin</li>
 </ul>
@@ -63,7 +63,7 @@ Motivational speaker Steve Gamlin on losing everything at 35, hitting golf balls
 <h2>Favorite quotes</h2>
 <blockquote>"I dare you." —Steve Gamlin, holding up his golf club to a thunderstorm</blockquote>
 <blockquote>"You're better than that. And if you don't build yourself up, or at least acknowledge yourself and respect yourself in the mirror, how the hell can you expect anyone else to? You can't." —Steve Gamlin</blockquote>
-<blockquote>"I am ready to fall in love." —Steve Gamlin, written in his journal, June 2007</blockquote>
+<blockquote>"I am ready to fall in love." —Steve Gamlin, written down in the first week of June 2007</blockquote>
 
 <h2>Resources mentioned</h2>
 <ul>

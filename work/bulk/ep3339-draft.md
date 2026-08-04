@@ -19,7 +19,7 @@ Web3 entrepreneur Eric McHugh on setting boundaries without guilt, surviving sta
 
 <p><em>First aired March 10, 2024</em></p>
 
-<p>There's a corner of my unfinished basement with cinder block walls, and if you'd walked down there a while back you'd have found me hurling pieces of hardwood at them, screaming, because I was so angry and so scared that I wanted to bolt. My husband and son were upstairs, eyes big as sausage, telling each other "don't go down to the basement." I'd made myself one promise through all of it: I wouldn't quit.</p>
+<p>There's a corner of my unfinished basement with cinder block walls that has heard some things. Years ago you'd have found me down there hurling pieces of hardwood at them, hollering, because I was so angry and so scared I wanted to bolt on the whole thing. My husband and son stayed upstairs, eyes the size of sausages, whisper-agreeing not to come check on me. Dramatic? Extremely. But I'd made myself one promise through all of it: I wouldn't quit.</p>
 
 <p>That's the kind of entrepreneur boundaries conversation I don't usually get to have on Phoenix in Flame, which is exactly why I wanted Eric McHugh on the show. Eric is a 30-year-old Web3 entrepreneur, president of ShopX, an ecommerce platform that helps Web2 brands move into Web3, and runs Dataing, an AI-powered matchmaking company. He told me flat out: "I've always been good at saying no." No riot, no confrontation, just a clear boundary and a "no, thank you." We get into how he built that muscle, what a decade of failed startup ideas taught him about resilience, and why he thinks "only you know what's best for you."</p>
 
@@ -243,7 +243,7 @@ Listeners, I know you heard something today that you're thinking, "oh my gosh, I
 ## Proposed Libsyn description
 
 ```html
-<p>There's a corner of my unfinished basement with cinder block walls, and if you'd walked down there a while back you'd have found me hurling pieces of hardwood at them, screaming, because I was so angry and so scared that I wanted to bolt. My husband and son were upstairs, eyes big as sausage, telling each other "don't go down to the basement." I'd made myself one promise through all of it: I wouldn't quit.</p>
+<p>There's a corner of my unfinished basement with cinder block walls that has heard some things. Years ago you'd have found me down there hurling pieces of hardwood at them, hollering, because I was so angry and so scared I wanted to bolt on the whole thing. My husband and son stayed upstairs, eyes the size of sausages, whisper-agreeing not to come check on me. Dramatic? Extremely. But I'd made myself one promise through all of it: I wouldn't quit.</p>
 
 <p>That's the kind of entrepreneur boundaries conversation I don't usually get to have on Phoenix in Flame, which is exactly why I wanted Eric McHugh on the show. Eric is a 30-year-old Web3 entrepreneur, president of ShopX, an ecommerce platform that helps Web2 brands move into Web3, and runs Dataing, an AI-powered matchmaking company. He told me flat out: "I've always been good at saying no." No riot, no confrontation, just a clear boundary and a "no, thank you." We get into how he built that muscle, what a decade of failed startup ideas taught him about resilience, and why he thinks "only you know what's best for you."</p>
 
