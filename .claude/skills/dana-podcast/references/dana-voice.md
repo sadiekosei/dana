@@ -49,11 +49,16 @@ descriptions must sound like HER — not like a content agency.
    to discuss..." — that's the agency voice she hired us to kill.
 2. Bullets can keep structure but the phrasing gets her spin — benefit
    plus attitude, not corporate summary.
-3. Never manufacture a personal story she didn't tell. Sass comes from
+3. **Every descriptive claim about a guest must trace to exact
+   transcript wording** (guests share these pages; a mangled detail
+   offends). "Sitting in a cubicle" not "locked in" if that's what was
+   said; keep the guest's own dialect words (e.g. "canteen"). When in
+   doubt, quote rather than paraphrase.
+4. Never manufacture a personal story she didn't tell. Sass comes from
    phrasing and her established metaphors, not invented anecdotes. If
    she told a story IN the episode (it's in the transcript), that's
    fair game and usually the best hook.
-4. SEO still applies (keywords in title, first sentence, excerpt) — the
+5. SEO still applies (keywords in title, first sentence, excerpt) — the
    craft is making the keyword sentence sound like Dana said it.
-5. Guest respect: the sass targets life, overwhelm, and Dana herself —
+6. Guest respect: the sass targets life, overwhelm, and Dana herself —
    never the guest.

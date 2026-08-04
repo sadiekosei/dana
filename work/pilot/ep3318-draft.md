@@ -21,6 +21,9 @@ Yoga teacher Troy Hadeed talks with Dana about church hurt, forgiveness, and Chr
 
 <p>We dig into the difference between "I am God" and "God within me," why "born a sinner" can quietly become a hiding place from responsibility, and Troy's question that will reframe every relationship you have, including the hard ones. Don't ask if it's love. Ask <em>what</em> is being loved.</p>
 
+<h2>Watch this episode</h2>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/2DKgtsFBSyw" title="Troy Hadeed: A Yoga Expert's View on Christ, Religion, and Divine Connection" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 <h2>In this episode</h2>
 <ul>
 <li>How a "punishment" in detention accidentally set a fourteen-year-old on the path to becoming a yoga teacher</li>

@@ -19,6 +19,9 @@ Feeling stuck or burned out? Career coach Sarah JanTausch joins Dana to share th
 
 <p>We compare our "wrong major, wrong job" battle scars and map out how to tell whether you're mismatched or just tired, why a small experiment beats a blind leap of faith, and what you loved before age 10 that's still trying to tell you something.</p>
 
+<h2>Watch this episode</h2>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/xjiLN-1WLKo" title="Signs of a Mismatched Career and How to Make a Change" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 <h2>In this episode</h2>
 <ul>
 <li>How to recognize the signs of a mismatched career &mdash; the stress, exhaustion, and "I just need a break" feeling that mean something deeper is off</li>

@@ -51,6 +51,12 @@ page missing its SEO fundamentals. Per-episode checklist, all mandatory:
    topic ("Why X fails and what to do instead", not "We discuss X").
 4. **Timestamps** — `(MM:SS) Topic` list, built from the transcript.
    Google can surface these as key moments.
+4b. **YouTube embed** — every episode is on Dana's channel
+   (@queenofboundaries; full id|duration|title dump kept per session
+   via yt-dlp --flat-playlist). Insert after the summary, before "In
+   this episode": H2 "Watch this episode" + responsive 16:9 iframe
+   (youtube.com/embed/<id>). Match video by title; verify duration
+   ~= episode length.
 5. **Guest bio + links** (guest episodes): 2–3 sentences, link to their
    site/social. Guest names are search queries — include full name and
    title/company in text, not just in an image.
@@ -61,7 +67,9 @@ page missing its SEO fundamentals. Per-episode checklist, all mandatory:
 8. **Related episodes** — 2–3 internal links to other episodes on the
    topic. With 177 episodes this internal mesh is the cheapest ranking
    win available; add links in BOTH directions.
-9. **CTA** — subscribe links (Apple/Spotify), review ask, newsletter.
+9. **CTA**: subscribe + review ask, link-tree, and Dana's free Work
+   Boundaries Quiz (https://danaskaggs.com/quiz/) written first-person
+   ("Take my free..."). NOT "Book Dana" (Sadie, 2026-08-04).
 10. **Transcript** — full transcript at the bottom, ideally in a
     collapsible block (`<details><summary>Read the full transcript
     </summary>…</details>`). This is the single biggest SEO lever: it
