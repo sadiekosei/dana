@@ -19,7 +19,7 @@ Fitness coach Petar Krastev survived homelessness, a toxic relationship, and bur
 
 <p><em>First aired May 18, 2025</em></p>
 
-<p>Picture this: 22 years old, ten euros in your pocket, and a lock-up garage with no electricity or running water as your new home. That's where fitness coach Petar Krastev started after leaving Bulgaria, forced out by unpaid bills and a toxic relationship he couldn't simply walk away from (there was a two-year-old girl depending on him too). He went to the gym every single day. Not to train, at first. Just for the free showers.</p>
+<p>Ten euros was all fitness coach Petar Krastev had when he left Bulgaria at 22, headed for eighteen months of homelessness in a UK lock-up garage with no electricity or running water. He was fleeing unpaid bills and a toxic relationship he couldn't simply walk away from (there was a two-year-old girl depending on him too). Once he got there, he went to the gym every single day. Not to train, at first. Just for the free showers.</p>
 
 <p>Four years and a broken promise later (he helped heal his ex's health condition, saved enough to buy a car, and she posted a photo with another guy the same day), Petar rebuilt from nothing again, this time chasing entrepreneurship while cycling in and out of his own training. Every time he quit the gym to "focus on the business," his confidence, his self-esteem, and the business itself all cratered within months. At 28, out of options, he prayed. He says everything changed the next day. Now he coaches entrepreneurs and executives on the exact intersection he lived through: fitness, faith, and business, and why you can't fully separate any of the three.</p>
 
@@ -243,7 +243,7 @@ Thank you. Listeners, I know you've heard multiple things today from Peter that 
 ## Proposed Libsyn description
 
 ```html
-<p>Picture this: 22 years old, ten euros in your pocket, and a lock-up garage with no electricity or running water as your new home. That's where fitness coach Petar Krastev started after leaving Bulgaria, forced out by unpaid bills and a toxic relationship he couldn't simply walk away from (there was a two-year-old girl depending on him too). He went to the gym every single day. Not to train, at first. Just for the free showers.</p>
+<p>Ten euros was all fitness coach Petar Krastev had when he left Bulgaria at 22, headed for eighteen months of homelessness in a UK lock-up garage with no electricity or running water. He was fleeing unpaid bills and a toxic relationship he couldn't simply walk away from (there was a two-year-old girl depending on him too). Once he got there, he went to the gym every single day. Not to train, at first. Just for the free showers.</p>
 
 <p>Four years and a broken promise later (he helped heal his ex's health condition, saved enough to buy a car, and she posted a photo with another guy the same day), Petar rebuilt from nothing again, this time chasing entrepreneurship while cycling in and out of his own training. Every time he quit the gym to "focus on the business," his confidence, his self-esteem, and the business itself all cratered within months. At 28, out of options, he prayed. He says everything changed the next day. Now he coaches entrepreneurs and executives on the exact intersection he lived through: fitness, faith, and business, and why you can't fully separate any of the three.</p>
 

@@ -19,9 +19,9 @@ Midlife and burnout coach Jody Brooks shares his breakdown-to-breakthrough story
 
 <p><em>First aired July 26, 2026</em></p>
 
-<p>Picture this: lunchtime at the office. The canteen is buzzing. And my guest is sitting in a restroom cubicle, crying so hard he can barely breathe. No brutal meeting that morning. No disaster. Just the quiet moment his body picked to file its formal complaint: burnout wasn't a "rough patch" anymore, it was a full-body shutdown.</p>
+<p>A midlife crisis isn't actually a crisis. That's the challenge Jody Brooks puts to anyone who's ever felt lost, restless, or quietly convinced something's wrong with them somewhere around 40 or 50: what looks like burnout, and what people love to write off as a freakout, is more often a calling. His own arrived at lunchtime at the office, buzzing canteen and all, when he found himself sitting in a restroom cubicle, crying so hard he could barely breathe. No brutal meeting that morning. No disaster. Just the quiet moment his body picked to file its formal complaint: burnout wasn't a "rough patch" anymore, it was a full-body shutdown.</p>
 
-<p>I've been a therapist for 18 years, and I can tell you: high performers do this. We white-knuckle through "one more day" (and one more, and one more) until the body stops asking politely. Sound familiar? Then you'll want to hear Jody Brooks, a UK-based midlife and burnout coach who once survived 52 flights in eight months of what he calls "jazz hands" performing, on why what we call a midlife crisis usually isn't a crisis at all. It's a calling. And it's asking you to come home to yourself.</p>
+<p>I've been a therapist for 18 years, and I can tell you: high performers do this. We white-knuckle through "one more day" (and one more, and one more) until the body stops asking politely. Sound familiar? Jody is a UK-based midlife and burnout coach who once survived 52 flights in eight months of what he calls "jazz hands" performing, and his calling-not-crisis framework is asking you to come home to yourself.</p>
 
 <p>We get into how to spot the full-body warning signs before you hit your own cubicle moment, how to settle anxiety in the moment it spikes (not three weeks and one forced sabbatical later), and Jody's wonderfully backwards first step for anyone feeling stuck: don't start something new. Start stopping.</p>
 
@@ -206,9 +206,9 @@ Listeners, viewers — my gosh, I know you have heard multiple things today from
 ## Proposed Libsyn description
 
 ```html
-<p>Picture this: lunchtime at the office. The canteen is buzzing. And my guest is sitting in a restroom cubicle, crying so hard he can barely breathe. No brutal meeting that morning. No disaster. Just the quiet moment his body picked to file its formal complaint: burnout wasn't a "rough patch" anymore, it was a full-body shutdown.</p>
+<p>A midlife crisis isn't actually a crisis. That's the challenge Jody Brooks puts to anyone who's ever felt lost, restless, or quietly convinced something's wrong with them somewhere around 40 or 50: what looks like burnout, and what people love to write off as a freakout, is more often a calling. His own arrived at lunchtime at the office, buzzing canteen and all, when he found himself sitting in a restroom cubicle, crying so hard he could barely breathe. No brutal meeting that morning. No disaster. Just the quiet moment his body picked to file its formal complaint: burnout wasn't a "rough patch" anymore, it was a full-body shutdown.</p>
 
-<p>I've been a therapist for 18 years, and I can tell you: high performers do this. We white-knuckle through "one more day" (and one more, and one more) until the body stops asking politely. Sound familiar? Then you'll want to hear Jody Brooks, a UK-based midlife and burnout coach who once survived 52 flights in eight months of what he calls "jazz hands" performing, on why what we call a midlife crisis usually isn't a crisis at all. It's a calling. And it's asking you to come home to yourself.</p>
+<p>I've been a therapist for 18 years, and I can tell you: high performers do this. We white-knuckle through "one more day" (and one more, and one more) until the body stops asking politely. Sound familiar? Jody is a UK-based midlife and burnout coach who once survived 52 flights in eight months of what he calls "jazz hands" performing, and his calling-not-crisis framework is asking you to come home to yourself.</p>
 
 <p>We get into how to spot the full-body warning signs before you hit your own cubicle moment, how to settle anxiety in the moment it spikes (not three weeks and one forced sabbatical later), and Jody's wonderfully backwards first step for anyone feeling stuck: don't start something new. Start stopping.</p>
 

@@ -19,7 +19,7 @@ Stress coach Lolita Guarin on burnout, growing up an adult child of an alcoholic
 
 <p><em>First aired February 25, 2024</em></p>
 
-<p>Picture this: 50-hour work weeks, saying yes to every extra project, terrified of being fired, until one day the stress finally wins and she collapses on her own kitchen floor. That's how burnout showed up for Lolita Guarin after she moved to the US from Lithuania to chase her American dream. She did all the things you're supposed to do: journaling, meditation, yoga, better time management. Her health improved. But something still felt unfinished, and she didn't find out what until she read a book about adult children of alcoholics and thought, wait, that's me.</p>
+<p>50-hour work weeks, saying yes to every extra project, and a constant fear of being fired: that's what burnout looked like for Lolita Guarin, right up until the day the stress finally won and she collapsed on her own kitchen floor. She'd moved to the US from Lithuania to chase her American dream, and she did all the things you're supposed to do: journaling, meditation, yoga, better time management. Her health improved. But something still felt unfinished, and she didn't find out what until she read a book about adult children of alcoholics and thought, wait, that's me.</p>
 
 <p>Lolita is a stress management coach, and in this conversation she explains what "adult child of an alcoholic" (ACOA) really means, and why you don't need a parent who drinks to grow up in a dysfunctional home; any environment where your emotional needs went unmet can leave the same imprint. We talk about self-abandonment (what it actually looks like when you skip the gym because a guru told you to "push through," or when you're still calling your mom for approval in your thirties), and why Lolita insists boundaries with yourself have to come before boundaries with anyone else.</p>
 
@@ -201,7 +201,7 @@ and we're going to have a great future. I hope that you've had a wonderful day, 
 ## Proposed Libsyn description
 
 ```html
-<p>Picture this: 50-hour work weeks, saying yes to every extra project, terrified of being fired, until one day the stress finally wins and she collapses on her own kitchen floor. That's how burnout showed up for Lolita Guarin after she moved to the US from Lithuania to chase her American dream. She did all the things you're supposed to do: journaling, meditation, yoga, better time management. Her health improved. But something still felt unfinished, and she didn't find out what until she read a book about adult children of alcoholics and thought, wait, that's me.</p>
+<p>50-hour work weeks, saying yes to every extra project, and a constant fear of being fired: that's what burnout looked like for Lolita Guarin, right up until the day the stress finally won and she collapsed on her own kitchen floor. She'd moved to the US from Lithuania to chase her American dream, and she did all the things you're supposed to do: journaling, meditation, yoga, better time management. Her health improved. But something still felt unfinished, and she didn't find out what until she read a book about adult children of alcoholics and thought, wait, that's me.</p>
 
 <p>Lolita is a stress management coach, and in this conversation she explains what "adult child of an alcoholic" (ACOA) really means, and why you don't need a parent who drinks to grow up in a dysfunctional home. We talk about self-abandonment, and why Lolita insists boundaries with yourself have to come before boundaries with anyone else.</p>
 
