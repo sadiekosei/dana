@@ -32,7 +32,7 @@ Dave Albin went from planning his own death to becoming Tony Robbins' Firewalk C
 <ul>
 <li>Why Dave says "fear has stolen so much" from him, and how facing it head-on changed the trajectory of his life</li>
 <li>The thousand-year global history of firewalking, and how Tony Robbins brought it to America</li>
-<li>How one AA sponsor's phone call led to 35 years of continuous sobriety this June</li>
+<li>How one call to Alcoholics Anonymous led to 35 years of continuous sobriety this June</li>
 <li>What actually happens physically and mentally when you walk across 1,000-degree coals (and why no one gets burned)</li>
 <li>How to face anxiety and depression when they feel like a gray fog you can't see past</li>
 <li>The moment a young man who'd lost both legs firewalked on his hands, and why Dave says that's when he knew his purpose</li>
@@ -257,7 +257,7 @@ that we know we're not alone. There are other people out there struggling with t
 <ul>
 <li>Why Dave says "fear has stolen so much" from him, and how facing it head-on changed everything</li>
 <li>The thousand-year global history of firewalking, and how Tony Robbins brought it to America</li>
-<li>How one AA sponsor's phone call led to 35 years of continuous sobriety this June</li>
+<li>How one call to Alcoholics Anonymous led to 35 years of continuous sobriety this June</li>
 <li>What actually happens when you walk across 1,000-degree coals (and why no one gets burned)</li>
 <li>How to face anxiety and depression when they feel like a gray fog you can't see past</li>
 <li>The moment a young man who'd lost both legs firewalked on his hands</li>

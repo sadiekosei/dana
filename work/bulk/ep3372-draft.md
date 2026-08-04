@@ -21,7 +21,7 @@ Psychologist Dr. Marie-Hélène Pelletier explains why "winging it" fails leader
 
 <p>Chapter one of my guest's book is called "You're Fabulous and At Risk," and that's basically the resilience plan talk your inner high-achiever needs. Dr. Marie-Hélène Pelletier, a psychologist, executive coach, and author of <em>The Resilience Plan</em>, spends her career telling capable, driven leaders the thing they don't want to hear: being good at your job is not, on its own, a resilience plan.</p>
 
-<p>Marie-Hélène has a doctorate in psychology and an MBA, and she translates between the corporate world and the mental health world for a living. We get into why leaders assume they don't need support because "they're paid to handle it," her winter-driving analogy for why high performers underestimate risk right up until they're stuck in the ditch, and the very concrete difference between hoping you'll be resilient and actually having a plan.</p>
+<p>Marie-Hélène has a doctorate in psychology and an MBA, and she translates between the corporate world and the mental health world for a living. We get into why leaders assume they don't need support because they're paid more and get to make the decisions, her winter-driving analogy for why high performers underestimate risk right up until they're stuck in the ditch, and the very concrete difference between hoping you'll be resilient and actually having a plan.</p>
 
 <p>You'll walk away with a question worth asking before the next demand hits: is your current "I've got this" actually a plan, or just a habit you haven't been tested on yet?</p>
 
@@ -33,7 +33,7 @@ Psychologist Dr. Marie-Hélène Pelletier explains why "winging it" fails leader
 <li>Why "winging it" works right up until it doesn't, and why high-performing leaders are usually the last to notice</li>
 <li>The "You're Fabulous and At Risk" mindset: how competence and burnout risk can both be true at the same time</li>
 <li>Dr. Pelletier's winter-driving analogy for why leaders underestimate demands they're actually unprepared for</li>
-<li>Why leaders assume they don't need support because they're "paid to handle it," and why that's backwards</li>
+<li>Why leaders assume they don't need support because they're paid more and get to make the decisions, and why that's backwards</li>
 <li>How to build a personal resilience plan instead of just hoping you'll cope when the next crisis hits</li>
 <li>Why framing change as energizing instead of threatening starts with having enough margin to absorb it</li>
 </ul>
@@ -283,7 +283,7 @@ Now guys, I know you have heard numerous things in this podcast that MH has said
 ```html
 <p>Chapter one of my guest's book is called "You're Fabulous and At Risk," and that's basically the resilience plan talk your inner high-achiever needs. Dr. Marie-Hélène Pelletier, a psychologist, executive coach, and author of <em>The Resilience Plan</em>, spends her career telling capable, driven leaders the thing they don't want to hear: being good at your job is not, on its own, a resilience plan.</p>
 
-<p>Marie-Hélène has a doctorate in psychology and an MBA, and she translates between the corporate world and the mental health world for a living. We get into why leaders assume they don't need support because "they're paid to handle it," her winter-driving analogy for why high performers underestimate risk right up until they're stuck in the ditch, and the very concrete difference between hoping you'll be resilient and actually having a plan.</p>
+<p>Marie-Hélène has a doctorate in psychology and an MBA, and she translates between the corporate world and the mental health world for a living. We get into why leaders assume they don't need support because they're paid more and get to make the decisions, her winter-driving analogy for why high performers underestimate risk right up until they're stuck in the ditch, and the very concrete difference between hoping you'll be resilient and actually having a plan.</p>
 
 <p>You'll walk away with a question worth asking before the next demand hits: is your current "I've got this" actually a plan, or just a habit you haven't been tested on yet?</p>
 
@@ -292,7 +292,7 @@ Now guys, I know you have heard numerous things in this podcast that MH has said
 <li>Why "winging it" works right up until it doesn't</li>
 <li>The "You're Fabulous and At Risk" mindset: how competence and burnout risk can both be true at once</li>
 <li>Dr. Pelletier's winter-driving analogy for underestimating demands you're actually unprepared for</li>
-<li>Why leaders assume they don't need support because they're "paid to handle it"</li>
+<li>Why leaders assume they don't need support because they're paid more and get to make the decisions</li>
 <li>How to build a personal resilience plan instead of just hoping you'll cope</li>
 </ul>
 
