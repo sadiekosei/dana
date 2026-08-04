@@ -1,0 +1,33 @@
+CLAIM-FIXED: Opening hook ("My guest today told me she checks up the stairs on her sleeping husband...") and the matching Libsyn description sentence asserted a specific physical detail — "checks up the stairs" — not supported by the transcript. Transcript only has "I'd go up and check like, are you breathing or did you die" (12:22), with no mention of stairs in that context; the only staircase reference in the transcript is Darlene's own accident ("I missed the last few steps of our staircase and broke my foot," 13:21), an unrelated event. The draft had conflated the two into an invented visual. Fixed to "goes to check on her sleeping husband to make sure he's still breathing" in both places, which is fully supported.
+
+=== DETAILED LIABILITY REVIEW (per instructions) ===
+
+(1) Full transcript read directly from /home/user/dana/transcripts/ep3351-darlenegreene.txt (209 lines) and cross-checked against the draft's embedded transcript — they match (only NOISE-tag/filler cleanup differs, which is expected). Every specific medical/health claim the guest makes about the wellness patch, found in the transcript:
+ - IV stem cells in Mexico, $10,000/infusion, "no noticeable effect or improvement" (her own words — a negative result)
+ - Hyperbaric chamber, $150/hr, 3x/week
+ - Bredesen protocol (diet regimen)
+ - Mold remediation ("mold can look like dementia")
+ - A "particular vaccination" partly caused Jim's rapid decline; "several doctors" allegedly called it "turbo Alzheimer's" (unnamed doctors, unverifiable)
+ - Patch "activates your own stem cells"
+ - Patch improved Jim's deep sleep (15 min -> 1hr25min), restored personality/speech, dropped his blood pressure 37 points, restored ability to whistle/drum, restored sense of smell after 15 years
+ - Patch relieved Darlene's pain "better than Vicodin, better than Percocet," within a minute
+ - Patch resolved headaches, rosacea, weight, sugar cravings for Darlene
+ - "People that start these patches... no longer need their thyroid medicine... blood pressure medicine... cholesterol medicine... they actually no longer have cancer. They no longer have osteoporosis." (direct disease-reversal claim)
+ - Claim of "90 clinical studies," "double-blind placebo-controlled studies"
+ - Copper peptide GHK-Cu claims: "50 years of research," proven to increase stem cell activity, improve brain/nerve/heart function, "resets programmed cell death of cancer cells... repairs damaged DNA, and resets 84 genes to protect against cancer" (the specific cancer/gene-reset claim)
+ - EEG studies claimed to show nerve regeneration, lower anxiety, less brain inflammation, improved memory/cognition, help with PTSD/ADHD (people "no longer knew their ADHD medicine")
+ - "Cardiovascular system becomes eight weeks younger" every six weeks of patch use
+ - Big Pharma/media/government conspiracy suppressing the technology
+ - Celebrity/athlete users named: Serena Williams, David Beckham, Michael Phelps, Tom Brady, Kansas City Chiefs, 300+ Olympic athletes (2008)
+ - Bald men regrowing hair
+ - A paralyzed dog walking again three days after starting the patch
+ - "Nothing that won't help," money-back guarantee
+ - Her own FTC-style disclaimer, stated on air: "our products are not intended to cure, treat, diagnose, or prevent disease... We are not a medicine. There is no medicine, it's light therapy."
+
+(2) Checked every editorial section (excerpt, all three summary paragraphs, all six "In this episode" bullets, all twelve timestamp labels, About Darlene Greene, all three Favorite quotes, Resources mentioned) line by line against the claim list above. NONE of the specific claims — cancer reversal/no-longer-having-cancer, the 84-gene reset, the vaccine-causation claim, "turbo Alzheimer's," the disease-cure list (thyroid/BP/cholesterol/osteoporosis), the celebrity list, the paralyzed dog, bald-men-regrowing-hair, the "90 clinical studies"/EEG claims, or the Big Pharma conspiracy — appear anywhere in editorial, verbatim or paraphrased. The editorial only ever names treatment categories tried (IV stem cells, hyperbaric chamber, Bredesen protocol, mold remediation, "wellness patch technology") without repeating what any of them supposedly did medically, beyond Darlene's own personal experience described in vague non-clinical terms (energy, sleep, mood) — and even those are only in the bullets/timestamps, not asserted as fact by the writer. CONFIRMED ABSENT from all editorial sections.
+
+(3) Dana's on-air skepticism/pushback is explicitly surfaced, not just implied: summary paragraph 2 states outright "I push back where I think a listener should, because I never want this podcast to sound like a commercial," and timestamp (20:51) is dedicated to it: "Dana pauses the conversation: 'I don't want my podcast to sound like a commercial'" (verified verbatim against transcript 26:09). The piece frames the patch segment as something the host interrupted and questioned, not something she endorses. CONFIRMED: skepticism is reflected in editorial; piece does not read as an endorsement.
+
+(4) Financial-interest disclosure: the transcript itself contains Darlene's own disclosure of a wholesale/referral arrangement — "from the moment that I actually purchased my first set of patches, you can purchase wholesale... and so with that wholesale kit came sort of a brand partnership so that I could have mom and dad buy patches or my sister buy patches... that could help me pay for my patches" (26:52-28:18). She frames it as informal ("it's not my day job") but the mechanics of a referral-subsidized purchase are stated on air. The original content_raw does NOT mention this financial angle at all (it only says she "introduces a technology that activated her own stem cells"). The draft's About section discloses this at a summary level ("now also works with a wellness patch technology, offering free consultations to listeners") and the WordPress-content hook paragraph states plainly that it's "a wellness patch technology she now sells" — so the financial relationship is acknowledged in the piece, though the draft does not spell out the wholesale/referral-subsidy mechanics in full. Given this is disclosed by the guest herself on air and lightly reflected in editorial (not hidden), and per instructions to fix unsupported claims rather than add new editorializing, no further change made here — flagging as reviewed and adequate rather than silent.
+
+No em-dash mechanics issues, no target/rel issues, no invented URLs (iamreverseaging.com matches content_raw exactly in all four uses).

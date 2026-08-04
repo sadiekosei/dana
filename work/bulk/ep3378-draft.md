@@ -19,7 +19,7 @@ Boundaries coach Barb Nangle on healing relational trauma through 12-step recove
 
 <p><em>First aired August 24, 2025</em></p>
 
-<p>My guest let a homeless man from her church move into her house during a snowstorm because she thought it was a sign from God that she should be a good person. A few weeks later, that man was practically living with her, and she felt trapped in her own home. That's the moment Barb Nangle hit what she calls her "codependent bottom" in 2015, at 52 years old, after decades of therapy and self-help work that had never once given her the word she actually needed: codependent. What followed was a crash course in relational trauma, the kind that doesn't come from one explosive event but from years of quiet, ongoing emotional invalidation.</p>
+<p>My guest became friends with a homeless man from her church and took it as a sign from God, confirmation that her volunteer work with homeless people was on the right track. A few months later, during a snowstorm, she invited him to stay in her home instead of a shelter, because, she says, "I'm a nice person, that's why I do this." A few weeks later, that man was practically living with her, and she felt trapped in her own home. That's the moment Barb Nangle hit what she calls her "codependent bottom" in 2015, at 52 years old, after decades of therapy and self-help work that had never once given her the word she actually needed: codependent. What followed was a crash course in relational trauma, the kind that doesn't come from one explosive event but from years of quiet, ongoing emotional invalidation.</p>
 
 <p>Barb is a boundaries coach, speaker, and the founder and CEO of Higher Power Coaching and Consulting, and she hosts the podcast "Fragmented to Whole: Life Lessons from 12 Step Recovery." She walks me through the haphazard, meandering path that took her from a church parking lot to Codependents Anonymous to Adult Children of Alcoholics, and how nine and a half years of 12-step recovery quietly taught her to build boundaries before she even had the word for what she was doing.</p>
 
@@ -31,7 +31,7 @@ Boundaries coach Barb Nangle on healing relational trauma through 12-step recove
 <h2>In this episode</h2>
 <ul>
 <li>Why relational trauma can look like a quiet "drip, drip, drip" of emotional invalidation, not one big explosive event</li>
-<li>The difference between codependency and simple dependency, and why the two get confused</li>
+<li>Why relational trauma doesn't require physical abuse to be real, and how comparing your pain to someone else's can retraumatize you</li>
 <li>The three dysfunctional family rules: don't talk, don't trust, don't feel</li>
 <li>Why healthy boundaries start with naming your top five values, not with confrontation</li>
 <li>How to hold a boundary calmly instead of waiting until you explode</li>
@@ -42,10 +42,10 @@ Boundaries coach Barb Nangle on healing relational trauma through 12-step recove
 <ul>
 <li>(00:01) Welcome and guest intro: meet Barb Nangle, boundaries coach and founder of Higher Power Coaching</li>
 <li>(01:00) Hitting a "codependent bottom" in 2015, and a homeless man named Dan</li>
-<li>(04:10) The ACA meeting: "we reparent ourselves"</li>
-<li>(07:56) Unpacking codependency, and why it's not the same as dependency</li>
+<li>(01:54) The ACA meeting: "we reparent ourselves"</li>
+<li>(08:51) Why relational trauma doesn't require physical abuse: "you've experienced 100% of your trauma and 0% of other people's"</li>
 <li>(11:45) Why the person who sets the boundary gets attacked in dysfunctional families</li>
-<li>(16:59) "Denial is the glue that holds dysfunctional families together"</li>
+<li>(16:06) "Denial is the glue that holds dysfunctional families together"</li>
 <li>(18:31) How 12-step recovery accidentally taught Barb to build boundaries</li>
 <li>(22:23) Practical boundary examples: bedtime, smoking, weekend emails</li>
 <li>(24:52) What to do when someone pushes back on a new boundary</li>
@@ -213,7 +213,7 @@ So fun. Guys, I know you have heard multiple things in this podcast that you're 
 ## Proposed Libsyn description
 
 ```html
-<p>My guest let a homeless man from her church move into her house during a snowstorm because she thought it was a sign from God that she should be a good person. A few weeks later, that man was practically living with her, and she felt trapped in her own home. That's the moment Barb Nangle hit what she calls her "codependent bottom" in 2015, at 52 years old, after decades of therapy and self-help work that had never once given her the word she actually needed: codependent. What followed was a crash course in relational trauma, the kind that doesn't come from one explosive event but from years of quiet, ongoing emotional invalidation.</p>
+<p>My guest became friends with a homeless man from her church and took it as a sign from God, confirmation that her volunteer work with homeless people was on the right track. A few months later, during a snowstorm, she invited him to stay in her home instead of a shelter, because, she says, "I'm a nice person, that's why I do this." A few weeks later, that man was practically living with her, and she felt trapped in her own home. That's the moment Barb Nangle hit what she calls her "codependent bottom" in 2015, at 52 years old, after decades of therapy and self-help work that had never once given her the word she actually needed: codependent. What followed was a crash course in relational trauma, the kind that doesn't come from one explosive event but from years of quiet, ongoing emotional invalidation.</p>
 
 <p>Barb is a boundaries coach, speaker, and the founder and CEO of Higher Power Coaching and Consulting, and she hosts the podcast "Fragmented to Whole: Life Lessons from 12 Step Recovery." She walks me through the haphazard, meandering path that took her from a church parking lot to Codependents Anonymous to Adult Children of Alcoholics, and how nine and a half years of 12-step recovery quietly taught her to build boundaries before she even had the word for what she was doing.</p>
 
@@ -222,7 +222,7 @@ So fun. Guys, I know you have heard multiple things in this podcast that you're 
 <p><strong>In this episode:</strong></p>
 <ul>
 <li>Why relational trauma can look like a quiet "drip, drip, drip" of emotional invalidation</li>
-<li>The difference between codependency and simple dependency</li>
+<li>Why relational trauma doesn't require physical abuse to be real</li>
 <li>The three dysfunctional family rules: don't talk, don't trust, don't feel</li>
 <li>Why healthy boundaries start with naming your top five values</li>
 <li>How to hold a boundary calmly instead of waiting until you explode</li>

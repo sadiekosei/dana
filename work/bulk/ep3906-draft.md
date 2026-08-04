@@ -62,7 +62,7 @@ Self-leadership expert Mandi Pratt discovered her ex was an FBI-wanted bank robb
 <h2>Favorite quotes</h2>
 <blockquote>"Even with unhealthy relationships, a lot of times we will get those intuition alarm bells going off. But a lot of times we rationalize it." —Mandi Pratt</blockquote>
 <blockquote>"You don't have to keep living that way. You don't have to keep hustle, hustle, hustle. Your nervous system can't take that anymore." —Mandi Pratt</blockquote>
-<blockquote>"Just validating [someone], that sounds so hard and I am so sorry that you're going through that. I hear you." —Mandi Pratt, on what actually helps someone in crisis</blockquote>
+<blockquote>"If you just validate, that sounds so hard, and I am so sorry that you're going through that. I hear you." —Mandi Pratt, on what actually helps someone in crisis</blockquote>
 
 <h2>Resources mentioned</h2>
 <ul>

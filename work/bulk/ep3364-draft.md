@@ -60,7 +60,7 @@ Marni Battista broke her sacrum in seven places, spent 12 weeks flat on her back
 <h2>Favorite quotes</h2>
 <blockquote>"You have broken your sacrum because that is the foundation, and you have built your foundation of your life on doing and producing, and you have completely disconnected the emotional part of yourself. This is the universe saying it's time to rebuild." —the guide Marni consulted, as recounted by Marni Battista</blockquote>
 <blockquote>"I had made my safety and security, my home, completely external. And the journey I then needed to go on was: how do I create home inside of myself, so that no matter where I go, no matter what the circumstances, no matter what's happening, I feel safe and I know that I am who I am and that I'm okay." —Marni Battista</blockquote>
-<blockquote>"There is literally nothing out there for a map or a guide of how do you actually recreate, redesign, rewrite your next chapter so that you're still living life in a way that is meaningful." —Marni Battista</blockquote>
+<blockquote>"There was literally nothing out there for a map or a guide of how do you actually recreate, redesign, rewrite your next chapter so that you're still living life in a way that is meaningful." —Marni Battista</blockquote>
 
 <h2>Resources mentioned</h2>
 <ul>
