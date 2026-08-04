@@ -48,8 +48,8 @@ Neurodiversity advocate Khushboo Chabria on her late ADHD diagnosis, why "compas
 <li>(14:38) The manager who said, "I don't want you to keep trying to prove you can do all the things"</li>
 <li>(16:27) Common misconceptions about neurodivergent behavior at work</li>
 <li>(17:25) From lenses of judgment to lenses of "compassionate curiosity"</li>
-<li>(23:52) How to advocate for yourself in a workplace that isn't working for you</li>
-<li>(29:41) Finding community, and the book "Neurodiversity for Dummies"</li>
+<li>(23:52) How to advocate for yourself in a workplace that isn't working for you, and the book "Neurodiversity for Dummies"</li>
+<li>(29:41) Finding community, and advocacy groups like ASAN</li>
 <li>(32:38) Where to find Neurodiversity Pathways at Goodwill of Silicon Valley</li>
 </ul>
 

@@ -32,7 +32,7 @@ Nutrition coach Shelley Loving shares how to heal your relationship with food: t
 <ul>
 <li>Why punishing yourself with food never actually works, and what to do instead of restriction</li>
 <li>The 80-20 rule for enjoying treats without guilt or shame</li>
-<li>How a little Sunday planning (Shelley's version of laying out your outfits for the week) saves time, money, and stress at the grocery store</li>
+<li>How a little Sunday planning (like laying out your outfits for the week) saves time, money, and stress at the grocery store</li>
 <li>Why you should read the ingredient list instead of the nutrition facts panel</li>
 <li>What chronic inflammation actually is, and why it's the root of most disease</li>
 <li>Three baby steps for anyone who feels too overwhelmed to change how they eat</li>

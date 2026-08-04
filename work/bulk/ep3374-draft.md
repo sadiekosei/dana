@@ -42,7 +42,7 @@ Coach Arnold Beekes explains how conditioning traps us in other people's expecta
 <ul>
 <li>(21:47) Welcome and meet coach Arnold Beekes (after a couple of technical restarts)</li>
 <li>(22:21) Growing up with "my father's will was the law"</li>
-<li>(23:36) "I was conditioned to live someone else's life"</li>
+<li>(23:36) The bio line that stuck with Dana: "conditioned to live someone else's life"</li>
 <li>(26:16) The coaching question that stopped him cold: "Arnold, what do you want?"</li>
 <li>(28:11) Living your own life versus conforming for safety and approval</li>
 <li>(29:33) The puppy-raised-as-a-cat analogy</li>
@@ -59,7 +59,7 @@ Coach Arnold Beekes explains how conditioning traps us in other people's expecta
 <p>Learn more at <a href="https://braingym.fitness/" target="_blank" rel="noopener">Arnold's website</a>, or connect with him on <a href="https://www.linkedin.com/in/arnoldbeekes/" target="_blank" rel="noopener">LinkedIn</a>.</p>
 
 <h2>Favorite quotes</h2>
-<blockquote>"By the time most people are 25, the only thing what you have learned is meeting expectations of other people." —Arnold Beekes</blockquote>
+<blockquote>"By the time most people, when you're 25, the only thing what you have learned is meeting expectations of other people." —Arnold Beekes</blockquote>
 <blockquote>"Just because I'm living my own life doesn't mean I'm a rebel." —Arnold Beekes</blockquote>
 <blockquote>"Every person in this world is totally unique." —Arnold Beekes</blockquote>
 
@@ -413,7 +413,7 @@ Listeners, I know you've heard Arnold say numerous things today that you're thin
 
 <p><strong>About Arnold Beekes:</strong> Arnold helps people move from fitting in to flying out. After 20 years in technology and organizational leadership and 20 more in psychology and personal leadership, he now coaches people through what he calls the art of unconditioning. Learn more at <a href="https://braingym.fitness/">braingym.fitness</a> or connect with him on <a href="https://www.linkedin.com/in/arnoldbeekes/">LinkedIn</a>.</p>
 
-<p><strong>Favorite quote:</strong> "By the time most people are 25, the only thing what you have learned is meeting expectations of other people." —Arnold Beekes</p>
+<p><strong>Favorite quote:</strong> "By the time most people, when you're 25, the only thing what you have learned is meeting expectations of other people." —Arnold Beekes</p>
 
 <p><strong>Resources mentioned:</strong></p>
 <ul>

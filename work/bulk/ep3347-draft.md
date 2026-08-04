@@ -21,7 +21,7 @@ The Woman School founder January Donovan on why so many women don't know their o
 
 <p>At 16, my guest today got pregnant while trying to draw a boundary with a boyfriend she didn't even want to be with. She didn't know how to say no, so she said yes instead, and ended up carrying a secret she told no one about for years. That's the "ash pile" January Donovan built her entire career out of: not knowing her own self-worth, and suffering for it in silence. Today she's the founder of The Woman School, a two-time bestselling author, and a coach with 25 years of experience helping women figure out exactly what she didn't have anyone to teach her.</p>
 
-<p>January's whole thesis is that women aren't struggling because we're weak, we're struggling because we're untrained. She splits her work into mindset and skillset for a reason: you can say all the affirmations you want, but if you don't also know how to build a routine, say no to social media, or communicate a boundary out loud, the affirmation falls flat every time. We get into why she thinks 95% of your self-worth is running on subconscious autopilot, why women make roughly 35,000 decisions a day and end up drowning in decision fatigue, and how to raise disciplined kids without feeling like you're "stifling their spirit."</p>
+<p>January's whole thesis is that women aren't struggling because we're weak, we're struggling because we're untrained. She splits her work into mindset and skillset for a reason: you can say all the affirmations you want, but if you don't also know how to build a routine, say no to social media, or communicate a boundary out loud, the affirmation falls flat every time. We get into why she thinks 95% of your self-worth is running on subconscious autopilot, why women make roughly 35,000 decisions a day and end up drowning in decision fatigue, and how to raise disciplined kids without feeling like you're "stifling their spirits."</p>
 
 <p>January is also a mom of eight who gets up before 4:30 every morning, so when she talks about protecting your own worth without losing your family in the process, she's not talking theory.</p>
 
@@ -34,7 +34,7 @@ The Woman School founder January Donovan on why so many women don't know their o
 <li>The pregnancy at 16 she kept secret for years, and what it taught her about worth not being conditional</li>
 <li>The difference between mindset and skillset work, and why affirmations alone don't change behavior</li>
 <li>Why women make roughly 35,000 decisions a day, and how that decision fatigue quietly wrecks a home</li>
-<li>How to teach kids discipline without believing you're "stifling their spirit"</li>
+<li>How to teach kids discipline without believing you're "stifling their spirits"</li>
 <li>Her take on keeping intimacy alive in a long relationship when life keeps pulling you in every other direction</li>
 </ul>
 
@@ -272,7 +272,7 @@ This is fabulous. Listeners, I know that you have heard so many things today tha
 ```html
 <p>At 16, my guest today got pregnant while trying to draw a boundary with a boyfriend she didn't even want to be with. She didn't know how to say no, so she said yes instead, and ended up carrying a secret she told no one about for years. That's the "ash pile" January Donovan built her entire career out of: not knowing her own self-worth, and suffering for it in silence. Today she's the founder of The Woman School, a two-time bestselling author, and a coach with 25 years of experience helping women figure out exactly what she didn't have anyone to teach her.</p>
 
-<p>January's whole thesis is that women aren't struggling because we're weak, we're struggling because we're untrained. She splits her work into mindset and skillset for a reason: you can say all the affirmations you want, but if you don't also know how to build a routine, say no to social media, or communicate a boundary out loud, the affirmation falls flat every time. We get into why she thinks 95% of your self-worth is running on subconscious autopilot, why women make roughly 35,000 decisions a day and end up drowning in decision fatigue, and how to raise disciplined kids without feeling like you're "stifling their spirit."</p>
+<p>January's whole thesis is that women aren't struggling because we're weak, we're struggling because we're untrained. She splits her work into mindset and skillset for a reason: you can say all the affirmations you want, but if you don't also know how to build a routine, say no to social media, or communicate a boundary out loud, the affirmation falls flat every time. We get into why she thinks 95% of your self-worth is running on subconscious autopilot, why women make roughly 35,000 decisions a day and end up drowning in decision fatigue, and how to raise disciplined kids without feeling like you're "stifling their spirits."</p>
 
 <p>January is also a mom of eight who gets up before 4:30 every morning, so when she talks about protecting your own worth without losing your family in the process, she's not talking theory.</p>
 

@@ -58,7 +58,7 @@ Pediatrician Dr. Alison Escalante on the ShouldStorm behind parenting anxiety, a
 <h2>Favorite quotes</h2>
 <blockquote>"What do you do if your emotions are on fire from the should storm? You sigh, see, and start." —Dr. Alison Escalante</blockquote>
 <blockquote>"Even a few seconds of mindfulness, so these micro moments of mindfulness, are incredibly powerful, and can be as effective as a full hour of meditating." —Dr. Alison Escalante</blockquote>
-<blockquote>"I don't think that telling people to accept doesn't help. We need action steps that teach us how that works." —Dr. Alison Escalante</blockquote>
+<blockquote>"I think telling people to accept doesn't help. We need action steps that teach us how that works." —Dr. Alison Escalante</blockquote>
 
 <h2>Resources mentioned</h2>
 <ul>

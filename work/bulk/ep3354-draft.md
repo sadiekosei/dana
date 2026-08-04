@@ -6,7 +6,9 @@ How to Set Digital Boundaries and Reclaim Creativity
 
 ## Proposed excerpt (meta description)
 
-Marketing expert Emanuel Rose on setting digital boundaries, unplugging a full week every month, and using nature to access real creativity.
+Marketing expert Emanuel Rose on setting digital boundaries, unplugging one full week every month, and using time in nature to reclaim real creativity.
+
+(151 characters.)
 
 ## Proposed WordPress content
 

@@ -8,7 +8,7 @@ Walking Away From Big Law Success (with Danielle Sunberg)
 
 ## Proposed excerpt (meta description)
 
-Former Big Law attorney Danielle Sunberg on quitting law after winning a $6 billion trial, career burnout, and finding alignment after chasing success.
+Former Big Law attorney Danielle Sunberg on quitting after winning a trial against a $6 billion judgment, career burnout, and finding alignment.
 
 (151 characters.)
 

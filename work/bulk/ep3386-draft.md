@@ -21,7 +21,7 @@ Corporate executive Heather Powers explains why working moms joke they need a wi
 
 <p>"We want a wife too." That's the joke Heather Powers and her girlfriends at work used to make: someone at home scheduling the appointments, running to the dry cleaners, keeping the household Tetris moving so they could focus at the office. Heather has spent almost 19 years as a working mom in Washington, D.C. management consulting, and during the pandemic she found herself sitting with three schedules at once (hers, her son's, her daughter's), making sure everybody logged on to virtual school at the right time. That's when it crystallized for her: the traditional 9-to-5 wasn't built for the way most families actually run.</p>
 
-<p>Heather grew up the daughter of a construction worker and a teacher in rural New Hampshire, moved to D.C. for what she calls "this mythical thing" called corporate life, and climbed to an executive role at one of the largest management consulting firms in the country, all while raising two kids. She's since founded The Power Lane, a consultancy that helps organizations and individuals accelerate toward their goals, and written a book by the same name making the business case for why working mothers are exactly who companies need right now.</p>
+<p>Heather grew up the daughter of a construction worker and a teacher in rural New Hampshire, moved to D.C. for what she calls "this mythical thing" called corporate life, and climbed to an executive role at one of the large management consulting firms, all while raising two kids. She's since founded The Power Lane, a consultancy that helps organizations and individuals accelerate toward their goals, and written a book by the same name making the business case for why working mothers are exactly who companies need right now.</p>
 
 <p>We get into the corporate return-to-office fight Heather helped win for flexible work, why she thinks negotiating with a toddler prepares you for anything a boardroom can throw at you, and the very specific way she wants you to start asking for what you actually need at work.</p>
 
@@ -54,7 +54,7 @@ Corporate executive Heather Powers explains why working moms joke they need a wi
 </ul>
 
 <h2>About Heather Powers</h2>
-<p>Heather Powers is the founder and CEO of The Power Lane, a consultancy that guides organizations and individuals to accelerate toward their business and revenue goals. After almost 19 years as a working mother in Washington, D.C. management consulting, including time as an executive at one of the largest firms in the industry, she now writes and speaks on building workplaces that actually work for working parents. She's the author of the book <em>The Power Lane</em>.</p>
+<p>Heather Powers is the founder and CEO of The Power Lane, a consultancy that guides organizations and individuals to accelerate toward their business and revenue goals. After almost 19 years as a working mother in Washington, D.C. management consulting, including time as an executive at one of the large firms in the industry, she now writes and speaks on building workplaces that actually work for working parents. She's the author of the book <em>The Power Lane</em>.</p>
 <p>Learn more at <a href="https://www.heatherlanepowers.com/book" target="_blank" rel="noopener">Heather's website</a>, or connect with her on <a href="https://www.linkedin.com/in/heather-l-powers/" target="_blank" rel="noopener">LinkedIn</a>.</p>
 
 <h2>Favorite quotes</h2>
@@ -271,7 +271,7 @@ You can connect on LinkedIn or direct message her, send her an inquiry through t
 Thank you. I learned so much from these conversations, so it's a little selfish.</p>
 
 <p><strong>[Dana] (32:06)</strong><br>
-Oh my gosh. And you bring a good point. We're just, helping one another. We are all helping one another. We're all on this journey. Thank you for spending your time and your energy and your effort to come here on Feeding Some Flame with me and my listeners and helping us. Thank you very much. Listeners, I know you have heard multiple things that Heather said today that you're thinking, oh my gosh, I have...</p>
+Oh my gosh. And you bring a good point. We're just, helping one another. We are all helping one another. We're all on this journey. Thank you for spending your time and your energy and your effort to come here on Phoenix and Flame with me and my listeners and helping us. Thank you very much. Listeners, I know you have heard multiple things that Heather said today that you're thinking, oh my gosh, I have...</p>
 
 <p><strong>[Heather] (32:25)</strong><br>
 Thank you, I really appreciate it.</p>

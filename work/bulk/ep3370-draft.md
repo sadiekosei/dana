@@ -21,7 +21,7 @@ Happiness coach Yvonne Trost explains how to break free from limiting beliefs, q
 
 <p>Limiting beliefs are the invisible walls we build before we're even old enough to know we're building them, and my guest, happiness coach Yvonne Trost, found hers out the hard way: in an actual apartment fire that took everything she owned.</p>
 
-<p>Yvonne is the co-founder of Limitless You, and she's lived the both/and of coaching: a devastating apartment fire, a marriage that turned mentally and physically abusive until her seven-year-old asked if she could get him a new daddy, and a corporate career that paid the bills and drained her soul. She walks us through her three-step framework (realize, recode, rewrite), the neuroscience behind why your imagination beats logic every time, and why she rewrote Einstein's equation for her clients: mindful thinking, raised to the power of compassion and curiosity.</p>
+<p>Yvonne is the co-founder of Limitless You, and she's lived the both/and of coaching: a devastating apartment fire, a marriage that turned mentally and physically abusive until her seven-year-old asked her to get a new daddy, and a corporate career that paid the bills and drained her soul. She walks us through her three-step framework (realize, recode, rewrite), the neuroscience behind why your imagination beats logic every time, and why she rewrote Einstein's equation for her clients: mindful thinking, raised to the power of compassion and curiosity.</p>
 
 <p>You'll leave with her favorite tool for flipping "what if" into "why not," and a reminder that the fear keeping you safe is usually the thing keeping you stuck.</p>
 
@@ -45,9 +45,10 @@ Happiness coach Yvonne Trost explains how to break free from limiting beliefs, q
 <li>(04:49) Leaving an abusive marriage: "Mommy, can you get me a new daddy?"</li>
 <li>(07:06) Desperation vs. inspiration: what actually pushes people to change</li>
 <li>(08:53) Why she named her company Limitless You</li>
-<li>(11:39) The realize-recode-rewrite framework and how hypnotherapy fits in</li>
+<li>(11:39) Her Einstein-inspired formula: mindful thinking raised to the power of compassion and curiosity</li>
 <li>(16:17) The fear of the unknown, and why it keeps us small while feeling safe</li>
 <li>(20:25) Locus of control: why looking outside yourself increases anxiety</li>
+<li>(22:38) The realize-recode-rewrite framework and how hypnotherapy fits in</li>
 <li>(25:37) Why your imagination beats logic every time</li>
 <li>(27:25) Shifting from "what if" to "why not"</li>
 <li>(31:26) Neuroplasticity: rewiring the negative story</li>
@@ -348,7 +349,7 @@ I know exactly the person that needs to hear what Yvonne has to say. Take this e
 ```html
 <p>Limiting beliefs are the invisible walls we build before we're even old enough to know we're building them, and my guest, happiness coach Yvonne Trost, found hers out the hard way: in an actual apartment fire that took everything she owned.</p>
 
-<p>Yvonne is the co-founder of Limitless You, and she's lived the both/and of coaching: a devastating apartment fire, a marriage that turned mentally and physically abusive until her seven-year-old asked if she could get him a new daddy, and a corporate career that paid the bills and drained her soul. She walks us through her three-step framework (realize, recode, rewrite), the neuroscience behind why your imagination beats logic every time, and why she rewrote Einstein's equation for her clients: mindful thinking, raised to the power of compassion and curiosity.</p>
+<p>Yvonne is the co-founder of Limitless You, and she's lived the both/and of coaching: a devastating apartment fire, a marriage that turned mentally and physically abusive until her seven-year-old asked her to get a new daddy, and a corporate career that paid the bills and drained her soul. She walks us through her three-step framework (realize, recode, rewrite), the neuroscience behind why your imagination beats logic every time, and why she rewrote Einstein's equation for her clients: mindful thinking, raised to the power of compassion and curiosity.</p>
 
 <p>You'll leave with her favorite tool for flipping "what if" into "why not," and a reminder that the fear keeping you safe is usually the thing keeping you stuck.</p>
 

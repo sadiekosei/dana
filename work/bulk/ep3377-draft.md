@@ -60,7 +60,7 @@ Researcher Craig Mattson on digital overwhelm at work, remote work's hidden upsi
 <h2>Favorite quotes</h2>
 <blockquote>"All our models are wrong and some of them are useful." —Craig Mattson</blockquote>
 <blockquote>"We have to become mindful of how our tools are shaping our work experience, and sometimes distorting our work experience." —Craig Mattson</blockquote>
-<blockquote>"It's possible that you can develop a posture that's sustainable, even if your job does feel kind of empty." —Craig Mattson</blockquote>
+<blockquote>"It's possible that you can find a posture towards your work that's sustainable, even if your job does feel kind of empty." —Craig Mattson</blockquote>
 
 <h2>Resources mentioned</h2>
 <ul>

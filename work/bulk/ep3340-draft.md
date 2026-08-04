@@ -48,14 +48,14 @@ Amanda Kate on surviving chronic narcissistic abuse, recognizing the fawn trauma
 <li>(09:35) Why being an empath is often a trauma response, not a superpower, until you heal it</li>
 <li>(13:02) Kinesiology's five F's: fight, flight, freeze, fawn, and fragmentation</li>
 <li>(16:45) The abuse "rubber band": why we run back to the person who scares us</li>
-<li>(17:59) Living with a covert narcissist, and the unpredictability that keeps you hooked</li>
+<li>(17:59) Living with a "full-blown narcissist," and the unpredictability that keeps you hooked</li>
 <li>(20:59) Perfectionism as an unobtainable, exhausting bargain with abuse</li>
 <li>(21:36) Flipping the paradigm: why we're taught to police the reaction, not the action</li>
 <li>(31:29) The heroine's journey versus the hero's journey</li>
 </ul>
 
 <h2>About Amanda Kate</h2>
-<p>Amanda Kate is a self-mastery facilitator who survived chronic narcissistic abuse and the chronic fatigue that followed years of emotional, mental, and psychological abuse and toxic relationship cycles. She describes herself as a recovering people pleaser and self-flagellator who "straddles the divine and messy."</p>
+<p>Amanda Kate is a self-mastery facilitator who survived chronic narcissistic abuse and the chronic fatigue that followed years of emotional, mental, and psychological abuse and toxic relationship cycles. She describes herself as a recovering people pleaser and self-flagellator, walking a path that straddles the divine and messy.</p>
 <p>Learn more at <a href="https://amandakate.com.au" target="_blank" rel="noopener">AmandaKate.com.au</a>.</p>
 
 <h2>Favorite quotes</h2>

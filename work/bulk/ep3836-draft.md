@@ -23,7 +23,7 @@ Leadership advisor Chris Gillen on how ego in leadership fuels blame, the "Villa
 
 <p>Chris is a leadership advisor and former executive with over 30 years of experience helping companies navigate rapid growth, change, and internal conflict. In our conversation he breaks down why the Villain Trap isn't the leader who's yelling and throwing things, it's quiet: a leader gets feedback they don't like, and instead of sitting with it, they start building a case in their head for why the person giving it is "out to get them." We get into why ego makes that so hard to catch in yourself, and why he thinks humility has become a "dead skill set."</p>
 
-<p>We also cover the generational collision happening in corporate America right now (Gen X holds 70 percent of global leadership roles, and younger workers are pushing back on the "butt in the seat 6 a.m. to 9 p.m." model Gen X was raised on), and why chasing KPIs over people quietly burns a culture down.</p>
+<p>We also cover the generational collision happening in corporate America right now (Gen X holds 70 percent of global leadership roles, and younger workers are pushing back on the "butt in the seat, 6 a.m. to 6 p.m." model Gen X leaders are now enforcing), and why chasing KPIs over people quietly burns a culture down.</p>
 
 <h2>Watch this episode</h2>
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/pf9z8uJdKa4" title="How Ego Is Sabotaging Your Leadership" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

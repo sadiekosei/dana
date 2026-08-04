@@ -19,7 +19,7 @@ Happiness educator Matt O'Neill on why "I'll be happy when..." is a trap, and th
 
 <p><em>First aired July 27, 2025</em></p>
 
-<p>My guest bought a little plastic herb keeper for his fridge, all excited about eating fresher food. Thirty seconds after it arrived, his daughter picked it up, dropped it, and it shattered into a hundred pieces on the floor. He didn't yell. He didn't say a word. He just turned his back on her. That quiet moment, he says, is exactly how shame gets passed down without anyone meaning to do it, and it's a perfect case study in what Matt O'Neill calls your "survival brain": the part of you that's wired to feel negative, not because something is wrong with you, but because that's literally its job.</p>
+<p>My guest bought a little plastic herb keeper for his fridge, all excited about eating fresher food. His daughter picked it up, immediately threw it on the ground, and it broke into a million pieces. He didn't yell. He didn't say a word. He just turned his back on her. That quiet moment, he says, is exactly how shame gets passed down without anyone meaning to do it, and it's a perfect case study in what Matt O'Neill calls your "survival brain": the part of you that's wired to feel negative, not because something is wrong with you, but because that's literally its job.</p>
 
 <p>Matt is a happiness educator and the author of "Good Mood Revolution," where he teaches conscious happiness: an intentional practice of catching the eight negative moods that hijack all of us (shame, overwhelm, hopelessness, and more) and swapping them for the eight positive ones. He's also a dad of four, runs two companies with $8 million in revenue and 80-plus employees, and somehow got his company named the number one place to work out of 470,000 companies in the state of South Carolina. Spoiler: gratitude had a lot to do with it.</p>
 
@@ -41,11 +41,10 @@ Happiness educator Matt O'Neill on why "I'll be happy when..." is a trap, and th
 <h2>Timestamps</h2>
 <ul>
 <li>(00:01) Welcome and guest intro: meet Matt O'Neill, happiness educator and author of Good Mood Revolution</li>
-<li>(01:20) Spinning plates: four kids, two businesses, and the trap of keeping up with the Joneses</li>
-<li>(03:12) The lie: "if I just make everything perfect, then I'll be happy"</li>
+<li>(01:20) Spinning plates: four kids, two businesses, and the trap of keeping up with the Joneses, and the lie that "if I just make everything perfect, then I'll be happy"</li>
 <li>(07:21) The eight negative moods, and the one underneath all of them: not feeling enough</li>
 <li>(10:43) The herb keeper story: how shame gets passed down without a single harsh word</li>
-<li>(16:18) Reprogramming a lie into a truth by writing new affirmations</li>
+<li>(13:25) Reprogramming a lie into a truth by writing new affirmations</li>
 <li>(16:55) The "no extra time" myth: shower affirmations and the two-word wake-up ritual</li>
 <li>(20:18) Dana's own gratitude experiment, and why journaling her feelings wasn't working</li>
 <li>(27:07) "Grab the Rope": the fable for anyone feeling hopeless</li>
@@ -253,7 +252,7 @@ Thank you. Listeners, I know that you have heard numerous things today from Matt
 ## Proposed Libsyn description
 
 ```html
-<p>My guest bought a little plastic herb keeper for his fridge, all excited about eating fresher food. Thirty seconds after it arrived, his daughter picked it up, dropped it, and it shattered into a hundred pieces on the floor. He didn't yell. He didn't say a word. He just turned his back on her. That quiet moment, he says, is exactly how shame gets passed down without anyone meaning to do it, and it's a perfect case study in what Matt O'Neill calls your "survival brain": the part of you that's wired to feel negative, not because something is wrong with you, but because that's literally its job.</p>
+<p>My guest bought a little plastic herb keeper for his fridge, all excited about eating fresher food. His daughter picked it up, immediately threw it on the ground, and it broke into a million pieces. He didn't yell. He didn't say a word. He just turned his back on her. That quiet moment, he says, is exactly how shame gets passed down without anyone meaning to do it, and it's a perfect case study in what Matt O'Neill calls your "survival brain": the part of you that's wired to feel negative, not because something is wrong with you, but because that's literally its job.</p>
 
 <p>Matt is a happiness educator and the author of "Good Mood Revolution," where he teaches conscious happiness: an intentional practice of catching the eight negative moods that hijack all of us (shame, overwhelm, hopelessness, and more) and swapping them for the eight positive ones. He's also a dad of four, runs two companies with $8 million in revenue and 80-plus employees, and somehow got his company named the number one place to work out of 470,000 companies in the state of South Carolina. Spoiler: gratitude had a lot to do with it.</p>
 

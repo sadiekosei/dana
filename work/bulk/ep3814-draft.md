@@ -60,7 +60,7 @@ Organizational psychologist Dr. Victoria Mattingly on building workplace culture
 <h2>Favorite quotes</h2>
 <blockquote>"If I can make life at work just a little bit better for a lot of people, I consider that a big win." —Dr. Victoria Mattingly</blockquote>
 <blockquote>"Don't call yourself an ally. Let someone else call you their ally: that's how you're doing it right." —Dr. Victoria Mattingly</blockquote>
-<blockquote>"I need to set that precedent, not just for everyone else, but for myself. I need to stay true to that." —Dr. Victoria Mattingly</blockquote>
+<blockquote>"I need to set that precedent, not just for everyone else, which is still an important part of boundaries, but for myself. I need to stay true to that." —Dr. Victoria Mattingly</blockquote>
 
 <h2>Resources mentioned</h2>
 <ul>

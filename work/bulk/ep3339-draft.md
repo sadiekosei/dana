@@ -21,7 +21,7 @@ Web3 entrepreneur Eric McHugh on setting boundaries without guilt, surviving sta
 
 <p>There's a corner of my unfinished basement with cinder block walls, and if you'd walked down there a while back you'd have found me hurling pieces of hardwood at them, screaming, because I was so angry and so scared that I wanted to bolt. My husband and son were upstairs, eyes big as sausage, telling each other "don't go down to the basement." I'd made myself one promise through all of it: I wouldn't quit.</p>
 
-<p>That's the kind of entrepreneur boundaries conversation I don't usually get to have on Phoenix in Flame, which is exactly why I wanted Eric McHugh on the show. Eric is a 30-year-old Web3 entrepreneur, president of ShopX, an ecommerce platform that helps Web2 brands move into Web3, and co-founder of Dataing, an AI-powered matchmaking company. He told me flat out: "I've always been good at saying no." No riot, no confrontation, just a clear boundary and a "no, thank you." We get into how he built that muscle, what a decade of failed startup ideas taught him about resilience, and why he thinks "only you know what's best for you."</p>
+<p>That's the kind of entrepreneur boundaries conversation I don't usually get to have on Phoenix in Flame, which is exactly why I wanted Eric McHugh on the show. Eric is a 30-year-old Web3 entrepreneur, president of ShopX, an ecommerce platform that helps Web2 brands move into Web3, and runs Dataing, an AI-powered matchmaking company. He told me flat out: "I've always been good at saying no." No riot, no confrontation, just a clear boundary and a "no, thank you." We get into how he built that muscle, what a decade of failed startup ideas taught him about resilience, and why he thinks "only you know what's best for you."</p>
 
 <p>We also go somewhere I never expected: Eric's 10 days of total silence on a Vipassana meditation retreat, no phone, no talking, no writing, just scanning his own body for stored trauma from the time he was four or five years old. He walks through what that actually does to a person, plus his simple daily practice (a "thought diet," a gratitude journal) for staying grounded while you're failing your way toward whatever works.</p>
 
@@ -55,7 +55,7 @@ Web3 entrepreneur Eric McHugh on setting boundaries without guilt, surviving sta
 </ul>
 
 <h2>About Eric McHugh</h2>
-<p>Eric McHugh is a 30-year-old Web3 entrepreneur and president of ShopX, a platform that helps Web2 brands enter the Web3 space. He also co-founded Dataing, which he describes as "the first ever AI-powered matchmaker." Before entrepreneurship, he worked as a consultant for companies undergoing bankruptcy.</p>
+<p>Eric McHugh is a 30-year-old Web3 entrepreneur and president of ShopX, a platform that helps Web2 brands enter the Web3 space. His other company is Dataing, which he describes as "the first ever AI-powered matchmaker." Before entrepreneurship, he worked as a consultant for companies undergoing bankruptcy.</p>
 <p>Find him at <a href="https://shopx.co" target="_blank" rel="noopener">ShopX</a> or <a href="https://dataing.io" target="_blank" rel="noopener">Dataing</a>, and connect with him on <a href="https://www.instagram.com/ericdmchugh/" target="_blank" rel="noopener">Instagram</a>, <a href="https://www.linkedin.com/in/ericdouglasmchugh/" target="_blank" rel="noopener">LinkedIn</a>, or <a href="https://twitter.com/ericmchugh0" target="_blank" rel="noopener">Twitter/X</a>.</p>
 
 <h2>Favorite quotes</h2>
@@ -245,7 +245,7 @@ Listeners, I know you heard something today that you're thinking, "oh my gosh, I
 ```html
 <p>There's a corner of my unfinished basement with cinder block walls, and if you'd walked down there a while back you'd have found me hurling pieces of hardwood at them, screaming, because I was so angry and so scared that I wanted to bolt. My husband and son were upstairs, eyes big as sausage, telling each other "don't go down to the basement." I'd made myself one promise through all of it: I wouldn't quit.</p>
 
-<p>That's the kind of entrepreneur boundaries conversation I don't usually get to have on Phoenix in Flame, which is exactly why I wanted Eric McHugh on the show. Eric is a 30-year-old Web3 entrepreneur, president of ShopX, an ecommerce platform that helps Web2 brands move into Web3, and co-founder of Dataing, an AI-powered matchmaking company. He told me flat out: "I've always been good at saying no." No riot, no confrontation, just a clear boundary and a "no, thank you." We get into how he built that muscle, what a decade of failed startup ideas taught him about resilience, and why he thinks "only you know what's best for you."</p>
+<p>That's the kind of entrepreneur boundaries conversation I don't usually get to have on Phoenix in Flame, which is exactly why I wanted Eric McHugh on the show. Eric is a 30-year-old Web3 entrepreneur, president of ShopX, an ecommerce platform that helps Web2 brands move into Web3, and runs Dataing, an AI-powered matchmaking company. He told me flat out: "I've always been good at saying no." No riot, no confrontation, just a clear boundary and a "no, thank you." We get into how he built that muscle, what a decade of failed startup ideas taught him about resilience, and why he thinks "only you know what's best for you."</p>
 
 <p>We also go somewhere I never expected: Eric's 10 days of total silence on a Vipassana meditation retreat, no phone, no talking, no writing, just scanning his own body for stored trauma from the time he was four or five years old. He walks through what that actually does to a person, plus his simple daily practice (a "thought diet," a gratitude journal) for staying grounded while you're failing your way toward whatever works.</p>
 
@@ -259,7 +259,7 @@ Listeners, I know you heard something today that you're thinking, "oh my gosh, I
 <li>A simple gratitude-journal habit for staying grounded while you fail your way toward what works</li>
 </ul>
 
-<p><strong>About Eric McHugh:</strong> Eric is a 30-year-old Web3 entrepreneur and president of ShopX, which helps Web2 brands enter the Web3 space. He also co-founded Dataing, an AI-powered matchmaking company. Find him at <a href="https://shopx.co">ShopX.co</a> or <a href="https://dataing.io">Dataing.io</a>, and connect on <a href="https://www.instagram.com/ericdmchugh/">Instagram</a> or <a href="https://www.linkedin.com/in/ericdouglasmchugh/">LinkedIn</a>.</p>
+<p><strong>About Eric McHugh:</strong> Eric is a 30-year-old Web3 entrepreneur and president of ShopX, which helps Web2 brands enter the Web3 space. His other company is Dataing, an AI-powered matchmaking company. Find him at <a href="https://shopx.co">ShopX.co</a> or <a href="https://dataing.io">Dataing.io</a>, and connect on <a href="https://www.instagram.com/ericdmchugh/">Instagram</a> or <a href="https://www.linkedin.com/in/ericdouglasmchugh/">LinkedIn</a>.</p>
 
 <p><strong>Favorite quote:</strong> "Only you know what's best for you." —Eric McHugh</p>
 

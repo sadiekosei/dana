@@ -32,7 +32,7 @@ Christian author Sarah Brown opens up about rebuilding faith after an unexpected
 <ul>
 <li>How Sarah's faith after divorce shifted from transactional ("if I do this, God will bless me") to genuinely relational</li>
 <li>Why she believes the answer to "why does God allow this?" isn't a tidy one, and what she'd say instead</li>
-<li>What the first panicked months of single motherhood really looked like, and the advice from her brother-in-law that changed everything: "you're still trying to make a plan; pause and look at the next 24 hours"</li>
+<li>What the first panicked months of single motherhood really looked like, and the advice from her brother-in-law that changed everything: "pause and look at the day before you, this moment, the next hour, the next 24 hours"</li>
 <li>How to "vet" people before sharing your "tender bits," and why not everyone has earned the right to hear your story</li>
 <li>The wildfire "fire followers" metaphor: how wildflower seeds that wait years underground only bloom after everything burns</li>
 <li>Why healing doesn't mean rushing your grief, and how journaling helped Sarah see God's faithfulness in retrospect</li>

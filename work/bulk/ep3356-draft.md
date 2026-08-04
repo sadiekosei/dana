@@ -280,10 +280,10 @@ Yeah. I love this. And as I was listening to you give that analogy, that example
 Yes. Yes. Yeah, I don't have time for all that. Yeah. Yeah.</p>
 
 <p><strong>[Dana] (34:08)</strong><br>
-Oh, I love it. Shelly, we're out of time today, but I'm wondering where do my listeners go? Because I'm sure they've heard a lot of stuff today. They're thinking, oh my gosh, this is wonderful. I love her so much. Where do I go to find out more about what Shelly Starks has to offer?</p>
+Oh, I love it. Shelly, we're out of time today, but I'm wondering where do my listeners go? Because I'm sure they've heard a lot of stuff today. They're thinking, oh my gosh, this is wonderful. I love her so much. Where do I go to find out more about what Shelly Starkes has to offer?</p>
 
 <p><strong>[Shelly] (34:24)</strong><br>
-ShellyStarks.com, that's the best place. I'm on all the social media platforms, so most of it is all just Shelly Starks if you do a search in it. And there are forums on my website that you can fill out, and if you want to do a complimentary assessment, like with what's going on with your team, I'm happy to offer that through to your listeners. Sometimes it works great for what they're looking for and other times when it's not a good fit, I tell them that too. So there's no risk and there could just be some maybe some high level things that I can tell them without even having to bring them on as a coach.</p>
+ShellyStarts .com, that's the best place. I'm on all the social media platforms, so most of it is all just Shelly Starts if you do a search in it. And there are forums on my website that you can fill out, and if you want to do a complimentary assessment, like with what's going on with your team, I'm happy to offer that through to your listeners. Sometimes it works great for what they're looking for and other times when it's not a good fit, I tell them that too. So there's no risk and there could just be some maybe some high level things that I can tell them without even having to bring them on as a coach.</p>
 
 <p><strong>[Dana] (35:05)</strong><br>
 Shelly, thank you so much for spending your time and bringing your valuable wisdom and experience to myself and my listeners today. Thank you very, very much.</p>

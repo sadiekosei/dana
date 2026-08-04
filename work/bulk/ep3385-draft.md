@@ -48,7 +48,8 @@ Addictions coach Dr. Cali Estes shares her simple two-week test for spotting add
 <li>(05:55) No health insurance, no rehab: how a friend dragged her to hot yoga instead</li>
 <li>(07:24) Ten sun salutations before you open the fridge: the practice that started to work</li>
 <li>(08:23) What she saw working in treatment centers, and why she quit on the spot</li>
-<li>(10:15) The two markers Dr. Cali uses to tell functional use from addiction</li>
+<li>(10:32) Why the meetings work for fellowship but not the therapeutic piece, and the shift to coaching in 2012</li>
+<li>(16:15) The two markers Dr. Cali uses to tell functional use from addiction</li>
 <li>(17:51) Trading the drug for the meeting: why some people get stuck in the rooms</li>
 <li>(20:26) The "brain dump" exercise for clearing ruminating thoughts</li>
 <li>(22:52) The mother who bought heroin with her son, and the boundary Dr. Cali drew</li>

@@ -73,7 +73,7 @@ Divorce coach Jackie Miller survived 16 years of narcissistic abuse and reveals 
 
 <h2>Related episodes</h2>
 <ul>
-<li><a href="https://danaskaggs.com/podcast/healing-from-narcissistic-abuse/">Healing From Narcissistic Abuse</a>: A deeper look at recovering identity and trust after a relationship like the one Jackie describes.</li>
+<li><a href="https://danaskaggs.com/podcast/nikkilacroce/">Healing From Narcissistic Abuse</a>: A deeper look at recovering identity and trust after a relationship like the one Jackie describes.</li>
 <li><a href="https://danaskaggs.com/podcast/surviving-gaslighters-and-manipulators/">Surviving Gaslighters and Manipulators</a>: More on spotting the covert tactics Jackie names here before they escalate.</li>
 <li><a href="https://danaskaggs.com/podcast/surviving-toxic-relationships-interview-with-shannon-petrovich/">Surviving Toxic Relationships: Interview with Shannon Petrovich</a>: Another survivor's strategy for disengaging from a controlling partner.</li>
 </ul>

@@ -58,7 +58,7 @@ Nikki LaCroce on leaving a decade-long relationship with a covert narcissist, lo
 
 <h2>Favorite quotes</h2>
 <blockquote>"You're asking for the bare minimum and you're not even getting that." —a friend's words to Nikki LaCroce, the turning-point moment she describes</blockquote>
-<blockquote>"Gratitude and anxiety can exist at the same time." —Nikki LaCroce</blockquote>
+<blockquote>"Gratitude and anxiety can exist at the same time." —Nikki LaCroce's therapist, as relayed by Nikki</blockquote>
 <blockquote>"The hardest part about leaving [a] narcissistic abusive relationship with somebody is regaining your sense of self." —Nikki LaCroce's therapist, as relayed by Nikki</blockquote>
 
 <h2>Resources mentioned</h2>
@@ -301,7 +301,7 @@ This is awesome. Listeners, I know you have heard so many things today that you'
 
 <p><strong>About Nikki LaCroce:</strong> Nikki left a decade-long abusive relationship with a covert narcissist while facing the unexpected loss of her mother amid the pandemic. She hosts the podcast "Can I Just Say?" Visit <a href="https://canijustsaypodcast.com">canijustsaypodcast.com</a>.</p>
 
-<p><strong>Favorite quote:</strong> "Gratitude and anxiety can exist at the same time." —Nikki LaCroce</p>
+<p><strong>Favorite quote:</strong> "Gratitude and anxiety can exist at the same time." —Nikki LaCroce's therapist, as relayed by Nikki</p>
 
 <p><strong>Resources mentioned:</strong></p>
 <ul>

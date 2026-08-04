@@ -19,7 +19,7 @@ Light language healer Birgitta Visser on surviving childhood abuse, an eating di
 
 <p><em>First aired July 14, 2024</em></p>
 
-<p>Picture this: my guest is lying on a mat with four burn marks on her leg, poison from an Amazonian tree frog rubbed into each one, purging into a bucket for four hours while a shaman tells her the reason it's taking so long is that her ego is "sitting in the driver's seat and refusing to let go." That's Birgitta Visser's rock-bottom-to-breakthrough moment, and it came after a life that had already handed her plenty of rock bottoms: abuse from a family friend at 10 or 11, her father's sudden death at 44 when she was 14, an eating disorder that had her throwing away her own school lunch, and a 2009 crisis (a violent relationship, a gang's death threat, and an attempt on her own life) severe enough to finally send her looking for real help.</p>
+<p>Picture this: my guest is lying on a mat with four burn marks on her leg, poison from an Amazonian tree frog rubbed into each one, purging into a bucket for four hours while a shaman tells her the reason it's taking so long is that her ego is "sitting in the driver's seat and refusing to let go." That's Birgitta Visser's rock-bottom-to-breakthrough moment, and it came after a life that had already handed her plenty of rock bottoms: abuse from a family friend at 10 or 11, her father's sudden death at 44 when she was 14, an eating disorder that had her throwing away her own school lunch, and a 2009 crisis (her ex-boyfriend's kidnapping by a gang, a death threat from the gang's leader, and an attempt on her own life) severe enough to finally send her looking for real help.</p>
 
 <p>Birgitta is now a light empowerment coach and light language healer, but what she wants you to actually take from her story isn't the mystical stuff, it's the boundaries. For years she was, in her words, a magnet for "broken birds": paying other people's bills, finding them jobs, going the extra mile for partners who never returned it, because nobody had ever taught her she was allowed to say no. We talk about how one piece of unhealed trauma creates the next, why the most empathetic people in the room are usually the ones who need boundaries the most, and what it actually took (years of Reiki and EFT, and eventually that frog poison) to finally believe she was worth protecting.</p>
 
@@ -32,7 +32,7 @@ Light language healer Birgitta Visser on surviving childhood abuse, an eating di
 <ul>
 <li>Why one unhealed wound creates the next, and how abuse from a family friend at 10 or 11 shaped decades of Birgitta's relationships</li>
 <li>The eating disorder and modeling-industry rejection that started before she'd even left high school</li>
-<li>What it actually took to survive a 2009 crisis (a violent partner, a gang's death threat, and a suicide attempt) and start over</li>
+<li>What it actually took to survive a 2009 crisis (her ex-boyfriend's kidnapping by a gang, a death threat against her, and a suicide attempt) and start over</li>
 <li>Why the most empathetic, "high-vibration" people are often the ones who need boundaries the most</li>
 <li>Inside a shamanic Kambo ceremony: what four hours of purging taught her about her own ego</li>
 <li>How to stop being a magnet for "broken birds" in your relationships and start protecting your own energy</li>
@@ -46,7 +46,7 @@ Light language healer Birgitta Visser on surviving childhood abuse, an eating di
 <li>(05:40) The eating disorder that started with throwing away her own school lunch</li>
 <li>(07:46) Modeling rejection, and the stepfather's death that led to a three-month stint with drugs</li>
 <li>(13:58) Learning to set boundaries, one broken relationship at a time</li>
-<li>(15:51) Hitting rock bottom in 2009: a violent relationship, a gang's death threat, and a suicide attempt</li>
+<li>(15:51) Hitting rock bottom in 2009: her ex-boyfriend's kidnapping by a gang, a death threat against her, and a suicide attempt</li>
 <li>(21:31) Studying Reiki, EFT, and other healing modalities after her first counselor didn't help</li>
 <li>(28:30) Inside a shamanic Kambo ceremony: four hours of purging and a lesson about her ego</li>
 <li>(31:26) Her book, "Becoming Authentically Me"</li>
@@ -304,7 +304,7 @@ Do you know I f-</p>
 ## Proposed Libsyn description
 
 ```html
-<p>Picture this: my guest is lying on a mat with four burn marks on her leg, poison from an Amazonian tree frog rubbed into each one, purging into a bucket for four hours while a shaman tells her the reason it's taking so long is that her ego is "sitting in the driver's seat and refusing to let go." That's Birgitta Visser's rock-bottom-to-breakthrough moment, and it came after a life that had already handed her plenty of rock bottoms: abuse from a family friend at 10 or 11, her father's sudden death at 44 when she was 14, an eating disorder that had her throwing away her own school lunch, and a 2009 crisis (a violent relationship, a gang's death threat, and an attempt on her own life) severe enough to finally send her looking for real help.</p>
+<p>Picture this: my guest is lying on a mat with four burn marks on her leg, poison from an Amazonian tree frog rubbed into each one, purging into a bucket for four hours while a shaman tells her the reason it's taking so long is that her ego is "sitting in the driver's seat and refusing to let go." That's Birgitta Visser's rock-bottom-to-breakthrough moment, and it came after a life that had already handed her plenty of rock bottoms: abuse from a family friend at 10 or 11, her father's sudden death at 44 when she was 14, an eating disorder that had her throwing away her own school lunch, and a 2009 crisis (her ex-boyfriend's kidnapping by a gang, a death threat from the gang's leader, and an attempt on her own life) severe enough to finally send her looking for real help.</p>
 
 <p>Birgitta is now a light empowerment coach and light language healer, but what she wants you to actually take from her story isn't the mystical stuff, it's the boundaries. For years she was, in her words, a magnet for "broken birds": paying other people's bills, finding them jobs, going the extra mile for partners who never returned it, because nobody had ever taught her she was allowed to say no. We talk about how one piece of unhealed trauma creates the next, why the most empathetic people in the room are usually the ones who need boundaries the most, and what it actually took (years of Reiki and EFT, and eventually that frog poison) to finally believe she was worth protecting.</p>
 
@@ -312,7 +312,7 @@ Do you know I f-</p>
 <ul>
 <li>Why one unhealed wound creates the next, and how abuse from a family friend at 10 or 11 shaped decades of Birgitta's relationships</li>
 <li>The eating disorder and modeling-industry rejection that started before she'd even left high school</li>
-<li>What it actually took to survive a 2009 crisis (a violent partner, a gang's death threat, and a suicide attempt) and start over</li>
+<li>What it actually took to survive a 2009 crisis (her ex-boyfriend's kidnapping by a gang, a death threat against her, and a suicide attempt) and start over</li>
 <li>Why the most empathetic, "high-vibration" people are often the ones who need boundaries the most</li>
 <li>Inside a shamanic Kambo ceremony: what four hours of purging taught her about her own ego</li>
 </ul>
