@@ -1,20 +1,17 @@
 <?php
 /**
- * Narrow, single-purpose REST API for safely appending ONE new top-level
- * Elementor container to the /podcast/ page (post ID 3048) only.
- *
- * Modeled directly on the proven pattern from Melinda Hinson's site's
- * "Kosei Deploy" API (class-kosei-deploy.php): _elementor_data is plain
- * post meta holding a JSON array of top-level elements; writes go through
- * update_post_meta() + an explicit CSS regen, since Elementor doesn't
- * rebuild a page's CSS on a bare data write.
- *
- * Deliberately NOT a general-purpose page editor: hardcoded to page
- * 3048, GET returns the raw current data for backup/inspection, POST
- * only ever APPENDS (never replaces/removes existing elements) and
- * rejects the write if any submitted element ID collides with an
- * existing one on the page.
+ * Plugin Name: Kosei Dana Podcast Tools
+ * Description: Narrow, single-purpose REST API for safely appending ONE new top-level Elementor container to the /podcast/ page (post ID 3048) only. Built by Sadie's Claude Code session; safe to deactivate/delete once the podcast archive widget work is finished.
+ * Version: 1.2.0
+ * Author: Kosei Designs
  */
+
+if ( ! defined( 'ABSPATH' ) ) {
+	exit; // no direct access
+}
+
+const KOSEI_DANA_PAGE_ID = 3048;
+
 add_action( 'rest_api_init', function () {
 	register_rest_route( 'kosei-dana/v1', '/podcast-page-data', array(
 		'methods'             => 'GET',
@@ -58,13 +55,32 @@ function kosei_dana_diag() {
 		$walk( $decoded );
 		$out['element_types'] = $types;
 	}
+	$out['meta'] = array(
+		'_elementor_edit_mode'     => get_post_meta( KOSEI_DANA_PAGE_ID, '_elementor_edit_mode', true ),
+		'_elementor_template_type' => get_post_meta( KOSEI_DANA_PAGE_ID, '_elementor_template_type', true ),
+		'_elementor_version'       => get_post_meta( KOSEI_DANA_PAGE_ID, '_elementor_version', true ),
+	);
+	global $wp_object_cache;
+	$out['persistent_object_cache'] = wp_using_ext_object_cache();
+
 	if ( class_exists( '\Elementor\Plugin' ) ) {
 		try {
-			$doc  = \Elementor\Plugin::$instance->documents->get( KOSEI_DANA_PAGE_ID );
+			$doc = \Elementor\Plugin::$instance->documents->get( KOSEI_DANA_PAGE_ID );
+			if ( $doc ) {
+				// What does the Document object itself think the elements are,
+				// independent of HTML rendering -- if THIS is also 10 (not 11),
+				// the Document is reading/caching from somewhere other than the
+				// _elementor_data we just verified has 11 elements.
+				$doc_elements = $doc->get_elements_data();
+				$out['document_top_element_count'] = is_array( $doc_elements ) ? count( $doc_elements ) : null;
+				$out['document_last_element_type']  = is_array( $doc_elements ) && $doc_elements
+					? ( ( end( $doc_elements )['elType'] ?? '?' ) . ':' . ( end( $doc_elements )['widgetType'] ?? '' ) )
+					: null;
+			}
 			$html = $doc ? $doc->get_content() : '(no document)';
-			$out['rendered_len']    = strlen( (string) $html );
-			$out['has_new_widget']  = ( false !== strpos( (string) $html, 'kosei-podcast-archive' ) );
-			$out['rendered_tail']   = substr( (string) $html, -900 );
+			$out['rendered_len']   = strlen( (string) $html );
+			$out['has_new_widget'] = ( false !== strpos( (string) $html, 'kosei-podcast-archive' ) );
+			$out['rendered_tail']  = substr( (string) $html, -900 );
 		} catch ( \Throwable $e ) {
 			$out['render_error'] = $e->getMessage() . ' @ ' . $e->getFile() . ':' . $e->getLine();
 		}
@@ -78,19 +94,12 @@ function kosei_dana_diag() {
 
 function kosei_dana_purge_cache() {
 	$fired = array();
-	// LiteSpeed Cache: purging the specific post + a full-site purge, since
-	// this page's full-page HTML is what's stale (Elementor's own internal
-	// CSS/asset cache is separate and was already being cleared).
-	if ( has_action( 'litespeed_purge_post' ) || function_exists( 'do_action' ) ) {
-		do_action( 'litespeed_purge_post', KOSEI_DANA_PAGE_ID );
-		$fired[] = 'litespeed_purge_post';
-	}
+	do_action( 'litespeed_purge_post', KOSEI_DANA_PAGE_ID );
+	$fired[] = 'litespeed_purge_post';
 	do_action( 'litespeed_purge_all' );
 	$fired[] = 'litespeed_purge_all';
 	return new \WP_REST_Response( array( 'ok' => true, 'fired' => $fired ), 200 );
 }
-
-const KOSEI_DANA_PAGE_ID = 3048;
 
 function kosei_dana_collect_ids( $elements, &$ids ) {
 	foreach ( (array) $elements as $el ) {
@@ -115,11 +124,11 @@ function kosei_dana_get_page_data( \WP_REST_Request $req ) {
 	$ids = array();
 	kosei_dana_collect_ids( $decoded, $ids );
 	return new \WP_REST_Response( array(
-		'ok'             => true,
-		'top_elements'   => count( $decoded ),
-		'existing_ids'   => array_values( array_unique( $ids ) ),
-		'data'           => $decoded,
-		'modified'       => get_post_modified_time( 'c', false, KOSEI_DANA_PAGE_ID ),
+		'ok'           => true,
+		'top_elements' => count( $decoded ),
+		'existing_ids' => array_values( array_unique( $ids ) ),
+		'data'         => $decoded,
+		'modified'     => get_post_modified_time( 'c', false, KOSEI_DANA_PAGE_ID ),
 	), 200 );
 }
 
@@ -133,8 +142,6 @@ function kosei_dana_append_section( \WP_REST_Request $req ) {
 	}
 	$new_section = $body['section'];
 
-	// Always re-fetch the CURRENT live data at write time (not whatever the
-	// caller may have cached earlier) so a concurrent edit can't be clobbered.
 	$raw     = get_post_meta( KOSEI_DANA_PAGE_ID, '_elementor_data', true );
 	$decoded = json_decode( is_string( $raw ) ? $raw : '', true );
 	if ( ! is_array( $decoded ) ) {
@@ -151,13 +158,10 @@ function kosei_dana_append_section( \WP_REST_Request $req ) {
 	}
 
 	$before_count = count( $decoded );
-	$decoded[]    = $new_section; // pure append, nothing existing is touched
+	$decoded[]    = $new_section;
 
 	update_post_meta( KOSEI_DANA_PAGE_ID, '_elementor_data', wp_slash( wp_json_encode( $decoded ) ) );
 
-	// Match upsert_page()'s CSS handling so the new element's (inline) styles
-	// and any layout recalculation actually take effect, not just get cached
-	// under the old CSS file.
 	$css_regen = false;
 	if ( class_exists( '\Elementor\Core\Files\CSS\Post' ) ) {
 		try {
@@ -171,20 +175,14 @@ function kosei_dana_append_section( \WP_REST_Request $req ) {
 	if ( class_exists( '\Elementor\Plugin' ) ) {
 		\Elementor\Plugin::$instance->files_manager->clear_cache();
 	}
-	// Elementor's cache above is for compiled CSS/assets only -- the site
-	// also runs LiteSpeed Cache, which caches full rendered page HTML
-	// separately and does NOT get invalidated by an _elementor_data write
-	// alone (confirmed: page served x-litespeed-cache: hit with stale
-	// content after a successful append). Purge that too so the change is
-	// actually visible.
 	do_action( 'litespeed_purge_post', KOSEI_DANA_PAGE_ID );
 	do_action( 'litespeed_purge_all' );
 
 	return new \WP_REST_Response( array(
-		'ok'            => true,
-		'before_count'  => $before_count,
-		'after_count'   => count( $decoded ),
-		'css_regen'     => $css_regen,
-		'view'          => get_permalink( KOSEI_DANA_PAGE_ID ),
+		'ok'           => true,
+		'before_count' => $before_count,
+		'after_count'  => count( $decoded ),
+		'css_regen'    => $css_regen,
+		'view'         => get_permalink( KOSEI_DANA_PAGE_ID ),
 	), 200 );
 }
