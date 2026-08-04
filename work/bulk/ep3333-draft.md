@@ -30,7 +30,7 @@ Life coach Jennifer Schwytzer on going from people-pleasing poster child to sett
 
 <h2>In this episode</h2>
 <ul>
-<li>Why "if you're not first, you're last" became the wake-up call that ended decades of people-pleasing</li>
+<li>Why "if you're not first, you're last" became the wake-up call that ended seventeen years of people-pleasing</li>
 <li>The friends she lost the moment she started setting boundaries, and how she figured out who was actually in her corner</li>
 <li>What burnout actually feels like day to day, and how it's different from depression</li>
 <li>Why she starts every client with "priorities," not "goals"</li>
@@ -49,9 +49,9 @@ Life coach Jennifer Schwytzer on going from people-pleasing poster child to sett
 <li>(14:03) How to tell who your real friends are once you start setting limits</li>
 <li>(17:50) Her husband's simple "cool, let's do it" when she told him she wanted to be a life coach</li>
 <li>(21:49) Launching Kindfulness Coaching: being kind to yourself first</li>
-<li>(24:52) What burnout actually feels like, day to day</li>
+<li>(25:14) Starting with "priorities," not "goals," in her coaching practice</li>
+<li>(27:33) What burnout actually feels like, day to day</li>
 <li>(29:33) Burnout vs. depression: how to tell the difference</li>
-<li>(30:33) Starting with "priorities," not "goals," in her coaching practice</li>
 <li>(31:24) Where to find Jennifer Schwytzer and Kindfulness Coaching</li>
 </ul>
 
@@ -229,7 +229,7 @@ Now listeners, I know beyond a shadow of a doubt that you have heard multiple th
 
 <p><strong>In this episode:</strong></p>
 <ul>
-<li>Why "if you're not first, you're last" became the wake-up call that ended decades of people-pleasing</li>
+<li>Why "if you're not first, you're last" became the wake-up call that ended seventeen years of people-pleasing</li>
 <li>The friends she lost the moment she started setting boundaries</li>
 <li>What burnout actually feels like day to day, and how it's different from depression</li>
 <li>Why she starts every client with "priorities," not "goals"</li>
