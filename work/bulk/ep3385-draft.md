@@ -19,6 +19,8 @@ Addictions coach Dr. Cali Estes shares her simple two-week test for spotting add
 
 <p><em>First aired November 16, 2025</em></p>
 
+<p><em>A gentle note before you dive in: this conversation touches on addiction and loss of a spouse. Take care of yourself while you listen, and know there's no rush.</em></p>
+
 <p>Dr. Cali Estes was sitting on her floor eating cake with her hands, crying, with cake on the wall and cake on the dog, when her roommate walked in and said, "That's not normal." Cali's response: "What's not normal? This is what we do." She was 23, wanted to be an FBI agent, and had no idea she was already deep in a food addiction that a college counselor would later wave off ("you're not bulimic, you're not anorexic, so you're just fat") and a doctor would try to fix with a diet pill that was, at the time, still legal.</p>
 
 <p>That diet pill (Fen-Phen, later pulled from the market for killing people) sent her looking for something stronger, and it took two ER visits and one doctor blunt enough to drop an F-bomb before she found her way to a yoga mat instead of a meeting room. Cali is now an addictions coach who's built her career on the idea that recovery isn't one-size-fits-all: the traditional meeting model works for some people and leaves plenty of others, like her, feeling worse instead of better. She's the founder of Sober On Demand and the Addictions Academy, a five-times #1 bestselling author, and a regular voice on CNN, Forbes, and more.</p>

@@ -19,6 +19,8 @@ Leadership advisor Chris Gillen on how ego in leadership fuels blame, the "Villa
 
 <p><em>First aired March 8, 2026</em></p>
 
+<p><em>A gentle note before you dive in: this conversation touches on suicide loss. Take care of yourself while you listen, and know there's no rush.</em></p>
+
 <p>Chris Gillen was born into what he calls "a family of professional victims." His dad could never own a decision: everything was somebody else's fault. That same pattern passed down to Chris's younger brother, who died by suicide at 34 after reaching a point where, in Chris's words, "the world was a villain" and there was no way out. That's the origin story behind what Chris now calls the Villain Trap: the ego in leadership that quietly sabotages companies, careers, and homes long before anyone notices it's happening.</p>
 
 <p>Chris is a leadership advisor and former executive with over 30 years of experience helping companies navigate rapid growth, change, and internal conflict. In our conversation he breaks down why the Villain Trap isn't the leader who's yelling and throwing things, it's quiet: a leader gets feedback they don't like, and instead of sitting with it, they start building a case in their head for why the person giving it is "out to get them." We get into why ego makes that so hard to catch in yourself, and why he thinks humility has become a "dead skill set."</p>

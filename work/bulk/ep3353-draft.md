@@ -17,11 +17,11 @@ Combat veteran Seth Gehle on surviving childhood sexual abuse, reporting his abu
 
 <p><em>First aired September 22, 2024</em></p>
 
+<p><em>A gentle note before you dive in: this conversation touches on child sexual abuse. Take care of yourself while you listen, and know there's no rush.</em></p>
+
 <p>My guest today kept his story secret for thirteen years. Seth Gehle grew up with a mother who became addicted to crack and cocaine and physically abusive, in a house so falling-apart that rain came through a hole in his bedroom ceiling. At ten years old, an adult man began grooming him through an older friend, and over the next five and a half years molested and eventually raped him. At fifteen, Seth reported him, kept his own clothes unwashed for a day so the hospital could collect evidence, and watched his abuser get convicted on 11 counts. He never told his story publicly again until three months before he sat down with me.</p>
 
 <p>Seth is a combat veteran (82nd Airborne Division, one tour in 2019) who went on to become the top construction manager at a major home-building company and is now writing a memoir, "Strength Beyond the Shadows." We talk about what it took to report his abuser as a teenager not knowing if the story would ever go public, why every survivor's story matters no matter who else supposedly has it worse, and the message he's building his life's second act around: heal first, before you seek justice, or the justice won't matter.</p>
-
-<p>This episode includes frank discussion of child sexual abuse and its aftermath. Take care with yourself while you listen.</p>
 
 <h2>Watch this episode</h2>
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/NtgdPzudwCQ" title="From Abuse to Healing: A Journey of Strength" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

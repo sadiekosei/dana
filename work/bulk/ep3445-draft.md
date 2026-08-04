@@ -19,6 +19,8 @@ Actress Brianna Brown Keen on surviving severe bullying and a career-threatening
 
 <p><em>First aired January 18, 2026</em></p>
 
+<p><em>A gentle note before you dive in: this conversation touches on severe bullying and self-harm. Take care of yourself while you listen, and know there's no rush.</em></p>
+
 <p>My guest Brianna Brown Keen was 14 when bullying so severe it landed her in the hospital, bullying so bad that her best friend's own father, a judge, told his daughter to stop being friends with her so she wouldn't get bullied too. In that hospital room, something shifted: a calm white light, she calls it, moving through her. She didn't know what her purpose was yet. She just knew, suddenly, that she had one.</p>
 
 <p>Brianna is an award-winning actress with more than two decades in Hollywood, known for roles on Dynasty, Devious Maids, General Hospital, and Homeland, and she just finished shooting season four of Netflix's Outer Banks. She's also the founder and CEO of The New Hollywood, a nonprofit she's run for nearly 20 years supporting socially conscious storytellers through grants and mentorship. But we spend most of this conversation on the parts that came before any of that: a career-threatening back injury doctors doubted was real, a mother who modeled victimhood at every turn, and Brianna's hard-won belief that if something in your life isn't working, it simply means there's something you don't know yet.</p>

@@ -19,6 +19,8 @@ Emmy winner Rhonda Britten on surviving her parents' murder-suicide at 14, and t
 
 <p><em>First aired December 14, 2025</em></p>
 
+<p><em>A gentle note before you dive in: this conversation touches on murder-suicide and suicide attempts. Take care of yourself while you listen, and know there's no rush.</em></p>
+
 <p>It's Father's Day. A little tiny town in Upper Michigan, two restaurants, snow in May. My guest is 14 years old, standing in the driveway with her mom, waiting for her dad to grab his coat from the trunk of the car. Except it isn't a coat he pulls out. In under two minutes, Rhonda Britten watched her father murder her mother and take his own life, and then spent the next 20 years believing it was her fault for not stopping it. That's the story Rhonda tells at the start of this one, and I promise you, it only gets more remarkable from there.</p>
 
 <p>Rhonda is an Emmy Award winner, a repeat Oprah guest, and a master coach who's worked with people across more than 600 episodes of reality television. She's authored four bestsellers, including "Fearless Living," translated into 16 languages, and founded the Fearless Living Institute. After three suicide attempts and a stint in a psychiatric ward, Rhonda started over like a kindergartner, literally, with a calendar and gold stars, and built what she now calls the Wheel of Fear: the invisible core trigger running your life until you know its name.</p>

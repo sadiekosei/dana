@@ -19,6 +19,8 @@ Author and Ironman triathlete Win Charles on surviving cerebral palsy, family ab
 
 <p><em>First aired June 16, 2024</em></p>
 
+<p><em>A gentle note before you dive in: this conversation touches on abuse of a vulnerable adult. Take care of yourself while you listen, and know there's no rush.</em></p>
+
 <p>My guest today was born 13 weeks early, one pound thirteen ounces, so small the local hospital in Aspen didn't know what to do with her. Doctors of that era told parents of kids born with cerebral palsy to institutionalize them and expect nothing. Win Charles' mother said no way, no how. That refusal is the first fight in a life full of them: Win went on to compete in the Kona Ironman Triathlon, run her own jewelry design company, and write a memoir about growing up with CP. But the fight I most want you to hear about today happened much more recently, in the raw grief right after her father's death in 2019, when a family member she trusted crossed a line so far it triggered a mandatory report and a full Adult Protective Services investigation.</p>
 
 <p>Win's own background is in early childhood education, which made her a mandatory reporter herself, and she credits that training with helping her recognize what was happening to her and get herself somewhere safe. She walks me through what it's like to give a formal witness statement as a crime victim, the custody battle her extended family launched that October, a judge shutting it down, and the work she's doing now, in Codependents Anonymous, to unlearn the habits abuse and a lifetime of needing others' help had built into her.</p>

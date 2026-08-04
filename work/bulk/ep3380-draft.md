@@ -19,6 +19,8 @@ Bestselling author Katharine Giovanni shares her step-by-step method for how to 
 
 <p><em>First aired September 20, 2025</em></p>
 
+<p><em>A gentle note before you dive in: this conversation touches on sexual assault. Take care of yourself while you listen, and know there's no rush.</em></p>
+
 <p>Katharine Giovanni attempted suicide in the eighth grade. She grew up in what she calls a "pickled family" (both parents were alcoholics), got bullied for not fitting into anybody's box, and spent years wearing her survivor story like an outfit: I lived through this, look at me. Then her mother fell down a flight of stairs, dried out in the hospital, and the two of them spent a few years closer than sisters, before her mother died of breast cancer. That was Katharine's flashpoint. She got sober (35 years and counting), and eventually built an entire method for how to forgive someone, even the person you're positive doesn't deserve it.</p>
 
 <p>I've watched enough people get told to "just forgive" and sent off with zero instructions to know how empty that advice is. Katharine is a three-time bestselling author of more than a dozen books, including her latest, <em>The Ultimate Path to Forgiveness: Unlocking Your Power</em>, and she's the first to say the unforgivable doesn't have to be forgiven right away, or maybe ever. Her method starts with the easy people and works up to the hard ones, ranking everyone on a scale of one to ten and never skipping straight to your tens.</p>

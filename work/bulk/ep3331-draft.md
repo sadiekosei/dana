@@ -19,6 +19,8 @@ Trauma-informed coach Marshall Zweig on healing childhood sexual trauma, ending 
 
 <p><em>First aired November 12, 2023</em></p>
 
+<p><em>A gentle note before you dive in: this conversation touches on childhood sexual abuse. Take care of yourself while you listen, and know there's no rush.</em></p>
+
 <p>Four years old, standing next to his closet, Marshall Zweig manages one sentence to his father: "Daddy, I feel sad." His father's response: "Don't be sad, son. There are people in wheelchairs." That single exchange, after sexual trauma at the hands of his paternal grandmother, taught a four-year-old to smile on the outside no matter what was happening on the inside, a survival skill that cost him decades and, by his own count, hundreds of thousands of dollars to undo.</p>
 
 <p>Marshall is a trauma-informed relationship coach and the creator of Truth-Empowered Relationships, a method built from his own years-long climb out of gaslighting, first with his mother, then in his marriage, into relationships he now describes as thriving. We talk about the difference between forgiveness and simply allowing someone to keep hurting you, the exact sentence, "I don't like the way you're talking to me," that could have changed the trajectory of an entire family, and why he says raising your voice is really just a mistranslated way of saying "I'm angry."</p>
