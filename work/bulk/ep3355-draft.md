@@ -17,7 +17,7 @@ Empowerment strategist JJ Flizanes on spotting victim mentality, using her free 
 
 <p><em>First aired October 13, 2024</em></p>
 
-<p>Escaping victim mentality starts with a question most of us never ask ourselves, according to my guest today: are you telling this story because you want to be heard, or because you actually want to feel better? JJ Flizanes is an empowerment strategist who once spent five therapy sessions in a row trying to get her therapist to actually start EMDR with her, because the therapist kept steering the conversation back to talk. JJ finally spelled out, in writing, exactly what she needed. Session six, it happened.</p>
+<p>Escaping victim mentality starts with a question most of us never ask ourselves, according to my guest today: are you telling this story because you want to be heard, or because you actually want to feel better? JJ Flizanes is an empowerment strategist who spent six frustrating sessions with a therapist who kept steering the conversation back to talk instead of the EMDR she'd come for. She finally walked away and found someone new, wrote out exactly what she needed in writing before their very first session, and they did EMDR that same day.</p>
 
 <p>That story is basically JJ's whole philosophy in miniature: know what you actually need, ask for it directly, and stop waiting for someone else to read your mind or fix your feelings for you. She calls herself an empowerment strategist because she works both sides of the brain, the emotional right side and the strategic left side, to help people get unstuck from victim mentality. We also get into her own marriage, which nearly ended after years of what she calls "punishing" silence, and how letting go of trying to fix it was what let her finally move forward.</p>
 
@@ -54,7 +54,7 @@ Empowerment strategist JJ Flizanes on spotting victim mentality, using her free 
 <p>Learn more at <a href="https://jjflizanes.com" target="_blank" rel="noopener">JJ's website</a>, or get her free <a href="https://jjflizanes.com/feelingslist" target="_blank" rel="noopener">feelings and needs list</a>.</p>
 
 <h2>Favorite quotes</h2>
-<blockquote>"Ask them: are you just wanting me to listen because you're wanting to vent and feel validated for your feelings, or do you actually want a solution to feel better?" —JJ Flizanes</blockquote>
+<blockquote>"Are you just wanting me to listen because you're wanting to vent and feel validated for your feelings, or do you actually want a solution to feel better?" —JJ Flizanes</blockquote>
 <blockquote>"It's no one's job to make you happy. It's yours." —JJ Flizanes</blockquote>
 <blockquote>"As long as you're blaming somebody else, you don't have any power over that stuff." —Dana Skaggs</blockquote>
 
@@ -62,7 +62,7 @@ Empowerment strategist JJ Flizanes on spotting victim mentality, using her free 
 <ul>
 <li><a href="https://jjflizanes.com" target="_blank" rel="noopener">JJFlizanes.com</a>: JJ's website</li>
 <li><a href="https://jjflizanes.com/feelingslist" target="_blank" rel="noopener">JJ's free feelings and needs list</a>, built on Dr. Marshall Rosenberg's nonviolent communication work</li>
-<li>"Fit to Love," JJ's book on getting physically, emotionally, and spiritually fit to attract the life you want (also the name of her podcast); available on Amazon, though the transcript doesn't specify which of her two Amazon links below is this title: <a href="https://a.co/d/evk8JpW" target="_blank" rel="noopener">link one</a>, <a href="https://a.co/d/5WM1ufA" target="_blank" rel="noopener">link two</a></li>
+<li>"Fit to Love," JJ's book on getting physically, emotionally, and spiritually fit to attract the love of your life (also the name of her podcast); available on Amazon, though the transcript doesn't specify which of her two Amazon links below is this title: <a href="https://a.co/d/evk8JpW" target="_blank" rel="noopener">link one</a>, <a href="https://a.co/d/5WM1ufA" target="_blank" rel="noopener">link two</a></li>
 </ul>
 
 <h2>Related episodes</h2>
@@ -278,7 +278,7 @@ It absolutely helped a lot of people, no doubt. Now listeners, I know that you'r
 ## Proposed Libsyn description
 
 ```html
-<p>Escaping victim mentality starts with a question most of us never ask ourselves, according to my guest today: are you telling this story because you want to be heard, or because you actually want to feel better? JJ Flizanes is an empowerment strategist who once spent five therapy sessions in a row trying to get her therapist to actually start EMDR with her, because the therapist kept steering the conversation back to talk. JJ finally spelled out, in writing, exactly what she needed. Session six, it happened.</p>
+<p>Escaping victim mentality starts with a question most of us never ask ourselves, according to my guest today: are you telling this story because you want to be heard, or because you actually want to feel better? JJ Flizanes is an empowerment strategist who spent six frustrating sessions with a therapist who kept steering the conversation back to talk instead of the EMDR she'd come for. She finally walked away and found someone new, wrote out exactly what she needed in writing before their very first session, and they did EMDR that same day.</p>
 
 <p>That story is basically JJ's whole philosophy in miniature: know what you actually need, ask for it directly, and stop waiting for someone else to read your mind or fix your feelings for you. She calls herself an empowerment strategist because she works both sides of the brain, the emotional right side and the strategic left side, to help people get unstuck from victim mentality. We also get into her own marriage, which nearly ended after years of what she calls "punishing" silence, and how letting go of trying to fix it was what let her finally move forward.</p>
 
@@ -302,8 +302,7 @@ It absolutely helped a lot of people, no doubt. Now listeners, I know that you'r
 <ul>
 <li><a href="https://jjflizanes.com">JJFlizanes.com</a>: JJ's website</li>
 <li><a href="https://jjflizanes.com/feelingslist">JJ's free feelings and needs list</a></li>
-<li><a href="https://a.co/d/evk8JpW">JJ's book, "Fit to Love"</a></li>
-<li><a href="https://a.co/d/5WM1ufA">JJ's second book</a></li>
+<li>"Fit to Love," JJ's book, available on Amazon: <a href="https://a.co/d/evk8JpW">link one</a>, <a href="https://a.co/d/5WM1ufA">link two</a> (the episode doesn't specify which link is this title)</li>
 </ul>
 
 <p>Full show notes & transcript: https://danaskaggs.com/podcast/jjflizanes/</p>

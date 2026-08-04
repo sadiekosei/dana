@@ -48,7 +48,7 @@ Trauma-informed coach Marshall Zweig on healing childhood sexual trauma, ending 
 <li>(13:32) The energy chiropractor session and "I reluctantly accept my incarnation"</li>
 <li>(15:07) How unprocessed trauma quietly reshapes your closest relationships</li>
 <li>(18:02) Forgiveness versus allowance: where the boundary line actually is</li>
-<li>(21:32) The heroic example: four hard conversations that repaired his relationship with his mother</li>
+<li>(18:42) The heroic example: four hard conversations that repaired his relationship with his mother</li>
 <li>(25:23) Tolerance, and why being "good at tolerating" can work against you</li>
 <li>(29:06) Recognizing a lion by its roar, not its breath (Marshall, quoting Peter Levine)</li>
 <li>(35:03) Truth-Empowered Relationships as a "book of love," and where to find Marshall</li>
