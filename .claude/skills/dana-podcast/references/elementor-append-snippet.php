@@ -31,7 +31,50 @@ add_action( 'rest_api_init', function () {
 		'callback'            => 'kosei_dana_purge_cache',
 		'permission_callback' => function () { return current_user_can( 'edit_pages' ); },
 	) );
+	register_rest_route( 'kosei-dana/v1', '/podcast-page-diag', array(
+		'methods'             => 'GET',
+		'callback'            => 'kosei_dana_diag',
+		'permission_callback' => function () { return current_user_can( 'edit_pages' ); },
+	) );
 } );
+
+function kosei_dana_diag() {
+	$raw     = get_post_meta( KOSEI_DANA_PAGE_ID, '_elementor_data', true );
+	$decoded = json_decode( is_string( $raw ) ? $raw : '', true );
+	$out = array(
+		'top_elements' => is_array( $decoded ) ? count( $decoded ) : null,
+		'render_error' => null,
+		'rendered_len' => null,
+	);
+	if ( is_array( $decoded ) ) {
+		$types = array();
+		$walk = function ( $els ) use ( &$walk, &$types ) {
+			foreach ( (array) $els as $el ) {
+				$k = ( $el['elType'] ?? '?' ) . ( isset( $el['widgetType'] ) ? ':' . $el['widgetType'] : '' );
+				$types[ $k ] = ( $types[ $k ] ?? 0 ) + 1;
+				if ( ! empty( $el['elements'] ) ) { $walk( $el['elements'] ); }
+			}
+		};
+		$walk( $decoded );
+		$out['element_types'] = $types;
+	}
+	if ( class_exists( '\Elementor\Plugin' ) ) {
+		try {
+			$doc  = \Elementor\Plugin::$instance->documents->get( KOSEI_DANA_PAGE_ID );
+			$html = $doc ? $doc->get_content() : '(no document)';
+			$out['rendered_len']    = strlen( (string) $html );
+			$out['has_new_widget']  = ( false !== strpos( (string) $html, 'kosei-podcast-archive' ) );
+			$out['rendered_tail']   = substr( (string) $html, -900 );
+		} catch ( \Throwable $e ) {
+			$out['render_error'] = $e->getMessage() . ' @ ' . $e->getFile() . ':' . $e->getLine();
+		}
+	}
+	$log = WP_CONTENT_DIR . '/debug.log';
+	if ( file_exists( $log ) ) {
+		$out['debug_log_tail'] = array_slice( array_filter( explode( "\n", (string) file_get_contents( $log ) ) ), -15 );
+	}
+	return new \WP_REST_Response( $out, 200 );
+}
 
 function kosei_dana_purge_cache() {
 	$fired = array();
