@@ -52,7 +52,7 @@ Yoga teacher Troy Hadeed talks with Dana about church hurt, forgiveness, and Chr
 </ul>
 
 <h2>About Troy Hadeed</h2>
-<p>Troy Hadeed is an international yoga teacher, public speaker, and author based in Trinidad. He discovered yoga at fourteen after a teacher handed him a text on it as a joke during detention; Troy kept coming back on his own to read more. He went on to run a hemp store and a waste-cooking-oil recycling business for years before selling them to dedicate his life to studying and teaching yoga full-time. He's the author of the book <em>Popcorn in My Pocket</em> and also works one-on-one with students on their own journeys. Learn more and sign up for his newsletter at <a href="https://www.troyhadeed.com">troyhadeed.com</a>, or find him on Instagram.</p>
+<p>Troy Hadeed is an international yoga teacher, public speaker, and author based in Trinidad. He discovered yoga at fourteen after a teacher handed him a text on it as a joke during detention; Troy kept coming back on his own to read more. He went on to run a hemp store and a waste-cooking-oil recycling business for years before selling them to dedicate his life to studying and teaching yoga full-time. He's the author of the book <em>Popcorn in My Pocket</em> and also works one-on-one with students on their own journeys. Learn more and sign up for his newsletter at <a href="https://www.troyhadeed.com" target="_blank" rel="noopener">troyhadeed.com</a>, or find him on Instagram.</p>
 
 <h2>Quotes worth sitting with</h2>
 <blockquote><p>"I am putting up with that—that is not loving them. That is me loving what they provide me." —Troy Hadeed</p></blockquote>
@@ -60,13 +60,13 @@ Yoga teacher Troy Hadeed talks with Dana about church hurt, forgiveness, and Chr
 
 <h2>Resources mentioned</h2>
 <ul>
-<li>Troy Hadeed's website and newsletter: <a href="https://www.troyhadeed.com">troyhadeed.com</a></li>
+<li>Troy Hadeed's website and newsletter: <a href="https://www.troyhadeed.com" target="_blank" rel="noopener">troyhadeed.com</a></li>
 <li>Troy's book, <em>Popcorn in My Pocket</em></li>
 <li>Troy on Instagram</li>
 </ul>
 
 <h2>Enjoyed this episode?</h2>
-<p>If this conversation moved you, follow Phoenix and Flame so you never miss an episode: <a href="https://podcasts.apple.com/us/podcast/phoenix-and-flame-podcast/id1513991564">Apple Podcasts</a>, <a href="https://open.spotify.com/show/1605QJMBVo3qOCUPk8MM2c">Spotify</a>, <a href="https://music.amazon.com/podcasts/e0b1804a-98d0-46ca-9555-c26f44d49518/phoenix-and-flame-podcast">Amazon Music</a>, or <a href="https://www.youtube.com/@queenofboundaries">YouTube</a>, and leave a review; it helps other listeners find these conversations. Know someone wrestling with church hurt or forgiveness who needs to hear this one? Copy the link and text it, email it, or share it on social media, and help us grow the Phoenix and Flame community.</p>
+<p>If this conversation moved you, follow Phoenix and Flame so you never miss an episode: <a href="https://pod.link/1513991564" target="_blank" rel="noopener">all apps in one place</a>, or jump straight to <a href="https://podcasts.apple.com/us/podcast/phoenix-and-flame-podcast/id1513991564" target="_blank" rel="noopener">Apple Podcasts</a>, <a href="https://open.spotify.com/show/1605QJMBVo3qOCUPk8MM2c" target="_blank" rel="noopener">Spotify</a>, <a href="https://music.amazon.com/podcasts/e0b1804a-98d0-46ca-9555-c26f44d49518/phoenix-and-flame-podcast" target="_blank" rel="noopener">Amazon Music</a>, or <a href="https://www.youtube.com/@queenofboundaries" target="_blank" rel="noopener">YouTube</a>, and leave a review; it helps other listeners find these conversations. Know someone wrestling with church hurt or forgiveness who needs to hear this one? Copy the link and text it, email it, or share it on social media, and help us grow the Phoenix and Flame community.</p>
 
 <p>Curious where your own boundaries stand? Take my free <a href="https://danaskaggs.com/quiz/">Work Boundaries Quiz</a> and find out.</p>
 

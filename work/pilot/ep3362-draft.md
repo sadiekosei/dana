@@ -50,7 +50,7 @@ Feeling stuck or burned out? Career coach Sarah JanTausch joins Dana to share th
 </ul>
 
 <h2>About Sarah JanTausch</h2>
-<p>Sarah JanTausch is the founder of SRJ Coaching and Consulting and creator of the Value-Based Career Method, which helps professionals unlock the hidden job market and ditch burnout by building a career move rooted in core values, ideal work style, and goals. Connect with her at <a href="https://valuesbasedcareers.com">valuesbasedcareers.com</a>, where she hosts free monthly events, or find her on LinkedIn.</p>
+<p>Sarah JanTausch is the founder of SRJ Coaching and Consulting and creator of the Value-Based Career Method, which helps professionals unlock the hidden job market and ditch burnout by building a career move rooted in core values, ideal work style, and goals. Connect with her at <a href="https://valuesbasedcareers.com" target="_blank" rel="noopener">valuesbasedcareers.com</a>, where she hosts free monthly events, or find her on LinkedIn.</p>
 
 <h2>Pull quotes</h2>
 <blockquote>"When we have all these aching feelings, it usually means we're not living out the values that we truly have inside of us." &mdash; Sarah JanTausch</blockquote>
@@ -58,14 +58,14 @@ Feeling stuck or burned out? Career coach Sarah JanTausch joins Dana to share th
 
 <h2>Resources mentioned</h2>
 <ul>
-<li>Sarah JanTausch's website &mdash; <a href="https://valuesbasedcareers.com">valuesbasedcareers.com</a> (free monthly events on values-based career change)</li>
+<li>Sarah JanTausch's website &mdash; <a href="https://valuesbasedcareers.com" target="_blank" rel="noopener">valuesbasedcareers.com</a> (free monthly events on values-based career change)</li>
 <li>A values card sort exercise, which Sarah uses with clients to identify their top five values</li>
 <li>The Pathway Planner assessment from Wiley</li>
 <li>Other assessments Sarah mentioned using over the years: DISC, Myers-Briggs, and StrengthsFinder</li>
 </ul>
 
 <h2>Enjoyed this episode?</h2>
-<p>Follow phoenix and flame so you never miss an episode: <a href="https://podcasts.apple.com/us/podcast/phoenix-and-flame-podcast/id1513991564">apple podcasts</a>, <a href="https://open.spotify.com/show/1605qjmbvo3qocupk8mm2c">spotify</a>, <a href="https://music.amazon.com/podcasts/e0b1804a-98d0-46ca-9555-c26f44d49518/phoenix-and-flame-podcast">amazon music</a>, or <a href="https://www.youtube.com/@queenofboundaries">youtube</a>, and leave a review to help other listeners find the show. And if someone in your life needs to hear this today, send them the link &mdash; that's how we grow this community together.</p>
+<p>If this episode hit home, follow Phoenix and Flame so you never miss an episode: <a href="https://pod.link/1513991564" target="_blank" rel="noopener">all apps in one place</a>, or jump straight to <a href="https://podcasts.apple.com/us/podcast/phoenix-and-flame-podcast/id1513991564" target="_blank" rel="noopener">Apple Podcasts</a>, <a href="https://open.spotify.com/show/1605QJMBVo3qOCUPk8MM2c" target="_blank" rel="noopener">Spotify</a>, <a href="https://music.amazon.com/podcasts/e0b1804a-98d0-46ca-9555-c26f44d49518/phoenix-and-flame-podcast" target="_blank" rel="noopener">Amazon Music</a>, or <a href="https://www.youtube.com/@queenofboundaries" target="_blank" rel="noopener">YouTube</a>, and leave a review to help other listeners find the show. And if someone in your life needs to hear this today, send them the link; that's how we grow this community together.</p>
 
 <p>Curious where your own boundaries stand? Take my free <a href="https://danaskaggs.com/quiz/">Work Boundaries Quiz</a> and find out.</p>
 

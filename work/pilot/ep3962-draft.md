@@ -53,7 +53,7 @@ Midlife and burnout coach Jody Brooks shares his breakdown-to-breakthrough story
 
 <h2>About Jody Brooks</h2>
 <p>Jody Brooks is a UK-based midlife and burnout coach and the founder of Authentic Coaching. After burning out during a high-pressure international career in education (one stretch included 52 flights in eight months) he developed the nine principles of authentic living, a practical framework that helps people turn crisis into connection and sustainable well-being.</p>
-<p>Learn more and join his free community at <a href="https://authenticcoaching.me">Jody's website</a>, or connect with him on <a href="https://www.linkedin.com/in/jody-brooks-coach/">LinkedIn</a>.</p>
+<p>Learn more and join his free community at <a href="https://authenticcoaching.me" target="_blank" rel="noopener">Jody's website</a>, or connect with him on <a href="https://www.linkedin.com/in/jody-brooks-coach/" target="_blank" rel="noopener">LinkedIn</a>.</p>
 
 <h2>Favorite quotes</h2>
 <blockquote>"I actually can't go back." —Jody Brooks, on the moment burnout finally broke through</blockquote>
@@ -62,13 +62,13 @@ Midlife and burnout coach Jody Brooks shares his breakdown-to-breakthrough story
 
 <h2>Resources mentioned</h2>
 <ul>
-<li><a href="https://authenticcoaching.me">AuthenticCoaching.me</a>: Jody's website and free community, home to the "Start Stopping" exercise and the anxiety-regulation technique he mentions on the show</li>
+<li><a href="https://authenticcoaching.me" target="_blank" rel="noopener">AuthenticCoaching.me</a>: Jody's website and free community, home to the "Start Stopping" exercise and the anxiety-regulation technique he mentions on the show</li>
 <li>Jody's nine principles of authentic living (his coaching framework, discussed throughout the episode)</li>
-<li><a href="https://www.linkedin.com/in/jody-brooks-coach/">Jody Brooks on LinkedIn</a></li>
+<li><a href="https://www.linkedin.com/in/jody-brooks-coach/" target="_blank" rel="noopener">Jody Brooks on LinkedIn</a></li>
 </ul>
 
 <h2>Subscribe & connect</h2>
-<p>If this episode gave you something to sit with, follow Phoenix and Flame so you never miss an episode: <a href="https://podcasts.apple.com/us/podcast/phoenix-and-flame-podcast/id1513991564">Apple Podcasts</a>, <a href="https://open.spotify.com/show/1605QJMBVo3qOCUPk8MM2c">Spotify</a>, <a href="https://music.amazon.com/podcasts/e0b1804a-98d0-46ca-9555-c26f44d49518/phoenix-and-flame-podcast">Amazon Music</a>, or <a href="https://www.youtube.com/@queenofboundaries">YouTube</a>. And if it moved you, leave a review; it's the easiest way to help another listener find the show.</p>
+<p>If this episode gave you something to sit with, follow Phoenix and Flame so you never miss an episode: <a href="https://pod.link/1513991564" target="_blank" rel="noopener">all apps in one place</a>, or jump straight to <a href="https://podcasts.apple.com/us/podcast/phoenix-and-flame-podcast/id1513991564" target="_blank" rel="noopener">Apple Podcasts</a>, <a href="https://open.spotify.com/show/1605QJMBVo3qOCUPk8MM2c" target="_blank" rel="noopener">Spotify</a>, <a href="https://music.amazon.com/podcasts/e0b1804a-98d0-46ca-9555-c26f44d49518/phoenix-and-flame-podcast" target="_blank" rel="noopener">Amazon Music</a>, or <a href="https://www.youtube.com/@queenofboundaries" target="_blank" rel="noopener">YouTube</a>. And if it moved you, leave a review; it's the easiest way to help another listener find the show.</p>
 <p>Learn more about Phoenix and Flame, connect with Dana, and <a href="https://danaskaggs.com/link-tree/">listen to more episodes here.</a></p>
 <p>Curious where your own boundaries stand? Take my free <a href="https://danaskaggs.com/quiz/">Work Boundaries Quiz</a> and find out.</p>
 
