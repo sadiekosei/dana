@@ -55,7 +55,7 @@ Marni Battista broke her sacrum in seven places, spent 12 weeks flat on her back
 
 <h2>About Marni Battista</h2>
 <p>Marni Battista is an entrepreneur, author, transformational coach, and host of the Straight to the Point podcast. She's appeared in the LA Times and the New Yorker, and on Dr. Phil, Ryan Seacrest, and Home & Family TV. Her new book, <em>Your Radical Living Challenge: Seven Questions for a Meaningful Life</em>, is out February 5. She's also the founder of Dating with Dignity, a dating and relationship coaching practice built on self-love, self-confidence, and self-worth.</p>
-<p>Learn more at <a href="https://marnibattista.com" target="_blank" rel="noopener">MarniBattista.com</a>, where you'll find her book, the Dating with Dignity program, and her Radical Living work. Her Institute for Living Courageously site is also in development at the same domain family.</p>
+<p>Learn more at <a href="https://marnibattista.com" target="_blank" rel="noopener">MarniBattista.com</a>, where you'll find her book, the Dating with Dignity program, and her Radical Living work. She also mentions an Institute for Living Courageously site, still in development at the time of taping; no working URL for it was confirmed on air.</p>
 
 <h2>Favorite quotes</h2>
 <blockquote>"You have broken your sacrum because that is the foundation, and you have built your foundation of your life on doing and producing, and you have completely disconnected the emotional part of yourself. This is the universe saying it's time to rebuild." —the guide Marni consulted, as recounted by Marni Battista</blockquote>

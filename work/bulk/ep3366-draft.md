@@ -21,7 +21,7 @@ Executive coach Mette Reebirk on why every feeling starts with a thought, how to
 
 <p>Close your eyes for a second. Go ahead, really do it. Mette Reebirk asked me to try this live on the show, and within a breath there was a voice in my head going, "this is weird, I hope this doesn't last too long." Then a second voice: "come on, be positive, she has a plan." Then Mette asks the real question: who's the one watching those two voices argue? That's the whole episode in miniature. We have around 60,000 thoughts a day, she says, coming and going like clouds, and you do not have a single feeling, not anxiety, not shame, not anger, that wasn't created by a thought you believed to be true for a moment.</p>
 
-<p>Mette is an author and executive coach who's spent over two decades helping experienced leaders question their thoughts and free themselves from anxiety. Seven years ago, after decades in senior leadership (president of an investment-attraction organization, international director at two universities), she got fired for the second time in her career and started her own consultancy from scratch, not entirely sure what she had to offer once the company logo was gone. What she found, working with laid-off executives who "on paper had everything" and still felt hollow, became the foundation for the thought-questioning work she teaches today.</p>
+<p>Mette is an author and executive coach who's spent over two decades helping experienced leaders question their thoughts and free themselves from anxiety. Seven years ago, after decades in senior leadership (president of an investment-attraction organization, international director at a university, and director of corporate relations at another), she got fired, not for the first time in her career, and started her own consultancy from scratch, not entirely sure what she had to offer once the company logo was gone. What she found, working with laid-off executives who "on paper had everything" and still felt hollow, became the foundation for the thought-questioning work she teaches today.</p>
 
 <p>We get into why you're not actually meeting the person in front of you, you're meeting your own story about them, how that single insight can defuse a bad boss, a messy teenager's room, or a marriage fight, and why the only thing you ever really lose when you let go of a false belief is the story itself.</p>
 
@@ -33,7 +33,7 @@ Executive coach Mette Reebirk on why every feeling starts with a thought, how to
 <li>Why you don't have a feeling or emotion that wasn't created by a thought, and how to catch the thought before it becomes a stress spiral</li>
 <li>The "who's watching the two voices" trick for noticing your own mental chatter instead of getting swept up in it</li>
 <li>Why meeting someone else is really meeting your own story about them, and how that reframes conflict with a difficult boss, spouse, or teenager</li>
-<li>How Mette got fired, twice, and had to rebuild her entire sense of self once the corporate brand behind her name was gone</li>
+<li>How Mette got fired, not for the first time, and had to rebuild her entire sense of self once the corporate brand behind her name was gone</li>
 <li>Why letting go of blame doesn't mean tolerating bad leadership, it means dealing with one thing (the bad leader) instead of a whole story about them</li>
 <li>A simple body-based check ("can I be 100% sure that's true?") for questioning a belief the moment you feel it land in your stomach or your chest</li>
 </ul>
@@ -47,7 +47,7 @@ Executive coach Mette Reebirk on why every feeling starts with a thought, how to
 <li>(08:36) The two-voices exercise: noticing the watcher behind your own thoughts</li>
 <li>(09:48) Why every feeling you have was created by a thought you believed</li>
 <li>(13:03) Why letting go of an old story can feel like losing the stone in your shoe</li>
-<li>(16:31) "You need to look behind": what keeps people blaming a bad boss instead of dealing with one</li>
+<li>(14:03) "You need to look behind": what keeps people blaming a bad boss instead of dealing with one</li>
 <li>(19:48) Meeting the story instead of the person, and what that means for diversity and difference</li>
 <li>(24:41) The clothes-on-the-floor experiment: what changed once she stopped calling it "disrespectful"</li>
 <li>(27:50) The body check: noticing a racing heart or a stomach knot as your cue to question a belief</li>
@@ -359,7 +359,7 @@ Guys, I know you have heard so many things today that you're thinking, not only 
 ```html
 <p>Close your eyes for a second. Go ahead, really do it. Mette Reebirk asked me to try this live on the show, and within a breath there was a voice in my head going, "this is weird, I hope this doesn't last too long." Then a second voice: "come on, be positive, she has a plan." Then Mette asks the real question: who's the one watching those two voices argue? That's the whole episode in miniature. We have around 60,000 thoughts a day, she says, coming and going like clouds, and you do not have a single feeling, not anxiety, not shame, not anger, that wasn't created by a thought you believed to be true for a moment.</p>
 
-<p>Mette is an author and executive coach who's spent over two decades helping experienced leaders question their thoughts and free themselves from anxiety. Seven years ago, after decades in senior leadership, she got fired for the second time in her career and started her own consultancy from scratch, not entirely sure what she had to offer once the company logo was gone. What she found, working with laid-off executives who "on paper had everything" and still felt hollow, became the foundation for the thought-questioning work she teaches today.</p>
+<p>Mette is an author and executive coach who's spent over two decades helping experienced leaders question their thoughts and free themselves from anxiety. Seven years ago, after decades in senior leadership, she got fired, not for the first time in her career, and started her own consultancy from scratch, not entirely sure what she had to offer once the company logo was gone. What she found, working with laid-off executives who "on paper had everything" and still felt hollow, became the foundation for the thought-questioning work she teaches today.</p>
 
 <p>We get into why you're not actually meeting the person in front of you, you're meeting your own story about them, how that single insight can defuse a bad boss, a messy teenager's room, or a marriage fight, and why the only thing you ever really lose when you let go of a false belief is the story itself.</p>
 
@@ -368,7 +368,7 @@ Guys, I know you have heard so many things today that you're thinking, not only 
 <li>Why you don't have a feeling that wasn't created by a thought you believed</li>
 <li>A trick for noticing your own mental chatter instead of getting swept up in it</li>
 <li>Why meeting someone else is really meeting your own story about them</li>
-<li>How Mette got fired, twice, and had to rebuild her sense of self from scratch</li>
+<li>How Mette got fired, not for the first time, and had to rebuild her sense of self from scratch</li>
 <li>Why letting go of blame means dealing with one bad leader, not a whole story about them</li>
 <li>A simple body-based check for questioning a belief the moment you feel it land</li>
 </ul>
