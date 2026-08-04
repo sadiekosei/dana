@@ -28,12 +28,23 @@ Nothing is stored in the repo, and as of 2026-08-04 Sadie has not yet
 provided any of these. Ask for them once at session start, save to the
 session scratchpad, and export as env vars. Never commit them.
 
-1. **WordPress**: `WP_BASE=https://danaskaggs.com`, `WP_USER=kosei`,
-   and `WP_APP_PASS` (an Application Password — Sadie has one generated;
-   ask her to paste it). Verify with `bash tools/wp.sh me`. Note: the
-   site's WordPress/Site Address were `http://` on 2026-08-04 and Sadie
-   was switching them to https — if auth misbehaves, check whether that
-   migration finished.
+1. **WordPress**: `WP_BASE=https://danaskaggs.com`, `WP_USER=sadie`
+   (the app password is NAMED "Kosei" but belongs to user `sadie`,
+   id 2 — do not auth as "kosei", that user doesn't exist), and
+   `WP_APP_PASS` (Sadie pastes it per session). Verify with
+   `bash tools/wp.sh me`.
+
+   **Server-side dependency (do not remove):** Hostinger's CDN strips
+   the `Authorization` header, and WordPress behind that CDN can't see
+   it. A Code Snippets snippet on the site ("Restore Authorization
+   header", added 2026-08-04) fixes HTTPS detection
+   (`X-Forwarded-Proto` → `$_SERVER['HTTPS']`), force-enables
+   application passwords, and copies the `X-Kosei-Auth` request header
+   into `PHP_AUTH_USER/PW`. `tools/wp.sh` sends credentials in BOTH
+   `Authorization` and `X-Kosei-Auth`. If auth ever breaks with a
+   generic `rest_not_logged_in`, check that snippet is still active —
+   it also emits `X-Kosei-*` diagnostic response headers on REST calls
+   (snippet v3; the diagnostics block can be trimmed once stable).
 2. **Libsyn**: Libsyn has an API (api.libsyn.com, OAuth) but the practical
    path depends on what access Sadie can share — API credentials, or
    login for manual/scripted dashboard edits. Sort this out with her
@@ -112,16 +123,37 @@ Full endpoint notes: `references/wordpress-api.md`.
 - When her feedback and your assumption conflict, her intent wins.
 - Verify before reporting done.
 
+## Site facts (audited 2026-08-04)
+
+- Episodes are the CPT **`podcast`** (rest_base `podcast`, via CPT UI):
+  **176 published**, 2020-01-01 → present, all status publish.
+- Show notes are minimal: median 62 words; 174/176 under 200 words.
+  Typical structure: Libsyn `[iframe]` player shortcode, one intro
+  paragraph, sometimes a bare guest URL, then a "Check out this
+  episode!" Libsyn link. PRESERVE the player shortcode when rewriting.
+- **170/176 posts embed their Libsyn episode ID** in the player iframe
+  (`embed/episode/id/<ID>`) — that's the WP↔Libsyn join key; it's in
+  `work/episode-status.json`.
+- Titles pre-~2023 are "Episode N: Topic" (weak SEO); recent ones are
+  topic-first. Podcast tagline: "The Queen of Boundaries".
+- Yoast SEO active, but posts carry no custom meta via REST (`meta`
+  only exposes `footnotes`); Yoast fields not REST-writable — meta
+  description work goes through `excerpt` unless that changes.
+- Stack: Hostinger + LiteSpeed + CDN, WP 7.0.2, Elementor, CPT UI,
+  Pretty Links, WPForms, UpdraftPlus. Admin user is
+  `danabskaggs@gmail.com` (Dana); Sadie is user `sadie` (id 2).
+- **`work/episode-status.json`** is the ledger: one row per episode
+  (id, date, slug, title, libsyn_episode_id, word_count, flags
+  transcript_matched / wp_rewritten / libsyn_updated). Update it as
+  episodes are processed; commit after every working session.
+
 ## Session state at 2026-08-04
 
-- Repo initialized; skill ported from Melinda repo (branch
-  `claude/staged-site-copy-review-zragwt`, commit f26583f).
-- Site URL confirmed: https://danaskaggs.com, WP user `kosei`, app
-  password generated (Sadie pastes it per session — never in the repo).
-- The "Dana" cloud environment's network allowlist now includes
-  danaskaggs.com (added 2026-08-04; sessions started before that date
-  are blocked at the gateway and cannot reach the site).
-- Next step: `wp.sh me` auth check, then the episode audit (step 1 of
-  the workflow). None of the 177 episodes touched yet.
-- Still pending: Riverside transcript exports into `transcripts/`, and
-  the Libsyn access decision.
+- Connection FULLY WORKING end-to-end (auth saga documented above:
+  CDN header stripping + HTTPS detection + username was `sadie` not
+  `kosei`). The "Dana" cloud environment allowlists danaskaggs.com.
+- Audit complete; ledger committed. No episodes rewritten yet.
+- Next: Sadie provides Riverside transcripts into `transcripts/` →
+  pilot-rewrite 3–5 episodes for her sign-off → bulk run.
+- Still pending: Libsyn access decision (credentials vs paste-ready
+  files; the ledger's libsyn_episode_id column is ready either way).
