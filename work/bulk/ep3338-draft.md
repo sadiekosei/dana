@@ -42,11 +42,11 @@ Stress coach Lolita Guarin on burnout, growing up an adult child of an alcoholic
 <ul>
 <li>(00:04) Welcome and guest intro: meet Lolita Guarin, stress management coach</li>
 <li>(01:58) Chasing the American dream, and burnout that ended in collapsing on her kitchen floor</li>
-<li>(05:10) Why "leisure things" like yoga and journaling didn't fix what was actually wrong</li>
+<li>(01:58) Why "leisure things" like yoga and journaling didn't fix what was actually wrong</li>
 <li>(06:19) Discovering she grew up an adult child of an alcoholic (ACOA), and what that term actually means</li>
 <li>(09:32) "Stop abandoning yourself": what self-abandonment looks like day to day</li>
 <li>(17:37) Growing up with a narcissistic parent, and calling her mom for approval well into her 30s</li>
-<li>(19:32) The achievements-list exercise Lolita uses with clients who don't feel "enough"</li>
+<li>(20:06) The achievements-list exercise Lolita uses with clients who don't feel "enough"</li>
 <li>(23:31) How forgiving her parents, without excusing them, changed her relationship with them</li>
 <li>(25:50) What to do when a parent's dysfunction never stopped, even into your adult years</li>
 <li>(34:26) Where to find Lolita Guarin, her website, and her books on stress management</li>

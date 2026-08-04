@@ -1220,7 +1220,7 @@
   "word_count": 75,
   "has_timestamps": false,
   "transcript_matched": "transcripts/ep3334-poria-booker.txt",
-  "wp_rewritten": false,
+  "wp_rewritten": true,
   "libsyn_updated": false
  },
  {
@@ -1232,7 +1232,7 @@
   "word_count": 62,
   "has_timestamps": false,
   "transcript_matched": "transcripts/ep3335-nicolagan.txt",
-  "wp_rewritten": false,
+  "wp_rewritten": true,
   "libsyn_updated": false
  },
  {
@@ -1244,7 +1244,7 @@
   "word_count": 50,
   "has_timestamps": false,
   "transcript_matched": "transcripts/ep3336-katherinemccord.txt",
-  "wp_rewritten": false,
+  "wp_rewritten": true,
   "libsyn_updated": false
  },
  {
@@ -1256,7 +1256,7 @@
   "word_count": 62,
   "has_timestamps": false,
   "transcript_matched": "transcripts/ep3337-deannamoffitt.txt",
-  "wp_rewritten": false,
+  "wp_rewritten": true,
   "libsyn_updated": false
  },
  {
@@ -1268,7 +1268,7 @@
   "word_count": 68,
   "has_timestamps": false,
   "transcript_matched": "transcripts/ep3338-lolitaguarin.txt",
-  "wp_rewritten": false,
+  "wp_rewritten": true,
   "libsyn_updated": false
  },
  {

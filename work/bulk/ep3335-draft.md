@@ -64,7 +64,7 @@ Men's coach Nico Lagan on trading addiction and drug dealing for his five virtue
 <h2>Resources mentioned</h2>
 <ul>
 <li><a href="https://nicolagan.com" target="_blank" rel="noopener">NicoLagan.com</a>: Nico's website, with his books and all his social media</li>
-<li>"The Nico Lagan Show" — Nico's podcast, on all major platforms</li>
+<li>"The Nico Lagan Show": Nico's podcast, on all major platforms</li>
 </ul>
 
 <h2>Related episodes</h2>

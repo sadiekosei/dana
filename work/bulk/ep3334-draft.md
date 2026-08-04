@@ -64,7 +64,7 @@ Portia Booker shares her suicide-crisis survival story, workplace bullying and b
 
 <h2>Resources mentioned</h2>
 <ul>
-<li>"Finding Grace Within Grief: Her Transition, My Transformation" — Portia's debut audiobook, written from letters she wrote to God after her mother's death</li>
+<li>"Finding Grace Within Grief: Her Transition, My Transformation": Portia's debut audiobook, written from letters she wrote to God after her mother's death</li>
 <li><a href="https://mysoundwise.com/soundcasts/1665929514723s" target="_blank" rel="noopener">Groove with Portia</a>: Portia's podcast, also on YouTube, Spotify, Apple, and Google</li>
 <li><a href="https://www.instagram.com/portiathegriefgrantor/" target="_blank" rel="noopener">Portia on Instagram</a></li>
 <li><a href="https://www.linkedin.com/in/portiabooker/" target="_blank" rel="noopener">Portia on LinkedIn</a></li>

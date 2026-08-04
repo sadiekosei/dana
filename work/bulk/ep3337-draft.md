@@ -63,8 +63,8 @@ Coach and author Deanna Moffitt on rewriting the core wound stories we tell ours
 
 <h2>Resources mentioned</h2>
 <ul>
-<li>"The Rewrite: Change Your Life One Story at a Time" — Deanna's book on identifying and rewriting your core wound stories</li>
-<li>"The Power of Positive Thinking" — the book a 12-year-old Deanna read that first showed her she could be aware of her own thoughts</li>
+<li>"The Rewrite: Change Your Life One Story at a Time": Deanna's book on identifying and rewriting your core wound stories</li>
+<li>"The Power of Positive Thinking": the book a 12-year-old Deanna read that first showed her she could be aware of her own thoughts</li>
 <li><a href="https://deannamoffitt.com" target="_blank" rel="noopener">DeannaMoffitt.com</a>: Deanna's website, with a free 30-minute coaching call</li>
 </ul>
 

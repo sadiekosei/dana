@@ -19,7 +19,7 @@ Katherine McCord on turning six invisible disabilities into her superpower, and 
 
 <p><em>First aired January 28, 2024</em></p>
 
-<p>Picture this: an insurance company calls to apologize because they think they got her age wrong. Turns out they had it right — she was 26 — but her file, full of diagnosis after diagnosis, read like she'd lived twice that long. That's Katherine McCord, and it's exactly the kind of story she tells about herself with zero shame and a whole lot of humor. Katherine has six invisible disabilities, including bipolar disorder, obsessive compulsive disorder, and misophonia, plus multiple physical diagnoses including a seizure disorder, and she calls neurodiversity her superpower, not in spite of any of it.</p>
+<p>Picture this: an insurance company calls to apologize because they think they got her age wrong. Turns out they had it right (she was 26), but her file, full of diagnosis after diagnosis, read like she'd lived twice that long. That's Katherine McCord, and it's exactly the kind of story she tells about herself with zero shame and a whole lot of humor. Katherine has six invisible disabilities, including bipolar disorder, obsessive compulsive disorder, and misophonia, plus multiple physical diagnoses including a seizure disorder, and she calls neurodiversity her superpower, not in spite of any of it.</p>
 
 <p>Katherine is the founder of Titan Management, a national people operations consulting firm she started in 2014, and in 2021 she designed the first fully accessible, anti-bias applicant tracking system plugin, one that hides the resume and shows company diversity instead. We talk about what it means when your parents "steer into" your differences instead of fighting them, how to tell the difference between someone who's just uninformed and someone who's being deliberately unkind, and the line between having a diagnosis and using it to manipulate the people around you.</p>
 
@@ -32,7 +32,7 @@ Katherine McCord on turning six invisible disabilities into her superpower, and 
 <li>The difference between having a diagnosis and using it to manipulate people, and how to set a boundary around either one</li>
 <li>What misophonia actually feels like, from the sound of kissing to a booth full of strangers at a restaurant</li>
 <li>Why the Hewlett-Packard study found that letting people work in ways natural to them increases productivity by over 30%</li>
-<li>How to tell someone they have ADHD or autism for the first time as an adult, without making it sound like a diagnosis of doom</li>
+<li>How to tell someone they have ADHD for the first time as an adult, without making it sound like a diagnosis of doom</li>
 </ul>
 
 <h2>Timestamps</h2>
@@ -40,7 +40,7 @@ Katherine McCord on turning six invisible disabilities into her superpower, and 
 <li>(00:01) Welcome and guest intro: meet Katherine McCord, founder of Titan Management</li>
 <li>(02:18) Six invisible disabilities, and what "neurodiversity" actually means</li>
 <li>(03:58) The Aflac phone call: "Ms. McCord, we got your age wrong"</li>
-<li>(04:26) How Katherine's parents responded when she was diagnosed with OCD at age three</li>
+<li>(04:26) How Katherine's parents responded when she was diagnosed with OCD at three or four years old</li>
 <li>(06:41) Meeting "the jerk": Katherine's first encounters with people who weren't accepting</li>
 <li>(08:41) Choosing education over conflict, and the boundary of "not today"</li>
 <li>(12:28) The difference between having a diagnosis and using it to manipulate people</li>
@@ -358,7 +358,7 @@ So guys, I know without a doubt, unequivocally, that you have heard things today
 ## Proposed Libsyn description
 
 ```html
-<p>Picture this: an insurance company calls to apologize because they think they got her age wrong. Turns out they had it right — she was 26 — but her file, full of diagnosis after diagnosis, read like she'd lived twice that long. That's Katherine McCord, and it's exactly the kind of story she tells about herself with zero shame and a whole lot of humor. Katherine has six invisible disabilities, including bipolar disorder, obsessive compulsive disorder, and misophonia, plus multiple physical diagnoses including a seizure disorder, and she calls neurodiversity her superpower, not in spite of any of it.</p>
+<p>Picture this: an insurance company calls to apologize because they think they got her age wrong. Turns out they had it right (she was 26), but her file, full of diagnosis after diagnosis, read like she'd lived twice that long. That's Katherine McCord, and it's exactly the kind of story she tells about herself with zero shame and a whole lot of humor. Katherine has six invisible disabilities, including bipolar disorder, obsessive compulsive disorder, and misophonia, plus multiple physical diagnoses including a seizure disorder, and she calls neurodiversity her superpower, not in spite of any of it.</p>
 
 <p>Katherine is the founder of Titan Management, a national people operations consulting firm she started in 2014, and in 2021 she designed the first fully accessible, anti-bias applicant tracking system plugin. We talk about what it means when your parents "steer into" your differences instead of fighting them, how to tell ignorance from malice, and the line between having a diagnosis and using it to manipulate the people around you.</p>
 
