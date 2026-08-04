@@ -1,1 +1,227 @@
-[{"id":"6a2d6cf719636183cd7b21cc","sessionId":"52f65733-2ef0-4f89-9167-867b3da4b7a9","contentType":"blog-post","content":"Welcome friends. Whether you're out on a walk, running errands, or relaxing at home, it's wonderful to connect with you. Joining us today is Dennis Barros, author of *Wired Like This: Why Men Push Too Far and Still Say, I Got It!*. Dennis is a husband, a father of three, and has a background in senior leadership. He writes about the small everyday decisions at home, at work, and on the sidelines of a kid's game that shape how men actually behave. In this post, we’ll delve into insights from Dennis's experiences and discuss the unique challenges faced by men in high-pressure environments and how they can navigate them effectively.\n\n## Understanding the Male Mindset in Leadership\n\n### The Drive for High Performance\nDennis has spent a significant part of his career in the fitness industry, managing over twenty-nine locations in Texas. His work experience has been characterized by high growth and the necessity to keep up with relentless demands. This environment has shaped his understanding of leadership and the innate drive that many men possess to push themselves harder. He admits this drive often comes from a place of self-induced pressure, a trait that is common among high performers. \n\n**Why It Matters:** Understanding this drive is crucial as it influences not just workplace dynamics, but also family life and personal health. Men often carry this competitive nature into various aspects of their lives, sometimes leading to burnout or strained relationships.\n\n### The All-or-Nothing Mentality\nDennis describes himself as an all-or-nothing person, which resonates with a lot of men, especially in competitive environments. This mentality can lead to the perception that one must always be 'on' and outperform others to succeed. \n\n**The Challenge:** This relentless push can have negative consequences. Dennis recalls moments where he brought his competitive spirit into his children's sports, inadvertently transferring his high-performance expectations onto them. This realization highlights the importance of balance—where one needs to recognize when to push hard and when to scale back.\n\n### The Importance of Self-Regulation\nA significant theme in Dennis's discussion is the balance between work ethic and self-regulation. He contrasts his own inability to slow down with his wife's capacity for self-care and moderation. This contrast illustrates a broader conversation about how men and women can approach work-life balance differently, and the importance of recognizing these differences.\n\n**Key Insight:** Self-regulation is not just a personal trait but a skill that can be developed. Recognizing the need for boundaries is essential in preventing burnout, especially in high-pressure careers.\n\n## Navigating Work Ethic and Burnout\n\n### The Myth of Constant Hustle\nDennis shares his perspective on the common belief that constant hustle and long hours equate to success. He points out that this mentality can lead to a toxic work culture where employees feel pressured to overwork themselves to prove their worth.\n\n**What to Consider:** This mindset can adversely affect mental health and productivity. Dennis encourages leaders to foster an environment that values not just hard work, but smart work that includes time for recovery and self-care.\n\n### Finding Balance\nThe conversation naturally leads to the concept of balance. Dennis emphasizes that while a strong work ethic is essential, it must be tempered with the understanding that taking breaks and allowing for downtime is equally important for long-term success. \n\n**Practical Steps:** Leaders and individuals should actively work to create boundaries in their work lives. This could mean setting specific work hours, prioritizing tasks, and ensuring time for personal care and family.\n\n## Conclusion\nIn summary, Dennis Barros’s insights reveal the complexities of the male mindset in leadership roles. From the drive for high performance to the challenges of maintaining balance, it’s clear that understanding these dynamics is crucial for fostering healthier work environments. \n\n### Key Takeaways\n- Recognize the all-or-nothing mentality and its effects on personal and professional life.\n- Develop self-regulation skills to help manage work-life balance.\n- Challenge the myth of constant hustle and prioritize mental health and recovery.\n\nFor more on navigating leadership challenges and maintaining balance, check out [related post on work-life integration].\n\n---\n[IMAGE: A visual of a balanced scale representing work and life]\n[ALT TEXT: An illustration of a balanced scale symbolizing work-life balance]\n[INTERNAL LINK: Suggest a related post topic on burnout management] \n[EXTERNAL LINK: Link to a credible source on work-life balance strategies]","createdAt":"2026-06-13T14:45:11.150Z"},{"id":"6a2d6ce9e022b4794cff5a98","sessionId":"52f65733-2ef0-4f89-9167-867b3da4b7a9","contentType":"instagram-caption","content":"Ever felt like you’re pushing too hard and getting nowhere? 🙋‍♂️ Tag someone who needs to hear this!\n\nIn my journey through senior leadership, I’ve seen the relentless hustle that comes with it. But here’s the truth: pushing harder doesn’t always equal better results. \n\nIt’s easy to get caught in a cycle of work, competition, and constant motion. But what if slowing down could actually help you gain clarity? \n\nI’ve learned that balance is key. It’s not just about working hard; it’s about working smart and knowing when to recharge. \n\nLet’s stop glorifying burnout and start a conversation about sustainable success. What’s your strategy for finding that balance? \n\nLet’s embrace the journey together! \n\n#WiredLikeThis #Leadership #WorkLifeBalance #MentalHealthMatters #BurnoutAwareness","createdAt":"2026-06-13T14:44:57.514Z"}]
+Dana Skaggs (00:01)
+Welcome friends. Whether you're out on a walk, running errands, or relaxing at home, it's wonderful to connect with you. Joining us today is Dennis Barros. Dennis is the author of Wired Like This: Why Men Push Too Far and Still Say, I Got It! He's a husband, a father of three, with a background in senior leadership. He writes. about the small everyday decisions at home, at work, on the sideline of a kid's game that shape how men actually behave. Dennis, welcome to Phoenix in Flame.
+
+Dennis Bairos (00:47)
+Yeah, thanks for having me. Guilty. Yeah, all all is all is correct on there. I did write that book. Yeah, happy to be here and uh yeah, looking forward to the conversation.
+
+Dana Skaggs (00:51)
+Ha ha This is fantastic. So what first of all I'm interested in a bit of your background. Like you said you were in senior leadership, um, since I do a lot of work with uh with corporate space and and helping people with burnout. That was one of the things that drew me to you is is the the mindset that what you're presenting as the the masculine, the male mindset that could possibly trip somebody up. uh at work, because I I I work with high performers and they're saying the things that you have in your book. So I'm interested just kind of I'm creating some space for you to share what experiences have you had in, you know, senior leadership? What have you noticed there? And also with your family um uh and how these things have helped you arrive at writing a book.
+
+Dennis Bairos (01:42)
+Sure. Yeah, so I've I've been in the fitness industry for for quite some time. It's practically been my entire career. And most of the organizations I've been with, including the current one now, have been really high volume, high growth type of companies. Um so I currently oversee over twenty-nine locations here in Texas. Um fitness big box fitness use spaces and um so really rampant growth. And so most of my career, like I mentioned.
+
+Dennis Bairos (02:17)
+Um, I've I've had to move pretty fast. Uh it's just nonstop. I've had to work a lot, you know, and and most of it is is self-induced, you know, just me trying to keep up and trying to be a high performer myself. And um, so I think that's carried, I think that's natural for me. I'm a natural leader, and so I'm always taking, you know, probably more ownership than the average person. And so uh that's been instilled in me, you know, with my family and my children. Uh I noticed early on that I brought that over to my kids as well. You know, once my kids started getting into youth sports, um, that kind of drive, that push, the, you know, the long practices, the long hours. You know, it's funny, I on a podcast, I was uh last week, I was asked, you know, hey, do do you feel like you bring over your competitiveness prior, you know, maybe from your past as a child competing in sports? Have you brought that over to your kids? And I I thought to myself for a second, I You know, I don't think so. Um, I don't have like this unsettled, you know, failed athletic career or something that I'm trying to settle with my children. But I think it's just natural for me to push and to teach kids and to, hey, if you if you want to get better at something, you gotta keep practicing, you gotta keep moving. So yeah, I'm kind of an all or nothing person. Um I don't watch many sports, but the sports that I do I'm all in, like all are all in die hard fan. And so that's that's really how I run my life and it's it's you know very much natural for
+
+Dana Skaggs (03:51)
+Oh, I I love this description that you're giving. And I as I'm as I'm thinking, you'll notice as I look down, I'm I'm taking notes as as you're talking because I don't want to interrupt you. But I I would like to be able to say the same thing. Oh no, I I'm I'm a very competitive I get bruises playing musical chairs. And I'm not that's that's not hyperbole. I literally have bruises from my shoulders to my ankles playing musical chairs one year at a fall festival at my church.
+
+Dennis Bairos (04:11)
+Ha ha ha.
+
+Dana Skaggs (04:20)
+Okay. So I'm thinking of the phrase, if you're not bleeding, you're not playing. Okay. I mean, I have three kids as well, and and my husband is also a very competitive person. And so that's like if it they would say that, you know, if you're not bleeding, you're not playing. Um, and I m my youngest son um uh confronted me appropriately so one time.
+
+Dennis Bairos (04:20)
+Mm-hmm. uh Mm-hmm. Mm-hmm.
+
+Dana Skaggs (04:46)
+Because I said to him one too many times, stop half assing it. And he he like kind of link to me. And I feel like it was appropriate because I was so in my own head about push, push, push, push, push. And he'd had it, and I'd gone too far. And I think that's a lot of what you're talking about in your book that I want to hear much more about. And as we kind of segue into that, your book is focused on men. And I also want to bring up,
+
+Dennis Bairos (04:50)
+Yeah. Mm-hmm.
+
+Dana Skaggs (05:15)
+If you feel like, if your experience has been, not necessarily with your daughter, but with other coworkers, with friends, do you feel like it it can be a personality style? Cause uh have you run into men that did not have this this kind of, I got it, I'm I'm I'm you know, I'm gonna push this, I'm not gonna use GPS, I'm gonna figure this out. How much of that do you feel like is a is a male trait, which I feel like a lot of people would agree with, and have you seen these traits also in some women that you've interacted with along your lifetime?
+
+Dennis Bairos (05:54)
+Certainly, you know, what I can share, you know, from a I guess from a female perspective, you know, my wife and I, the dynamic between us, I mean, my wife works incredibly hard, she works remote, she homeschools all three of our children now, she works out every day, uh, but she's got this like self-regulation in her that I don't seem to have. Or at least mine doesn't work. Like she she She will come up with reasons to sleep and the needs for sleeping. And I come up with reasons not to sleep. Even though I I have a fitness-minded background, I know the importance of it, but for whatever reason, I can't seem to sleep past whatever 6 a.m. on a Saturday. You know, so um, so I see similarities across the board. Um, you know, what's interesting is when I release the book.
+
+Dana Skaggs (06:28)
+Stay.
+
+Dennis Bairos (06:48)
+I started getting people who would call or text or I run into them. And people, men who I think we have such different personalities, like completely different. Uh, I've run into guys that don't have children, they don't participate in sports, they're not ultra competitive. And they read my book and started telling me, hey, we're a lot alike. And I found that interesting. And so I think that uh, you know.
+
+Dana Skaggs (07:11)
+Mm.
+
+Dennis Bairos (07:17)
+There are so many patterns and similarities between whatever it may be, male or female, but obvious obviously I'm focusing on the male perspective because that's that's who I'm mostly around. And I think that at the surface it may look a little bit different, but deep down, you know, there's some drives in people that are very similar.
+
+Dana Skaggs (07:26)
+Sure. I got that. I got that. You pointed out something in your book that I thought was really interesting, especially when with my exposure to high performers, because I've had them in my office on FMLA, uh, having panic attacks and they just they they push, push, push, push, and they don't know how to I'm I'm known as the Queen of Boundaries and so I've they didn't have 'em. They didn't know how to set the boundaries and they were just pushing and pushing. You had something in your book that I thought was interesting that I wanted you to maybe take some time and expound on. Is this whole this idea, this feeling that if you don't, if you if you go slow, then you're gonna lose out. If you don't pick up the pace, if you're not the first one there, um, if you're not the first one to figure it out, if you're not the first one in the in the office, if you're not the first one with the answer, if if you slow down, if you bring it down from eighty five miles an hour down to fifty five, you're simply gonna lose out. Someone else is gonna get it in front of you, which I think is such a common experience.
+
+Dennis Bairos (08:13)
+Mm-hmm. Mm-hmm. Sure.
+
+Dana Skaggs (08:32)
+Tell us more about your experience with that, people that you've seen, and and what's in your book about that.
+
+Dennis Bairos (08:38)
+Yeah, I I I can offer two perspectives. So one is, you know, I as I grew up, I think work ethic was or still is really a um I look at it as a is my main skill, right? I think that you know for for people like me, we believe that if you work harder than most people, you're gonna be much further ahead than most. And I and I think that can be true in many cases. And so I think that carries on naturally for me. Um, the other side of it is uh the ego and the pride. You know, I think that still exists in so many pieces of business and in leadership. Um, is that if you put in longer hours, uh, you know, it's interesting when we when I travel a lot for work and we do grand openings and open up new locations, and you know, there's a lot of executive leadership there and you know, peers of mine, and there's almost this like um There's almost this like competition of like who's gonna leave first or stay later. And like, you know, and it's it's it's and it's so it's so silly at but it's it drives people like who's gonna be the first leave, who's gonna be last to leave, who's putting in longer hours. Um, you know, so I I think that exists and I think subconsciously it it it fuels exactly what we do in some cases. And so um that's what I would offer is You know, I think work ethic is still a main skill and still a trait that I think does carry most people further than others. Um, and then if you know, I think there's a lot of um talk and there's a lot of opinions being thrown out about younger generations and how you know their work ethic is lesser or whatnot. And so I think even more so it's amplified now that we're trying to show younger generations that you do need to put in work. And so, but You gotta find the balance, right? And and and avoid, you know, the the hot the hot word uh burnout. So
+
+Dana Skaggs (10:36)
+Mm-hmm. Yeah. That's a big deal. I love the word that you use balance, because that's that's it, right? In a you know, in a big way. It's sort of like if you go too far with a push, push, push, push, push, then you are gonna burn out if you add too many things. But on the other hand, there's the other end of that spectrum where if you don't have some kind of work ethic, then yes, if You know, other people are going to perform better than you and they are going to get the raises. They are going to get the promotions. And that's just that's how life works. But it's trying to find that balance. Um, you you had mentioned something in your book about the cold plunge. And um I love this, I love this example, and I would like to hear you talk about how we sometimes will
+
+Dennis Bairos (11:14)
+Mm-hmm.
+
+Dana Skaggs (11:31)
+add things like that, thinking, oh, this is this is going to give me the edge. This is a good idea. Right. And there's always another good idea around the corner. The thing of it is, in my mind, I w I'm I'm interested in your thoughts about the short game versus the long game because in it looking at it in terms of burnout, how many things can we add that we might look fantastic in the short game, but
+
+Dennis Bairos (11:45)
+The wheel.
+
+Dana Skaggs (11:55)
+We're not gonna last long doing all of that. And I just kinda wondered what your experience was and your thoughts and and talking about your the cold plunge and cracking that ice outside.
+
+Dennis Bairos (11:58)
+Sure. Well, I'll give I'll give you a great I'll give you a great example. I do I do write about this. So I I consider myself not a professional multitasker, but a certainly a uh someone who just lives on that most of my just most of my days and most of my weeks. I mean, I'm and I I'm conscious about it. I'm like, hey, Dennis, you're doing too much. You should stop. But it's just I'm wired like that, where I have to. Find all of the different opportunities to use up my time. And so not long ago, I was traveling for work. I was heading to um to one city and was only going there for an interview and then heading right back to the airport and going to another city. And I was gonna be there for a couple of days. And so I'm in the rental car driving to the airport, and I thought I got about 20 or 25 minutes. I needed to make a couple of calls. And so for me, if I'm in work mode, there's no podcast, there's no music, I'm just trying to find every single thing that I can do in in it throughout the day. So I take two calls, I'm on, I'm in the rental car, I pull up to the airport, uh, disconnect the Bluetooth, put my headphones in, wave the woman off, start walking to the terminal. Get to TSA, grab my briefcase, put it in, and I'm like, shit, where's my carry-on? So left it in the car. I'm walking back, finally finished my phone call, of course. Called the wife, let her know. I said, Hey, I left my carry on, just just a heads up. And she's like, Are you gonna make it? And like, without a doubt, I'm like, Yeah, I'm gonna make it. It's only like a five-minute walk. So I get back and the car is gone, nowhere to be found. I'm sitting there waiting, waiting, waiting. And so to me, like
+
+Dennis Bairos (13:59)
+And and that's a mistake that I often make and I will reflect on it, but it's it's sometimes hard to peel back. So the you know, just the multitasking and then trying to cram everything into every minute and it it costs me because I miss my flight.
+
+Dana Skaggs (14:16)
+Oh my gosh. That is such a useful and practical example. I'm sure listeners right now or viewers on YouTube are going, yeah, that's I've done that. I know what that's like. It's just sort of like doing spinning so many plates and you just they just, you know, they start dropping. So you write that I got it might be the most dangerous thing that men say. I got it. I got it. Talk about that. What do you mean by that? Why do you feel like that could be the most dangerous thing that men say?
+
+Dennis Bairos (14:55)
+So I've seen it in a couple of different ways as well. And interestingly enough, I've actually had somebody come to me after reading about my book and thinking that the I got it phrase was actually something different than I intended it to be, but I'll expand on that. So I think there's certainly a lot of ego that plays into it and there's this sense of, you know, uh security for others and you know for example like my my wife has since we moved to north texas she's become like this expert storm tracker I I'm not even kidding. I mean the minute we got off the plane and our first thunderstorm she she follows all of the experts and she it's funny because she knows way more about storms than I do now but yet she's still much more bothered by it. I ignore all of it. I mean If it's gonna rain, it's gonna rain, like we'll deal with it. Right. And so um, I very much am naturally just being the person that says it's you know, we'll deal with it when we get to it, and it's not a big deal, like we'll be okay. And sometimes I say that, but I I'm not even saying that consciously. I'm just it's just a habit for me to repeat that back. And um, you know, same thing with even just
+
+Dana Skaggs (15:55)
+Yeah.
+
+Dennis Bairos (16:19)
+You know, with me traveling a lot, I I read about that in the book a lot where I think, hey, I'll I'll make my flight. You know, when I get there, I get there. Like it's it's no big deal. So I say that naturally. I think it hurts me, um, sometimes for sure. But the other side of it and the perspective that I mentioned with with somebody, uh, is more I think more of like this growth mindset uh miss for them is, you know, I think people get uh Especially in the leadership world where you have to put out that you have all the answers, you have all the solutions. And so I I hear a lot of guys say, I got it, meaning I understand, I I understand the objective, I understand what I need to do, and it's really not happening. I think they're just saying that. I think it's sugarcoating exactly what's happening, and they're not afra they're afraid to say, Hey, I don't actually have it. I I need
+
+Dana Skaggs (16:53)
+Mm-hmm.
+
+Dennis Bairos (17:15)
+More clarity on this. I need to learn more about this. So I think it can kind of hit in a couple of different ways. And I'm seeing that in leadership a lot as well in the second.
+
+Dana Skaggs (17:26)
+That makes a lot of sense. And I've seen this as well. And I've heard people talk about this. This what I'm hearing you say, this fear of admitting that they don't know how to do something. Because if they admit that fear, then that's, you know, that's failure and they might be passed over for a promotion. Someone else might get ahead of them. I'm kind of wondering as we're talking about this, if you have any insight or wisdom on how we could create
+
+Dennis Bairos (17:32)
+Mm. Mm-hmm.
+
+Dana Skaggs (17:55)
+an environment in the workplace that would allow people, would allow men to admit, you know, look, I I've got this part, I've got this part on lock, but you know, I have I don't know really much about this part over here. Can can can we team up? Can you help me? What what are your thoughts on how to potentially what are some phrases, some words, some an atmosphere that could be created that would help to move that in a better direction?
+
+Dennis Bairos (18:25)
+Yeah, what I try to do, especially as a leader and also as a as a father for my children, is explain that, hey, I expect you to be as resourceful as you can. I admire, and you're gonna get a lot of credit for being the person that just figures things out, right? And doesn't always have to ask for help and just figures things out. You're you're gonna be more successful than the average person if you just do that. However,
+
+Dennis Bairos (18:55)
+When you get to the point where you can't figure it out anymore, you've ex you've explored all the resources, you have to be able to just pause for a second and think, who else can I reach out to? What kind of an expert can I go to? Like that is the next level. And I think framing it that way for people that you will be more successful, you will be uh uh looked at as someone that's admired a little bit more because you took that extra step and you showed courage to ask for help. And I so I I think framing it in that way has helped others in my field of business, especially for my children as well.
+
+Dana Skaggs (19:38)
+I love this example and I'm thinking about how teams work and looking at from a psychological perspective and that could even offer an opportunity to lift up a teammate and help them to feel like they have information that you need. They can feel more involved. They can feel like they have an asset, something to contribute, because you're you're going to them and saying, Hey, I feel like you're an expert in this area. I'm not an expert in this area. Can we
+
+Dennis Bairos (19:48)
+Yeah.
+
+Dana Skaggs (20:04)
+Can we have coffee for like twenty minutes and let me just pick your brain? And then that seems like that would would likely really help the whole team environment, everyone to feel a little more appreciated and acknowledged for what they do know.
+
+Dennis Bairos (20:17)
+Sure. Yeah. You know, I I I I I use the term level up a lot, right? And, you know, being a difference maker. And so framing it that way, like, hey, most people, they're gonna do what you're doing. They're going to figure it all out. They're gonna do all the research they can, but once they get to that point where they can't do it anymore, that's where the next level up happens. That's where changes really start to happen. And also just explaining that. The pride that's sitting in the way where you're thinking, oh, well, if I go to this person for some guidance or help, they're gonna think of me as lesser and weak or whatever it is. Trust me, they're gonna be they're gonna be thinking more about themselves and how good they feel that you went to them. Right. And so I think that's just a mindset change or shift. Um, that's been a key unlock, I think, in in many times in my career.
+
+Dana Skaggs (21:00)
+Yes. Uh yes. Mm-hmm. That and as you're explaining this, I'm thinking about the word that you used earlier, balance. And I'm thinking about different personality styles on teams at work. And you have on the one end, you would have, like you mentioned, someone who has a whole lot of pride and they're afraid to admit they don't know the answer to something. Well, after a while, you can't trust that person because you know they're gonna go too far. You know they're gonna say, I got it, when they effing don't. And you're and you're wondering when that's gonna play out in front of a client or something like that. And and so you can't trust that person. That's too far one direction. And then you also have people on the other end of the spectrum that won't ever take initiative for anything, maybe because they don't have a lot of confidence in themselves or different reasons and they're always going, How do I do this? How do I do this? And they're just very dependent on those around them. They won't take that initiative, they won't try to find the answer. Um, that's the whole other end of the spectrum that doesn't work well either. So I I love the the balance that you're talking about. Um now your wife in your book, she's a recurring voice that you bring up. Um what do you think she saw in you that you could not see?
+
+Dennis Bairos (22:13)
+Yeah. Well, you know, it's interesting. She she often calls me like a unicorn and sh it when I came up with the idea for the book, she's like saying Dennis, this is not gonna hit home with anyone. You're you you are unique. I don't I don't know anyone like you. But I I was able to convince her otherwise because I've gotten so many people who've responded saying, I'm just like you and I I do the same things, it's just maybe a little bit different or whatever. And so I but she she only sees what she sees. And so I think the biggest part for for me that I got from her was all around centered around kind of the youth coaching piece. She was able to bring to light that I like visibly appeared more bothered coaching my kids than other coaches. Like I would, we would. Get in the car and she's like, Are you okay? You were just, I could just tell you were pacing, you're getting louder than you normally do. Like, you gotta just chill. And so I would brush it off at first, and um, but it it kind of continued and it kind of snowballed into some other stories there. But I I'm so passionate about coaching and leading and sports in general and bettering and developing children. And so I would have just kept going in that direction. Like to me, it was normal. To me, it was I see an opportunity to coach a child, I do it. You know, I see an opportunity to address a referee, I do it. And so to me, it's like that's that's what I'm supposed to do. I signed up as head coach, like that's my job. Uh she was able to frame it in a different way for me to say, hey, look, you it's a little you're acting a little bit different than other coaches. And so that was probably the most impactful for my life, of course, with with parenting is sh she was able to kind of offer that lens. Yeah.
+
+Dana Skaggs (24:30)
+Well, when she was making that observation, what do you think she was actually observing? 'Cause you said she said you act a little different different from other coaches, you seem more bothered. What what do you f now that you could have some you know hindsight, they say, you know, twenty twenty hindsight, what do you think was going on with you that was causing these behavioral changes that she noticed?
+
+Dennis Bairos (24:52)
+Well, you know, starting off with, you know, let's say, for example, T ball, you know, five, six year olds, maybe a little bit younger. I I noticed that most coaches were very hands-off. Um, like I'm talking about they it was just high fives. It was you're doing a great job. Like there was very, very little direction given, which is fine. Um, but I started to notice Children that would sign up for T ball or whatnot, or they would give it a year and they just wouldn't return the next year. Um, because very quickly in baseball and other sports, children start to get exposed. You know, they they get a they're a step behind other kids, then it's not fun anymore for them because they're not playing well, they're being embar they're getting embarrassed. And I I spent a lot of time with my kids playing in our backyard and I I would just put in that extra work with them and I saw the difference and I started to have parents come up to me and say things like, Oh, how often does your parent practice does your child practice? Uh they seem to be a natural at it. And I would get offended. And I would say, My my child's not a natural. Like I I know where where he started. I put in the extra work with him. And so I saw the difference between a child who just goes home and doesn't practice their game and they just show up for practice once a week. So my first year of coaching that carried with me. And so I just continued to be uh that coach that would provide more development, more direction, constant feedback. Um, but then it started to get it started to go overboard a little bit where raising my voice, um, not necessarily at the kids. You know, maybe sometimes directed just at the environment or the coaches and things like that. And so I think I saw a win for me. I saw it work for my child. And then naturally it just progressed. Um, and and that's when she started to notice, like, hey, I think you're going a little bit overboard.
+
+Dana Skaggs (26:56)
+Got you. That makes sense. I c I totally understand that. So to that point, and I'm thinking about coaching is a hobby, or there might be some other hobbies that that men are involved in. So what do you think is actually going on when a guy goes all in on some hobby? And we all know we all know our our partners, our husbands, you know, whoever the guys that are going all in on some hobby for maybe even a few years.
+
+Dennis Bairos (27:13)
+Mm-hmm.
+
+Dana Skaggs (27:23)
+Right. They're all in. They're doing all the things, buying all the stuff, they're looking it up online, all the things. And then they just drop it. They just all of a sudden they just drop it. What and and here they have all this equipment, they've allocated all this time, all this stuff. So you got a garage full of all this stuff. What what's going on at that point when when you see a man doing that? What's what do you see is is happening there?
+
+Dennis Bairos (27:39)
+Yeah. For me, it starts as the reason I think we go all in is it becomes an identity. It just becomes this is who we want to be. Um you know, I I think it's a way to stay competitive. I think it's a way to latch on to something. Again, it's a it's an identity. And I think once you realize again, for me, once I realize that this isn't the identity that I want anymore or it's not working. then you completely drop it. It's almost like you want to forget that it ever happened and you latch onto something else. And so um there's some competitiveness to it. I think there's some drive, like you you you start a new hobby and you you you see where you can get to it and and or you know, so I think there's a little bit of that, but for most I think for most it's it's an identity thing. Like I want to be the golfer or I want to be the car guy or whatever it may be. I think that's mostly where it comes from.
+
+Dana Skaggs (28:50)
+Yeah. So then why did they just automatically stop? It it what happened to that need to I to identify with that?
+
+Dennis Bairos (29:00)
+Again, for me, it's it's you realize it's either not working, it just becomes something that maybe you failed at. I never got to the level that I I wanted to be. Like, for example, with my son with golf, I I beg I started to golf myself, and my son naturally picked it up. And as soon as I realized I think that this isn't going to be something that I'm gonna do for probably a long time, or I'm not gonna get to the level that I really would have. like to be at the beginning and now my son's into it. So now it automatic automatically changes. Now it's now it's my son. So I think it's a little bit of giving up, right? And and realizing this isn't going to be something that I'm going to be amazing at. And so why don't I just cut ties with it now? So that's what I found it to be for me. Uh a little bit is you just kind of lose that um it loses its lust a little bit. It's it wasn't as sexy as it was in the beginning. And Uh, you know, maybe yeah, maybe also it reminders from the wife that you're spending too much money on something also helps and you know you've gone overboard with that. So um, you know, I I think for me it's it's mostly um I I'm not getting to where I initially thought I would get to. And so why don't I cut ties?
+
+Dana Skaggs (29:59)
+Wasn't as it's not as novel now. Mm. Well I can totally understand that. And there's there's again back to balance, I could see how in some instances that makes total sense. And then in other ways, if somebody had a habit of doing this over and over like they had an expectation of themselves as being a plus on something, the whole perfectionism thing. And if they're not a plus, that it won't have anything to do with it.
+
+Dennis Bairos (30:39)
+Sure. Mm-hmm. Yeah. Well, and then there's also the um, this goes back to, you know, kind of my obsessive personality and nature where I I want to be an expert at whatever hobby that I have. Um, and so I I mentioned in the book that I was like this wannabe wine connoisseur at one point and pairing meals and all these things, and then fast forward a couple of years, I don't even drink it, you know, but at at the time
+
+Dana Skaggs (31:11)
+Ha ha ha
+
+Dennis Bairos (31:13)
+It was something that I was really excited about and passionate about. So I wanted to learn everything about it. So I think that initial burst of energy that goes into learning something new that continues to carry on and that creates the habit or the obsession or whatever it is. Um, so yeah, I don't know if that's it's like that for most, but for me for sure, it's that initial burst of energy that I put into something also triggers that all in approach.
+
+Dana Skaggs (31:42)
+So as you're explaining that, I I I have a uh an observation and a question. So th the the behavior pattern that you're describing of being drawn to something novel, wanting to learn something new, that's very common for people that have higher levels of intelligence because they learn quickly, then they get bored easily, um, they and then they're they want something new. They want they want to learn something new. And so that's that's fabulous, right? But I'm also trying to lay that over in the business realm.
+
+Dennis Bairos (32:04)
+Mm-hmm.
+
+Dana Skaggs (32:12)
+And wondering what your experience has been with men and how can they be able to satisfy this need to learn more and do more? And this wiring of pushing and and and this without burning out, without how how do they find that balance when they're in a workplace, when they're in leadership, when they're what you know, they might be the manager, they might be on a team, and they're they're smarter possibly than the average person in the room, or maybe they're filled with a room. Full of very smart individuals and wanting to have that novelty and maybe t how do they not do that too much? How do they set that boundary where they're not going too far with that? But then also along that same line, what if they're in position where their employer, they're really good at one particular area and their employer wants them to stay in that area because they're fantastic at it and they start getting burned out because they're they want something new.
+
+Dennis Bairos (32:42)
+Mm-hmm.
+
+Dana Skaggs (33:10)
+But they're an expert in that area. And so it's like how how the how the balance is how how how would that play out? What's your experience been with men that you've talked to along these lines?
+
+Dennis Bairos (33:12)
+Mm-hmm. Sure. Well, I'll comment on your first point. There is I think it's a l it's a little bit easier in leadership for you to be able to reflect on this, but one of the biggest learning lessons that I've had over time, I used to be the guy that would be sending out emails at midnight or 4 30 in the morning. And I occasionally do, not intentionally. It's just I'm catching up or, you know, getting up early and things like that. And What most leaders I think don't realize is that the impact that it has on the recipient of that email, right? And this uh for some, they're gonna think my boss is emailing me at midnight and now I need to respond, right? And things like that. One of the biggest learning lessons that I had is I was at an airport one day and I often just talk to other business travelers. And I that day I happen to be doing like a midday flight, which I almost never do. Um usually like a 6 a.m. or a 7 a.m. flight person. I don't like to fly anything later than 9 a.m. It feels like I'm losing time there. And so I started to chat with him and I said, hey, I normally do early morning flights. And he looked at me and he's like, oh, I never do early morning flights. I I used to do that when I was younger. And so we got into a conversation and he he basically told me that hey look when you especially as a leader, when your pace
+
+Dana Skaggs (34:30)
+Okay.
+
+Dennis Bairos (34:48)
+Like your work ethic and your pace becomes your identity. The people, especially who follow you, who work for you, they don't just see the results, they see the costs. And so they start to internalize, I don't know if I want to do what he does. I don't know that I want to be sending out emails at 4 a.m. I don't know that I want to be jumping on a plane at 6 a.m. every Monday. And so that had a a profound effect on me because I was realizing that my pace was.
+
+Dana Skaggs (35:03)
+Mm.
+
+Dennis Bairos (35:18)
+Potentially putting a damper on others, especially the people who report to me, and I don't want them to feel that way or that they have to catch up. So that's been a huge shift for me. Um you know, as in regards to the novelty piece, you know, I I do move on from things pretty quick, but I I I have seen others that want to move on from one thing to the next, but I but I am someone that I can say that I do complete my work. do complete my projects and I I'm not I I guess I I put excellence and doing things really well over quantity and you know so I I'm not someone that wants to move on to the next job or anything like that. I I I truly am someone that wants to master my craft and where whatever environment that I'm in it now. But I have seen several people who want to move on from one thing to the next.
+
+Dana Skaggs (36:13)
+Yeah. Again, back to balance, you know, trying to figure that out. It's it's a it's a minefield sometimes and it's choices, choices of how to figure out how to do it the right way. So we are unfortunately out of time today, but Dennis, I know that the listeners and the viewers want to know how to get a hold of you, how to learn more about you, you know, your book and everything. And by the way, since I have the book right here, I'm gonna show it. Anyone on
+
+Dennis Bairos (36:15)
+Mm-hmm. Sure. Sure.
+
+Dana Skaggs (36:40)
+on YouTube we'll be able to see this. I love it. I love it. Um so what is there a website that you would like them to visit? How how would you like for them to to access you?
+
+Dennis Bairos (36:41)
+I'll do the same. There you go. Thank you. So the best way would be Instagram. So uh I it's funny, before I wrote my book, I'll just say this. Before I wrote my book, I was I hadn't done a Facebook post in seven years. And so I I naturally don't have like this large audience. I was very rarely on social media, um, just focused on parenting and and work and and and taking care of myself. And then I wrote the book and I realized I gotta market this damn thing. So I I I did start an Instagram page and I've been actually having a lot of fun with it and you know trying to to keep it light and and um you know.
+
+Dana Skaggs (37:25)
+Ha ha ha.
+
+Dennis Bairos (37:34)
+you know, post some content that's gonna adhere to many different audiences. So um it's it's keep the edge on Instagram. So it's keep dot the dot edge on Instagram. So um that's the best way to find me. And uh of course the book is available uh exclusively on Amazon. So yeah, that's the best way to catch me.
+
+Dana Skaggs (37:53)
+Fabulous. Got the word. And that's all gonna be in the show notes. So Dennis, I really appreciate you spending your precious time and your your knowledge, your wisdom, your experience, your stories with myself and and all of my listeners and viewers. Thank you very, very much.
+
+Dennis Bairos (38:12)
+Yeah, thank you so much for having me and uh appreciate your time as well. Take care.
+
+Dana Skaggs (38:16)
+Now, listeners, viewers, I know you have heard multiple things today that you're thinking, I have a friend, I have a family member, I have a coworker that needs to hear exactly what Dennis is saying. So take this podcast episode, copy and paste the link, send it in text, send it in email, post it on your favorite social media sites so we can grow our Phoenix inflame community and let people know you are not alone. I hope your day has been great. I hope the rest of your day is fantastic. I'm Dana on Phoenix and Flame.
