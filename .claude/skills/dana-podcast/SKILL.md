@@ -28,9 +28,12 @@ Nothing is stored in the repo, and as of 2026-08-04 Sadie has not yet
 provided any of these. Ask for them once at session start, save to the
 session scratchpad, and export as env vars. Never commit them.
 
-1. **WordPress**: `WP_BASE` (Dana's site URL), `WP_USER`, and
-   `WP_APP_PASS` (an Application Password: WP admin → Users → Profile →
-   Application Passwords). Verify with `bash tools/wp.sh me`.
+1. **WordPress**: `WP_BASE=https://danaskaggs.com`, `WP_USER=kosei`,
+   and `WP_APP_PASS` (an Application Password — Sadie has one generated;
+   ask her to paste it). Verify with `bash tools/wp.sh me`. Note: the
+   site's WordPress/Site Address were `http://` on 2026-08-04 and Sadie
+   was switching them to https — if auth misbehaves, check whether that
+   migration finished.
 2. **Libsyn**: Libsyn has an API (api.libsyn.com, OAuth) but the practical
    path depends on what access Sadie can share — API credentials, or
    login for manual/scripted dashboard edits. Sort this out with her
@@ -111,7 +114,14 @@ Full endpoint notes: `references/wordpress-api.md`.
 
 ## Session state at 2026-08-04
 
-- Repo just initialized; skill ported from Melinda repo (branch
+- Repo initialized; skill ported from Melinda repo (branch
   `claude/staged-site-copy-review-zragwt`, commit f26583f).
-- BLOCKED on: WordPress URL + application password, Libsyn access,
-  Riverside transcript exports. None of the 177 episodes touched yet.
+- Site URL confirmed: https://danaskaggs.com, WP user `kosei`, app
+  password generated (Sadie pastes it per session — never in the repo).
+- The "Dana" cloud environment's network allowlist now includes
+  danaskaggs.com (added 2026-08-04; sessions started before that date
+  are blocked at the gateway and cannot reach the site).
+- Next step: `wp.sh me` auth check, then the episode audit (step 1 of
+  the workflow). None of the 177 episodes touched yet.
+- Still pending: Riverside transcript exports into `transcripts/`, and
+  the Libsyn access decision.
