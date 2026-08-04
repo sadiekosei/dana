@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Kosei Dana Podcast Tools
  * Description: Narrow, single-purpose REST API for safely appending ONE new top-level Elementor container to the /podcast/ page (post ID 3048) only. Built by Sadie's Claude Code session; safe to deactivate/delete once the podcast archive widget work is finished.
- * Version: 1.6.0
+ * Version: 1.7.0
  * Author: Kosei Designs
  */
 
@@ -70,7 +70,82 @@ add_action( 'rest_api_init', function () {
 		'callback'            => 'kosei_dana_replace_latest_episodes',
 		'permission_callback' => function () { return current_user_can( 'edit_pages' ); },
 	) );
+	register_rest_route( 'kosei-dana/v1', '/podcast-page-merge-widget-settings', array(
+		'methods'             => 'POST',
+		'callback'            => 'kosei_dana_merge_widget_settings',
+		'permission_callback' => function () { return current_user_can( 'edit_pages' ); },
+	) );
 } );
+
+// Merges (shallow) the given key/value pairs into ONE existing element's
+// `settings`, found anywhere in the tree by id. Narrowly scoped: it can
+// only change values of keys that already exist as valid Elementor/EA
+// control names on that element, never add/remove/reorder elements or
+// touch any other element's id.
+function kosei_dana_merge_widget_settings( \WP_REST_Request $req ) {
+	$body = json_decode( $req->get_body(), true );
+	$id   = is_array( $body ) ? ( $body['id'] ?? '' ) : '';
+	$patch = is_array( $body ) ? ( $body['settings'] ?? null ) : null;
+	if ( ! $id || ! is_array( $patch ) || empty( $patch ) ) {
+		return new \WP_Error( 'bad_body', 'Body must be {"id": "<element id>", "settings": {"<control>": <value>, ...}}.', array( 'status' => 400 ) );
+	}
+
+	$raw     = get_post_meta( KOSEI_DANA_PAGE_ID, '_elementor_data', true );
+	$decoded = json_decode( is_string( $raw ) ? $raw : '', true );
+	if ( ! is_array( $decoded ) ) {
+		return new \WP_Error( 'bad_data', 'Existing _elementor_data did not decode as an array.', array( 'status' => 500 ) );
+	}
+
+	$found = false;
+	$before_values = array();
+	$apply = function ( &$el ) use ( &$apply, $id, $patch, &$found, &$before_values ) {
+		if ( ( $el['id'] ?? '' ) === $id ) {
+			$found = true;
+			if ( ! isset( $el['settings'] ) || ! is_array( $el['settings'] ) ) {
+				$el['settings'] = array();
+			}
+			foreach ( $patch as $k => $v ) {
+				$before_values[ $k ] = $el['settings'][ $k ] ?? null;
+				$el['settings'][ $k ] = $v;
+			}
+			return;
+		}
+		if ( ! empty( $el['elements'] ) && is_array( $el['elements'] ) ) {
+			foreach ( $el['elements'] as &$child ) {
+				$apply( $child );
+			}
+			unset( $child );
+		}
+	};
+	foreach ( $decoded as &$top ) {
+		$apply( $top );
+	}
+	unset( $top );
+
+	if ( ! $found ) {
+		return new \WP_Error( 'not_found', 'No element with that id found on the page.', array( 'status' => 404 ) );
+	}
+
+	update_post_meta( KOSEI_DANA_PAGE_ID, '_elementor_data', wp_slash( wp_json_encode( $decoded ) ) );
+	if ( class_exists( '\Elementor\Core\Files\CSS\Post' ) ) {
+		try {
+			delete_post_meta( KOSEI_DANA_PAGE_ID, '_elementor_css' );
+			\Elementor\Core\Files\CSS\Post::create( KOSEI_DANA_PAGE_ID )->update();
+		} catch ( \Throwable $e ) { /* non-fatal */ }
+	}
+	if ( class_exists( '\Elementor\Plugin' ) ) {
+		\Elementor\Plugin::$instance->files_manager->clear_cache();
+	}
+	do_action( 'litespeed_purge_post', KOSEI_DANA_PAGE_ID );
+	do_action( 'litespeed_purge_all' );
+
+	return new \WP_REST_Response( array(
+		'ok'             => true,
+		'id'             => $id,
+		'applied'        => $patch,
+		'previous_values' => $before_values,
+	), 200 );
+}
 
 // The ONLY endpoint permitted to touch an original element: replaces the
 // specific top-level section containing "Latest" heading text (verified
