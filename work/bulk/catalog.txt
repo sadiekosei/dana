@@ -1,0 +1,176 @@
+3233|2020-01-01|episode-1-youre-in-my-yard|Episode 1: You're in my Yard!
+3234|2020-01-15|episode-2-what-are-boundaries-anyway|Episode 2: What are Boundaries Anyway?
+3235|2020-02-01|episode-3-i-have-to-mow-my-own-yard|Episode 3: I Have to Mow My Own Yard!
+3236|2020-02-15|episode-4-kids-driving-the-car-2|Episode 4: Kids Driving The Car
+3237|2020-03-01|episode-5-beliefs-and-pain-2|Episode 5: Beliefs and Pain
+3238|2020-03-10|candid-shot-1-hair-im-the-crypt-keeper|Candid Shot 1: Hair (I’M THE CRYPT KEEPER)
+3239|2020-04-09|episode-6-the-blame-game-2|Episode 6: The Blame Game
+3240|2020-04-09|episode-7-bermuda-triangle-2|Episode 7: Bermuda Triangle
+3241|2020-04-09|candid-shot-2-covid-19-2|Candid Shot 2: COVID 19
+3242|2020-04-09|episode-8-covid-help-2|EPISODE 8: COVID HELP!
+3243|2020-05-25|episode-9-covid-19-the-sequel|Episode 9:  COVID-19, The Sequel
+3244|2020-05-30|george-floyd-is-one-of-us|George Floyd Is One of Us
+3245|2020-07-14|pepperonis-and-peace|Pepperonis and Peace
+3246|2020-09-07|https-traffic-libsyn-com-secure-phoenixandflame-episode-12-maf-ohmy-mp3|Manifestos, Applecarts, and Fear, Oh My!
+3247|2020-11-22|what-does-it-take-to-be-enough|What Does It Take To Be "Enough"?
+3248|2020-12-14|shampoo-lather-and-staying-in-the-now|Shampoo Lather and Staying in the "Now"
+3249|2021-01-18|patreon-polka-2|Patreon Polka
+3250|2021-01-18|anxiety-at-work|Anxiety at Work
+3251|2021-01-25|accepting-ourselves-inside-and-out|Accepting Ourselves, Inside and Out
+3252|2021-02-08|seeds-weeds-and-soil-how-to-grow-good-things-in-your-life|Seeds, Weeds, and Soil:  How to Grow Good Things in Your Life
+3253|2021-02-22|getting-pulled-into-the-past-our-shame-response-and-the-impact-of-unprocessed-trauma|Getting Pulled Into the Past:  Our Shame Response and the Impact of Unprocessed Trauma
+3254|2021-03-08|weathering-the-storm-resiliency-grit-and-antifragility|Weathering the Storm:  Resiliency, Grit, and Antifragility
+3255|2021-03-21|my-anxiety-is-eating-me-alive|My Anxiety Is Eating Me Alive!
+3256|2021-04-04|pink-elephants-in-the-room-the-high-cost-of-avoidance|Pink Elephants In the Room - the High Cost of Avoidance
+3257|2021-04-18|the-intra-family-feud|The Intra-Family Feud
+3258|2021-05-02|what-is-this-god-thing-anyway|What Is This "God" Thing, Anyway?
+3259|2021-05-23|when-your-loved-one-is-mentally-ill|When Your Loved One Is Mentally Ill
+3260|2021-06-06|people-pleasing-and-the-sticky-rope|People-Pleasing and the Sticky Rope
+3261|2021-06-21|surviving-gaslighters-and-manipulators|Surviving Gaslighters and Manipulators
+3262|2021-07-05|boundaries-and-social-media|Boundaries and Social Media
+3263|2021-07-18|is-therapy-for-you|Is Therapy For You?
+3264|2021-08-02|the-fear-trap|The Fear Trap
+3265|2021-08-08|where-do-you-belong|Where Do You Belong?
+3266|2021-08-22|walking-on-water-is-it-for-you|Walking On Water, Is It For You?
+3267|2021-09-06|life-and-death-blessings-and-curses|Life and Death, Blessings and Curses
+3268|2021-09-19|youre-not-alone-interview-series-when-a-loved-one-commits-suicide|"You're Not Alone" Interview Series:  When a Loved One Commits Suicide
+3269|2021-10-04|the-martha-syndrome-part-one|The Martha Syndrome - Part One
+3270|2021-10-24|the-martha-syndrome-part-two|The Martha Syndrome - Part Two
+3271|2021-11-05|youre-not-alone-interview-series-surviving-divorce|"You're Not Alone" Interview Series:  Surviving Divorce
+3272|2021-11-22|divorce-interview-afterthoughts|Divorce Interview Afterthoughts
+3273|2021-12-05|youre-not-alone-interview-series-finding-physical-release-from-emotional-bondage-with-eft-ann-hince|"You're Not Alone" Interview Series:  Finding physical release from emotional bondage with EFT (Ann Hince)
+3274|2021-12-19|emotional-freedom-technique-101|Emotional Freedom Technique 101
+3275|2021-12-23|christ-christmas-and-lessons-from-whoville|Christ, Christmas, and Lessons from Whoville
+3276|2022-01-03|youre-not-alone-interview-series-heather-hutchisons-journey-through-blindness-depression-and-suicidal-plans-and-how-music-became-her-safe-haven|"You're Not Alone" Interview Series:  Heather Hutchison's journey through blindness, depression, and suicidal plans and how music became her safe haven
+3277|2022-01-16|the-jungle-of-forgiveness-and-boundaries-can-they-co-exist|The Jungle of Forgiveness and Boundaries - Can They Co-Exist?
+3278|2022-01-30|youre-not-alone-interview-series-rodolfo-deangeli|"You're Not Alone' Interview Series:  Rodolfo DeAngeli
+3279|2022-02-13|youre-not-alone-interview-series-dr-debi-silber-transforming-after-betrayal|"You're Not Alone" Interview Series:  Dr. Debi Silber - Transforming After Betrayal
+3280|2022-02-28|youre-not-alone-interview-series-gender-identity-with-lesli-hudson-reynolds|"You're Not Alone" Interview Series:  Gender Identity with Lesli Hudson-Reynolds
+3281|2022-03-13|youre-not-alone-interview-series-dr-amy-novotny-and-pain-awareness-breathing-relief-pabr|You're Not Alone Interview Series:  Dr. Amy Novotny and Pain Awareness Breathing Relief (PABR)
+3282|2022-03-27|youre-not-alone-interview-series-communication-drought-diana-indries-and-the-better-topics-card-game|"You're Not Alone" Interview Series:  Communication Drought (Diana Indries and the Better Topics card game)
+3283|2022-04-10|interview-with-todd-nyholm-a-ladder-to-a-healthier-happier-life|Interview with Todd Nyholm:  A Ladder to a Healthier/Happier Life
+3284|2022-04-24|turning-adversity-into-victory-an-interview-with-klyn-elsbury|Turning Adversity Into Victory:  An Interview with Klyn Elsbury
+3285|2022-05-09|releasing-your-tension-interview-with-mary-welp-rise|Releasing Your Tension:  Interview with Mary Welp (RISE)
+3286|2022-05-22|vulnerability-authenticity-and-connection-an-interview-with-coach-lee-hopkins|Vulnerability, Authenticity, and Connection:  An Interview with Coach Lee Hopkins
+3287|2022-06-05|transforming-through-chronic-pain-interview-with-dr-alan-weisser|Transforming through Chronic Pain:  Interview with Dr. Alan Weisser
+3288|2022-06-19|transforming-body-mind-and-spirit-interview-with-jennifer-pilates|Transforming body, mind, and spirit:  Interview with Jennifer Pilates
+3289|2022-07-04|the-happiness-quest-interview-with-tom-glaser|The Happiness Quest:  Interview with Tom Glaser
+3290|2022-07-11|say-the-words-be-that-person-the-encourager|Say The Words:  Be That Person (the Encourager)
+3291|2022-07-18|mindset-and-success-an-interview-with-kyle-gillette|Mindset and Success:  an Interview with Kyle Gillette
+3292|2022-07-24|codependency-boundaries-and-teaching-pigs-to-sing|Codependency, Boundaries, and Teaching Pigs to Sing
+3293|2022-07-31|from-rock-bottom-to-mountain-top-interview-with-kevin-palmieri|From Rock Bottom to Mountain Top:  Interview with Kevin Palmieri
+3294|2022-08-14|our-bodys-trauma-experience-amanda-loves-journey|Our Body's Trauma Experience:  Amanda Love's Journey
+3295|2022-08-28|victory-over-quadruple-amputation-interview-with-wendy-wallace|Victory Over Quadruple Amputation:  Interview with Wendy Wallace
+3296|2022-09-11|sara-webb-her-triumphant-journey-through-rape-addiction-and-coming-out-as-gay|Sara Webb:  Her Triumphant Journey Through Rape, Addiction, and Coming Out As Gay
+3297|2022-09-25|a-journey-through-bipolar-disorder-an-interview-with-susan-johnson|A Journey Through Bipolar Disorder:  An Interview with Susan Johnson
+3298|2022-10-02|the-struggle-is-real-leveling-up|The Struggle Is Real:  Leveling Up
+3299|2022-10-09|agape-garcia-and-post-traumatic-growth-triumph-over-domestic-violence|Agape Garcia and Post Traumatic Growth:  Triumph Over Domestic Violence
+3300|2022-10-16|ladies-shoot-your-shot|Ladies:  Shoot Your Shot!
+3301|2022-10-23|journey-from-trauma-to-value-interview-with-danielle-bernock|Journey from Trauma to Value:  Interview with Danielle Bernock
+3302|2022-11-07|transformation-and-spiritual-alignment-interview-with-harmony-kwiker|Transformation and Spiritual Alignment:  Interview with Harmony Kwiker
+3303|2022-11-20|they-called-me-monster-and-freak-dorsey-rosss-journey-of-faith-and-resiliency|"They Called me 'Monster' and 'Freak':  Dorsey Ross's Journey of Faith and Resiliency
+3304|2022-12-05|leveling-up-one-hack-at-a-time-interview-with-joel-evan|Leveling Up One Hack At A Time:  Interview with Joel Evan
+3305|2022-12-12|faith-fear-or-frustration|Faith, Fear, or Frustration?
+3306|2022-12-18|surviving-toxic-relationships-interview-with-shannon-petrovich|Surviving Toxic Relationships:  Interview with Shannon Petrovich
+3307|2023-01-01|dare-to-live-your-dream-interview-with-debby-kruszewski|Dare to Live Your Dream:  Interview with Debby Kruszewski
+3309|2023-02-01|gods-voice-in-your-life-interview-with-margaret-agard|God's Voice In Your Life:  Interview with Margaret Agard
+3308|2023-02-02|healing-beyond-all-expectations-interview-with-danielle-matthews|Healing Beyond All Expectations:  Interview with Danielle Matthews
+3310|2023-02-17|coaching-the-parents-coaches-the-child-interview-with-austin-wheeler|Coaching the Parents Coaches the Child:  Interview with Austin Wheeler
+3311|2023-02-27|thriving-after-loss-kim-sorrelles-story-of-the-transformational-power-of-love|Thriving After Loss:  Kim Sorrelle's Story of the Transformational Power of Love
+3312|2023-03-13|overcoming-two-back-surgeries-interview-with-brad-williams-personal-trainer-and-gym-owner|Overcoming Two Back Surgeries:  Interview with Brad Williams, Personal Trainer and Gym Owner
+3313|2023-03-19|zane-landin|Queer Rights, Mental Disability, and Suicidal Ideation:  Zane Landin's Journey of Advocacy
+3314|2023-04-02|surviving-hiv-an-abusive-marriage-and-fostering-a-teenage-daughter-interview-with-martina-clark|Surviving HIV, an Abusive Marriage, and Fostering a Teenage Daughter:  Interview with Martina Clark
+3315|2023-04-16|journey-from-addict-to-award-winning-author-interview-with-melanie-yates|Journey From Addict to Award-Winning Author:  Interview with Melanie Yates
+3316|2023-05-01|from-child-abuse-drug-trafficking-and-decades-in-prison-to-being-on-fire-for-christ-interview-with-steven-snook-part-one-of-two|From Child Abuse, Drug Trafficking, and Decades in Prison to Being On Fire For Christ:  Interview with Steven Snook (Part One of Two)
+3317|2023-05-15|from-child-abuse-drug-trafficking-and-decades-in-prison-to-being-on-fire-for-christ-interview-with-steven-snook-part-2-of-2|From Child Abuse, Drug Trafficking, and Decades In Prison to Being On Fire For Christ:  Interview With Steven Snook (Part 2 of 2)
+3318|2023-05-30|troy-hadeed-a-yoga-experts-view-on-christ-religion-and-divine-connection|Troy Hadeed:  A Yoga Expert's View on Christ, Religion, and Divine Connection
+3319|2023-06-12|food-love-hate-and-your-body-interview-with-shelley-loving|Food, Love, Hate, and Your Body:  Interview With Shelley Loving
+3320|2023-06-19|walking-away-from-big-law-success-danielle-sunbergs-journey-of-transformation|Walking Away From Big Law Success:  Danielle Sunberg's Journey of Transformation
+3321|2023-07-03|from-suicide-plans-to-20-years-as-tony-robbins-firewalk-captain-dave-albins-amazing-journey|From Suicide Plans to 20 Years as Tony Robbins' Firewalk Captain:  Dave Albin's Amazing Journey
+3322|2023-07-09|superhuman-adam-luceros-rise-from-the-ashes|Superhuman - Adam Lucero's Rise From the Ashes
+3323|2023-07-24|from-toxic-family-to-triumph-interview-with-susan-gold|From Toxic Family to Triumph:  Interview With Susan Gold
+3324|2023-08-07|blair-abee-how-meditation-saved-his-sanity|Blair Abee:  How Meditation Saved His Sanity
+3325|2023-08-20|rebecca-whitman|From Fragile to Fierce:  Rebecca Whitman's 7 Pillars of Abundance
+3326|2023-09-05|loisletchford|Teaching Outside the Box:  Lois Letchford's Identity Salvation
+3327|2023-09-17|lori-saitz|Journey To Success:  Eradicating Stress with Lori Saitz
+3328|2023-10-01|falynmorningstar|Listening To Your Body's "Voice":  Interview with Falyn Morningstar
+3329|2023-10-15|dai-manuel|Change Is Possible!  Dai Manuel and the Five F's
+3330|2023-10-29|rachel-lavin|Journey In My Body:  Interview with Rachel Lavin, author of "The Doughnut Diaries"
+3331|2023-11-12|marshall-zweig|Transforming Trauma:  Interview with Marshall Zweig
+3332|2023-11-26|stevegamlin|Vision Boards, Comedy, and Motivational Firewood
+3333|2023-12-10|jenniferschwytzer|Say "No" Like It's Your Job!
+3334|2023-12-31|poria-booker|From the Edge of Suicide to the Grace of Grief
+3335|2024-01-14|nicolagan|From Drug Dealer to "Good" Man:  The Transformation
+3336|2024-01-28|katherinemccord|I Get To Be Me!  The Freedom of Inclusion
+3337|2024-02-12|deannamoffitt|My Life:  The Rewrite!
+3338|2024-02-25|lolitaguarin|Finding Yourself:  Ascension From Childhood Dysfunction
+3339|2024-03-10|ericmchugh|Entrepreneurial Success:  Habits of a Maverick
+3340|2024-03-24|amandakate|Trauma Impact:  From Codependency to Self-Mastery
+3341|2024-04-07|dralisonescalante|"Sigh, See, Start":  The ShouldStorm Antidote
+3342|2024-04-21|nikkilacroce|Healing From Narcissistic Abuse
+3343|2024-05-05|annswanson|Yoga and Science:  Meditation In The Real World
+3344|2024-05-19|drcindystarke|Glass Ceiling Shattered!
+3345|2024-06-02|drdavidchotka|Strippers, Christmas Trees, and God
+3346|2024-06-16|wincharles|Triumph Over Abuse:  A Cerebral Palsy Journey
+3347|2024-06-30|januarydonovan|Woman and Worth:  The Map
+3348|2024-07-14|birgittavisser|From Victim to Victor:  Healing From Abuse
+3349|2024-07-28|julierose|Empathy and Curiosity in Uncomfortable Conversations
+3350|2024-08-11|andreajohnson|Intentional Optimism: Embodying Hope, Presence, and Resilience
+3351|2024-08-25|darlenegreene|Navigating the Challenges of Alzheimer's Care with Stem Cell Technology
+3352|2024-09-09|jillsitnick|The Role of MDMA in Treating PTSD
+3353|2024-09-22|sethgehle|From Abuse to Healing: A Journey of Strength
+3354|2024-10-01|emanuelrose|Navigating Digital Culture: Setting Boundaries and Accessing Creativity
+3355|2024-10-13|jjflizanes|Breaking Through:  The Role of Feelings in Empowerment
+3356|2024-10-27|shellystarks|Setting Boundaries for Well-Being and Success
+3357|2024-11-04|kimmosiman|Reclaiming Health and Embracing the Second Act
+3358|2024-11-17|drstephanneff|Healing from Trauma and Addiction: Dr. Stephan Neff's Journey
+3359|2024-12-02|the-path-to-trauma-informed-leadership|The Path to Trauma-Informed Leadership
+3360|2024-12-15|emotional-healing-laboratory-the-workplace|Emotional Healing Laboratory:  The Workplace
+3361|2024-12-30|navigating-perimenopause-in-the-corporate-world|Navigating Perimenopause in the Corporate World
+3362|2025-01-12|signs-of-a-mismatched-career-and-how-to-make-a-change|Signs of a Mismatched Career and How to Make a Change
+3363|2025-01-26|vision-and-heart-one-entrepreneurs-journey|Vision and Heart:  One Entrepreneur's Journey
+3364|2025-02-09|the-courageous-life-crafting-your-own-terms|The Courageous Life:  Crafting Your Own Terms
+3365|2025-02-22|boundaries-why-cant-i-set-them|Boundaries - Why Can't I Set Them?
+3366|2025-02-23|curiosity-the-bridge-to-connection|Curiosity: The Bridge to Connection
+3367|2025-03-09|the-power-of-intuition-in-personal-growth|The Power of Intuition in Personal Growth
+3368|2025-04-07|finding-freedom-through-accountability-with-robert-hunt|Finding Freedom Through Accountability with Robert Hunt
+3369|2025-04-19|from-adversity-to-ceo-victorias-path-to-leadership|From Adversity To CEO: Victoria's Path to Leadership
+3370|2025-05-04|limitless-you-a-conversation-on-transformation|Limitless You: A Conversation on Transformation
+3371|2025-05-18|fitness-faith-and-building-a-successful-business|Fitness, Faith, and Building a Successful Business
+3372|2025-06-01|stop-winging-it-a-leaders-guide-to-resilience|Stop Winging It: A Leader's Guide to Resilience
+3373|2025-06-15|how-unresolved-trauma-is-ruling-your-life|How Unresolved Trauma Is Ruling Your Life
+3374|2025-06-28|from-fitting-in-to-flying-out-with-arnold-beekes|From Fitting in to Flying Out with Arnold Beekes
+3375|2025-07-13|why-neurodiversity-is-important-in-the-workplace|Why Neurodiversity is Important in the Workplace
+3376|2025-07-27|how-your-survival-brain-is-sabotaging-your-happiness|How Your Survival Brain is Sabotaging Your Happiness
+3377|2025-08-10|adapt-or-drown-finding-your-life-raft-in-the-modern-workplace|Adapt or Drown: Finding Your Life Raft in the Modern Workplace
+3378|2025-08-24|finding-purpose-after-relational-trauma|Finding Purpose After Relational Trauma
+3379|2025-09-07|why-traditional-masculinity-is-failing-modern-relationships|Why Traditional Masculinity Is Failing Modern Relationships
+3380|2025-09-20|beyond-forgive-and-forget-the-real-secret-to-letting-go|Beyond Forgive and Forget: The Real Secret to Letting Go
+3381|2025-10-05|the-power-of-unconditional-generosity|The Power of Unconditional Generosity
+3382|2025-10-19|finding-freedom-after-success-fueled-anxiety|Finding Freedom After Success-Fueled Anxiety
+3383|2025-10-26|how-to-spot-burnout-before-its-too-late|How to Spot Burnout Before It's Too Late
+3384|2025-11-09|your-logical-vs-subconscious-mind-whos-really-in-control|Your Logical vs. Subconscious Mind: Who's Really in Control?
+3385|2025-11-16|navigating-addiction-recovery-and-sobriety-with-dr-cali-estes|Navigating Addiction, Recovery, and Sobriety with a Former Addict
+3386|2025-11-23|why-the-traditional-9-to-5-is-failing-modern-mothers|Why the Traditional 9-to-5 Is Failing Modern Mothers
+3387|2025-12-07|overcoming-burnout-hustle-culture-and-redefining-success|Overcoming Burnout, Hustle Culture, and Redefining Success
+3388|2025-12-14|from-tragedy-to-triumph-rhonda-brittens-path-to-a-fearless-life|From Tragedy to Triumph: Rhonda Britten's Path to a Fearless Life
+3400|2025-12-28|fear-success-and-overcoming-self-sabotage-with-dr-bramante|Fear, Success, and Overcoming Self-Sabotage with Dr. Bramante
+3402|2026-01-11|how-to-overcome-anxiety-and-network-with-confidence|How to Overcome Anxiety and Network with Confidence
+3445|2026-01-18|why-your-biggest-challenges-are-your-best-teachers|Why Your Biggest Challenges Are Your Best Teachers
+3806|2026-01-25|faith-healing-and-new-beginnings-with-sarah-brown|Faith, Healing, and New Beginnings with Sarah Brown
+3814|2026-02-08|how-to-build-a-workplace-culture-that-lasts|How to Build a Workplace Culture That Lasts
+3823|2026-02-15|laugh-your-way-to-success-with-cathy-nesbitt|Laugh Your Way to Success with Cathy Nesbitt
+3827|2026-02-22|the-science-behind-trust-and-self-betrayal|The Science Behind Trust and Self-Betrayal
+3836|2026-03-08|how-ego-is-sabotaging-your-leadership|How Ego Is Sabotaging Your Leadership
+3860|2026-03-29|how-to-reclaim-your-power-from-shame|How to Reclaim Your Power from Shame
+3877|2026-04-12|how-to-find-purpose-in-your-biggest-struggles|How to Find Purpose in Your Biggest Struggles
+3885|2026-04-26|the-hidden-tactics-narcissists-use-to-control-you|The Hidden Tactics Narcissists Use to Control You
+3896|2026-05-10|how-to-reclaim-your-energy-when-youre-burned-out|How to Reclaim Your Energy When You're Burned Out
+3906|2026-05-24|how-to-trust-your-intuition-after-trauma|How to Trust Your Intuition After Trauma
+3911|2026-05-31|why-young-adults-are-more-stuck-than-ever|Why Young Adults Are More Stuck Than Ever
+3924|2026-06-14|are-you-avoiding-failure-or-guaranteeing-it|Are You Avoiding Failure or Guaranteeing It?
+3928|2026-06-21|the-art-of-true-connection-in-a-lonely-world|The Art of True Connection in a Lonely World
+3932|2026-06-28|why-successful-entrepreneurs-set-boundaries|Why Successful Entrepreneurs Set Boundaries
+3942|2026-07-12|how-listening-to-my-bodys-intuition-changed-my-health|How Listening to My Body's Intuition Changed My Health
+3958|2026-07-19|how-you-can-find-hope-after-hitting-rock-bottom|How You Can Find Hope After Hitting Rock Bottom
+3962|2026-07-26|why-your-midlife-crisis-might-actually-be-burnout|Why Your Midlife 'Crisis' Might Actually Be Burnout
