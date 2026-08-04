@@ -15,7 +15,11 @@ Yoga teacher Troy Hadeed talks with Dana about church hurt, forgiveness, and Chr
 <div class="wp-block-create-block-libsyn-podcasting-block"><div class="libsyn-shortcode"></div></div>
 <!-- /wp:create-block/libsyn-podcasting-block -->
 
-<p>If you've ever wrestled with church hurt or wondered why forgiveness feels so hard, this conversation is for you. Dana sits down with international yoga teacher, speaker, and author Troy Hadeed, whose own path from a Catholic upbringing in Trinidad to teaching yoga worldwide has shaped a wonderfully inclusive view of Christ, religion, and the divine. Together they dig into what it really means to see God within — and Troy's question that can reframe every relationship in your life: what is being loved?</p>
+<p>How does a fourteen-year-old get sent to detention and come out the other side an international yoga teacher? Simple: a teacher hands him a yoga text as a joke — punishment, supposedly — and the kid keeps sneaking back to detention every lunchtime to read more. (For the record, I logged some detention hours myself. We're just being honest around here.)</p>
+
+<p>Fast forward: Troy Hadeed — raised Catholic in Trinidad, former hemp-store owner ("not a head shop," he'd like you to know) — now teaches yoga around the world and holds a view of Christ that may stretch you, comfort you, or both. If you're carrying church hurt, wrestling with forgiveness, or quietly wondering why the Jesus you met in scripture doesn't always resemble the one at the pulpit, this conversation was recorded for you.</p>
+
+<p>We dig into the difference between "I am God" and "God within me," why "born a sinner" can quietly become a hiding place from responsibility, and Troy's question that will reframe every relationship you have — including the hard ones. Don't ask if it's love. Ask <em>what</em> is being loved.</p>
 
 <h2>In this episode</h2>
 <ul>
@@ -262,7 +266,11 @@ Yoga teacher Troy Hadeed talks with Dana about church hurt, forgiveness, and Chr
 ## Proposed Libsyn description
 
 ```html
-<p>If you've ever wrestled with church hurt or wondered why forgiveness feels so hard, this conversation is for you. Dana sits down with international yoga teacher, speaker, and author Troy Hadeed, whose own path from a Catholic upbringing in Trinidad to teaching yoga worldwide has shaped a wonderfully inclusive view of Christ, religion, and the divine. Together they dig into what it really means to see God within — and Troy's question that can reframe every relationship in your life: what is being loved?</p>
+<p>How does a fourteen-year-old get sent to detention and come out the other side an international yoga teacher? Simple: a teacher hands him a yoga text as a joke — punishment, supposedly — and the kid keeps sneaking back to detention every lunchtime to read more. (For the record, I logged some detention hours myself. We're just being honest around here.)</p>
+
+<p>Fast forward: Troy Hadeed — raised Catholic in Trinidad, former hemp-store owner ("not a head shop," he'd like you to know) — now teaches yoga around the world and holds a view of Christ that may stretch you, comfort you, or both. If you're carrying church hurt, wrestling with forgiveness, or quietly wondering why the Jesus you met in scripture doesn't always resemble the one at the pulpit, this conversation was recorded for you.</p>
+
+<p>We dig into the difference between "I am God" and "God within me," why "born a sinner" can quietly become a hiding place from responsibility, and Troy's question that will reframe every relationship you have — including the hard ones. Don't ask if it's love. Ask <em>what</em> is being loved.</p>
 
 <p><strong>In this episode:</strong></p>
 <ul>

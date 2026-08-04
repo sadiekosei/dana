@@ -17,7 +17,11 @@ Midlife and burnout coach Jody Brooks shares his breakdown-to-breakthrough story
 ```html
 [iframe style="border:none" src="//html5-player.libsyn.com/embed/episode/id/42219515/height/100/width//thumbnail/no/render-playlist/no/theme/custom/tdest_id/5280105/custom-color/87A93A" height="100" width="100%" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen]
 
-<p>If you've ever wondered whether what you're feeling is a midlife crisis or something more like full-blown burnout, this episode is for you. Dana sits down with midlife and burnout coach Jody Brooks, who shares the exact moment — crying in a restroom cubicle at work — when he realized burnout wasn't a joke but a full-body shutdown. Jody walks through the technique he now teaches clients for regulating anxiety in the moment, and the simple first step he recommends for anyone who feels stuck: start stopping what no longer serves you.</p>
+<p>Picture this: lunchtime at the office. The canteen is buzzing. And my guest is locked in a restroom cubicle, crying so hard he can barely breathe. No brutal meeting that morning. No disaster. Just the quiet moment his body picked to file its formal complaint — burnout wasn't a "rough patch" anymore, it was a full-body shutdown.</p>
+
+<p>I've been a therapist for 18 years, and I can tell you: high performers do this. We white-knuckle through "one more day" (and one more, and one more) until the body stops asking politely. Sound familiar? Then you'll want to hear Jody Brooks — a UK-based midlife and burnout coach who once survived 52 flights in eight months of what he calls "jazz hands" performing — on why what we call a midlife crisis usually isn't a crisis at all. It's a calling. And it's asking you to come home to yourself.</p>
+
+<p>We get into how to spot the full-body warning signs before you hit your own cubicle moment, how to settle anxiety in the moment it spikes (not three weeks and one forced sabbatical later), and Jody's wonderfully backwards first step for anyone feeling stuck: don't start something new. Start stopping.</p>
 
 <h2>In this episode</h2>
 <ul>
@@ -198,7 +202,11 @@ Listeners, viewers — my gosh, I know you have heard multiple things today from
 ## Proposed Libsyn description
 
 ```html
-<p>If you've ever wondered whether what you're feeling is a midlife crisis or something more like full-blown burnout, this episode is for you. Dana sits down with midlife and burnout coach Jody Brooks, who shares the exact moment — crying in a restroom cubicle at work — when he realized burnout wasn't a joke but a full-body shutdown. Jody walks through the technique he now teaches clients for regulating anxiety in the moment, and the simple first step he recommends for anyone who feels stuck: start stopping what no longer serves you.</p>
+<p>Picture this: lunchtime at the office. The canteen is buzzing. And my guest is locked in a restroom cubicle, crying so hard he can barely breathe. No brutal meeting that morning. No disaster. Just the quiet moment his body picked to file its formal complaint — burnout wasn't a "rough patch" anymore, it was a full-body shutdown.</p>
+
+<p>I've been a therapist for 18 years, and I can tell you: high performers do this. We white-knuckle through "one more day" (and one more, and one more) until the body stops asking politely. Sound familiar? Then you'll want to hear Jody Brooks — a UK-based midlife and burnout coach who once survived 52 flights in eight months of what he calls "jazz hands" performing — on why what we call a midlife crisis usually isn't a crisis at all. It's a calling. And it's asking you to come home to yourself.</p>
+
+<p>We get into how to spot the full-body warning signs before you hit your own cubicle moment, how to settle anxiety in the moment it spikes (not three weeks and one forced sabbatical later), and Jody's wonderfully backwards first step for anyone feeling stuck: don't start something new. Start stopping.</p>
 
 <p><strong>In this episode:</strong></p>
 <ul>

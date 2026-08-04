@@ -18,8 +18,19 @@ episode answers.
 ## Page structure (WordPress `content`)
 
 1. **Player embed** — keep the existing player/shortcode first, untouched.
-2. **Hook paragraph** (2–3 sentences): the problem the episode solves,
-   primary keyword in the first sentence.
+2. **Episode summary** (2–3 paragraphs, 150–250 words total): a real
+   mini-article opening, not a teaser line. Paragraph 1: the problem the
+   episode solves, primary keyword in the first sentence. Paragraph 2:
+   who the guest is and why they're worth listening to (or for solo
+   episodes, Dana's angle), plus what the conversation covers. Optional
+   paragraph 3: what the listener walks away with. Work in 2–3 natural
+   keyword variants across the paragraphs — visible editorial prose is
+   what search engines weight most, since the transcript sits collapsed
+   and bullets don't read as article text.
+   **Voice is non-negotiable**: written in Dana's first-person sassy
+   voice per `dana-voice.md` (read it first, every time). Open with a
+   story or image FROM THE EPISODE, not "In this episode, X joins
+   Dana..." The pilot drafts in `work/pilot/` are the exemplars.
 3. **"In this episode"** — 4–6 bullet takeaways, each a benefit not a
    topic ("Why X fails and what to do instead", not "We discuss X").
 4. **Timestamps** — `(MM:SS) Topic` list, built from the transcript.
