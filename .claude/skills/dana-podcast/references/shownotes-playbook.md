@@ -63,6 +63,10 @@ page missing its SEO fundamentals. Per-episode checklist, all mandatory:
    ~= episode length. The responsive wrapper div MUST include
    `margin-bottom:32px;` after `overflow:hidden;` — without it the
    video sits flush against the next heading (Sadie, 2026-08-04).
+   The iframe MUST carry `referrerpolicy="strict-origin-when-cross-origin"`
+   as its FIRST attribute — LiteSpeed's iframe lazy-load (src swapped
+   in from about:blank) otherwise loses the referrer and YouTube
+   rejects the embed with "Error 153" (diagnosed live 2026-08-04).
 5. **Guest bio + links** (guest episodes): 2–3 sentences, link to their
    site/social. Guest names are search queries — include full name and
    title/company in text, not just in an image.
