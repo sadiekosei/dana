@@ -42,7 +42,7 @@ Marketing expert Emanuel Rose on setting digital boundaries, unplugging one full
 <li>(04:47) The twelve months that changed everything: divorce, seven moves, and his father's death at 24</li>
 <li>(06:39) What helped Emanuel find stability: friends, solitude, and being an "ambivert"</li>
 <li>(08:17) Why being outside, in "unmanicured space," feels different from being indoors</li>
-<li>(11:40) How Emanuel ended up in marketing after two jobs that reneged on him within the same year</li>
+<li>(11:40) How Emanuel ended up in marketing after two jobs that reneged on him within the same six months</li>
 <li>(15:41) Using digital as a tool, not a lifestyle, and understanding the brain chemistry behind the scroll</li>
 <li>(18:17) The one-week-a-month digital detox</li>
 <li>(23:19) Practical boundary-setting: scheduling quiet time, "interstitial" moments, and the family phone-jar rule</li>
