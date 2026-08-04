@@ -65,7 +65,9 @@ Feeling stuck or burned out? Career coach Sarah JanTausch joins Dana to share th
 </ul>
 
 <h2>Enjoyed this episode?</h2>
-<p>Subscribe to Phoenix and Flame on Apple Podcasts, Spotify, or wherever you listen so you never miss an episode, and leave a review to help other listeners find the show. And if someone in your life needs to hear this today, send them the link &mdash; that's how we grow this community together.</p>
+<p>Follow phoenix and flame so you never miss an episode: <a href="https://podcasts.apple.com/us/podcast/phoenix-and-flame-podcast/id1513991564">apple podcasts</a>, <a href="https://open.spotify.com/show/1605qjmbvo3qocupk8mm2c">spotify</a>, <a href="https://music.amazon.com/podcasts/e0b1804a-98d0-46ca-9555-c26f44d49518/phoenix-and-flame-podcast">amazon music</a>, or <a href="https://www.youtube.com/@queenofboundaries">youtube</a>, and leave a review to help other listeners find the show. And if someone in your life needs to hear this today, send them the link &mdash; that's how we grow this community together.</p>
+
+<p>Curious where your own boundaries stand? Take my free <a href="https://danaskaggs.com/quiz/">Work Boundaries Quiz</a> and find out.</p>
 
 <details>
 <summary>Read the full transcript</summary>

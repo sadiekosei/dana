@@ -68,7 +68,7 @@ Midlife and burnout coach Jody Brooks shares his breakdown-to-breakthrough story
 </ul>
 
 <h2>Subscribe & connect</h2>
-<p>If this episode gave you something to sit with, subscribe to Phoenix and Flame on your favorite podcast app so you never miss an episode, and leave a review; it's the easiest way to help another listener find the show.</p>
+<p>If this episode gave you something to sit with, follow Phoenix and Flame so you never miss an episode: <a href="https://podcasts.apple.com/us/podcast/phoenix-and-flame-podcast/id1513991564">Apple Podcasts</a>, <a href="https://open.spotify.com/show/1605QJMBVo3qOCUPk8MM2c">Spotify</a>, <a href="https://music.amazon.com/podcasts/e0b1804a-98d0-46ca-9555-c26f44d49518/phoenix-and-flame-podcast">Amazon Music</a>, or <a href="https://www.youtube.com/@queenofboundaries">YouTube</a>. And if it moved you, leave a review; it's the easiest way to help another listener find the show.</p>
 <p>Learn more about Phoenix and Flame, connect with Dana, and <a href="https://danaskaggs.com/link-tree/">listen to more episodes here.</a></p>
 <p>Curious where your own boundaries stand? Take my free <a href="https://danaskaggs.com/quiz/">Work Boundaries Quiz</a> and find out.</p>
 

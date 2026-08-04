@@ -66,7 +66,9 @@ Yoga teacher Troy Hadeed talks with Dana about church hurt, forgiveness, and Chr
 </ul>
 
 <h2>Enjoyed this episode?</h2>
-<p>Subscribe to Phoenix and Flame on Apple Podcasts or Spotify so you never miss an episode, and if this conversation moved you, leave a review; it helps other listeners find these conversations. Know someone wrestling with church hurt or forgiveness who needs to hear this one? Copy the link and text it, email it, or share it on social media, and help us grow the Phoenix and Flame community.</p>
+<p>If this conversation moved you, follow Phoenix and Flame so you never miss an episode: <a href="https://podcasts.apple.com/us/podcast/phoenix-and-flame-podcast/id1513991564">Apple Podcasts</a>, <a href="https://open.spotify.com/show/1605QJMBVo3qOCUPk8MM2c">Spotify</a>, <a href="https://music.amazon.com/podcasts/e0b1804a-98d0-46ca-9555-c26f44d49518/phoenix-and-flame-podcast">Amazon Music</a>, or <a href="https://www.youtube.com/@queenofboundaries">YouTube</a>, and leave a review; it helps other listeners find these conversations. Know someone wrestling with church hurt or forgiveness who needs to hear this one? Copy the link and text it, email it, or share it on social media, and help us grow the Phoenix and Flame community.</p>
+
+<p>Curious where your own boundaries stand? Take my free <a href="https://danaskaggs.com/quiz/">Work Boundaries Quiz</a> and find out.</p>
 
 <details>
 <summary>Read the full transcript</summary>
