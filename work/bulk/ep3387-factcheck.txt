@@ -1,0 +1,17 @@
+CLEAN
+
+Verification notes:
+- All three pull quotes verified verbatim against transcripts/ep3387-overcoming-burnout-hustle-culture-and-redefining-s.txt
+  (filler-word trimming only): "If I don't make time for me, who will? That's on me."; "Statistically, 80% of our
+  work stress is caused by miscommunication."; "When we assume, we make an ass out of you and me."
+- "Unclear university name" check (per special instructions): confirmed. Dana says Jessica got her master's
+  "from Westchester University" in the transcript, but this is genuinely ambiguous (West Chester University in
+  PA vs. a possible mishearing) and isn't in content_raw. The draft correctly omits any university name from the
+  bio and editorial copy; the ambiguity is disclosed only in the reviewer notes, not guessed at or published.
+- All URLs (journeytoyourself.net/meetjessica, linkedin.com/in/jessica-harrington-journeytoyourself, plus the
+  canonical pod.link/Apple/Spotify/Amazon/YouTube/quiz/link-tree links) trace to content_raw or the canonical list.
+- Numbers/claims (age 24, hospitalization, hives, weight loss, Lyme/thyroid/diabetes testing, master's in public
+  health, "Journey to Yourself," 80% miscommunication stat) all check out against the transcript.
+- Mechanics: no spaced em dashes in editorial sections; external links carry target="_blank" rel="noopener" in
+  the WP content, internal danaskaggs.com links don't (Libsyn description omits these attributes throughout,
+  consistent with Libsyn stripping most HTML per the playbook, so not flagged).

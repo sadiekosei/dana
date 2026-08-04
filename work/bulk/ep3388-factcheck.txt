@@ -1,0 +1,32 @@
+CLEAN
+
+Sensitivity read (per special instructions): Sensitive topic identified is Rhonda Britten witnessing her
+father murder her mother and then kill himself when she was 14 (a murder-suicide), plus her own subsequent
+three suicide attempts and a psychiatric-ward evaluation. content_raw already discloses this publicly
+("witnessed her father murder her mother before taking his own life... After three suicide attempts...").
+
+Three-point check (same standard applied to ep3334/ep3346/ep3348/ep3836/ep3860):
+1. Method/means: PASSES. The transcript itself (inside <details>, verbatim per the no-paraphrase rule) contains
+   graphic detail — the gun, the two gunshots, the trajectory. None of that appears anywhere in the editorial
+   sections (excerpt, hook, bullets, timestamps, bio, quotes). The hook paragraph builds suspense around "it
+   isn't a coat he pulls out" but never names the weapon or the act itself; this is consistent with the
+   playbook's required story-hook opening style and with how ep3334's approved hook ("moments from a decision
+   she couldn't take back") builds tension without stating method. No suicide-attempt method is stated anywhere,
+   including the transcript, since Rhonda herself never named one.
+2. Sensationalizing: PASSES. Hook, bullets, and timestamps state the murder-suicide and the suicide attempts
+   plainly and move quickly to the recovery/framework angle (the Wheel of Fear, the kindergarten reset with
+   gold stars). No graphic or dramatized language beyond the standard editorial-hook convention used throughout
+   this batch.
+3. Guest identification: PASSES. Rhonda Britten is a public figure (Emmy winner, repeat Oprah guest, published
+   author) and content_raw itself already discloses the murder-suicide and suicide-attempt history; the draft
+   doesn't exceed what's already public or what Rhonda disclosed on-air.
+
+Other verification:
+- All three pull quotes verified verbatim against transcripts/ep3388-from-tragedy-to-triumph-rhonda-brittens-path-to-a-.txt
+  (only minor filler trimming, e.g. "Well, as we all know," dropped from quote 1).
+- Bio claims (Emmy Award winner, repeat Oprah guest, 600+ episodes of reality TV, four bestsellers incl.
+  "Fearless Living" in 16 languages, Fearless Living Institute) match Dana's intro verbatim.
+- All URLs (fearlessliving.org, fearlessliving.org/books/, fearlessliving.org/risk/, linkedin.com/in/rhondabritten)
+  trace to content_raw.
+- Mechanics: no spaced em dashes in editorial sections; external links carry target="_blank" rel="noopener" in
+  the WP content; internal danaskaggs.com links don't.

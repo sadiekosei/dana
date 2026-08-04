@@ -47,7 +47,7 @@ Therapist Kristal Desantis on why traditional masculinity fails modern relations
 <li>(11:28) "Damned if I do, damned if I don't": vulnerability and getting "the ick"</li>
 <li>(14:03) A patient's confession: using sex as a stand-in for touch he couldn't ask for</li>
 <li>(16:40) Building the STRONG model for action-oriented men, like veterans and first responders</li>
-<li>(19:30) The four S's of safety: self-awareness, self-regulation, stability, being safe with emotions</li>
+<li>(16:40) The four S's of safety: self-awareness, self-regulation, stability, being safe with emotions</li>
 <li>(23:14) The "multi-option woman, no-option man" trap, and dating by wallet</li>
 <li>(25:43) One practical tip for men without a support system after a bad date</li>
 <li>(27:22) Trust, attachment styles, and repairing a broken promise</li>
