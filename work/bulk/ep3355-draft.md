@@ -62,8 +62,7 @@ Empowerment strategist JJ Flizanes on spotting victim mentality, using her free 
 <ul>
 <li><a href="https://jjflizanes.com" target="_blank" rel="noopener">JJFlizanes.com</a>: JJ's website</li>
 <li><a href="https://jjflizanes.com/feelingslist" target="_blank" rel="noopener">JJ's free feelings and needs list</a>, built on Dr. Marshall Rosenberg's nonviolent communication work</li>
-<li><a href="https://a.co/d/evk8JpW" target="_blank" rel="noopener">JJ's book, "Fit to Love"</a>, on getting physically, emotionally, and spiritually fit to attract the life you want</li>
-<li><a href="https://a.co/d/5WM1ufA" target="_blank" rel="noopener">JJ's second book</a>, available on Amazon</li>
+<li>"Fit to Love," JJ's book on getting physically, emotionally, and spiritually fit to attract the life you want (also the name of her podcast); available on Amazon, though the transcript doesn't specify which of her two Amazon links below is this title: <a href="https://a.co/d/evk8JpW" target="_blank" rel="noopener">link one</a>, <a href="https://a.co/d/5WM1ufA" target="_blank" rel="noopener">link two</a></li>
 </ul>
 
 <h2>Related episodes</h2>
