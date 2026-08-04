@@ -1412,7 +1412,7 @@
   "word_count": 95,
   "has_timestamps": false,
   "transcript_matched": "transcripts/ep3350-andreajohnson.txt",
-  "wp_rewritten": false,
+  "wp_rewritten": true,
   "libsyn_updated": false
  },
  {
@@ -1424,7 +1424,7 @@
   "word_count": 105,
   "has_timestamps": false,
   "transcript_matched": "transcripts/ep3351-darlenegreene.txt",
-  "wp_rewritten": false,
+  "wp_rewritten": true,
   "libsyn_updated": false
  },
  {
@@ -1448,7 +1448,7 @@
   "word_count": 107,
   "has_timestamps": false,
   "transcript_matched": "transcripts/ep3353-sethgehle.txt",
-  "wp_rewritten": false,
+  "wp_rewritten": true,
   "libsyn_updated": false
  },
  {
@@ -1460,7 +1460,7 @@
   "word_count": 62,
   "has_timestamps": false,
   "transcript_matched": "transcripts/ep3354-emanuelrose.txt",
-  "wp_rewritten": false,
+  "wp_rewritten": true,
   "libsyn_updated": false
  },
  {
