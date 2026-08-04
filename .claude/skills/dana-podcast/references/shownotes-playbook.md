@@ -111,6 +111,19 @@ answers, (b) 2–3 phrases a searcher would use, (c) guest name variants.
 Primary keyword goes in title + first sentence + one H2. Don't stuff —
 one natural use in each location beats five forced ones.
 
+## Fact verification (mandatory before publish)
+
+Mechanical checks (quotes verbatim, URLs exist in transcript/current
+content, player preserved) are not enough: three paraphrase drifts
+slipped into the pilots and were caught by Sadie, not the checks
+("locked in" vs "sitting in" a cubicle; "paid fine" never said;
+"yoga text" ambiguous where the speakers also said "book"). So every
+draft gets an independent fact-check pass before publishing: a second
+agent reads ONLY the transcript and the draft's editorial sections and
+lists every factual claim about a person with its supporting
+transcript line; any claim without a line gets rewritten to the
+transcript's wording or cut. Sass may color phrasing, never facts.
+
 ## Quality bar for the pilot batch
 
 An episode rewrite is done when: title leads with topic; hook para
