@@ -1,0 +1,19 @@
+CLEAN
+
+Verification notes:
+- "networkofchampions.com" URL check (per special instructions): confirmed clean, left in. The domain is spoken
+  clearly and unambiguously three times in the transcript: Amy states it directly in response to Dana's direct
+  question ("You can go to networkofchampions.com..."), then repeats it ("...they just go to
+  networkofchampions.com..."), and Dana also says it in her question. This is the guest's own authoritative
+  statement of her own resource's URL, not an ASR guess on garbled audio — there is no real ambiguity about the
+  spelling. (Dana's one earlier reference to "the network of champions dot kit dot com" reads as her own
+  momentary confusion, immediately corrected by Amy's plain "networkofchampions.com," so the draft's use of the
+  clean domain is justified.) Domain left in Resources mentioned as networkofchampions.com.
+- All three pull quotes verified verbatim against the transcript (filler-word trimming only): "The answer is no,
+  unless you ask."; "It's not a network, it's not a business card exchange. It's a relationship building
+  opportunity."; "Everyone is good at something. Everyone has something to offer."
+- Bio claims (20+ years, corporate networking, living/working abroad, two companies, adjunct professor) match
+  Dana's intro and Amy's own account.
+- Other URLs (amybsiegfried.com, linkedin.com/in/amybsiegfried) trace to content_raw.
+- Mechanics: no spaced em dashes in editorial sections; external links carry target="_blank" rel="noopener" in
+  the WP content; internal danaskaggs.com links don't.

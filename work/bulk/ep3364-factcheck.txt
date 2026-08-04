@@ -1,0 +1,9 @@
+QUOTE-FIXED: "Favorite quotes" blockquote #3 changed "There is literally nothing out there for a map or a guide..." to "There was literally nothing out there for a map or a guide..." to match Marni's actual past-tense wording at (15:18); the draft had silently shifted the verb tense, which goes beyond the allowed filler-word/stitching leeway.
+CLAIM-FIXED: The "Learn more at MarniBattista.com..." line asserted the unconfirmed Institute for Living Courageously site is "in development at the same domain family" as marnibattista.com. The transcript never says the two sites share a domain; Marni only says "Institute for Living Courageously dot com" and separately "MarniBattista.com... it's easier." Reworded to note the Institute site is in development without a confirmed URL, instead of asserting a domain relationship that wasn't stated.
+
+Independent verification performed (per assignment instructions):
+- Confirmed the broken URL fragment (`httpss://institutefor...` from current WP content) was left unlinked rather than guessed at. The draft correctly uses only the clean, spoken `https://marnibattista.com` and mentions the Institute for Living Courageously site by name only, with no link, exactly as the reviewer notes describe.
+- Checked remaining pull quotes against transcript: verbatim.
+- Checked URLs: marnibattista.com is spoken and matches content_raw; the three Amazon book links from content_raw were deliberately omitted since the transcript doesn't confirm the two older titles against those specific links (a defensible editorial choice, not an error, and already explained in the reviewer notes).
+- Checked mechanics: no spaced em dashes outside the transcript block; external/internal link target="_blank"/rel handling correct.
+2 fixes.

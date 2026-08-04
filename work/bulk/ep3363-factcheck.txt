@@ -1,0 +1,8 @@
+CLEAN
+
+Independent verification performed (per assignment instructions):
+- Confirmed "J Cal Digital" and "Passion Pro" were correctly left out of Jackson's bio/title. Dana's intro at (00:50) credits him as "founder of J Cal Digital... also founder of Passion Pro," but Jackson's reply at (01:19) is "there's certain gaps in there that are okay to talk about," followed by explicit confirmation of only First Class Business, VisionPros Live, and the 20% e-rational marketing stake. He never confirms J Cal Digital or Passion Pro. The draft's bio, title, and metadata correctly omit both, and the "Notes for reviewer" section correctly documents why.
+- Checked all three pull quotes against the transcript: verbatim (only filler words like "And" dropped at quote starts, per the allowed stitching rule).
+- Checked all outbound URLs (go.firstclassbusiness.io, visionproslive.com, canonical subscribe/quiz/link-tree links): all spoken on air or canonical; none invented.
+- Checked mechanics: no spaced em dashes outside the transcript block; external links carry target="_blank" rel="noopener"; internal danaskaggs.com links do not.
+No changes made.

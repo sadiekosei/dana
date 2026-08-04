@@ -49,24 +49,24 @@ Accountability coach Robert Hunt on paying off $90,000 in debt, escaping a victi
 <li>(22:04) The free satisfaction assessment: writing down what you don't like and asking why</li>
 <li>(23:52) "Acknowledge, embrace the suck, find a solution, make it happen": the book's four-step process</li>
 <li>(23:52) Selling the house, paying off the debt, and the peace that arrived once the weight was gone</li>
-<li>(30:21) Where to find Robert: his coaching practice, the book, and a free copy for two listeners</li>
+<li>(30:21) Where to find Robert: his coaching practice, the book, and his on-air offer to mail a free copy to listeners who reach out</li>
 </ul>
 
 <h2>About Robert Hunt</h2>
 <p>Robert Hunt, known as "The Accountability Guy," is a business owner in the Dallas-Fort Worth area who has run executive CEO peer groups since 2013. He is the co-author of <em>Nobody Cares Until You Do</em>, written with his wife Cathy after they paid off $90,000 in debt and rebuilt their marriage, finances, and health around the practice of true accountability.</p>
-<p>Learn more about his coaching and CEO groups at <a href="https://refdallas.com" target="_blank" rel="noopener">REFDallas.com</a>, take the free satisfaction assessment or learn about the book at <a href="https://nobodycaresbook.com" target="_blank" rel="noopener">NobodyCaresBook.com</a>, or fill out the contact form at <a href="https://nobodycarespod.com" target="_blank" rel="noopener">NobodyCaresPod.com</a> with the code word PHOENIX for a free copy of the book (Robert is mailing one to the first two listeners who do).</p>
+<p>Learn more about his coaching and CEO groups at <a href="https://refdallas.com" target="_blank" rel="noopener">REFDallas.com</a>, take the free satisfaction assessment or learn about the book at <a href="https://nobodycaresbook.com" target="_blank" rel="noopener">NobodyCaresBook.com</a>, or fill out the contact form at <a href="https://nobodycarespod.com" target="_blank" rel="noopener">NobodyCaresPod.com</a> with the code word PHOENIX for a free copy of the book, an offer Robert made on the show to listeners who reach out that way.</p>
 
 <h2>Favorite quotes</h2>
 <blockquote>"Nobody cares if we're broke and unhappy in our marriage and frustrated with our finances and our business until we care enough to do something about it." —Robert Hunt</blockquote>
 <blockquote>"Responsible is doing something. Accountable is owning it and doing the thing." —Robert Hunt</blockquote>
-<blockquote>"You were born a 10 and you will die a 10. ...The role that you play, you may struggle as an employee, you may struggle as a spouse, you may struggle as a parent. That's the role you play. But no role will ever be any higher than the identity you give yourself as a human." —Robert Hunt</blockquote>
+<blockquote>"You were born a 10 and you will die a 10. ...The role that you play, you may suck as an employee, you may struggle as a spouse, you may struggle as a parent. That's the role you play. But no role will ever be any higher than the identity you give yourself as a human." —Robert Hunt</blockquote>
 
 <h2>Resources mentioned</h2>
 <ul>
 <li><em>Nobody Cares Until You Do</em> by Robert Hunt</li>
 <li><a href="https://nobodycaresbook.com" target="_blank" rel="noopener">NobodyCaresBook.com</a>: home to the free satisfaction assessment mentioned in the episode</li>
 <li><a href="https://refdallas.com" target="_blank" rel="noopener">REFDallas.com</a>: Robert's CEO peer groups and executive coaching practice</li>
-<li><a href="https://nobodycarespod.com" target="_blank" rel="noopener">NobodyCaresPod.com</a>: use code word PHOENIX for a free copy of the book (first two listeners)</li>
+<li><a href="https://nobodycarespod.com" target="_blank" rel="noopener">NobodyCaresPod.com</a>: use code word PHOENIX for a free copy of the book, per Robert's on-air offer</li>
 </ul>
 
 <h2>Related episodes</h2>
@@ -283,7 +283,8 @@ This is awesome. Listeners, know unequivocally that you have heard multiple thin
 ## Notes for reviewer
 
 - **Targeted keywords**: "accountability" and the book's own title "Nobody Cares Until You Do" (a branded search phrase), used in title, first sentence context, and H2/bullets. Guest name "Robert Hunt" carried through.
-- **New URL from transcript, not current content**: `nobodycarespod.com` (with the code word PHOENIX for a free book) is not in the current WP content but is stated explicitly and clearly by Robert on air, so I included it per the "URLs present in the transcript" rule. Please confirm this offer is still live before publishing, since it's tied to "the first two people" and may have expired.
+- **New URL from transcript, not current content**: `nobodycarespod.com` (with the code word PHOENIX for a free book) is not in the current WP content but is stated explicitly and clearly by Robert on air, so I included it per the "URLs present in the transcript" rule.
+- **Judgment call: dropped the "first two listeners" framing (fact-check pass)**: Robert's on-air offer was to mail a free book to "the first two people" who used the code word, said live in an episode that first aired April 7, 2025. Since these show notes are being finalized well over a year after that air date, a scarcity offer aimed at literally the first two responders from the original broadcast is almost certainly long since claimed or lapsed; leaving that framing in as if it's still live would mislead new readers. I kept the URL and code word, since Robert did state both on air and there's no reason to think the contact form itself is gone, but rewrote the "first two listeners" language to describe it as the offer Robert made on the show, without asserting it's still open to exactly two people. Recommend double-checking with Robert/his site before publishing in case the offer or form has changed entirely.
 - **Co-author not fully named**: current WP content and Robert both refer to "Nobody Cares Until You Do" as co-authored, and Robert consistently says "we wrote the book" about himself and his wife Cathy, but he never states on air that Cathy is formally credited as co-author. I named Cathy as the co-writer in the bio ("co-authored... written with his wife Cathy") since that's how he describes the writing process throughout, but flagging in case the actual book credit differs.
 - **Robert's age is inconsistent in his own dialogue** ("I'm 61" at one point, "I'm 62" later in the same conversation) — likely a slip on his part rather than a transcription error, since it happens in his own two separate lines. I did not state his age anywhere in the editorial copy to avoid asserting either number as fact; both instances are preserved verbatim in the transcript.
 - **Business growth numbers**: Robert's numbers ("nine clients... to 21... to 43") are a little compressed in his telling (he says business "doubled" in 2020 then "doubled again," while also giving 9 to 21 to 43 as the client count); I used his own stated figures exactly as given rather than reconciling the "doubled" language against the arithmetic myself.

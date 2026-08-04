@@ -1,0 +1,27 @@
+CLEAN
+
+Verification notes:
+- "Book title couldn't confidently transcribe" check (per special instructions): confirmed. Raw transcript
+  (transcripts/ep3400-fear-success-and-overcoming-self-sabotage-with-dr-.txt, line 32) renders the title as
+  "Rise Up of the Script," which is clearly a garbled ASR mishearing, not a real book title. The draft never
+  publishes this string; it's only mentioned (with the caveat) in the reviewer notes, and the editorial sections
+  describe the book functionally ("his book on fear of success and self-defeating behavior in performing
+  artists"). Correctly handled — no guess published.
+- Name spelling: transcript ASR renders "Bramante" inconsistently (Bramonti/Bermonte/Brabanti in Dana's spoken
+  lines); content_raw and the guest's own URLs (bramanteartists.com, linkedin.com/in/albertbramante) confirm
+  "Bramante," which the draft uses consistently. Correct.
+- Big Five trait correction: raw transcript has "low unconsciousness," which isn't a real term and doesn't match
+  the five traits Dr. Bramante had just named seconds earlier (openness, conscientiousness, extroversion,
+  agreeableness, neuroticism). The draft's "low conscientiousness" is an obvious, well-justified correction of a
+  clear ASR error, not a guess, and is documented in the reviewer notes.
+- All three pull quotes verified against the raw transcript. Quote 1 reflects the "conscientiousness" correction
+  above (justified, not a fabrication). Quote 2 has one small grammatical smoothing (raw: "you have to evaluate
+  this person really worth my time" -> draft adds "is" and a colon for readability); meaning is unchanged. Quote
+  3 is exact verbatim.
+- Claims (talent agent, 20+ years, PhD in psychology from Walden University, certified hypnotist/NLP
+  practitioner, dissertation on fear of success/self-defeating behavior in performing artists, power-pose
+  research, "happy file," 2008-2013 community college professor overcommitment story) all check out against the
+  transcript.
+- URLs (bramanteartists.com, linkedin.com/in/albertbramante) trace to content_raw.
+- Mechanics: no spaced em dashes in editorial sections; external links carry target="_blank" rel="noopener" in
+  the WP content; internal danaskaggs.com links don't.

@@ -1,0 +1,53 @@
+MECH-FIXED (sensitive-content check, method/means): The hook paragraph (and its verbatim mirror in the Libsyn
+description) opened with "They take away your shoelaces in the psych ward. Anything you could use to hurt
+yourself... Brianna remembers lying in that room at night, banging her head against the bed, when something
+shifted..." — this describes an actual self-harm act (head-banging) and institutional self-harm-prevention
+detail as the lead attention-grabbing hook, which is more graphic than the standard set by the other sensitive
+episodes in this run (e.g. ep3334 cut "the bridge" as method/means even though it was verbatim from the guest).
+Rewrote both instances to keep the severity (14 years old, bullying so severe it led to hospitalization, the
+judge father's warning to his own daughter) and the "calm white light" turning point, while cutting the specific
+self-harm act and the shoelace/self-harm-implement detail. New hook: "My guest Brianna Brown Keen was 14 when
+bullying so severe it landed her in the hospital, bullying so bad that her best friend's own father, a judge,
+told his daughter to stop being friends with her so she wouldn't get bullied too. In that hospital room,
+something shifted: a calm white light, she calls it, moving through her..."
+
+Sensitivity read (per special instructions): Sensitive topic identified is severe adolescent bullying that led
+to Brianna Brown Keen's hospitalization/psychiatric-ward stay at 14, including suicidal ideation ("I no longer
+wanted to kill myself") and a self-harm episode, plus a secondary mention (transcript only, not in editorial)
+of domestic abuse among women in one of her nonprofit's programs. content_raw already discloses "battling severe
+bullying that led to hospitalization as a teen."
+
+Three-point check (same standard applied to ep3334/ep3346/ep3348/ep3388/ep3836/ep3860):
+1. Method/means: FAILED on first read (see MECH-FIXED above — the shoelaces/self-harm-implement detail and the
+   head-banging description in the hook). Fixed by cutting both; editorial sections now name only the crisis and
+   the outcome (hospitalization, the turning point), never the specific self-harm act. PASSES after fix. No
+   suicide-attempt method is named anywhere in the editorial sections or bullets; "psych ward"/"hospitalization"
+   mentions elsewhere (bullets, timestamps) are non-graphic and consistent with how ep3388 handles "psychiatric
+   ward."
+2. Sensationalizing: PASSES after fix. Before the fix, opening on the shoelace/self-harm detail as the very
+   first line was itself an attention-grabbing device bordering on sensationalizing; after the rewrite the hook
+   stays on the severity-and-turning-point arc without a graphic cold open. Bullets and timestamps stay on the
+   growth/reframe angle throughout.
+3. Guest identification: PASSES. Brianna Brown Keen is a public figure (working actress with public IMDb
+   credits) and content_raw already discloses the bullying/hospitalization; nothing published exceeds what she
+   disclosed on-air or what's already public.
+
+Also verified (per special instructions):
+- "Ambiguous nonprofit-program name": confirmed genuinely left generic, not guessed. Raw transcript has Brianna
+  say "the Teenage Accountability Program that helps formerly homeless single moms" — an implausible pairing
+  that reads as an ASR mishearing of the real program name. The draft never publishes this string; it only
+  appears (with the caveat) in the reviewer notes, and editorial copy describes it functionally ("one of the
+  programs under her nonprofit that supports formerly homeless single moms"). Correct.
+- "Unverified spoken URLs": confirmed handled the same way. Brianna verbally states "manifestingyourmission.org"
+  and "thenewhollywood.org" in the transcript, but content_raw only provides mym.briannabrownkeen.com and her
+  LinkedIn. The draft correctly uses only the content_raw-verified mym.briannabrownkeen.com link and mentions
+  The New Hollywood by name without a URL, rather than publishing the spoken-but-unverified .org domains (which
+  don't match the confirmed domain pattern and could be misheard).
+
+Other verification:
+- All three pull quotes verified verbatim against transcripts/ep3445-why-your-biggest-challenges-are-your-best-teachers.txt
+  (filler-word trimming and one ellipsis-bridged stitch in quote 3, both within the wording-preservation rule).
+- Bio claims (2+ decades in Hollywood, Dynasty/Devious Maids/General Hospital/Homeland, Outer Banks season 4,
+  The New Hollywood founded 2006) match Dana's intro and Brianna's own account.
+- Mechanics: no spaced em dashes in editorial sections; external links carry target="_blank" rel="noopener" in
+  the WP content; internal danaskaggs.com links don't.

@@ -49,7 +49,7 @@ Therapeutic consultant Joanna Lilley explains why young adults are more stuck th
 <li>(17:06) Holding a boundary without letting fear drive your parenting</li>
 <li>(22:40) Building structure and momentum for a young adult who skips college</li>
 <li>(28:01) Gaming, codependent parenting, and why the average young adult may have nine careers</li>
-<li>(37:19) The difference between a real boundary and distress intolerance</li>
+<li>(34:07) The difference between a real boundary and distress intolerance</li>
 <li>(41:38) Where to find Joanna, her blog, and her podcast, Success Is Subjective</li>
 </ul>
 

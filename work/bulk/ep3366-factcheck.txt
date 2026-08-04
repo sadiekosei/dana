@@ -1,0 +1,11 @@
+CLAIM-FIXED: WordPress intro paragraph said Mette "got fired for the second time in her career"; the transcript only supports "it was not the first time I got fired" (01:53), no exact count given. Changed to "she got fired, not for the first time in her career" in both the WordPress content intro and the Libsyn description intro.
+CLAIM-FIXED: "In this episode" bullet said "How Mette got fired, twice..."; same issue as above (no exact count stated). Changed to "How Mette got fired, not for the first time..." in both the WordPress content bullet and the Libsyn description bullet.
+CLAIM-FIXED: WordPress intro parenthetical said Mette was "international director at two universities." Per her own account (06:37-07:36), she was international director at one university and director of corporate relations at a different one, matching what the "About Mette Reebirk" section already said. Corrected the intro to match.
+MECH-FIXED (timestamp): "You need to look behind": what keeps people blaming a bad boss instead of dealing with one" was listed at (16:31); that quote and the bad-boss content actually occur at (14:03). (16:31) is a different topic (the "we meet the story, not the person" idea). Corrected the timestamp to (14:03).
+
+Independent verification performed (per assignment instructions):
+- Confirmed the garbled book title was described by theme only, not guessed. Dana's intro reads "She has a new book. called The Tipping Point. Life force comes from questioning your thoughts..." — a clearly garbled/merged reading (Malcolm Gladwell's unrelated "The Tipping Point" is almost certainly a transcription artifact, not the guest's actual title). The book title is never stated cleanly elsewhere. The draft correctly avoided naming any title (not even the likely-wrong "The Tipping Point") and described the book by theme only in both Resources sections, flagging it for the reviewer to confirm before publishing.
+- Checked all three pull quotes against transcript: verbatim.
+- Checked the one URL used (LinkedIn): matches content_raw exactly.
+- Checked mechanics: no spaced em dashes outside the transcript block; link target/rel handling correct.
+4 fixes.
