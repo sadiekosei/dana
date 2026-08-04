@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Kosei Dana Podcast Tools
  * Description: Narrow, single-purpose REST API for safely appending ONE new top-level Elementor container to the /podcast/ page (post ID 3048) only. Built by Sadie's Claude Code session; safe to deactivate/delete once the podcast archive widget work is finished.
- * Version: 1.9.0
+ * Version: 1.9.1
  * Author: Kosei Designs
  */
 
@@ -85,7 +85,35 @@ add_action( 'rest_api_init', function () {
 		'callback'            => 'kosei_dana_edit_sections',
 		'permission_callback' => function () { return current_user_can( 'edit_pages' ); },
 	) );
+	register_rest_route( 'kosei-dana/v1', '/podcast-page-seo-meta', array(
+		'methods'             => 'POST',
+		'callback'            => 'kosei_dana_seo_meta',
+		'permission_callback' => function () { return current_user_can( 'edit_pages' ); },
+	) );
 } );
+
+// Sets the Yoast SEO meta description (and optionally the SEO title) for
+// the /podcast/ page only -- core REST won't write unregistered postmeta.
+function kosei_dana_seo_meta( \WP_REST_Request $req ) {
+	$body = json_decode( $req->get_body(), true );
+	$desc  = is_array( $body ) ? ( $body['metadesc'] ?? null ) : null;
+	$title = is_array( $body ) ? ( $body['seo_title'] ?? null ) : null;
+	if ( null === $desc && null === $title ) {
+		return new \WP_Error( 'bad_body', 'Body must include "metadesc" and/or "seo_title".', array( 'status' => 400 ) );
+	}
+	$out = array( 'ok' => true );
+	if ( null !== $desc ) {
+		update_post_meta( KOSEI_DANA_PAGE_ID, '_yoast_wpseo_metadesc', sanitize_text_field( $desc ) );
+		$out['metadesc'] = get_post_meta( KOSEI_DANA_PAGE_ID, '_yoast_wpseo_metadesc', true );
+	}
+	if ( null !== $title ) {
+		update_post_meta( KOSEI_DANA_PAGE_ID, '_yoast_wpseo_title', sanitize_text_field( $title ) );
+		$out['seo_title'] = get_post_meta( KOSEI_DANA_PAGE_ID, '_yoast_wpseo_title', true );
+	}
+	do_action( 'litespeed_purge_post', KOSEI_DANA_PAGE_ID );
+	do_action( 'litespeed_purge_all' );
+	return new \WP_REST_Response( $out, 200 );
+}
 
 // Top-level section surgery for the 2026-08 page redesign (Sadie asked to
 // remove the old local-TV appearances and add a logo strip + guest-show
