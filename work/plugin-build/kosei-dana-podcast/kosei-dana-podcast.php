@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Kosei Dana Podcast Tools
  * Description: Narrow, single-purpose REST API for safely appending ONE new top-level Elementor container to the /podcast/ page (post ID 3048) only. Built by Sadie's Claude Code session; safe to deactivate/delete once the podcast archive widget work is finished.
- * Version: 1.4.0
+ * Version: 1.5.0
  * Author: Kosei Designs
  */
 
@@ -60,7 +60,60 @@ add_action( 'rest_api_init', function () {
 		'callback'            => 'kosei_dana_lazy_iframes',
 		'permission_callback' => function () { return current_user_can( 'edit_pages' ); },
 	) );
+	register_rest_route( 'kosei-dana/v1', '/widget', array(
+		'methods'             => 'GET',
+		'callback'            => 'kosei_dana_widget_schema',
+		'permission_callback' => function () { return current_user_can( 'edit_pages' ); },
+	) );
 } );
+
+// Read-only Elementor widget introspection, ported from Melinda's Kosei
+// Deploy API (class-kosei-deploy.php widget_schema()) -- no type param
+// lists every registered widget; ?type=<name> dumps its real controls,
+// so a widget's settings schema can be read instead of guessed.
+function kosei_dana_widget_schema( \WP_REST_Request $req ) {
+	if ( ! class_exists( '\Elementor\Plugin' ) ) {
+		return new \WP_Error( 'no_elementor', 'Elementor is not active.', array( 'status' => 500 ) );
+	}
+	$wm   = \Elementor\Plugin::$instance->widgets_manager;
+	$type = $req->get_param( 'type' );
+	if ( ! $type ) {
+		$types = array_keys( (array) $wm->get_widget_types() );
+		sort( $types );
+		return new \WP_REST_Response( array( 'ok' => true, 'count' => count( $types ), 'types' => $types ), 200 );
+	}
+	$w = $wm->get_widget_types( $type );
+	if ( ! $w ) {
+		return new \WP_REST_Response( array( 'ok' => false, 'error' => 'not registered', 'type' => $type ), 200 );
+	}
+	$flat = function ( $controls ) {
+		$out = array();
+		foreach ( (array) $controls as $name => $c ) {
+			$row = array( 'type' => $c['type'] ?? null );
+			if ( array_key_exists( 'default', $c ) ) {
+				$row['default'] = $c['default'];
+			}
+			if ( ( $c['type'] ?? '' ) === 'repeater' && ! empty( $c['fields'] ) ) {
+				$fields = array();
+				foreach ( (array) $c['fields'] as $fn => $fc ) {
+					$fields[ $fn ] = array( 'type' => $fc['type'] ?? null );
+					if ( array_key_exists( 'default', $fc ) ) {
+						$fields[ $fn ]['default'] = $fc['default'];
+					}
+				}
+				$row['fields'] = $fields;
+			}
+			$out[ $name ] = $row;
+		}
+		return $out;
+	};
+	return new \WP_REST_Response( array(
+		'ok'       => true,
+		'type'     => $type,
+		'title'    => method_exists( $w, 'get_title' ) ? $w->get_title() : null,
+		'controls' => $flat( $w->get_controls() ),
+	), 200 );
+}
 
 function kosei_dana_remove_appended( \WP_REST_Request $req ) {
 	$body = json_decode( $req->get_body(), true );
