@@ -45,7 +45,8 @@ Corporate executive Heather Powers explains why working moms joke they need a wi
 <li>(05:08) Finding the courage to leave home, and "you can't be what you can't see"</li>
 <li>(08:44) Founding The Power Lane, and why working moms became her focus</li>
 <li>(09:38) How the pandemic (and three overlapping school schedules) crystallized her mission</li>
-<li>(11:57) Winning the fight against a one-size-fits-all return-to-office mandate</li>
+<li>(10:32) Winning the fight against a one-size-fits-all return-to-office mandate</li>
+<li>(11:57) The supervisor pushback that became her real turning point: "we are all at breaking points"</li>
 <li>(19:34) "We want a wife too": the invisible labor working parents carry, and why it's cultural, not just personal</li>
 <li>(22:19) The superpowers working moms build: project management, time management, negotiation</li>
 <li>(26:36) Heather's book, The Power Lane, and the business case for hiring working mothers</li>
@@ -287,7 +288,7 @@ a best friend, I have a coworker, I have a family member that needs to hear exac
 ```html
 <p>"We want a wife too." That's the joke Heather Powers and her girlfriends at work used to make: someone at home scheduling the appointments, running to the dry cleaners, keeping the household Tetris moving so they could focus at the office. Heather has spent almost 19 years as a working mom in Washington, D.C. management consulting, and during the pandemic she found herself sitting with three schedules at once (hers, her son's, her daughter's), making sure everybody logged on to virtual school at the right time. That's when it crystallized for her: the traditional 9-to-5 wasn't built for the way most families actually run.</p>
 
-<p>Heather grew up the daughter of a construction worker and a teacher in rural New Hampshire, moved to D.C. for what she calls "this mythical thing" called corporate life, and climbed to an executive role at one of the largest management consulting firms in the country, all while raising two kids. She's since founded The Power Lane, a consultancy that helps organizations and individuals accelerate toward their goals, and written a book by the same name making the business case for why working mothers are exactly who companies need right now.</p>
+<p>Heather grew up the daughter of a construction worker and a teacher in rural New Hampshire, moved to D.C. for what she calls "this mythical thing" called corporate life, and climbed to an executive role at one of the large management consulting firms, all while raising two kids. She's since founded The Power Lane, a consultancy that helps organizations and individuals accelerate toward their goals, and written a book by the same name making the business case for why working mothers are exactly who companies need right now.</p>
 
 <p>We get into the corporate return-to-office fight Heather helped win for flexible work, why she thinks negotiating with a toddler prepares you for anything a boardroom can throw at you, and the very specific way she wants you to start asking for what you actually need at work.</p>
 

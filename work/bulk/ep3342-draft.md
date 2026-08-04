@@ -59,11 +59,11 @@ Nikki LaCroce on leaving a decade-long relationship with a covert narcissist, lo
 <h2>Favorite quotes</h2>
 <blockquote>"You're asking for the bare minimum and you're not even getting that." —a friend's words to Nikki LaCroce, the turning-point moment she describes</blockquote>
 <blockquote>"Gratitude and anxiety can exist at the same time." —Nikki LaCroce's therapist, as relayed by Nikki</blockquote>
-<blockquote>"The hardest part about leaving [a] narcissistic abusive relationship with somebody is regaining your sense of self." —Nikki LaCroce's therapist, as relayed by Nikki</blockquote>
+<blockquote>"The hardest part about leaving a narcissistic abusive relationship with somebody is regaining your sense of self." —Nikki LaCroce's therapist, as relayed by Nikki</blockquote>
 
 <h2>Resources mentioned</h2>
 <ul>
-<li>"Can I Just Say?" — Nikki's podcast, available wherever you listen to podcasts</li>
+<li>"Can I Just Say?": Nikki's podcast, available wherever you listen to podcasts</li>
 <li><a href="https://canijustsaypodcast.com" target="_blank" rel="noopener">CanIJustSayPodcast.com</a>: Nikki's website</li>
 </ul>
 
@@ -305,7 +305,7 @@ This is awesome. Listeners, I know you have heard so many things today that you'
 
 <p><strong>Resources mentioned:</strong></p>
 <ul>
-<li>"Can I Just Say?" — Nikki's podcast, available wherever you listen to podcasts</li>
+<li>"Can I Just Say?": Nikki's podcast, available wherever you listen to podcasts</li>
 <li><a href="https://canijustsaypodcast.com">CanIJustSayPodcast.com</a></li>
 </ul>
 
