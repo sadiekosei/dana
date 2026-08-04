@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Kosei Dana Podcast Tools
  * Description: Narrow, single-purpose REST API for safely appending ONE new top-level Elementor container to the /podcast/ page (post ID 3048) only. Built by Sadie's Claude Code session; safe to deactivate/delete once the podcast archive widget work is finished.
- * Version: 1.3.1
+ * Version: 1.4.0
  * Author: Kosei Designs
  */
 
@@ -55,6 +55,11 @@ add_action( 'rest_api_init', function () {
 		'callback'            => 'kosei_dana_remove_appended',
 		'permission_callback' => function () { return current_user_can( 'edit_pages' ); },
 	) );
+	register_rest_route( 'kosei-dana/v1', '/podcast-page-lazy-iframes', array(
+		'methods'             => 'POST',
+		'callback'            => 'kosei_dana_lazy_iframes',
+		'permission_callback' => function () { return current_user_can( 'edit_pages' ); },
+	) );
 } );
 
 function kosei_dana_remove_appended( \WP_REST_Request $req ) {
@@ -91,6 +96,56 @@ function kosei_dana_remove_appended( \WP_REST_Request $req ) {
 	do_action( 'litespeed_purge_post', KOSEI_DANA_PAGE_ID );
 	do_action( 'litespeed_purge_all' );
 	return new \WP_REST_Response( array( 'ok' => true, 'before_count' => $before, 'after_count' => count( $decoded ) ), 200 );
+}
+
+function kosei_dana_lazy_iframes() {
+	$raw     = get_post_meta( KOSEI_DANA_PAGE_ID, '_elementor_data', true );
+	$decoded = json_decode( is_string( $raw ) ? $raw : '', true );
+	if ( ! is_array( $decoded ) ) {
+		return new \WP_Error( 'bad_data', 'Existing _elementor_data did not decode as an array.', array( 'status' => 500 ) );
+	}
+	$patched = array();
+	$patch = function ( &$el ) use ( &$patch, &$patched ) {
+		if ( ( $el['widgetType'] ?? '' ) === 'shortcode' && isset( $el['settings']['shortcode'] ) ) {
+			$sc = $el['settings']['shortcode'];
+			if ( false !== strpos( $sc, '<iframe' ) && false === strpos( $sc, 'loading="lazy"' ) ) {
+				$new_sc = preg_replace( '/<iframe(\s)/', '<iframe loading="lazy"$1', $sc, 1 );
+				if ( $new_sc !== $sc ) {
+					$el['settings']['shortcode'] = $new_sc;
+					$patched[] = $el['id'] ?? '?';
+				}
+			}
+		}
+		if ( ! empty( $el['elements'] ) && is_array( $el['elements'] ) ) {
+			foreach ( $el['elements'] as &$child ) {
+				$patch( $child );
+			}
+			unset( $child );
+		}
+	};
+	foreach ( $decoded as &$top ) {
+		$patch( $top );
+	}
+	unset( $top );
+
+	if ( empty( $patched ) ) {
+		return new \WP_REST_Response( array( 'ok' => true, 'patched' => array(), 'note' => 'nothing to patch (already lazy, or no matching iframes)' ), 200 );
+	}
+
+	update_post_meta( KOSEI_DANA_PAGE_ID, '_elementor_data', wp_slash( wp_json_encode( $decoded ) ) );
+	if ( class_exists( '\Elementor\Core\Files\CSS\Post' ) ) {
+		try {
+			delete_post_meta( KOSEI_DANA_PAGE_ID, '_elementor_css' );
+			\Elementor\Core\Files\CSS\Post::create( KOSEI_DANA_PAGE_ID )->update();
+		} catch ( \Throwable $e ) { /* non-fatal */ }
+	}
+	if ( class_exists( '\Elementor\Plugin' ) ) {
+		\Elementor\Plugin::$instance->files_manager->clear_cache();
+	}
+	do_action( 'litespeed_purge_post', KOSEI_DANA_PAGE_ID );
+	do_action( 'litespeed_purge_all' );
+
+	return new \WP_REST_Response( array( 'ok' => true, 'patched' => $patched, 'count' => count( $patched ) ), 200 );
 }
 
 function kosei_dana_diag() {
