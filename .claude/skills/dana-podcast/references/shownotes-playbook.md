@@ -67,9 +67,15 @@ page missing its SEO fundamentals. Per-episode checklist, all mandatory:
 8. **Related episodes** — 2–3 internal links to other episodes on the
    topic. With 177 episodes this internal mesh is the cheapest ranking
    win available; add links in BOTH directions.
-9. **CTA**: subscribe + review ask, link-tree, and Dana's free Work
+9. **CTA**: follow links + review ask, link-tree, and Dana's free Work
    Boundaries Quiz (https://danaskaggs.com/quiz/) written first-person
    ("Take my free..."). NOT "Book Dana" (Sadie, 2026-08-04).
+   Canonical follow links (from phoenixandflame.com; use these exact
+   URLs, never guess):
+   - Apple: https://podcasts.apple.com/us/podcast/phoenix-and-flame-podcast/id1513991564
+   - Spotify: https://open.spotify.com/show/1605QJMBVo3qOCUPk8MM2c
+   - Amazon Music: https://music.amazon.com/podcasts/e0b1804a-98d0-46ca-9555-c26f44d49518/phoenix-and-flame-podcast
+   - YouTube: https://www.youtube.com/@queenofboundaries
 10. **Transcript** — full transcript at the bottom, ideally in a
     collapsible block (`<details><summary>Read the full transcript
     </summary>…</details>`). This is the single biggest SEO lever: it
