@@ -1,0 +1,1 @@
+QUOTE-FIXED: Favorite-quotes pull quote "I need to set that precedent, not just for everyone else, but for myself. I need to stay true to that." dropped the mid-sentence clause "which is still an important part of boundaries" that appears in both the raw transcript and the draft's own verbatim transcript block. Restored the clause so the pull quote matches verbatim.

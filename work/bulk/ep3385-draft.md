@@ -77,7 +77,7 @@ Addictions coach Dr. Cali Estes shares her simple two-week test for spotting add
 <h2>Related episodes</h2>
 <ul>
 <li><a href="https://danaskaggs.com/podcast/journey-from-addict-to-award-winning-author-interview-with-melanie-yates/">Journey From Addict to Award-Winning Author: Interview with Melanie Yates</a>: another guest who rebuilt an entire identity and career on the other side of active addiction.</li>
-<li><a href="https://danaskaggs.com/podcast/healing-from-trauma-and-addiction-dr-stephan-neffs-journey/">Healing from Trauma and Addiction: Dr. Stephan Neff's Journey</a>: more on the trauma underneath addiction, the piece Dr. Cali says the meetings rarely address.</li>
+<li><a href="https://danaskaggs.com/podcast/drstephanneff/">Healing from Trauma and Addiction: Dr. Stephan Neff's Journey</a>: more on the trauma underneath addiction, the piece Dr. Cali says the meetings rarely address.</li>
 <li><a href="https://danaskaggs.com/podcast/amandakate/">Trauma Impact: From Codependency to Self-Mastery</a>: a closer look at the codependency and enabling patterns Dr. Cali describes in the families of people she coaches.</li>
 </ul>
 

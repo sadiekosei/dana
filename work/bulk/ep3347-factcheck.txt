@@ -1,0 +1,1 @@
+QUOTE-FIXED: Quoted fragment "stifling their spirit" (used in the hook paragraph and an "In this episode" bullet, WordPress content and Libsyn description) did not match the transcript, which has Dana saying "stifling their spirits" (plural). Corrected all three occurrences to "spirits" to match verbatim.
