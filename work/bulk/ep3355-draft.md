@@ -19,7 +19,7 @@ Empowerment strategist JJ Flizanes on spotting victim mentality, using her free 
 
 <p>Escaping victim mentality starts with a question most of us never ask ourselves, according to my guest today: are you telling this story because you want to be heard, or because you actually want to feel better? JJ Flizanes is an empowerment strategist who spent six frustrating sessions with a therapist who kept steering the conversation back to talk instead of the EMDR she'd come for. She finally walked away and found someone new, wrote out exactly what she needed in writing before their very first session, and they did EMDR that same day.</p>
 
-<p>That story is basically JJ's whole philosophy in miniature: know what you actually need, ask for it directly, and stop waiting for someone else to read your mind or fix your feelings for you. She calls herself an empowerment strategist because she works both sides of the brain, the emotional right side and the strategic left side, to help people get unstuck from victim mentality. We also get into her own marriage, which nearly ended after years of what she calls "punishing" silence, and how letting go of trying to fix it was what let her finally move forward.</p>
+<p>That story is basically JJ's whole philosophy in miniature: know what you actually need, ask for it directly, and stop waiting for someone else to read your mind or fix your feelings for you. She calls herself an empowerment strategist because she works both sides of the brain, the emotional right side and the strategic left side, to help people get unstuck from victim mentality. We also get into her own marriage, which ended after years of what she calls "punishing" silence, and how letting go of trying to fix it was what let her finally move forward.</p>
 
 <p>JJ also walks through the exercise she gives away for free: a feelings-and-needs list built out of 86 basic human needs, and why naming what you actually need is the fastest way out of a spiral.</p>
 
@@ -31,7 +31,7 @@ Empowerment strategist JJ Flizanes on spotting victim mentality, using her free 
 <li>Why JJ calls herself an "empowerment strategist" instead of a coach, and how she works both the emotional (right-brain) and strategic (left-brain) sides of healing</li>
 <li>The question to ask someone stuck in victim mentality before they start venting: do you want me to just listen, or do you want help finding a solution?</li>
 <li>Why some people in victim mentality don't actually want to get better, using JJ's story of a client who was "getting" more from staying stuck than from healing</li>
-<li>How JJ's own marriage nearly ended, and what "lovingly detaching" from trying to fix someone else actually looks like</li>
+<li>How JJ's own marriage ended, and what "lovingly detaching" from trying to fix someone else actually looks like</li>
 <li>The free feelings-and-needs exercise JJ uses with clients, built on 86 basic human needs, to figure out what's actually driving a negative feeling</li>
 <li>Why JJ says it's no one else's job to make you happy, and how she applies that to her own law-of-attraction philosophy</li>
 </ul>
@@ -280,7 +280,7 @@ It absolutely helped a lot of people, no doubt. Now listeners, I know that you'r
 ```html
 <p>Escaping victim mentality starts with a question most of us never ask ourselves, according to my guest today: are you telling this story because you want to be heard, or because you actually want to feel better? JJ Flizanes is an empowerment strategist who spent six frustrating sessions with a therapist who kept steering the conversation back to talk instead of the EMDR she'd come for. She finally walked away and found someone new, wrote out exactly what she needed in writing before their very first session, and they did EMDR that same day.</p>
 
-<p>That story is basically JJ's whole philosophy in miniature: know what you actually need, ask for it directly, and stop waiting for someone else to read your mind or fix your feelings for you. She calls herself an empowerment strategist because she works both sides of the brain, the emotional right side and the strategic left side, to help people get unstuck from victim mentality. We also get into her own marriage, which nearly ended after years of what she calls "punishing" silence, and how letting go of trying to fix it was what let her finally move forward.</p>
+<p>That story is basically JJ's whole philosophy in miniature: know what you actually need, ask for it directly, and stop waiting for someone else to read your mind or fix your feelings for you. She calls herself an empowerment strategist because she works both sides of the brain, the emotional right side and the strategic left side, to help people get unstuck from victim mentality. We also get into her own marriage, which ended after years of what she calls "punishing" silence, and how letting go of trying to fix it was what let her finally move forward.</p>
 
 <p>JJ also walks through the exercise she gives away for free: a feelings-and-needs list built out of 86 basic human needs, and why naming what you actually need is the fastest way out of a spiral.</p>
 
@@ -289,7 +289,7 @@ It absolutely helped a lot of people, no doubt. Now listeners, I know that you'r
 <li>Why JJ calls herself an "empowerment strategist" instead of a coach</li>
 <li>The question to ask someone stuck in victim mentality before they start venting</li>
 <li>Why some people in victim mentality don't actually want to get better</li>
-<li>How JJ's own marriage nearly ended, and what "lovingly detaching" actually looks like</li>
+<li>How JJ's own marriage ended, and what "lovingly detaching" actually looks like</li>
 <li>The free feelings-and-needs exercise JJ uses with clients, built on 86 basic human needs</li>
 <li>Why JJ says it's no one else's job to make you happy</li>
 </ul>
