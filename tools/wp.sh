@@ -22,10 +22,15 @@ BASE="${WP_BASE:?set WP_BASE, e.g. https://example.com}"
 USER_="${WP_USER:?set WP_USER}"
 PASS="${WP_APP_PASS:?set WP_APP_PASS}"
 UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
+# Hostinger's CDN strips the Authorization header before it reaches PHP, so
+# credentials also travel in X-Kosei-Auth; a Code Snippets php snippet on the
+# site copies it back into HTTP_AUTHORIZATION ("Restore Authorization header").
+B64=$(printf '%s:%s' "$USER_" "$PASS" | base64 -w0)
 call(){
   local out
   for i in 1 2 3 4 5 6 7 8; do
-    out=$(curl -sS --max-time 90 -A "$UA" -e "$BASE/" -u "$USER_:$PASS" "$@") || true
+    out=$(curl -sS --max-time 90 -A "$UA" -e "$BASE/" -u "$USER_:$PASS" \
+      -H "X-Kosei-Auth: Basic $B64" "$@") || true
     # Retry on anti-bot challenge pages (SiteGround "sgcaptcha" or any HTML
     # response where JSON was expected).
     if ! printf '%s' "$out" | grep -q sgcaptcha; then printf '%s' "$out"; return 0; fi
