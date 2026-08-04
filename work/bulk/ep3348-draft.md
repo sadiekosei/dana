@@ -31,7 +31,7 @@ Light language healer Birgitta Visser on surviving childhood abuse, an eating di
 <h2>In this episode</h2>
 <ul>
 <li>Why one unhealed wound creates the next, and how abuse from a family friend at 10 or 11 shaped decades of Birgitta's relationships</li>
-<li>The eating disorder and modeling-industry rejection that started before she'd even left high school</li>
+<li>The eating disorder that started in high school, and the modeling-industry rejection that followed</li>
 <li>What it actually took to survive a 2009 crisis (her ex-boyfriend's kidnapping by a gang, a death threat against her, and a suicide attempt) and start over</li>
 <li>Why the most empathetic, "high-vibration" people are often the ones who need boundaries the most</li>
 <li>Inside a shamanic Kambo ceremony: what four hours of purging taught her about her own ego</li>
@@ -311,7 +311,7 @@ Do you know I f-</p>
 <p><strong>In this episode:</strong></p>
 <ul>
 <li>Why one unhealed wound creates the next, and how abuse from a family friend at 10 or 11 shaped decades of Birgitta's relationships</li>
-<li>The eating disorder and modeling-industry rejection that started before she'd even left high school</li>
+<li>The eating disorder that started in high school, and the modeling-industry rejection that followed</li>
 <li>What it actually took to survive a 2009 crisis (her ex-boyfriend's kidnapping by a gang, a death threat against her, and a suicide attempt) and start over</li>
 <li>Why the most empathetic, "high-vibration" people are often the ones who need boundaries the most</li>
 <li>Inside a shamanic Kambo ceremony: what four hours of purging taught her about her own ego</li>

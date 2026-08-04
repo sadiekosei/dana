@@ -47,7 +47,8 @@ Corporate executive Heather Powers explains why working moms joke they need a wi
 <li>(09:38) How the pandemic (and three overlapping school schedules) crystallized her mission</li>
 <li>(10:32) Winning the fight against a one-size-fits-all return-to-office mandate</li>
 <li>(11:57) The supervisor pushback that became her real turning point: "we are all at breaking points"</li>
-<li>(19:34) "We want a wife too": the invisible labor working parents carry, and why it's cultural, not just personal</li>
+<li>(14:46) "We want a wife too": the invisible labor working parents carry, and why it's cultural, not just personal</li>
+<li>(19:34) Why leaders and companies have to change, and how to actually make the ask for what you need at work</li>
 <li>(22:19) The superpowers working moms build: project management, time management, negotiation</li>
 <li>(26:36) Heather's book, The Power Lane, and the business case for hiring working mothers</li>
 <li>(29:54) What Heather would say to a mom who's discouraged and afraid right now</li>

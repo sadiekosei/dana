@@ -58,7 +58,7 @@ Ann Swanson, author of Science of Yoga, on the neuroscience of meditation, one-m
 <p>Learn more and get her free meditation challenge at <a href="https://meditationfortherealworld.com" target="_blank" rel="noopener">MeditationForTheRealWorld.com</a>, find her book <a href="https://a.co/d/6JgtqWN" target="_blank" rel="noopener">here</a>, or follow her on Instagram at Science.of.Yoga.</p>
 
 <h2>Favorite quotes</h2>
-<blockquote>"When you are present, you are happier. And when you're not present, you're not happier. Doesn't matter what you're doing." —Ann Swanson</blockquote>
+<blockquote>"When you are present, you are happy. And when you're not present, you're not happy. Doesn't matter what you're doing." —Ann Swanson</blockquote>
 <blockquote>"If we could sit alone with our thoughts in a quiet room, then there would be world peace." —Ann Swanson</blockquote>
 <blockquote>"Rather than scrolling while we wait, why don't we meditate while we wait?" —Ann Swanson</blockquote>
 
@@ -328,7 +328,7 @@ Alright guys, I know you have heard something today, multiple somethings today, 
 
 <p><strong>About Ann Swanson:</strong> Ann is the author of Science of Yoga (over half a million copies sold) and Meditation for the Real World, co-written with Harvard researcher Dr. Sarah Lazar. Learn more and get her free meditation challenge at <a href="https://meditationfortherealworld.com">MeditationForTheRealWorld.com</a>.</p>
 
-<p><strong>Favorite quote:</strong> "When you are present, you are happier. And when you're not present, you're not happier. Doesn't matter what you're doing." —Ann Swanson</p>
+<p><strong>Favorite quote:</strong> "When you are present, you are happy. And when you're not present, you're not happy. Doesn't matter what you're doing." —Ann Swanson</p>
 
 <p><strong>Resources mentioned:</strong></p>
 <ul>

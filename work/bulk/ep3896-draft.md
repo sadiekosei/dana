@@ -60,8 +60,8 @@ Burnout specialist Dianne Andree shares her power-of-pause method to reclaim you
 <p>Learn more, including her free "simple morning routine" guide, at <a href="https://dianneandree.com/" target="_blank" rel="noopener">dianneandree.com</a>, or connect with her on <a href="https://www.linkedin.com/in/dianne-acu%C3%B1a-andree-speaker/" target="_blank" rel="noopener">LinkedIn</a>.</p>
 
 <h2>Favorite quotes</h2>
-<blockquote>"Stop shoulding on yourself. Should, coulda, woulda, stop shoulding on yourself." —Dianne Andree</blockquote>
-<blockquote>"You have to decide with whom and how you spend your energy. That is something I have complete control over." —Dianne Andree</blockquote>
+<blockquote>"Stop shoulding on yourself. Should, shoulda, coulda, woulda, stop shoulding on yourself." —Dianne Andree</blockquote>
+<blockquote>"There's a lot of things in our life we can't control, but I can decide where I put my energy. That is something I have complete control over." —Dianne Andree</blockquote>
 <blockquote>"The windshield is bigger than the rear view mirror for a reason." —Dianne Andree</blockquote>
 
 <h2>Resources mentioned</h2>
@@ -205,7 +205,7 @@ threatens to come in. I was just wondering your experience, or people you've bee
 Well, I think everybody has, whether it's on social media, in real life, or whatever. What I think makes social media even harder is that so many people, the things they're posting are full of, well, it's not real, right, because the reality is you can put anything you want, your family can look</p>
 
 <p><strong>[Dianne] (27:42)</strong><br>
-perfect, right. I always think of that line from Steel Magnolias, they look like they're carved out of cream cheese, just sitting and smiling so perfectly. That's not real life, nobody looks like that except in the daytime stories, where they're the only ones dressed to the nines to go to the grocery store. There are plenty of times we look terrible, we feel lousy, we're all going to have a moment. I think part of it, and part of what I've always talked about, even before I came to my don't-give-a-shit mid-50s, is stop shoulding on yourself. Should, coulda, woulda, stop shoulding on yourself. Because, as you said, and I'm glad you said what everybody says, "I'm behind" — that's how people feel. But the reality is, and then you gave the right framing of,</p>
+perfect, right. I always think of that line from Steel Magnolias, they look like they're carved out of cream cheese, just sitting and smiling so perfectly. That's not real life, nobody looks like that except in the daytime stories, where they're the only ones dressed to the nines to go to the grocery store. There are plenty of times we look terrible, we feel lousy, we're all going to have a moment. I think part of it, and part of what I've always talked about, even before I came to my don't-give-a-shit mid-50s, is stop shoulding on yourself. Should, shoulda, coulda, woulda, stop shoulding on yourself. Because, as you said, and I'm glad you said what everybody says, "I'm behind" — that's how people feel. But the reality is, and then you gave the right framing of,</p>
 
 <p><strong>[Dianne] (28:41)</strong><br>
 we're just where we are, we're just on a journey. Yes, you need to look at people who are further down that path. But I'll also say, I know plenty of people further down that path who have no gratitude for where they are and what they have now. And there's actually a friend of mine who just invited me to a gratitude app, where you create a bubble</p>
@@ -276,7 +276,7 @@ All right, listeners and viewers, I know you've heard multiple things today. I w
 
 <p><strong>About Dianne Andree:</strong> Dianne is an award-winning international speaker and burnout prevention specialist with more than 25 years of experience in mental health, having stood on the brink of burnout herself. Learn more at <a href="https://dianneandree.com/">dianneandree.com</a> or connect with her on <a href="https://www.linkedin.com/in/dianne-acu%C3%B1a-andree-speaker/">LinkedIn</a>.</p>
 
-<p><strong>Favorite quote:</strong> "You have to decide with whom and how you spend your energy. That is something I have complete control over." —Dianne Andree</p>
+<p><strong>Favorite quote:</strong> "There's a lot of things in our life we can't control, but I can decide where I put my energy. That is something I have complete control over." —Dianne Andree</p>
 
 <p><strong>Resources mentioned:</strong></p>
 <ul>

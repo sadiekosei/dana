@@ -42,11 +42,11 @@ Nikki LaCroce on leaving a decade-long relationship with a covert narcissist, lo
 <ul>
 <li>(00:01) Welcome and guest intro: meet podcaster Nikki LaCroce</li>
 <li>(05:38) The 2017 move to Seattle, and the toxic job that came before it</li>
-<li>(11:52) Starting therapy, and the therapist who said "if you're going to do this, you commit to weekly"</li>
+<li>(11:52) Starting therapy, and the therapist who said "if you're going to do this, you commit to going weekly"</li>
 <li>(12:12) The "pain threshold": what it takes before we're willing to do the work of change</li>
 <li>(18:21) The intersection of gratitude, mental health, and connection</li>
 <li>(22:41) Covert vs. overt narcissism, and why Nikki didn't recognize love bombing and gaslighting as they were happening</li>
-<li>(28:21) "You deserve to be freed from it, and you deserve to heal from it"</li>
+<li>(28:21) You deserve to be freed from the abuse, and you deserve to heal from it</li>
 <li>(33:19) Releasing guilt and shame after leaving an abusive relationship</li>
 <li>(35:53) Why it takes an average of seven tries to leave an abusive relationship</li>
 <li>(38:07) The deal-breakers exercise: rebuilding your own standards from scratch</li>

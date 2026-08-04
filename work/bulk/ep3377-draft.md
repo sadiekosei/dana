@@ -48,9 +48,9 @@ Researcher Craig Mattson on digital overwhelm at work, remote work's hidden upsi
 <li>(18:41) Why personality and temperament shape how well people cope with tech breakdowns</li>
 <li>(20:34) The mom who ran client calls with her kids pulling at her kneecaps</li>
 <li>(29:43) "If my job doesn't feel meaningful, should I quit?"</li>
-<li>(31:36) The four postures toward work: world-changers, therapists, thespians, and skeptics</li>
+<li>(29:46) The four postures toward work: world-changers, therapists, thespians, and skeptics</li>
 <li>(35:44) Dana's "cup of water in an ocean" reframe</li>
-<li>(38:08) Where to find Craig and his book, Digital Overwhelm</li>
+<li>(36:39) Where to find Craig and his book, Digital Overwhelm</li>
 </ul>
 
 <h2>About Craig Mattson</h2>

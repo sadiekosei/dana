@@ -61,7 +61,7 @@ Executive coach Andrea Johnson on surviving bulimia, gastric bypass surgery, and
 <h2>Favorite quotes</h2>
 <blockquote>"Here I stand, right? Here I am. I am healthy. I am happy. I am fulfilled. I am doing work that I love." —Andrea Johnson</blockquote>
 <blockquote>"No step is wasted." —Andrea Johnson</blockquote>
-<blockquote>"I can do really hard things. I can fall down. I can get back up." —Andrea Johnson</blockquote>
+<blockquote>"I can do really hard things. I can do hard things. I can fall down. I can get back up." —Andrea Johnson</blockquote>
 
 <h2>Resources mentioned</h2>
 <ul>
@@ -291,7 +291,7 @@ Alright guys, I know that you have heard numerous things today that Andrea has s
 
 <p><strong>About Andrea Johnson:</strong> Andrea empowers executives and founders to lead with authenticity, conviction, and confidence. A third culture kid raised on the mission field in Seoul, South Korea, she's a certified DISC consultant and the founder of The Intentional Optimist. Learn more at <a href="https://theintentionaloptimist.com">theintentionaloptimist.com</a>.</p>
 
-<p><strong>Favorite quote:</strong> "I can do really hard things. I can fall down. I can get back up." —Andrea Johnson</p>
+<p><strong>Favorite quote:</strong> "I can do really hard things. I can do hard things. I can fall down. I can get back up." —Andrea Johnson</p>
 
 <p><strong>Resources mentioned:</strong></p>
 <ul>
