@@ -5,6 +5,22 @@ listeners want to click. Bad show notes = a two-line summary and a
 player. Good show notes = a mini-article targeting the question the
 episode answers.
 
+**SEO is the top concern — traffic is the whole mission** (Sadie).
+Voice makes the page convert; SEO makes it get found. When the two pull
+against each other, find the phrasing that does both, but never ship a
+page missing its SEO fundamentals. Per-episode checklist, all mandatory:
+
+- [ ] Primary keyword chosen from real search intent (the question a
+      stranger would type), not from the episode's internal framing
+- [ ] Keyword in: title (front-loaded), first sentence of summary,
+      excerpt/meta description, at least one H2
+- [ ] 2-3 keyword variants worked naturally into the summary prose
+- [ ] Guest full name in visible text (guest names are search queries)
+- [ ] ≥2 internal links to related episodes, added BOTH directions
+- [ ] Timestamps present (Google key-moments eligibility)
+- [ ] Full transcript embedded (long-tail phrase coverage)
+- [ ] Excerpt is a real 150-160 char meta description, not a truncation
+
 ## Titles
 
 - Lead with the topic/benefit, not the episode number: `How to X (with

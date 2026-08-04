@@ -26,7 +26,10 @@ descriptions must sound like HER — not like a content agency.
   "I've been a therapist in private practice for 18 years and started a
   podcast six years ago."
 - **Punchy rhythm.** Short sentences. Fragments. Parentheticals (lots).
-  Occasional ALL CAPS for emphasis. "TBH." Em dashes.
+  Occasional ALL CAPS for emphasis. "TBH."
+- **Em dashes: use sparingly** (Sadie, 2026-08-04). Prefer periods,
+  commas, colons, or parentheses. When one truly earns its place, set
+  it closed (word—word), never with spaces around it.
 
 ## Her signature vocabulary (use it — it's the brand)
 

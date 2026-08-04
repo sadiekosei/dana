@@ -2,9 +2,9 @@
 
 ## Proposed title
 
-Your Midlife 'Crisis' Might Be Burnout — with Jody Brooks
+Your Midlife 'Crisis' Might Be Burnout (with Jody Brooks)
 
-(57 characters. Leads with the search phrase "midlife crisis"/"burnout," keeps the guest's name for discoverability, and keeps the em dash convention already used elsewhere on the site.)
+(57 characters. Leads with the search phrase "midlife crisis"/"burnout," keeps the guest's name for discoverability.)
 
 ## Proposed excerpt (meta description)
 
@@ -17,25 +17,25 @@ Midlife and burnout coach Jody Brooks shares his breakdown-to-breakthrough story
 ```html
 [iframe style="border:none" src="//html5-player.libsyn.com/embed/episode/id/42219515/height/100/width//thumbnail/no/render-playlist/no/theme/custom/tdest_id/5280105/custom-color/87A93A" height="100" width="100%" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen]
 
-<p>Picture this: lunchtime at the office. The canteen is buzzing. And my guest is locked in a restroom cubicle, crying so hard he can barely breathe. No brutal meeting that morning. No disaster. Just the quiet moment his body picked to file its formal complaint — burnout wasn't a "rough patch" anymore, it was a full-body shutdown.</p>
+<p>Picture this: lunchtime at the office. The canteen is buzzing. And my guest is locked in a restroom cubicle, crying so hard he can barely breathe. No brutal meeting that morning. No disaster. Just the quiet moment his body picked to file its formal complaint: burnout wasn't a "rough patch" anymore, it was a full-body shutdown.</p>
 
-<p>I've been a therapist for 18 years, and I can tell you: high performers do this. We white-knuckle through "one more day" (and one more, and one more) until the body stops asking politely. Sound familiar? Then you'll want to hear Jody Brooks — a UK-based midlife and burnout coach who once survived 52 flights in eight months of what he calls "jazz hands" performing — on why what we call a midlife crisis usually isn't a crisis at all. It's a calling. And it's asking you to come home to yourself.</p>
+<p>I've been a therapist for 18 years, and I can tell you: high performers do this. We white-knuckle through "one more day" (and one more, and one more) until the body stops asking politely. Sound familiar? Then you'll want to hear Jody Brooks, a UK-based midlife and burnout coach who once survived 52 flights in eight months of what he calls "jazz hands" performing, on why what we call a midlife crisis usually isn't a crisis at all. It's a calling. And it's asking you to come home to yourself.</p>
 
 <p>We get into how to spot the full-body warning signs before you hit your own cubicle moment, how to settle anxiety in the moment it spikes (not three weeks and one forced sabbatical later), and Jody's wonderfully backwards first step for anyone feeling stuck: don't start something new. Start stopping.</p>
 
 <h2>In this episode</h2>
 <ul>
-<li>Why burnout can feel like "just a bad day" until it suddenly isn't — and how to recognize the full-body warning signs before you hit the wall</li>
-<li>Why a midlife crisis isn't really a crisis at all — it's a calling to reconnect with who you actually are</li>
+<li>Why burnout can feel like "just a bad day" until it suddenly isn't, and how to recognize the full-body warning signs before you hit the wall</li>
+<li>Why a midlife crisis isn't really a crisis at all: it's a calling to reconnect with who you actually are</li>
 <li>The anxiety-regulation technique Jody uses with coaching clients to come back from a stress spiral in real time</li>
-<li>Why you can't be "out of alignment" until you know what alignment actually means — and how to find your starting point</li>
+<li>Why you can't be "out of alignment" until you know what alignment actually means, and how to find your starting point</li>
 <li>The "start stopping" exercise for anyone who wants change but doesn't know where to begin</li>
 <li>How understanding your core values turns boundaries from something scary into something guilt-free</li>
 </ul>
 
 <h2>Timestamps</h2>
 <ul>
-<li>(00:01) Welcome and guest intro — meet midlife and burnout coach Jody Brooks</li>
+<li>(00:01) Welcome and guest intro: meet midlife and burnout coach Jody Brooks</li>
 <li>(01:47) The restroom-cubicle "pile of ash" moment: burnout as a full-body shutdown</li>
 <li>(04:34) The three-hour drive home, and the decision to stop</li>
 <li>(06:43) Fear, anxiety, and the "one small thing" that finally breaks us</li>
@@ -43,29 +43,29 @@ Midlife and burnout coach Jody Brooks shares his breakdown-to-breakthrough story
 <li>(13:59) What alignment really means (and the bus analogy)</li>
 <li>(19:39) Why younger generations and midlifers experience burnout differently</li>
 <li>(24:37) The blank-page moment: reclaiming your story through empowerment</li>
-<li>(25:43) "Start stopping" — Jody's first step for anyone feeling stuck</li>
+<li>(25:43) "Start stopping": Jody's first step for anyone feeling stuck</li>
 <li>(29:21) Boundaries, core values, and why saying no is an act of service</li>
 <li>(33:17) Where to find Jody and his free resources</li>
 </ul>
 
 <h2>About Jody Brooks</h2>
-<p>Jody Brooks is a UK-based midlife and burnout coach and the founder of Authentic Coaching. After burning out during a high-pressure international career in education — one stretch included 52 flights in eight months — he developed the nine principles of authentic living, a practical framework that helps people turn crisis into connection and sustainable well-being.</p>
+<p>Jody Brooks is a UK-based midlife and burnout coach and the founder of Authentic Coaching. After burning out during a high-pressure international career in education (one stretch included 52 flights in eight months) he developed the nine principles of authentic living, a practical framework that helps people turn crisis into connection and sustainable well-being.</p>
 <p>Learn more and join his free community at <a href="https://authenticcoaching.me">Jody's website</a>, or connect with him on <a href="https://www.linkedin.com/in/jody-brooks-coach/">LinkedIn</a>.</p>
 
 <h2>Favorite quotes</h2>
-<blockquote>"I actually can't go back." — Jody Brooks, on the moment burnout finally broke through</blockquote>
-<blockquote>"Start stopping. Stopping what no longer serves you." — Jody Brooks</blockquote>
-<blockquote>"If you don't know where you're going, any road will take you there." — Jody Brooks</blockquote>
+<blockquote>"I actually can't go back." —Jody Brooks, on the moment burnout finally broke through</blockquote>
+<blockquote>"Start stopping. Stopping what no longer serves you." —Jody Brooks</blockquote>
+<blockquote>"If you don't know where you're going, any road will take you there." —Jody Brooks</blockquote>
 
 <h2>Resources mentioned</h2>
 <ul>
-<li><a href="https://authenticcoaching.me">AuthenticCoaching.me</a> — Jody's website and free community, home to the "Start Stopping" exercise and the anxiety-regulation technique he mentions on the show</li>
+<li><a href="https://authenticcoaching.me">AuthenticCoaching.me</a>: Jody's website and free community, home to the "Start Stopping" exercise and the anxiety-regulation technique he mentions on the show</li>
 <li>Jody's nine principles of authentic living (his coaching framework, discussed throughout the episode)</li>
 <li><a href="https://www.linkedin.com/in/jody-brooks-coach/">Jody Brooks on LinkedIn</a></li>
 </ul>
 
 <h2>Subscribe & connect</h2>
-<p>If this episode gave you something to sit with, subscribe to Phoenix and Flame on your favorite podcast app so you never miss an episode, and leave a review — it's the easiest way to help another listener find the show.</p>
+<p>If this episode gave you something to sit with, subscribe to Phoenix and Flame on your favorite podcast app so you never miss an episode, and leave a review; it's the easiest way to help another listener find the show.</p>
 <p><a href="https://www.youtube.com/@queenofboundaries">Watch this episode.</a></p>
 <p>Learn more about Phoenix and Flame, connect with Dana, and <a href="https://danaskaggs.com/link-tree/">listen to more episodes here.</a></p>
 <p><a href="https://danaskaggs.com/speaking/">Book Dana</a> for your next speaking event or workshop.</p>
@@ -202,16 +202,16 @@ Listeners, viewers — my gosh, I know you have heard multiple things today from
 ## Proposed Libsyn description
 
 ```html
-<p>Picture this: lunchtime at the office. The canteen is buzzing. And my guest is locked in a restroom cubicle, crying so hard he can barely breathe. No brutal meeting that morning. No disaster. Just the quiet moment his body picked to file its formal complaint — burnout wasn't a "rough patch" anymore, it was a full-body shutdown.</p>
+<p>Picture this: lunchtime at the office. The canteen is buzzing. And my guest is locked in a restroom cubicle, crying so hard he can barely breathe. No brutal meeting that morning. No disaster. Just the quiet moment his body picked to file its formal complaint: burnout wasn't a "rough patch" anymore, it was a full-body shutdown.</p>
 
-<p>I've been a therapist for 18 years, and I can tell you: high performers do this. We white-knuckle through "one more day" (and one more, and one more) until the body stops asking politely. Sound familiar? Then you'll want to hear Jody Brooks — a UK-based midlife and burnout coach who once survived 52 flights in eight months of what he calls "jazz hands" performing — on why what we call a midlife crisis usually isn't a crisis at all. It's a calling. And it's asking you to come home to yourself.</p>
+<p>I've been a therapist for 18 years, and I can tell you: high performers do this. We white-knuckle through "one more day" (and one more, and one more) until the body stops asking politely. Sound familiar? Then you'll want to hear Jody Brooks, a UK-based midlife and burnout coach who once survived 52 flights in eight months of what he calls "jazz hands" performing, on why what we call a midlife crisis usually isn't a crisis at all. It's a calling. And it's asking you to come home to yourself.</p>
 
 <p>We get into how to spot the full-body warning signs before you hit your own cubicle moment, how to settle anxiety in the moment it spikes (not three weeks and one forced sabbatical later), and Jody's wonderfully backwards first step for anyone feeling stuck: don't start something new. Start stopping.</p>
 
 <p><strong>In this episode:</strong></p>
 <ul>
 <li>Why burnout can feel like "just a bad day" until it suddenly isn't</li>
-<li>Why a midlife crisis isn't really a crisis at all — it's a calling to reconnect with who you actually are</li>
+<li>Why a midlife crisis isn't really a crisis at all: it's a calling to reconnect with who you actually are</li>
 <li>The anxiety-regulation technique Jody uses with coaching clients</li>
 <li>Why you can't be "out of alignment" until you know what alignment actually means</li>
 <li>The "start stopping" exercise for anyone who wants change but doesn't know where to begin</li>
@@ -220,11 +220,11 @@ Listeners, viewers — my gosh, I know you have heard multiple things today from
 
 <p><strong>About Jody Brooks:</strong> Jody is a UK-based midlife and burnout coach and founder of Authentic Coaching. After burning out during a high-pressure international career, he developed the nine principles of authentic living. Learn more at <a href="https://authenticcoaching.me">authenticcoaching.me</a> or connect with him on <a href="https://www.linkedin.com/in/jody-brooks-coach/">LinkedIn</a>.</p>
 
-<p><strong>Favorite quote:</strong> "Start stopping. Stopping what no longer serves you." — Jody Brooks</p>
+<p><strong>Favorite quote:</strong> "Start stopping. Stopping what no longer serves you." —Jody Brooks</p>
 
 <p><strong>Resources mentioned:</strong></p>
 <ul>
-<li><a href="https://authenticcoaching.me">AuthenticCoaching.me</a> — Jody's website and free community</li>
+<li><a href="https://authenticcoaching.me">AuthenticCoaching.me</a>: Jody's website and free community</li>
 <li><a href="https://www.linkedin.com/in/jody-brooks-coach/">Jody Brooks on LinkedIn</a></li>
 </ul>
 

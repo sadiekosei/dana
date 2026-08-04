@@ -6,7 +6,7 @@ Healing Church Hurt: Troy Hadeed on Yoga & Christ
 
 ## Proposed excerpt (meta description)
 
-Yoga teacher Troy Hadeed talks with Dana about church hurt, forgiveness, and Christ's teachings — plus the question that reframes love: what is being loved?
+Yoga teacher Troy Hadeed talks with Dana about church hurt, forgiveness, and Christ's teachings, plus the question that reframes love: what is being loved?
 
 ## Proposed WordPress content
 
@@ -15,11 +15,11 @@ Yoga teacher Troy Hadeed talks with Dana about church hurt, forgiveness, and Chr
 <div class="wp-block-create-block-libsyn-podcasting-block"><div class="libsyn-shortcode"></div></div>
 <!-- /wp:create-block/libsyn-podcasting-block -->
 
-<p>How does a fourteen-year-old get sent to detention and come out the other side an international yoga teacher? Simple: a teacher hands him a yoga text as a joke — punishment, supposedly — and the kid keeps sneaking back to detention every lunchtime to read more. (For the record, I logged some detention hours myself. We're just being honest around here.)</p>
+<p>How does a fourteen-year-old get sent to detention and come out the other side an international yoga teacher? Simple: a teacher hands him a yoga text as a joke (punishment, supposedly) and the kid keeps sneaking back to detention every lunchtime to read more. (For the record, I logged some detention hours myself. We're just being honest around here.)</p>
 
-<p>Fast forward: Troy Hadeed — raised Catholic in Trinidad, former hemp-store owner ("not a head shop," he'd like you to know) — now teaches yoga around the world and holds a view of Christ that may stretch you, comfort you, or both. If you're carrying church hurt, wrestling with forgiveness, or quietly wondering why the Jesus you met in scripture doesn't always resemble the one at the pulpit, this conversation was recorded for you.</p>
+<p>Fast forward: Troy Hadeed, raised Catholic in Trinidad and a former hemp-store owner ("not a head shop," he'd like you to know), now teaches yoga around the world and holds a view of Christ that may stretch you, comfort you, or both. If you're carrying church hurt, wrestling with forgiveness, or quietly wondering why the Jesus you met in scripture doesn't always resemble the one at the pulpit, this conversation was recorded for you.</p>
 
-<p>We dig into the difference between "I am God" and "God within me," why "born a sinner" can quietly become a hiding place from responsibility, and Troy's question that will reframe every relationship you have — including the hard ones. Don't ask if it's love. Ask <em>what</em> is being loved.</p>
+<p>We dig into the difference between "I am God" and "God within me," why "born a sinner" can quietly become a hiding place from responsibility, and Troy's question that will reframe every relationship you have, including the hard ones. Don't ask if it's love. Ask <em>what</em> is being loved.</p>
 
 <h2>In this episode</h2>
 <ul>
@@ -36,7 +36,7 @@ Yoga teacher Troy Hadeed talks with Dana about church hurt, forgiveness, and Chr
 <li>(00:01) Welcome to Phoenix and Flame, and Troy's background growing up in Trinidad</li>
 <li>(01:33) The detention story: how a "punishment" led a fourteen-year-old to yoga</li>
 <li>(06:38) Why Troy calls Jesus one of the greatest practitioners to ever walk the planet</li>
-<li>(07:54) "I am God" vs. "God within me" — is there a difference?</li>
+<li>(07:54) "I am God" vs. "God within me": is there a difference?</li>
 <li>(14:57) Rethinking original sin, responsibility, and the real message behind Christ's teachings</li>
 <li>(21:39) The Christ you don't always see represented in church</li>
 <li>(24:05) Troy calls out the exclusivity taught by a lot of organized religion</li>
@@ -49,11 +49,11 @@ Yoga teacher Troy Hadeed talks with Dana about church hurt, forgiveness, and Chr
 </ul>
 
 <h2>About Troy Hadeed</h2>
-<p>Troy Hadeed is an international yoga teacher, public speaker, and author based in Trinidad. He discovered yoga at fourteen after a teacher handed him a text on it as a joke during detention — Troy kept coming back on his own to read more. He went on to run a hemp store and a waste-cooking-oil recycling business for years before selling them to dedicate his life to studying and teaching yoga full-time. He's the author of the book <em>Popcorn in My Pocket</em> and also works one-on-one with students on their own journeys. Learn more and sign up for his newsletter at <a href="https://www.troyhadeed.com">troyhadeed.com</a>, or find him on Instagram.</p>
+<p>Troy Hadeed is an international yoga teacher, public speaker, and author based in Trinidad. He discovered yoga at fourteen after a teacher handed him a text on it as a joke during detention; Troy kept coming back on his own to read more. He went on to run a hemp store and a waste-cooking-oil recycling business for years before selling them to dedicate his life to studying and teaching yoga full-time. He's the author of the book <em>Popcorn in My Pocket</em> and also works one-on-one with students on their own journeys. Learn more and sign up for his newsletter at <a href="https://www.troyhadeed.com">troyhadeed.com</a>, or find him on Instagram.</p>
 
 <h2>Quotes worth sitting with</h2>
-<blockquote><p>"I am putting up with that — that is not loving them. That is me loving what they provide me." — Troy Hadeed</p></blockquote>
-<blockquote><p>"I have this beautiful tattoo that says 'ignore the story, see the soul.'" — Troy Hadeed</p></blockquote>
+<blockquote><p>"I am putting up with that—that is not loving them. That is me loving what they provide me." —Troy Hadeed</p></blockquote>
+<blockquote><p>"I have this beautiful tattoo that says 'ignore the story, see the soul.'" —Troy Hadeed</p></blockquote>
 
 <h2>Resources mentioned</h2>
 <ul>
@@ -63,7 +63,7 @@ Yoga teacher Troy Hadeed talks with Dana about church hurt, forgiveness, and Chr
 </ul>
 
 <h2>Enjoyed this episode?</h2>
-<p>Subscribe to Phoenix and Flame on Apple Podcasts or Spotify so you never miss an episode, and if this conversation moved you, leave a review — it helps other listeners find these conversations. Know someone wrestling with church hurt or forgiveness who needs to hear this one? Copy the link and text it, email it, or share it on social media, and help us grow the Phoenix and Flame community.</p>
+<p>Subscribe to Phoenix and Flame on Apple Podcasts or Spotify so you never miss an episode, and if this conversation moved you, leave a review; it helps other listeners find these conversations. Know someone wrestling with church hurt or forgiveness who needs to hear this one? Copy the link and text it, email it, or share it on social media, and help us grow the Phoenix and Flame community.</p>
 
 <details>
 <summary>Read the full transcript</summary>
@@ -266,11 +266,11 @@ Yoga teacher Troy Hadeed talks with Dana about church hurt, forgiveness, and Chr
 ## Proposed Libsyn description
 
 ```html
-<p>How does a fourteen-year-old get sent to detention and come out the other side an international yoga teacher? Simple: a teacher hands him a yoga text as a joke — punishment, supposedly — and the kid keeps sneaking back to detention every lunchtime to read more. (For the record, I logged some detention hours myself. We're just being honest around here.)</p>
+<p>How does a fourteen-year-old get sent to detention and come out the other side an international yoga teacher? Simple: a teacher hands him a yoga text as a joke (punishment, supposedly) and the kid keeps sneaking back to detention every lunchtime to read more. (For the record, I logged some detention hours myself. We're just being honest around here.)</p>
 
-<p>Fast forward: Troy Hadeed — raised Catholic in Trinidad, former hemp-store owner ("not a head shop," he'd like you to know) — now teaches yoga around the world and holds a view of Christ that may stretch you, comfort you, or both. If you're carrying church hurt, wrestling with forgiveness, or quietly wondering why the Jesus you met in scripture doesn't always resemble the one at the pulpit, this conversation was recorded for you.</p>
+<p>Fast forward: Troy Hadeed, raised Catholic in Trinidad and a former hemp-store owner ("not a head shop," he'd like you to know), now teaches yoga around the world and holds a view of Christ that may stretch you, comfort you, or both. If you're carrying church hurt, wrestling with forgiveness, or quietly wondering why the Jesus you met in scripture doesn't always resemble the one at the pulpit, this conversation was recorded for you.</p>
 
-<p>We dig into the difference between "I am God" and "God within me," why "born a sinner" can quietly become a hiding place from responsibility, and Troy's question that will reframe every relationship you have — including the hard ones. Don't ask if it's love. Ask <em>what</em> is being loved.</p>
+<p>We dig into the difference between "I am God" and "God within me," why "born a sinner" can quietly become a hiding place from responsibility, and Troy's question that will reframe every relationship you have, including the hard ones. Don't ask if it's love. Ask <em>what</em> is being loved.</p>
 
 <p><strong>In this episode:</strong></p>
 <ul>
