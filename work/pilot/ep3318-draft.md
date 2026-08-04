@@ -15,7 +15,7 @@ Yoga teacher Troy Hadeed talks with Dana about church hurt, forgiveness, and Chr
 <div class="wp-block-create-block-libsyn-podcasting-block"><div class="libsyn-shortcode"></div></div>
 <!-- /wp:create-block/libsyn-podcasting-block -->
 
-<p>How does a fourteen-year-old get sent to detention and come out the other side an international yoga teacher? Simple: a teacher hands him a yoga text as a joke (punishment, supposedly) and the kid keeps sneaking back to detention every lunchtime to read more. (For the record, I logged some detention hours myself. We're just being honest around here.)</p>
+<p>How does a fourteen-year-old get sent to detention and come out the other side an international yoga teacher? Simple: a teacher hands him a book on yoga as a joke (punishment, supposedly) and the kid keeps sneaking back to detention every lunchtime to read more. (For the record, I logged some detention hours myself. We're just being honest around here.)</p>
 
 <p>Fast forward: Troy Hadeed, raised Catholic in Trinidad and a former hemp-store owner ("not a head shop," he'd like you to know), now teaches yoga around the world and holds a view of Christ that may stretch you, comfort you, or both. If you're carrying church hurt, wrestling with forgiveness, or quietly wondering why the Jesus you met in scripture doesn't always resemble the one at the pulpit, this conversation was recorded for you.</p>
 
@@ -52,7 +52,7 @@ Yoga teacher Troy Hadeed talks with Dana about church hurt, forgiveness, and Chr
 </ul>
 
 <h2>About Troy Hadeed</h2>
-<p>Troy Hadeed is an international yoga teacher, public speaker, and author based in Trinidad. He discovered yoga at fourteen after a teacher handed him a text on it as a joke during detention; Troy kept coming back on his own to read more. He went on to run a hemp store and a waste-cooking-oil recycling business for years before selling them to dedicate his life to studying and teaching yoga full-time. He's the author of the book <em>Popcorn in My Pocket</em> and also works one-on-one with students on their own journeys. Learn more and sign up for his newsletter at <a href="https://www.troyhadeed.com" target="_blank" rel="noopener">troyhadeed.com</a>, or find him on Instagram.</p>
+<p>Troy Hadeed is an international yoga teacher, public speaker, and author based in Trinidad. He discovered yoga at fourteen after a teacher handed him a book on yoga as a joke during detention; Troy kept coming back on his own to read more. He went on to run a hemp store and a waste-cooking-oil recycling business for years before selling them to dedicate his life to studying and teaching yoga full-time. He's the author of the book <em>Popcorn in My Pocket</em> and also works one-on-one with students on their own journeys. Learn more and sign up for his newsletter at <a href="https://www.troyhadeed.com" target="_blank" rel="noopener">troyhadeed.com</a>, or find him on Instagram.</p>
 
 <h2>Quotes worth sitting with</h2>
 <blockquote><p>"I am putting up with that—that is not loving them. That is me loving what they provide me." —Troy Hadeed</p></blockquote>
@@ -271,7 +271,7 @@ Yoga teacher Troy Hadeed talks with Dana about church hurt, forgiveness, and Chr
 ## Proposed Libsyn description
 
 ```html
-<p>How does a fourteen-year-old get sent to detention and come out the other side an international yoga teacher? Simple: a teacher hands him a yoga text as a joke (punishment, supposedly) and the kid keeps sneaking back to detention every lunchtime to read more. (For the record, I logged some detention hours myself. We're just being honest around here.)</p>
+<p>How does a fourteen-year-old get sent to detention and come out the other side an international yoga teacher? Simple: a teacher hands him a book on yoga as a joke (punishment, supposedly) and the kid keeps sneaking back to detention every lunchtime to read more. (For the record, I logged some detention hours myself. We're just being honest around here.)</p>
 
 <p>Fast forward: Troy Hadeed, raised Catholic in Trinidad and a former hemp-store owner ("not a head shop," he'd like you to know), now teaches yoga around the world and holds a view of Christ that may stretch you, comfort you, or both. If you're carrying church hurt, wrestling with forgiveness, or quietly wondering why the Jesus you met in scripture doesn't always resemble the one at the pulpit, this conversation was recorded for you.</p>
 
@@ -287,7 +287,7 @@ Yoga teacher Troy Hadeed talks with Dana about church hurt, forgiveness, and Chr
 <li>Troy's reframe for every relationship in your life: instead of asking "is this love," ask "what is being loved?"</li>
 </ul>
 
-<p><strong>About Troy Hadeed:</strong> Troy Hadeed is an international yoga teacher, public speaker, and author based in Trinidad. He discovered yoga at fourteen after a teacher handed him a text on it as a joke during detention, and never stopped reading. He ran a hemp store and a waste-cooking-oil recycling business for years before selling them to teach yoga full-time. He's the author of <em>Popcorn in My Pocket</em>. Learn more at <a href="https://www.troyhadeed.com">troyhadeed.com</a>.</p>
+<p><strong>About Troy Hadeed:</strong> Troy Hadeed is an international yoga teacher, public speaker, and author based in Trinidad. He discovered yoga at fourteen after a teacher handed him a book on yoga as a joke during detention, and never stopped reading. He ran a hemp store and a waste-cooking-oil recycling business for years before selling them to teach yoga full-time. He's the author of <em>Popcorn in My Pocket</em>. Learn more at <a href="https://www.troyhadeed.com">troyhadeed.com</a>.</p>
 
 <p><strong>Resources mentioned:</strong></p>
 <ul>

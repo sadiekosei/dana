@@ -13,7 +13,7 @@ Feeling stuck or burned out? Career coach Sarah JanTausch joins Dana to share th
 ```html
 [iframe style="border:none" src="//html5-player.libsyn.com/embed/episode/id/34827320/height/100/width//thumbnail/yes/render-playlist/no/theme/custom/tdest_id/2030600/custom-color/87A93A" height="100" width="100%" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen]
 
-<p>Ever stood on a chair in your office just to see out the window, and realized the view looked suspiciously like prison bars? That was me, years ago, in a job that paid fine and fit terribly. If you keep telling yourself the next promotion, the next raise, the next big win will finally make you happy (spoiler: it moves), you may be staring at the signs of a mismatched career.</p>
+<p>Ever stood on a chair in your office just to see out the window, and realized the view looked suspiciously like prison bars? That was me, years ago, in a job I could do but loathed. If you keep telling yourself the next promotion, the next raise, the next big win will finally make you happy (spoiler: it moves), you may be staring at the signs of a mismatched career.</p>
 
 <p>My guest Sarah JanTausch knows this road personally. She rose fast in a government career, built her whole life around one value (achievement) and rode it straight into burnout while looking wildly successful from the outside. Now, as founder of SRJ Coaching and Consulting and creator of the Value-Based Career Method, she helps people figure out what they actually value before they leap into the next wrong job.</p>
 
@@ -246,7 +246,7 @@ You are more than welcome. Absolutely. Listeners, I know that you have heard mul
 ## Proposed Libsyn description
 
 ```html
-<p>Ever stood on a chair in your office just to see out the window, and realized the view looked suspiciously like prison bars? That was me, years ago, in a job that paid fine and fit terribly. If you keep telling yourself the next promotion, the next raise, the next big win will finally make you happy (spoiler: it moves), you may be staring at the signs of a mismatched career.</p>
+<p>Ever stood on a chair in your office just to see out the window, and realized the view looked suspiciously like prison bars? That was me, years ago, in a job I could do but loathed. If you keep telling yourself the next promotion, the next raise, the next big win will finally make you happy (spoiler: it moves), you may be staring at the signs of a mismatched career.</p>
 
 <p>My guest Sarah JanTausch knows this road personally. She rose fast in a government career, built her whole life around one value (achievement) and rode it straight into burnout while looking wildly successful from the outside. Now, as founder of SRJ Coaching and Consulting and creator of the Value-Based Career Method, she helps people figure out what they actually value before they leap into the next wrong job.</p>
 
