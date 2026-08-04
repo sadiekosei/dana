@@ -19,7 +19,7 @@ Dave Albin went from planning his own death to becoming Tony Robbins' Firewalk C
 
 <p><em>First aired July 3, 2023</em></p>
 
-<p><em>A gentle note before you dive in: this conversation touches on suicide and addiction recovery. Take care of yourself while you listen, and know there's no rush.</em></p>
+<p><em>A gentle note before you dive in: this conversation touches on suicide and addiction recovery. It's okay to pause, skip ahead, or come back to this one another time.</em></p>
 
 <p>On the morning of June 8, 1988, Dave Albin woke up grossly addicted to drugs, alcohol, and cigarettes, in so much physical and emotional pain that he set out to end his own life. Then he thought about the three kids of the woman he was married to, and realized what he was about to do would take them down with him too. He couldn't do that. So he called Alcoholics Anonymous instead. That single decision to face fear rather than run from it eventually led him, years later, to a phone call from an AA buddy about a "fire walk," and then to twenty years as Tony Robbins' Firewalk Captain, training crowds of thousands to walk across 1,000-degree coals.</p>
 

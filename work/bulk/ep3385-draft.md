@@ -19,7 +19,7 @@ Addictions coach Dr. Cali Estes shares her simple two-week test for spotting add
 
 <p><em>First aired November 16, 2025</em></p>
 
-<p><em>A gentle note before you dive in: this conversation touches on addiction and loss of a spouse. Take care of yourself while you listen, and know there's no rush.</em></p>
+<p><em>A gentle note before you dive in: this conversation touches on addiction and loss of a spouse. It's okay to pause, skip ahead, or come back to this one another time.</em></p>
 
 <p>Dr. Cali Estes was sitting on her floor eating cake with her hands, crying, with cake on the wall and cake on the dog, when her roommate walked in and said, "That's not normal." Cali's response: "What's not normal? This is what we do." She was 23, wanted to be an FBI agent, and had no idea she was already deep in a food addiction that a college counselor would later wave off ("you're not bulimic, you're not anorexic, so you're just fat") and a doctor would try to fix with a diet pill that was, at the time, still legal.</p>
 

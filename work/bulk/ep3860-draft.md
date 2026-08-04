@@ -19,7 +19,7 @@ Trauma-informed healer Emma Lyons on the shame voice, growing up the family scap
 
 <p><em>First aired March 29, 2026</em></p>
 
-<p><em>A gentle note before you dive in: this conversation touches on childhood suicidal ideation. Take care of yourself while you listen, and know there's no rush.</em></p>
+<p><em>A gentle note before you dive in: this conversation touches on childhood suicidal ideation. It's okay to pause, skip ahead, or come back to this one another time.</em></p>
 
 <p>There's an old horror-movie line: the call is coming from inside the house. That's basically the image trauma-informed healer Emma Lyons uses for what she calls the shame voice: not a wounded inner child that needs a hug, but an internalized narcissist wearing your abuser's exact strategies. Emma didn't see it clearly until she broke her leg in a motorbike accident and spent six months bed-bound or in a wheelchair, and her body started objecting to her mom's boundary violations before her brain caught up.</p>
 

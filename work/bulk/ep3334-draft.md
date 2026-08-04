@@ -19,7 +19,7 @@ Portia Booker shares her suicide-crisis survival story, workplace bullying and b
 
 <p><em>First aired December 31, 2023</em></p>
 
-<p><em>A gentle note before you dive in: this conversation touches on suicide crisis and grief. Take care of yourself while you listen, and know there's no rush.</em></p>
+<p><em>A gentle note before you dive in: this conversation touches on suicide crisis and grief. It's okay to pause, skip ahead, or come back to this one another time.</em></p>
 
 <p>Picture this: parked near the Arkansas River, moments from a decision she couldn't take back, when her phone rings. It's an old college professor. "Portia, you are not well," she says. "You need to get yourself to the hospital right now." That call is the reason my guest today is still here to tell her story. Portia Booker, known to her audience as Portia the Producer, survived a suicidal crisis in her twenties, and two years later survived losing her mother to lung cancer. Both of them cracked her wide open, and both of them are why she now talks about grief for a living.</p>
 

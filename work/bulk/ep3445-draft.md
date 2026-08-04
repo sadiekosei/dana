@@ -19,7 +19,7 @@ Actress Brianna Brown Keen on surviving severe bullying and a career-threatening
 
 <p><em>First aired January 18, 2026</em></p>
 
-<p><em>A gentle note before you dive in: this conversation touches on severe bullying and self-harm. Take care of yourself while you listen, and know there's no rush.</em></p>
+<p><em>A gentle note before you dive in: this conversation touches on severe bullying and self-harm. It's okay to pause, skip ahead, or come back to this one another time.</em></p>
 
 <p>My guest Brianna Brown Keen was 14 when bullying so severe it landed her in the hospital, bullying so bad that her best friend's own father, a judge, told his daughter to stop being friends with her so she wouldn't get bullied too. In that hospital room, something shifted: a calm white light, she calls it, moving through her. She didn't know what her purpose was yet. She just knew, suddenly, that she had one.</p>
 

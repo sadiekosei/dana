@@ -19,7 +19,7 @@ Light language healer Birgitta Visser on surviving childhood abuse, an eating di
 
 <p><em>First aired July 14, 2024</em></p>
 
-<p><em>A gentle note before you dive in: this conversation touches on suicide, violence, and childhood abuse. Take care of yourself while you listen, and know there's no rush.</em></p>
+<p><em>A gentle note before you dive in: this conversation touches on suicide, violence, and childhood abuse. It's okay to pause, skip ahead, or come back to this one another time.</em></p>
 
 <p>Picture this: my guest is lying on a mat with four burn marks on her leg, poison from an Amazonian tree frog rubbed into each one, purging into a bucket for four hours while a shaman tells her the reason it's taking so long is that her ego is "sitting in the driver's seat and refusing to let go." That's Birgitta Visser's rock-bottom-to-breakthrough moment, and it came after a life that had already handed her plenty of rock bottoms: abuse from a family friend at 10 or 11, her father's sudden death at 44 when she was 14, an eating disorder that had her throwing away her own school lunch, and a 2009 crisis (her ex-boyfriend's kidnapping by a gang, a death threat from the gang's leader, and an attempt on her own life) severe enough to finally send her looking for real help.</p>
 

@@ -19,7 +19,7 @@ Emmy winner Rhonda Britten on surviving her parents' murder-suicide at 14, and t
 
 <p><em>First aired December 14, 2025</em></p>
 
-<p><em>A gentle note before you dive in: this conversation touches on murder-suicide and suicide attempts. Take care of yourself while you listen, and know there's no rush.</em></p>
+<p><em>A gentle note before you dive in: this conversation touches on murder-suicide and suicide attempts. It's okay to pause, skip ahead, or come back to this one another time.</em></p>
 
 <p>It's Father's Day. A little tiny town in Upper Michigan, two restaurants, snow in May. My guest is 14 years old, standing in the driveway with her mom, waiting for her dad to grab his coat from the trunk of the car. Except it isn't a coat he pulls out. In under two minutes, Rhonda Britten watched her father murder her mother and take his own life, and then spent the next 20 years believing it was her fault for not stopping it. That's the story Rhonda tells at the start of this one, and I promise you, it only gets more remarkable from there.</p>
 

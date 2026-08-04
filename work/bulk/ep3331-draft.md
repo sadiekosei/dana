@@ -19,7 +19,7 @@ Trauma-informed coach Marshall Zweig on healing childhood sexual trauma, ending 
 
 <p><em>First aired November 12, 2023</em></p>
 
-<p><em>A gentle note before you dive in: this conversation touches on childhood sexual abuse. Take care of yourself while you listen, and know there's no rush.</em></p>
+<p><em>A gentle note before you dive in: this conversation touches on childhood sexual abuse. It's okay to pause, skip ahead, or come back to this one another time.</em></p>
 
 <p>Four years old, standing next to his closet, Marshall Zweig manages one sentence to his father: "Daddy, I feel sad." His father's response: "Don't be sad, son. There are people in wheelchairs." That single exchange, after sexual trauma at the hands of his paternal grandmother, taught a four-year-old to smile on the outside no matter what was happening on the inside, a survival skill that cost him decades and, by his own count, hundreds of thousands of dollars to undo.</p>
 
