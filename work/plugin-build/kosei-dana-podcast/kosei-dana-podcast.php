@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Kosei Dana Podcast Tools
  * Description: Narrow, single-purpose REST API for safely appending ONE new top-level Elementor container to the /podcast/ page (post ID 3048) only. Built by Sadie's Claude Code session; safe to deactivate/delete once the podcast archive widget work is finished.
- * Version: 1.5.0
+ * Version: 1.6.0
  * Author: Kosei Designs
  */
 
@@ -65,7 +65,82 @@ add_action( 'rest_api_init', function () {
 		'callback'            => 'kosei_dana_widget_schema',
 		'permission_callback' => function () { return current_user_can( 'edit_pages' ); },
 	) );
+	register_rest_route( 'kosei-dana/v1', '/podcast-page-replace-latest-episodes', array(
+		'methods'             => 'POST',
+		'callback'            => 'kosei_dana_replace_latest_episodes',
+		'permission_callback' => function () { return current_user_can( 'edit_pages' ); },
+	) );
 } );
+
+// The ONLY endpoint permitted to touch an original element: replaces the
+// specific top-level section containing "Latest" heading text (verified
+// at call time against the LIVE data, not just trusted from an ID), with
+// the caller's new section inserted at the SAME array position. Confirmed
+// content match makes this narrowly scoped rather than a general
+// "replace any original element" capability.
+function kosei_dana_replace_latest_episodes( \WP_REST_Request $req ) {
+	$body = json_decode( $req->get_body(), true );
+	if ( ! is_array( $body ) || empty( $body['section'] ) || ! is_array( $body['section'] ) ) {
+		return new \WP_Error( 'bad_body', 'Body must be {"section": {...one Elementor section element...}}.', array( 'status' => 400 ) );
+	}
+	$new_section = $body['section'];
+
+	$raw     = get_post_meta( KOSEI_DANA_PAGE_ID, '_elementor_data', true );
+	$decoded = json_decode( is_string( $raw ) ? $raw : '', true );
+	if ( ! is_array( $decoded ) ) {
+		return new \WP_Error( 'bad_data', 'Existing _elementor_data did not decode as an array.', array( 'status' => 500 ) );
+	}
+
+	$has_latest_heading = function ( $el ) use ( &$has_latest_heading ) {
+		if ( ( $el['widgetType'] ?? '' ) === 'heading' && false !== stripos( $el['settings']['title'] ?? '', 'Latest' ) ) {
+			return true;
+		}
+		foreach ( (array) ( $el['elements'] ?? array() ) as $child ) {
+			if ( $has_latest_heading( $child ) ) { return true; }
+		}
+		return false;
+	};
+
+	$target_index = null;
+	foreach ( $decoded as $i => $top ) {
+		if ( $has_latest_heading( $top ) ) { $target_index = $i; break; }
+	}
+	if ( null === $target_index ) {
+		return new \WP_Error( 'not_found', 'No top-level section with a "Latest" heading found in the live data.', array( 'status' => 404 ) );
+	}
+
+	$existing_ids = array();
+	kosei_dana_collect_ids( $decoded, $existing_ids );
+	$new_ids = array();
+	kosei_dana_collect_ids( array( $new_section ), $new_ids );
+	$collisions = array_intersect( $existing_ids, $new_ids );
+	if ( ! empty( $collisions ) ) {
+		return new \WP_Error( 'id_collision', 'Submitted element IDs collide with existing IDs on the page: ' . implode( ', ', $collisions ), array( 'status' => 409 ) );
+	}
+
+	$replaced_id       = $decoded[ $target_index ]['id'] ?? '?';
+	$decoded[ $target_index ] = $new_section;
+
+	update_post_meta( KOSEI_DANA_PAGE_ID, '_elementor_data', wp_slash( wp_json_encode( $decoded ) ) );
+	if ( class_exists( '\Elementor\Core\Files\CSS\Post' ) ) {
+		try {
+			delete_post_meta( KOSEI_DANA_PAGE_ID, '_elementor_css' );
+			\Elementor\Core\Files\CSS\Post::create( KOSEI_DANA_PAGE_ID )->update();
+		} catch ( \Throwable $e ) { /* non-fatal */ }
+	}
+	if ( class_exists( '\Elementor\Plugin' ) ) {
+		\Elementor\Plugin::$instance->files_manager->clear_cache();
+	}
+	do_action( 'litespeed_purge_post', KOSEI_DANA_PAGE_ID );
+	do_action( 'litespeed_purge_all' );
+
+	return new \WP_REST_Response( array(
+		'ok'          => true,
+		'index'       => $target_index,
+		'replaced_id' => $replaced_id,
+		'new_id'      => $new_section['id'] ?? '?',
+	), 200 );
+}
 
 // Read-only Elementor widget introspection, ported from Melinda's Kosei
 // Deploy API (class-kosei-deploy.php widget_schema()) -- no type param
