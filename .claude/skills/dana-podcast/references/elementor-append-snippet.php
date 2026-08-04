@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Kosei Dana Podcast Tools
  * Description: Narrow, single-purpose REST API for safely appending ONE new top-level Elementor container to the /podcast/ page (post ID 3048) only. Built by Sadie's Claude Code session; safe to deactivate/delete once the podcast archive widget work is finished.
- * Version: 1.7.0
+ * Version: 1.8.0
  * Author: Kosei Designs
  */
 
@@ -75,7 +75,70 @@ add_action( 'rest_api_init', function () {
 		'callback'            => 'kosei_dana_merge_widget_settings',
 		'permission_callback' => function () { return current_user_can( 'edit_pages' ); },
 	) );
+	register_rest_route( 'kosei-dana/v1', '/plugin-self-update', array(
+		'methods'             => 'POST',
+		'callback'            => 'kosei_dana_plugin_self_update',
+		'permission_callback' => function () { return current_user_can( 'activate_plugins' ); },
+	) );
 } );
+
+// Replaces this plugin's own file with a new version sent over REST, so
+// updates no longer require a manual zip re-upload in wp-admin (same
+// arrangement as Melinda's Kosei Deploy plugin). Admin-only. Guards:
+// the payload must carry this plugin's own header (can't be pointed at
+// any other file -- it only ever writes __FILE__), a sha256 of the code
+// must match (catches truncated/corrupted uploads), a .bak of the
+// current version is kept beside the file, and the code is syntax-
+// checked with `php -l` before the swap when exec() is available. If a
+// bad version does slip through, WP 5.2+ recovery mode pauses the
+// broken plugin rather than white-screening the site.
+function kosei_dana_plugin_self_update( \WP_REST_Request $req ) {
+	$body = json_decode( $req->get_body(), true );
+	$code = is_array( $body ) ? ( $body['code'] ?? '' ) : '';
+	$sha  = is_array( $body ) ? ( $body['sha256'] ?? '' ) : '';
+	if ( ! is_string( $code ) || 0 !== strncmp( $code, '<?php', 5 )
+		|| false === strpos( $code, 'Plugin Name: Kosei Dana Podcast Tools' ) ) {
+		return new \WP_Error( 'bad_body', 'Body must be {"code": "<full plugin file starting with <?php>", "sha256": "<hash of code>"} and the code must contain this plugin\'s own header.', array( 'status' => 400 ) );
+	}
+	if ( ! is_string( $sha ) || ! hash_equals( hash( 'sha256', $code ), strtolower( $sha ) ) ) {
+		return new \WP_Error( 'bad_hash', 'sha256 mismatch -- payload may be truncated or corrupted.', array( 'status' => 400 ) );
+	}
+
+	$tmp = __FILE__ . '.tmp';
+	if ( false === @file_put_contents( $tmp, $code ) ) {
+		return new \WP_Error( 'write_failed', 'Could not write temp file next to the plugin.', array( 'status' => 500 ) );
+	}
+	$lint = 'skipped (exec unavailable)';
+	if ( function_exists( 'exec' ) ) {
+		$out = array();
+		$rc  = 1;
+		@exec( 'php -l ' . escapeshellarg( $tmp ) . ' 2>&1', $out, $rc );
+		if ( 0 !== $rc ) {
+			@unlink( $tmp );
+			return new \WP_Error( 'lint_failed', 'php -l rejected the new code: ' . implode( ' | ', $out ), array( 'status' => 400 ) );
+		}
+		$lint = 'ok';
+	}
+	@copy( __FILE__, __FILE__ . '.bak' );
+	if ( ! @rename( $tmp, __FILE__ ) ) {
+		@unlink( $tmp );
+		return new \WP_Error( 'rename_failed', 'Could not swap the new file into place.', array( 'status' => 500 ) );
+	}
+	if ( function_exists( 'opcache_invalidate' ) ) {
+		@opcache_invalidate( __FILE__, true );
+	}
+	if ( function_exists( 'opcache_reset' ) ) {
+		@opcache_reset();
+	}
+	$version = preg_match( '/^\s*\*\s*Version:\s*(\S+)/mi', $code, $m ) ? $m[1] : '?';
+	return new \WP_REST_Response( array(
+		'ok'          => true,
+		'bytes'       => strlen( $code ),
+		'lint'        => $lint,
+		'new_version' => $version,
+		'backup'      => basename( __FILE__ ) . '.bak',
+	), 200 );
+}
 
 // Merges (shallow) the given key/value pairs into ONE existing element's
 // `settings`, found anywhere in the tree by id. Narrowly scoped: it can
