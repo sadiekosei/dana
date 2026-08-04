@@ -34,6 +34,10 @@ page missing its SEO fundamentals. Per-episode checklist, all mandatory:
 ## Page structure (WordPress `content`)
 
 1. **Player embed** — keep the existing player/shortcode first, untouched.
+1b. **First-aired date** — visible line right after the player:
+   `<p><em>First aired <Month D, YYYY></em></p>` (post date from the
+   ledger). The theme shows no date on podcast pages and old episodes
+   need the context (Sadie, 2026-08-04).
 2. **Episode summary** (2–3 paragraphs, 150–250 words total): a real
    mini-article opening, not a teaser line. Paragraph 1: the problem the
    episode solves, primary keyword in the first sentence. Paragraph 2:

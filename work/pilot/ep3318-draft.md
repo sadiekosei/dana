@@ -15,6 +15,8 @@ Yoga teacher Troy Hadeed talks with Dana about church hurt, forgiveness, and Chr
 <div class="wp-block-create-block-libsyn-podcasting-block"><div class="libsyn-shortcode"></div></div>
 <!-- /wp:create-block/libsyn-podcasting-block -->
 
+<p><em>First aired May 30, 2023</em></p>
+
 <p>How does a fourteen-year-old get sent to detention and come out the other side an international yoga teacher? Simple: a teacher hands him a book on yoga as a joke (punishment, supposedly) and the kid keeps sneaking back to detention every lunchtime to read more. (For the record, I logged some detention hours myself. We're just being honest around here.)</p>
 
 <p>Fast forward: Troy Hadeed, raised Catholic in Trinidad and a former hemp-store owner ("not a head shop," he'd like you to know), now teaches yoga around the world and holds a view of Christ that may stretch you, comfort you, or both. If you're carrying church hurt, wrestling with forgiveness, or quietly wondering why the Jesus you met in scripture doesn't always resemble the one at the pulpit, this conversation was recorded for you.</p>

@@ -17,6 +17,8 @@ Midlife and burnout coach Jody Brooks shares his breakdown-to-breakthrough story
 ```html
 [iframe style="border:none" src="//html5-player.libsyn.com/embed/episode/id/42219515/height/100/width//thumbnail/no/render-playlist/no/theme/custom/tdest_id/5280105/custom-color/87A93A" height="100" width="100%" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen]
 
+<p><em>First aired July 26, 2026</em></p>
+
 <p>Picture this: lunchtime at the office. The canteen is buzzing. And my guest is sitting in a restroom cubicle, crying so hard he can barely breathe. No brutal meeting that morning. No disaster. Just the quiet moment his body picked to file its formal complaint: burnout wasn't a "rough patch" anymore, it was a full-body shutdown.</p>
 
 <p>I've been a therapist for 18 years, and I can tell you: high performers do this. We white-knuckle through "one more day" (and one more, and one more) until the body stops asking politely. Sound familiar? Then you'll want to hear Jody Brooks, a UK-based midlife and burnout coach who once survived 52 flights in eight months of what he calls "jazz hands" performing, on why what we call a midlife crisis usually isn't a crisis at all. It's a calling. And it's asking you to come home to yourself.</p>
