@@ -70,6 +70,10 @@ page missing its SEO fundamentals. Per-episode checklist, all mandatory:
 9. **CTA**: follow links + review ask, link-tree, and Dana's free Work
    Boundaries Quiz (https://danaskaggs.com/quiz/) written first-person
    ("Take my free..."). NOT "Book Dana" (Sadie, 2026-08-04).
+   PRIMARY follow link: https://pod.link/1513991564 ("all apps in one
+   place", verified by Sadie 2026-08-04), then the direct links.
+   ALL external links get target="_blank" rel="noopener"; internal
+   danaskaggs.com links stay same-tab.
    Canonical follow links (from phoenixandflame.com; use these exact
    URLs, never guess):
    - Apple: https://podcasts.apple.com/us/podcast/phoenix-and-flame-podcast/id1513991564
