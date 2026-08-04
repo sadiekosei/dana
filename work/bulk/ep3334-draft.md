@@ -31,7 +31,7 @@ Portia Booker shares her suicide-crisis survival story, workplace bullying and b
 <h2>In this episode</h2>
 <ul>
 <li>Why the newsroom "pile of ash" moment mattered more than any one bad day, and what finally made Portia walk away from her dream job</li>
-<li>The phone call from a college professor that got Portia to the hospital instead of the bridge</li>
+<li>The phone call from a college professor that reached Portia in her most dangerous moment and got her to the hospital</li>
 <li>What "bystander syndrome" feels like from the inside, and why Portia now stops for strangers in crisis instead of driving past</li>
 <li>Being one of the only Black producers in her newsroom, and what she wishes people from other backgrounds understood</li>
 <li>Why "grief is not linear," and how comparing your pain to someone else's only makes it worse</li>
@@ -45,7 +45,7 @@ Portia Booker shares her suicide-crisis survival story, workplace bullying and b
 <li>(07:25) The newsroom incident that became her "pile of ash" moment</li>
 <li>(08:23) The phone call from her college professor that got her to the hospital</li>
 <li>(10:38) The bird-in-a-cage story, and the psychology of learned helplessness</li>
-<li>(13:18) Being the only Black producer in the newsroom, and the cost of bystander syndrome</li>
+<li>(13:18) Being one of the only Black producers in the newsroom, and the cost of bystander syndrome</li>
 <li>(23:03) Why Portia now stops to help strangers in crisis, from a man breaking down in the street to a young woman asking for help at a gas station</li>
 <li>(24:42) Losing her great-grandmother, then her mother's lung cancer diagnosis</li>
 <li>(26:43) How "Groove with Portia" started as a cover story for her own mental health journey</li>
@@ -72,7 +72,7 @@ Portia Booker shares her suicide-crisis survival story, workplace bullying and b
 
 <h2>Related episodes</h2>
 <ul>
-<li><a href="https://danaskaggs.com/podcast/youre-not-alone-interview-series-when-a-loved-one-commits-suicide/">"You're Not Alone" Interview Series: When a Loved One Commits Suicide</a>: for anyone sitting with the same crisis Portia describes on the bridge, from the other side of loss</li>
+<li><a href="https://danaskaggs.com/podcast/youre-not-alone-interview-series-when-a-loved-one-commits-suicide/">"You're Not Alone" Interview Series: When a Loved One Commits Suicide</a>: for anyone sitting with the same crisis Portia describes, from the other side of loss</li>
 <li><a href="https://danaskaggs.com/podcast/from-suicide-plans-to-20-years-as-tony-robbins-firewalk-captain-dave-albins-amazing-journey/">From Suicide Plans to 20 Years as Tony Robbins' Firewalk Captain: Dave Albin's Amazing Journey</a>: another guest's crisis moment and the decades of transformation that followed</li>
 <li><a href="https://danaskaggs.com/podcast/thriving-after-loss-kim-sorrelles-story-of-the-transformational-power-of-love/">Thriving After Loss: Kim Sorrelle's Story of the Transformational Power of Love</a>: more on finding your footing after losing someone you love</li>
 </ul>
@@ -292,7 +292,7 @@ That is wonderful. Guys, I know you've heard multiple things today that you're t
 <p><strong>In this episode:</strong></p>
 <ul>
 <li>Why the newsroom "pile of ash" moment mattered more than any one bad day</li>
-<li>The phone call that got Portia to the hospital instead of the bridge</li>
+<li>The phone call that reached Portia in her most dangerous moment and got her to the hospital</li>
 <li>What "bystander syndrome" feels like from the inside</li>
 <li>Being one of the only Black producers in her newsroom</li>
 <li>Why "grief is not linear," and how comparing your pain to someone else's only makes it worse</li>

@@ -211,7 +211,7 @@ And I went beyond decoding. Yes, he has a problem with decoding, and he's really
 So is that what you meant by mindset?</p>
 
 <p><strong>[Lois] (20:38)</strong><br>
-Yes, mindset. How we see our children. Like I said before, you can look at that child and say, he's the worst child I've seen in 20 years of teaching, and then say, well, he's never going to learn because of that. But when you change the thinking around our children, we change our mindset, which allows us to say, well, this child is not dumb, how are we going to teach them? Our children are six and seven. They're at the very beginnings of their lives.</p>
+Yes, mindset. How we see our children. Like I said before, you can look at that child and say, he's the worst child I've seen in 20 years of teaching, and then say, well, he's never going to learn because of that. But when you change the thinking around our children, we change our mindset, which allows us to say, well, this child is not stupid, how are we going to teach them? Our children are six and seven. They're at the very beginnings of their lives.</p>
 
 <p><strong>[Lois] (21:08)</strong><br>
 Why are we putting them in a box? I've taught children who were 13. My first student in Lubbock, Texas, was 13 years old. He'd spent four years in a phonics-only reading program, and it came to me like this: he couldn't read a thing. The word "lick," the word "like," he would spell L-I-C-K after four years. And I taught him to read. And every year he got better, and every year he got taller, and his shoulders, you know, and it's going from "I can't" to "I can." So our mindsets, how we see our children, it's critical to their future.</p>
