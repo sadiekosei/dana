@@ -120,6 +120,39 @@ Always call it after a write.
 3. Update the "The Freedom of 'No' Formula 8-Week Course" section to the
    Boundary Blueprint at $99.
 
+## F. Brand globals (Elementor Kit 6) — 2026-08-07
+
+The kit already matched the branding; nothing needed inventing:
+
+| Global | Value |
+|---|---|
+| Primary | `#012E41` Dark Blue |
+| Secondary / Accent | `#A0243F` Cranberry |
+| **Text** | `#012E41` → **`#000000`** (changed) |
+| Custom | Dark Blue, cranberry, Brand Orange `#F29057`, Cream `#FCEADF` |
+| Typography | EB Garamond 600 headings, Helvetica 400 body |
+
+**Rule from Sadie: body copy is black on light backgrounds, white on dark.**
+Implemented by setting the Text global to `#000000` rather than per-page
+hexes, so it propagates. On dark sections white stays explicit (there is no
+white global).
+
+**Gotcha this exposed:** two things were bound to the *text* global that
+aren't body copy, so they would have followed navy → black:
+
+- page 197 (home): a **section background** bound to `colors?id=text` —
+  would have turned a navy band pure black
+- page 1356: `eael_mcpt_icon_color` on the compare table — navy icons
+
+Both rebound to `colors?id=primary`, which keeps `#012E41`. Audited every
+`globals/colors?id=text` binding site-wide afterwards: 12 total, all body
+copy on white/cream. None on a dark background.
+
+Lesson: before changing a global, grep the page trees for
+`globals/colors?id=<name>` and check what each binding actually controls —
+Elementor lets any colour control bind to any global, including
+backgrounds.
+
 ## E. Nav — STILL OPEN
 
 `http://danaskaggs.thinkific.com` → `https://` (currently insecure scheme).
