@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Kosei Dana Podcast Tools
  * Description: Narrow, single-purpose REST API for safely appending ONE new top-level Elementor container to the /podcast/ page (post ID 3048) only. Built by Sadie's Claude Code session; safe to deactivate/delete once the podcast archive widget work is finished.
- * Version: 1.10.3
+ * Version: 1.10.4
  * Author: Kosei Designs
  */
 
@@ -760,6 +760,17 @@ function kosei_dana_page_elementor_put( \WP_REST_Request $req ) {
 	$encoded = wp_json_encode( $data );
 	if ( ! is_string( $sha ) || ! hash_equals( hash( 'sha256', $encoded ), strtolower( $sha ) ) ) {
 		return new \WP_Error( 'bad_hash', 'sha256 mismatch -- payload may be truncated or re-encoded differently.', array( 'status' => 400 ) );
+	}
+	// A freshly created page has no Elementor metadata; without these the
+	// builder data is ignored and the theme renders raw post_content.
+	if ( ! get_post_meta( $pid, '_elementor_edit_mode', true ) ) {
+		update_post_meta( $pid, '_elementor_edit_mode', 'builder' );
+	}
+	if ( ! get_post_meta( $pid, '_elementor_template_type', true ) ) {
+		update_post_meta( $pid, '_elementor_template_type', 'wp-page' );
+	}
+	if ( ! get_post_meta( $pid, '_elementor_version', true ) && defined( 'ELEMENTOR_VERSION' ) ) {
+		update_post_meta( $pid, '_elementor_version', ELEMENTOR_VERSION );
 	}
 	$prev = get_post_meta( $pid, '_elementor_data', true );
 	if ( is_string( $prev ) && '' !== $prev ) {
