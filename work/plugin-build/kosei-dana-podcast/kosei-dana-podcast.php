@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Kosei Dana Podcast Tools
  * Description: Narrow, single-purpose REST API for safely appending ONE new top-level Elementor container to the /podcast/ page (post ID 3048) only. Built by Sadie's Claude Code session; safe to deactivate/delete once the podcast archive widget work is finished.
- * Version: 1.10.2
+ * Version: 1.10.3
  * Author: Kosei Designs
  */
 
@@ -103,6 +103,11 @@ add_action( 'rest_api_init', function () {
 	register_rest_route( 'kosei-dana/v1', '/page-cache-bust', array(
 		'methods'             => 'POST',
 		'callback'            => 'kosei_dana_page_cache_bust',
+		'permission_callback' => function () { return current_user_can( 'edit_pages' ); },
+	) );
+	register_rest_route( 'kosei-dana/v1', '/page-settings-merge', array(
+		'methods'             => 'POST',
+		'callback'            => 'kosei_dana_page_settings_merge',
 		'permission_callback' => function () { return current_user_can( 'edit_pages' ); },
 	) );
 } );
@@ -819,4 +824,32 @@ function kosei_dana_page_cache_bust( \WP_REST_Request $req ) {
 		'cleared'     => $cleared,
 		'notes'       => $notes,
 	), 200 );
+}
+
+// Shallow-merges keys into _elementor_page_settings (Elementor Pro stores
+// per-page Custom CSS there under "custom_css"). Returns the settings both
+// before and after so a change can be eyeballed and reverted by hand.
+function kosei_dana_page_settings_merge( \WP_REST_Request $req ) {
+	$pid = kosei_dana_resolve_page( $req );
+	if ( is_wp_error( $pid ) ) { return $pid; }
+	$body  = json_decode( $req->get_body(), true );
+	$patch = is_array( $body ) ? ( $body['settings'] ?? null ) : null;
+	if ( ! is_array( $patch ) || empty( $patch ) ) {
+		return new \WP_Error( 'bad_body', 'Body must be {"page_id": N, "settings": {"<key>": <value>, ...}}.', array( 'status' => 400 ) );
+	}
+	$cur = get_post_meta( $pid, '_elementor_page_settings', true );
+	if ( ! is_array( $cur ) ) { $cur = array(); }
+	$before = $cur;
+	foreach ( $patch as $k => $v ) { $cur[ $k ] = $v; }
+	update_post_meta( $pid, '_elementor_page_settings', $cur );
+	foreach ( array( '_elementor_element_cache', '_elementor_css', '_elementor_page_assets' ) as $k ) {
+		delete_post_meta( $pid, $k );
+	}
+	if ( class_exists( '\\Elementor\\Core\\Files\\CSS\\Post' ) ) {
+		\Elementor\Core\Files\CSS\Post::create( $pid )->update();
+	}
+	clean_post_cache( $pid );
+	do_action( 'litespeed_purge_post', $pid );
+	do_action( 'litespeed_purge_all' );
+	return new \WP_REST_Response( array( 'ok' => true, 'page_id' => $pid, 'before' => $before, 'after' => $cur ), 200 );
 }
