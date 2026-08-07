@@ -4,9 +4,10 @@ Audited 2026-08-07 from public sources: danaskaggs.com (WP REST + rendered
 pages) and danaskaggs.thinkific.com. No analytics or sales data available —
 conversion claims are inferred from funnel structure, not measured.
 
-Rate card confirmed by Sadie: **base rate $200/hr.** She currently charges
-$250 for a 90-minute session (a 17% discount on her own rate) and $200 for
-60 minutes. Boundary Boosters are 15-minute Zoom calls = $50 of call time.
+Rate card confirmed by Sadie: **base rate $200/hr.** The **$250 is a
+one-time intro-call fee**, not a per-hour price. Standard ongoing sessions
+are 60 minutes; package calls are 90 minutes (= $300 at her rate).
+Boundary Boosters are 15-minute Zoom calls (= $50).
 
 ## What exists today
 
@@ -22,7 +23,7 @@ danaskaggs.com has no store, no cart, no Stripe — the WP site is a brochure.
 | Boundary Blueprint — Essentials | **$2,000** | Course + 4 × 90-min 1:1 + 1 Booster | Thinkific only |
 | Boundary Blueprint — Evolve | **$3,750** | Course + 6 × 90-min 1:1 + 2 Boosters | Thinkific only |
 | Boundary Blueprint — Unity (couples) | **$4,995** | Course + 8 × 90-min 1:1 + 3 Boosters | Thinkific only |
-| 1:1 coaching | **$250 / 90-min, $200 / 60-min** | Calendly | Yes, but price unpublished |
+| 1:1 coaching | **$200/hr; $250 one-time intro call** | Calendly | Yes, but price unpublished |
 
 ## The free tier works — lead capture is not the problem
 
@@ -82,18 +83,18 @@ Also:
 ## The pricing problem — the packages cost more than their parts
 
 With the real rate card, the bundles are **marked up over à la carte**, not
-discounted (Booster = 15 min = $50):
+discounted. At $200/hr (90-min call = $300, Booster = $50):
 
-| Package | À la carte at her own rates | Package price | Markup |
+| Package | À la carte at her own rate | Package price | Markup |
 |---|---|---|---|
-| Essentials | $695 + 4×$250 + $50 = **$1,745** | $2,000 | **+15%** |
-| Evolve | $695 + 6×$250 + $100 = **$2,295** | $3,750 | **+63%** |
-| Unity | $695 + 8×$250 + $150 = **$2,845** | $4,995 | **+76%** |
+| Essentials | $695 + 4×$300 + $50 = **$1,945** | $2,000 | **+3%** |
+| Evolve | $695 + 6×$300 + $100 = **$2,595** | $3,750 | **+44%** |
+| Unity | $695 + 8×$300 + $150 = **$3,245** | $4,995 | **+54%** |
 
-A buyer can book the same calls on Calendly at $250 and buy the course
-separately for less money. The Calendly link sits on the coaching page,
-one click away. A package has to be cheaper than its parts or it has no
-reason to exist.
+A buyer can book the same time on Calendly and buy the course separately
+for less money. The Calendly link sits on the coaching page, one click
+away. A package has to be cheaper than its parts or it has no reason to
+exist.
 
 **The $695 self-paced tier is also dominated.** $695 buys 1.5 hours of
 video with no support; $2,000 buys that plus six hours with a licensed
@@ -158,8 +159,8 @@ room, without deliberating.
 | 3 | Course + 6 calls (Evolve) | $3,750 | **$1,700** | 3 × $595 |
 | 4 | Course + 8 calls, couples (Unity) | $4,995 | **$2,200** | 3 × $770 |
 
-This assumes the **90-minute session moves to $300** (see the rate fork
-below). Publish the session rates on the coaching page either way.
+Package call time values at her $200/hr rate; no rate change is required.
+Publish the $200/hr rate and the $250 intro fee on the coaching page.
 
 ### Price endings: $99, not $97
 
@@ -185,43 +186,54 @@ rounded prices feel "right" for emotionally-driven purchases, which
 boundaries coaching after a keynote very much is. Round is both the
 premium signal and the better fit.
 
-### The rate fork — her 90-minute session is underpriced
+### How the rate actually works
 
-If Dana's rate is **$200/hr**, then a 90-minute session should be $300.
-She charges **$250** — a 17% discount on her longest sessions, which are
-also her most common (the intro session is 90 minutes). That single number
-decides what the packages can cost, because a buyer compares the package
-against booking sessions on Calendly at whatever she charges there.
+Her rate is **$200/hr**. The **$250 is a one-time intro-call fee**, not a
+time-based price — it buys the initial deep dive into a new client's
+story, and it happens once. It is not a per-call benchmark, and earlier
+drafts of this audit wrongly treated it as one.
 
-A Boundary Booster is a **scheduled 15-minute Zoom call** with a pre-call
-form (per the course FAQ), used within 60 days. That is delivery time, not
-a bonus: $50 at $200/hr. Earlier drafts carried it at $100, double-counted.
+So all package call time values at $200/hr:
+
+- 90-minute coaching call = **$300**
+- 15-minute Boundary Booster = **$50** (a scheduled Zoom call with a
+  pre-call form, per the FAQ — delivery time, not a bonus)
+
+Worth noting what the packages quietly give away: her standard *ongoing*
+session is 60 minutes, but every package call is **90 minutes**. That is
+50% more time per session than her à la carte offering, and none of the
+current copy says so.
 
 Total call time per package: **6.25 / 9.5 / 12.75 hours**.
 
-**Path A — raise the 90-minute session to $300** (recommended)
-
-| Tier | À la carte | Package | Saving | Her $/hr | After credit |
+| Tier | À la carte at $200/hr | Package | Saving | Her $/hr | After credit |
 |---|---|---|---|---|---|
 | Essentials | $1,349 | **$1,100** | 18% | **$176** | $160 |
 | Evolve | $1,999 | **$1,700** | 15% | **$179** | $169 |
 | Unity | $2,649 | **$2,200** | 17% | **$173** | $165 |
 
-**Path B — keep the 90-minute session at $250**
+She earns $173–179/hr on every package — a 12–14% prepaid discount off her
+$200 rate, which is exactly where a package should sit. No rate change is
+needed; these prices already follow from the $200/hr she charges today.
 
-| Tier | À la carte | Package | Saving | Her $/hr | After credit |
-|---|---|---|---|---|---|
-| Essentials | $1,149 | **$997** | 13% | $160 | $144 |
-| Evolve | $1,699 | **$1,497** | 12% | $158 | $147 |
-| Unity | $2,249 | **$1,997** | 11% | $157 | $149 |
+### Fold the intro call into every package
 
-Path A earns roughly **$20/hr more on every package** and allows the round
-premium numbers. Path B caps the packages near $1,000/$1,500/$2,000 — go
-any higher and booking four sessions on Calendly beats the package, which
-is the exact arbitrage that makes the current pricing unsellable.
+Open question that needs answering before this goes live: **does a package
+buyer also pay the $250 intro fee?** If so it is an unpleasant surprise at
+the point of sale; if not, nothing currently says so.
 
-Both paths give the buyer a real 11–18% saving. The difference is entirely
-whether Dana stops discounting her own longest session.
+Recommendation: make the intro **call #1 of every package** — it is
+already a 90-minute call, so it fits without changing the deliverable. It
+also gives the packages a concrete line: *"the $250 intro fee is included."*
+
+That also makes the standalone intro call a natural rung on the ladder:
+
+**keynote → $99 course → $250 intro call → package**
+
+Credit a standalone intro fee toward a package if the client upgrades
+within 90 days — they have already had one of the calls. Keep the written
+policy to the $99 course credit and handle intro credits case by case;
+this ladder does not need another rule in it.
 
 **The sales line is "you pay for the call time, the course is included"** —
 not "the course *and the Boosters* are included." Boosters are 45 minutes
