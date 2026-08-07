@@ -162,11 +162,21 @@ Three mistakes worth not repeating, all found by Sadie on screenshots:
    `title_color`/`text_color` of `#FFFFFF` — every heading rendered white on
    white. Donors also carry `__dynamic__`; the button donor's popup tag
    silently overrode the checkout href.
-2. **Backgrounds only bleed edge-to-edge with `layout: 'full_width'`.**
-   Setting `content_width` leaves the section boxed, so the colour stops
-   short with white margins either side. The site's own convention is
-   full-width sections inset by **column** padding (1356 uses 80–100px on
-   the left column), not a constrained section.
+2. **Full-bleed backgrounds come from the PAGE TEMPLATE, not the section.**
+   OceanWP wraps a default-template page in `.content-area` inside
+   `.container`, which constrains every section no matter what
+   `layout`/`content_width` you set on it — section-level `full_width` only
+   un-boxes the *content*, it cannot escape the theme wrapper.
+
+   The fix is `template: "elementor_header_footer"` on the page (settable
+   via core REST). Every other Elementor page on this site uses it; you can
+   confirm from the body classes — a correct page carries
+   `content-full-width content-max-width elementor-template-full-width` and
+   has **no** `.content-area` wrapper.
+
+   With that template in place, leave sections **boxed**: the background
+   bleeds to the viewport edge while content stays constrained to 1140px,
+   which is what Sadie asked for. No percentage column-padding hack needed.
 3. **Binding `typography_typography` to a global discards every font size
    you set.** The global's own size wins. The site sets
    `typography_typography: 'custom'` with an explicit family/size/weight and
