@@ -141,9 +141,31 @@ the published refund policy — nothing invented.
 
 ---
 
-# Expanded FAQ
+# FAQ — 12 items (live)
 
-Keep the seven existing answers where noted; the rest are new.
+An earlier draft ran to 25 questions. That was too long: a wall of
+accordion titles reads as friction, not reassurance. Cut to 12, merging
+overlapping answers rather than dropping the information:
+
+- "Which package should I choose?" folded into the packages question
+- "Is the $250 intro included?" folded into how the calls work
+- "What if I fall behind?" folded into the weekly time commitment
+- "What if my partner won't participate?" folded into the couples answer
+- The $99 upgrade credit folded into payment plans
+- Dropped as post-purchase or non-blocking: what happens when calls run
+  out, upgrading tiers, guaranteed results, access timing, tech needed,
+  "will this fix the difficult person"
+
+**Removed: "Is this a Christian program?"** Per Sadie, the material isn't
+Christian-specific &mdash; the guilt about saying no shows up across faiths &mdash;
+so an FAQ entry drew more attention to it than it deserved.
+
+**Still open:** Module 13 is titled *"Am I Being Hateful?" &ndash; Setting
+Boundaries as a Christian* in the curriculum accordion, and identically in
+the Thinkific course. Broadening it (e.g. *Setting Boundaries and Faith*)
+would match Sadie's read, but renaming it on the sales page alone would
+leave it mismatched against the actual module the buyer then watches.
+Change both or neither &mdash; Dana's call.
 
 ### About the program
 
