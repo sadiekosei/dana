@@ -153,6 +153,31 @@ Lesson: before changing a global, grep the page trees for
 Elementor lets any colour control bind to any global, including
 backgrounds.
 
+## G. `/course/` (page 4589) — Elementor build notes
+
+Three mistakes worth not repeating, all found by Sadie on screenshots:
+
+1. **Never copy a donor widget's settings blind.** The first build lifted
+   settings from the course page's dark "How it Works" band, which carried
+   `title_color`/`text_color` of `#FFFFFF` — every heading rendered white on
+   white. Donors also carry `__dynamic__`; the button donor's popup tag
+   silently overrode the checkout href.
+2. **Backgrounds only bleed edge-to-edge with `layout: 'full_width'`.**
+   Setting `content_width` leaves the section boxed, so the colour stops
+   short with white margins either side. The site's own convention is
+   full-width sections inset by **column** padding (1356 uses 80–100px on
+   the left column), not a constrained section.
+3. **Binding `typography_typography` to a global discards every font size
+   you set.** The global's own size wins. The site sets
+   `typography_typography: 'custom'` with an explicit family/size/weight and
+   binds only the *colour* to a global. Sizes in use: 48–91px desktop
+   headings, 28–32px tablet/mobile, 16px body, EB Garamond 500 for headings
+   and Helvetica 400 for body, 1.3em heading line-height.
+
+Also: the YouTube intro (`i2JWm2caWCE`) follows the podcast playbook —
+`referrerpolicy` as the FIRST iframe attribute and `margin-bottom:32px` on
+the wrapper.
+
 ## E. Nav — STILL OPEN
 
 `http://danaskaggs.thinkific.com` → `https://` (currently insecure scheme).
