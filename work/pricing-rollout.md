@@ -210,6 +210,27 @@ the wrapper.
 - **The page excerpt feeds `og:description`** and is easy to forget. It has
   now twice been the last place stale copy survived after the body was
   fixed — check it whenever wording changes.
+- **Sentence fragments are Title Case**, not lower case — "Self-Paced ·
+  Unlimited Access · Start Today". Lower case reads informal for a
+  clinician's page.
+
+**Two ways a button silently fails to centre**, both hit on this page:
+
+1. `_element_width: 'auto'` emits `width:auto;max-width:auto`, which
+   shrink-wraps the widget to the button so it sits at the column's left
+   edge — the button's own `align: center` then has nothing to centre
+   inside. Don't set `_element_width` on a button you want centred.
+2. Even with the correct `elementor-align-center` class in the markup,
+   **LiteSpeed's unused-CSS pass strips Elementor's
+   `.elementor-align-center` rule**, so the class lands with no rule behind
+   it. Page-level Custom CSS survives that pass:
+
+   ```css
+   .elementor-widget-button .elementor-button-wrapper{text-align:center !important;}
+   ```
+
+   Diagnose by grepping the page CSS for the rule, not the class — the
+   class being present in the HTML proves nothing.
 
 ## E. Nav — STILL OPEN
 
