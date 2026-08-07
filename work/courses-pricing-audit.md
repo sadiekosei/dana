@@ -102,63 +102,112 @@ both directions.
 **There is no entry point.** A top-5% podcast with 176 episodes has a
 cheapest paid product of $695, and nothing between free and $695.
 
-## Blocker 3 — the buy buttons sell the wrong product
+## The platform constraint (context that reframes the above)
 
-On **every** Thinkific course page, the two most prominent CTAs ("Join The
-Course" in the hero, "Enroll Now" further down) are hardcoded to the same
-link:
+Dana is on the **Thinkific free plan**, which allows one published course.
+The three coaching tiers are therefore unpublished, which is *why* the WP
+pricing table falls back to a waitlist. That was a deliberate workaround,
+not an oversight.
 
-```
-/cart/add_product/2232432?price_id=3001780
-```
+Verified: all three premium `/enroll/` links redirect back to
+`/courses/boundaries`. Nothing but the self-paced course can be bought.
 
-That is the **self-paced course** product. Only the small pricing-table
-button carries the correct per-tier link:
+| Page | Price shown publicly | Result of clicking through |
+|---|---|---|
+| `/courses/boundaries` (self-paced) | *none shown* | Real order page |
+| `/courses/boundaries-essentials` | **$2,000.00** | Bounces to self-paced |
+| `/courses/boundaries-evolve` | **$3,750.00** | Bounces to self-paced |
+| `/courses/copy-of-…-evolve` (Unity) | **$4,995.00** | Bounces to self-paced |
 
-| Page | Price shown | Hero CTA goes to | Correct link |
-|---|---|---|---|
-| `/courses/boundaries` (self-paced) | *none shown* | product 2232432 | — (correct) |
-| `/courses/boundaries-essentials` | $2,000.00 | product 2232432 | `/enroll/3353324` |
-| `/courses/boundaries-evolve` | $3,750.00 | product 2232432 | `/enroll/3360281` |
-| `/courses/copy-of-…-evolve` (Unity) | $4,995.00 | product 2232432 | `/enroll/3360285` |
+**The unpublished tiers are still publicly visible with their old prices**
+— listed on `/collections` and reachable at their own URLs. A prospect
+sees $3,750, clicks, and gets dumped on a different product. That is worse
+than a waitlist. Hide them, or take the pricing conversation onto
+danaskaggs.com entirely.
 
-So a visitor on the $3,750 page who clicks the big obvious button gets the
-$695 self-paced course in their cart. Fix this before repricing — a price
-change on a page whose main button sells something else changes nothing.
+### The free plan does not actually block the packages
 
-## Recommended ladder — four tiers, no new products
+The coaching tiers are *1:1 time sold with course access*. They do not need
+to be Thinkific products at all:
 
-Prices dropped across the board, built only from what already exists, and
-priced so every package is a genuine discount on booking à la carte.
+- Publish the one allowed course on Thinkific ($97).
+- Sell the three packages with **Stripe Payment Links** — free to create,
+  standard processing fees, no subscription.
+- On purchase, manually enrol the buyer in the free-tier course and send
+  the Calendly link.
+
+At three to eight package sales a month, manual fulfilment is minutes of
+work. This turns the waitlist into a real buy button today, at zero
+platform cost, and removes the plan limit from the critical path. Upgrade
+Thinkific later, when monthly course revenue covers the plan several times
+over — not before.
+
+## Recommended ladder — one entry product, three packages
+
+Built for ascension: the entry product exists to create buyers, not
+revenue. Dana is speaking to live audiences and pitching the course from
+stage, so tier 1 has to be something a stranger buys on a phone, in the
+room, without deliberating.
 
 | # | Product | Now | **New** | Payment plan |
 |---|---|---|---|---|
-| 1 | Self-Paced Course | $695 | **$197** | — |
-| 2 | Course + 4 calls (Essentials) | $2,000 | **$1,097** | 3 × $385 |
-| 3 | Course + 6 calls (Evolve) | $3,750 | **$1,597** | 3 × $560 |
-| 4 | Course + 8 calls, couples (Unity) | $4,995 | **$2,097** | 3 × $735 |
+| 1 | Self-Paced Course | $695 | **$97** | — |
+| 2 | Course + 4 calls (Essentials) | $2,000 | **$997** | 3 × $350 |
+| 3 | Course + 6 calls (Evolve) | $3,750 | **$1,497** | 3 × $525 |
+| 4 | Course + 8 calls, couples (Unity) | $4,995 | **$1,997** | 3 × $700 |
 
 Also: publish the $250 / $200 single-session rates on the coaching page.
 
-Math at her real rates ($250 per 90-min call, Booster valued ~$100):
+### The packages are priced at exactly her call rate
 
-| Tier | À la carte | Package | Saving |
+At $250 per 90-minute call, each package costs what the calls alone would
+cost — and the course and Boosters come free:
+
+| Tier | Calls alone at $250 | Package | Included free |
 |---|---|---|---|
-| Essentials | $197 + $1,000 + $100 = $1,297 | **$1,097** | 15% |
-| Evolve | $197 + $1,500 + $200 = $1,897 | **$1,597** | 16% |
-| Unity | $197 + $2,000 + $300 = $2,497 | **$2,097** | 16% |
+| 4 calls | $1,000 | **$997** | Course + 1 Booster |
+| 6 calls | $1,500 | **$1,497** | Course + 2 Boosters |
+| 8 calls | $2,000 | **$1,997** | Course + 3 Boosters |
 
-Every tier is now cheaper than assembling the same thing from Calendly,
-which is what makes a package worth buying. Effective rate lands
-$175–$183/hr across all three — consistent with her own rate card.
+That gives one sentence that sells itself, from stage or on a page:
+**"You pay for the calls. The course and the Boosters are included."**
 
-### Why $197 for tier 1
+No arithmetic for the buyer, nothing to compare against Calendly, and
+every tier is a genuine discount rather than the current 11–67% markup.
 
-With no mini-course, the self-paced course *is* the entry product, so it
-has to be the thing a podcast listener buys without deliberating. 1.5 hours
-of video cannot do that at $695; at $197 it can. It also anchors the ladder
-correctly: $197 buys information, $1,097+ buys Dana's time. Consider $147
-for a first-30-days launch window, then settle at $197.
+### The ascension mechanism
+
+**The $97 is credited in full toward any package, within 90 days.**
+
+- Removes the "I already bought the course" objection entirely.
+- An ascending buyer pays $900 / $1,400 / $1,900.
+- The 90-day expiry creates a real deadline without manufactured scarcity.
+- Costs almost nothing: it converts a $97 buyer into a $997+ buyer.
+
+Automate a reminder at day 7, 30 and 60 showing the credit and its expiry.
+This is the whole strategy — the $97 is the qualifying step, not the sale.
+
+### Why $97 and not $197
+
+$97 is the line below which a professional buys without a decision
+process. From stage that matters more than margin: the goal is to convert
+a room into a buyer list, then ascend it. $97 × a keynote audience beats
+$695 × nobody, and every buyer is a warm prospect for a $997+ package
+carrying $97 of credit.
+
+For live events, offer a **$67 room rate** with a code that expires at the
+end of the event. It gives Dana a reason-to-act-now from the stage, which
+is the single largest lever on in-room conversion.
+
+### Making the keynote channel work
+
+- One short URL and a QR code on the closing slide, going to a
+  **single-purpose page with one button**. Do not send a keynote audience
+  to danaskaggs.com — the homepage sells keynotes and the course page is a
+  maze.
+- Non-buyers still get captured by the existing quiz, which already works.
+- One talk of ~100 people converting at even 5% covers a Thinkific
+  upgrade several times over — that is the way out of the free tier.
 
 ### Simplifying the confusion
 
@@ -176,18 +225,24 @@ for a first-30-days launch window, then settle at $197.
 Fix the path before touching the numbers, or the new prices sell as well as
 the old ones.
 
-1. **Fix the Thinkific hero CTAs** so each tier's buttons sell that tier.
-2. Replace the waitlist popup on `/boundaries-course/` with real Thinkific
-   checkout links. Delete the stale "Freedom of No" pricing block. The
-   traffic and the leads already exist; this is where they hit a wall.
-3. Reprice per the table and turn on the 3-pay plans.
-4. Put a course CTA in the podcast page + episode content — the $197
-   course. Capture already works there; the pitch doesn't exist.
-5. Add an offer section to the homepage, or accept that `/` is
-   speaker-only and drive course traffic from the podcast instead.
-6. Show prices on the Thinkific sales page and the coaching page. Fix the
-   `http://` nav link and the dead `learn.danaskaggs.com` link.
-7. Rename the Thinkific site and the `copy-of-...` slug.
+1. **Reprice the self-paced course to $97** and show the price on its
+   sales page (it currently shows none).
+2. **Create three Stripe Payment Links** at $997 / $1,497 / $1,997, plus
+   the 3-pay variants. No Thinkific upgrade required.
+3. **Replace the waitlist popup** on `/boundaries-course/` with those
+   links, and delete the stale "Freedom of No" pricing block.
+4. **Hide the unpublished tier pages** on Thinkific, or at minimum get the
+   old $2,000/$3,750/$4,995 prices off `/collections`.
+5. **Build the keynote page**: one URL, one button, QR code for the closing
+   slide, plus the $67 room-rate code.
+6. Set up the $97 credit: track buyers, automate the day-7/30/60 reminder.
+7. Put a course CTA in the podcast page + episode content. Capture already
+   works there; the pitch doesn't exist.
+8. Add an offer section to the homepage, or accept that `/` is
+   speaker-only and drive course traffic from the podcast and stage.
+9. Publish the $250/$200 session rates. Fix the `http://` nav link and the
+   dead `learn.danaskaggs.com` link.
+10. Rename the Thinkific site and the `copy-of-...` slug.
 
 Worth checking where the quiz results actually go — whether the Typeform
 responses feed an email list and a follow-up sequence, or just sit in
