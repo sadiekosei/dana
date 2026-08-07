@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Kosei Dana Podcast Tools
  * Description: Narrow, single-purpose REST API for safely appending ONE new top-level Elementor container to the /podcast/ page (post ID 3048) only. Built by Sadie's Claude Code session; safe to deactivate/delete once the podcast archive widget work is finished.
- * Version: 1.10.5
+ * Version: 1.10.6
  * Author: Kosei Designs
  */
 
@@ -119,6 +119,11 @@ add_action( 'rest_api_init', function () {
 		'methods'             => 'POST',
 		'callback'            => 'kosei_dana_kit_merge',
 		'permission_callback' => function () { return current_user_can( 'edit_theme_options' ); },
+	) );
+	register_rest_route( 'kosei-dana/v1', '/page-backup', array(
+		'methods'             => 'GET',
+		'callback'            => 'kosei_dana_page_backup_get',
+		'permission_callback' => function () { return current_user_can( 'edit_pages' ); },
 	) );
 } );
 
@@ -908,4 +913,31 @@ function kosei_dana_kit_merge( \WP_REST_Request $req ) {
 	clean_post_cache( $kid );
 	do_action( 'litespeed_purge_all' );
 	return new \WP_REST_Response( array( 'ok' => true, 'kit_id' => $kid, 'before' => $before, 'after' => $cur ), 200 );
+}
+
+// Reads one of the timestamped _kosei_elementor_backup_* snapshots that
+// page_elementor_put writes before every save, so a clobbered edit can be
+// recovered without database access.
+function kosei_dana_page_backup_get( \WP_REST_Request $req ) {
+	$pid = kosei_dana_resolve_page( $req );
+	if ( is_wp_error( $pid ) ) { return $pid; }
+	$key = (string) $req->get_param( 'key' );
+	$all = array();
+	foreach ( get_post_meta( $pid ) as $k => $v ) {
+		if ( 0 === strpos( $k, '_kosei_elementor_backup_' ) ) {
+			$all[ $k ] = strlen( (string) reset( $v ) );
+		}
+	}
+	ksort( $all );
+	if ( '' === $key ) {
+		return new \WP_REST_Response( array( 'ok' => true, 'page_id' => $pid, 'backups' => $all ), 200 );
+	}
+	if ( ! isset( $all[ $key ] ) ) {
+		return new \WP_Error( 'no_backup', 'No such backup key.', array( 'status' => 404 ) );
+	}
+	$raw = get_post_meta( $pid, $key, true );
+	return new \WP_REST_Response( array(
+		'ok' => true, 'page_id' => $pid, 'key' => $key,
+		'data' => json_decode( is_string( $raw ) ? $raw : '', true ),
+	), 200 );
 }

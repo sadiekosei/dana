@@ -244,6 +244,36 @@ That also retires the insecure `http://` scheme, and means the course
 funnel now runs entirely on her own domain with Thinkific reached only at
 checkout.
 
+## H2. I clobbered a live edit — what went wrong and how it was recovered
+
+Sadie edited the hero video in Elementor (swapping my raw-HTML iframe for a
+proper `video` widget with a custom overlay thumbnail, 4:3 ratio and a
+styled play icon). My next write overwrote it, because I built the payload
+from a **locally cached tree** (`v11.json`) instead of re-fetching. That is
+exactly the golden rule in the skill: *fetch the live post immediately
+before every update.* Batch-editing from a saved copy silently breaks it.
+
+Recovery worked because `page_elementor_put` snapshots the previous
+`_elementor_data` into `_kosei_elementor_backup_<UTC timestamp>` postmeta
+before every save. The clobbered version was the largest snapshot (42KB vs
+my 25KB — Elementor writes far more verbose settings than hand-built JSON,
+which is a useful tell for "a human saved this"). Plugin v1.10.6 adds
+`GET /page-backup?page_id=&key=` to read a snapshot back.
+
+**Rule: always GET immediately before POST, even mid-sequence.**
+
+## H3. "testimonials white" means white TEXT, not a white background
+
+Global widget **740** rendered as an empty band on `/course/`: heading
+visible, carousel invisible, one pale pagination dot. The markup and swiper
+assets were identical to the working page, which ruled out JS.
+
+The name is the trap — page 1356 uses 740 on its **navy** section
+(`#012E41`). The template styles its text white, so on a white background
+it is white-on-white. Moving the section to navy fixed it, and gives the
+page a better rhythm: navy → cream → white → cream → **navy** → cream →
+navy.
+
 ## H. Reusable Elementor globals worth knowing about
 
 The site has a library of global widgets/templates in `elementor_library`;
