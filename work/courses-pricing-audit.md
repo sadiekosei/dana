@@ -13,48 +13,42 @@ danaskaggs.com has no store, no cart, no Stripe — the WP site is a brochure.
 
 | Product | Price | What it is | Buyable? |
 |---|---|---|---|
-| Work Boundaries Quiz (`/quiz/`) | Free | Typeform `01KBV3EYERQH0W81MPFCQS2PD5` | **Broken — see below** |
-| Healthier Boundaries Assessment | Free | Typeform `yJT91y3Z` | **Broken — see below** |
+| Work Boundaries Quiz (`/quiz/`) | Free | Typeform `01KBV3EYERQH0W81MPFCQS2PD5` | Yes — working |
+| Healthier Boundaries Assessment | Free | Typeform `yJT91y3Z` | Yes — working |
+| Site-wide "Quick check-in" popup | Free | Typeform `01KCQ6232B10186HGVFA2EGEB2` | Yes — on every page |
 | Boundary Blueprint — Self-Paced | **$695** | 14 modules / 22 lessons / **1.5 hrs video** | Thinkific only |
 | Boundary Blueprint — Essentials | **$2,000** | Course + 4 × 90-min 1:1 + 1 Booster | Thinkific only |
 | Boundary Blueprint — Evolve | **$3,750** | Course + 6 × 90-min 1:1 + 2 Boosters | Thinkific only |
 | Boundary Blueprint — Unity (couples) | **$4,995** | Course + 8 × 90-min 1:1 + 3 Boosters | Thinkific only |
 | 1:1 coaching | **$250 / 90-min, $200 / 60-min** | Calendly | Yes, but price unpublished |
 
-## Blocker 1 — both free quizzes are broken
+## The free tier works — lead capture is not the problem
 
-The Typeform embeds are correctly saved in WordPress but **the loader script
-is stripped from the HTML the browser actually receives**, on both pages.
-The container div renders; nothing ever fills it.
-
-`/quiz/` (page 1687) contains in WP:
+An earlier draft of this audit claimed both quizzes were broken. That was
+wrong, and the error was mine: I grepped the served HTML for
+`embed.typeform.com` and got zero hits. LiteSpeed Cache rewrites the
+loader into a local optimized bundle, so the literal string never appears:
 
 ```html
-<center><div data-tf-live="01KBV3EYERQH0W81MPFCQS2PD5"></div>
-<script src="//embed.typeform.com/next/embed.js"></script></center>
+<div data-tf-live="01KBV3EYERQH0W81MPFCQS2PD5"></div>
+<script data-optimized="1"
+  src="https://danaskaggs.com/wp-content/litespeed/js/624ca60f…js"></script>
 ```
 
-Served HTML: `data-tf-live` present ×2, `embed.typeform.com` **0
-occurrences**. Identical result with a cache-busting query string, so this
-is a render-time filter, not the page cache. Same on the assessment page
-(page 269), where the embed is additionally wrapped in a nested
-`<!DOCTYPE html><html><head>…` document pasted inside the Elementor HTML
-widget — invalid, and it should be unwrapped regardless.
+That bundle does contain the Typeform loader (verified by fetching it).
+Both quiz pages render and are confirmed working in-browser.
 
-Ruled out: the Google tag (`GT-PJ4M8CJ`) does not inject Typeform — 0
-matches in the container. Not verified in a real browser (the host resets
-headless Chromium connections), so confirm visually before fixing.
+Better still, the **"Quick check-in" Typeform popup
+(`01KCQ6232B10186HGVFA2EGEB2`) is injected site-wide** — verified present
+on `/`, `/podcast/`, individual episode pages, `/boundaries-course/` and
+`/coaching/`. So every one of the 176 episode pages does have an email
+capture on it.
 
-Likely cause: LiteSpeed/CDN JS optimization or a security filter stripping
-`<script>` from post content. Fix: use `https://` instead of the
-protocol-relative `//`, and enqueue the loader properly (Code Snippets is
-already installed on this site) rather than inline in an HTML widget.
+This sharpens the diagnosis rather than softening it: **leads are being
+captured and then have nothing to buy.** The break is entirely downstream,
+at the offer.
 
-**Consequence: the free tier captures nobody.** Every "take the quiz" path
-dead-ends, so the list never grows and nothing is ever pitched to. This is
-upstream of every pricing question on this page.
-
-## Blocker 2 — you cannot buy anything on danaskaggs.com
+## The blocker — you cannot buy anything on danaskaggs.com
 
 Every CTA in the $2,000/$3,750/$4,995 pricing table on `/boundaries-course/`
 opens the same Elementor waitlist popup (`popup id 1636`). All three tiers
@@ -66,8 +60,10 @@ Also:
 - **The homepage sells keynotes, not courses.** `/` is a speaker-booking
   page — "Book Dana for Your Event" ×3, zero course mentions or prices.
 - **The podcast sells nothing.** `/podcast/` and the episode pages (176
-  published, top-5% show) carry no course link and no email capture. The
-  only offer link on an episode page is a sidebar "Learn More → /coaching".
+  published, top-5% show) carry no course link at all — the only offer
+  link on an episode page is a sidebar "Learn More → /coaching". The
+  site-wide popup does capture email there, but nothing in the episode
+  content points to a product.
 - **The self-paced course is a submenu item on another domain**, linked as
   `http://danaskaggs.thinkific.com`, with no presence in any page body.
 - **Prices are hidden where it counts.** The Thinkific self-paced sales page
@@ -112,7 +108,7 @@ businesses usually make their money.
 
 | Tier | Now | Recommended | Payment plan |
 |---|---|---|---|
-| Quiz | Free (broken) | Free — **fix the embed first** | — |
+| Quiz + site-wide popup | Free | Free — keep, it works | — |
 | **NEW — "Say No Without Guilt" mini-course** | — | **$47** | — |
 | Self-Paced Blueprint | $695 | **$297** | 2 × $165 |
 | **NEW — Blueprint + Live Group** (6-wk cohort) | — | **$697** | 3 × $265 |
@@ -161,18 +157,22 @@ highest-margin product on the list.
 Fix the path before touching the numbers, or the new prices sell as well as
 the old ones.
 
-1. **Fix the Typeform embeds on `/quiz/` and the assessment page.** Nothing
-   else matters until the free tier captures email.
-2. Replace the waitlist popup on `/boundaries-course/` with real Thinkific
-   checkout links. Delete the stale "Freedom of No" pricing block.
-3. Put one CTA on the podcast page + all 176 episode pages — the quiz for
-   cold traffic, the $47 mini-course for warm.
-4. Add an offer section to the homepage, or accept that `/` is
+1. Replace the waitlist popup on `/boundaries-course/` with real Thinkific
+   checkout links. Delete the stale "Freedom of No" pricing block. This is
+   the single highest-value change: the traffic and the leads already
+   exist, and this is where they hit a wall.
+2. Put a product CTA in the podcast page + episode content — the $47
+   mini-course. Capture already works there; the pitch doesn't exist.
+3. Add an offer section to the homepage, or accept that `/` is
    speaker-only and drive course traffic from the podcast instead.
-5. Show prices on the Thinkific sales page and the coaching page. Fix the
+4. Show prices on the Thinkific sales page and the coaching page. Fix the
    `http://` nav link and the dead `learn.danaskaggs.com` link.
-6. Then reprice per the table and turn on payment plans.
-7. Rename the Thinkific site and the `copy-of-...` slug.
+5. Then reprice per the table and turn on payment plans.
+6. Rename the Thinkific site and the `copy-of-...` slug.
+
+Worth checking where the quiz results actually go — whether the Typeform
+responses feed an email list and a follow-up sequence, or just sit in
+Typeform. That determines whether the captured leads are reachable at all.
 
 ## Open questions for Dana
 
