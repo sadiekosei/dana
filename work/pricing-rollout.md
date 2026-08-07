@@ -195,6 +195,22 @@ Also: the YouTube intro (`i2JWm2caWCE`) follows the podcast playbook —
 `referrerpolicy` as the FIRST iframe attribute and `margin-bottom:32px` on
 the wrapper.
 
+**Design decisions taken with Sadie:**
+
+- **Access wording.** Access is not time-limited, so the page says
+  *"unlimited access"* / *"your access never expires"*, never "lifetime
+  access".
+- **The `epicursive` script accent is used sparingly** — three headings on
+  the page (the hero title, "Meet *Dana*", and the closing CTA), not every
+  heading. Using it everywhere flattens it into noise.
+- **Hero rhythm is set explicitly**, not left to Elementor defaults: H1
+  58px at 1.05em line-height, subhead 17px/1.6em, price 46px, meta line
+  15px, with `_margin` on each widget. Column side padding must be
+  **equal** (24px each side) or "centred" content sits visibly off-centre.
+- **The page excerpt feeds `og:description`** and is easy to forget. It has
+  now twice been the last place stale copy survived after the body was
+  fixed — check it whenever wording changes.
+
 ## E. Nav — STILL OPEN
 
 `http://danaskaggs.thinkific.com` → `https://` (currently insecure scheme).
