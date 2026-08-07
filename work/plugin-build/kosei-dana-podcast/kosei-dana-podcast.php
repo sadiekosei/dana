@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Kosei Dana Podcast Tools
  * Description: Narrow, single-purpose REST API for safely appending ONE new top-level Elementor container to the /podcast/ page (post ID 3048) only. Built by Sadie's Claude Code session; safe to deactivate/delete once the podcast archive widget work is finished.
- * Version: 1.10.4
+ * Version: 1.10.5
  * Author: Kosei Designs
  */
 
@@ -109,6 +109,16 @@ add_action( 'rest_api_init', function () {
 		'methods'             => 'POST',
 		'callback'            => 'kosei_dana_page_settings_merge',
 		'permission_callback' => function () { return current_user_can( 'edit_pages' ); },
+	) );
+	register_rest_route( 'kosei-dana/v1', '/elementor-kit', array(
+		'methods'             => 'GET',
+		'callback'            => 'kosei_dana_kit_get',
+		'permission_callback' => function () { return current_user_can( 'edit_theme_options' ); },
+	) );
+	register_rest_route( 'kosei-dana/v1', '/elementor-kit', array(
+		'methods'             => 'POST',
+		'callback'            => 'kosei_dana_kit_merge',
+		'permission_callback' => function () { return current_user_can( 'edit_theme_options' ); },
 	) );
 } );
 
@@ -863,4 +873,39 @@ function kosei_dana_page_settings_merge( \WP_REST_Request $req ) {
 	do_action( 'litespeed_purge_post', $pid );
 	do_action( 'litespeed_purge_all' );
 	return new \WP_REST_Response( array( 'ok' => true, 'page_id' => $pid, 'before' => $before, 'after' => $cur ), 200 );
+}
+
+// Elementor's Global Settings live in the active Kit's
+// _elementor_page_settings (system_colors, custom_colors, system_typography,
+// custom_typography, plus body/link defaults). Read and shallow-merge them.
+function kosei_dana_kit_id() { return (int) get_option( 'elementor_active_kit' ); }
+
+function kosei_dana_kit_get( \WP_REST_Request $req ) {
+	$kid = kosei_dana_kit_id();
+	if ( ! $kid ) { return new \WP_Error( 'no_kit', 'No active Elementor kit.', array( 'status' => 404 ) ); }
+	$s = get_post_meta( $kid, '_elementor_page_settings', true );
+	return new \WP_REST_Response( array( 'ok' => true, 'kit_id' => $kid,
+		'title' => get_the_title( $kid ), 'settings' => is_array( $s ) ? $s : array() ), 200 );
+}
+
+function kosei_dana_kit_merge( \WP_REST_Request $req ) {
+	$kid = kosei_dana_kit_id();
+	if ( ! $kid ) { return new \WP_Error( 'no_kit', 'No active Elementor kit.', array( 'status' => 404 ) ); }
+	$body  = json_decode( $req->get_body(), true );
+	$patch = is_array( $body ) ? ( $body['settings'] ?? null ) : null;
+	if ( ! is_array( $patch ) || empty( $patch ) ) {
+		return new \WP_Error( 'bad_body', 'Body must be {"settings": {...}}.', array( 'status' => 400 ) );
+	}
+	$cur = get_post_meta( $kid, '_elementor_page_settings', true );
+	if ( ! is_array( $cur ) ) { $cur = array(); }
+	$before = $cur;
+	update_post_meta( $kid, '_kosei_kit_backup_' . gmdate( 'Ymd_His' ), wp_slash( wp_json_encode( $before ) ) );
+	foreach ( $patch as $k => $v ) { $cur[ $k ] = $v; }
+	update_post_meta( $kid, '_elementor_page_settings', $cur );
+	if ( class_exists( '\\Elementor\\Plugin' ) && isset( \Elementor\Plugin::$instance->files_manager ) ) {
+		\Elementor\Plugin::$instance->files_manager->clear_cache();
+	}
+	clean_post_cache( $kid );
+	do_action( 'litespeed_purge_all' );
+	return new \WP_REST_Response( array( 'ok' => true, 'kit_id' => $kid, 'before' => $before, 'after' => $cur ), 200 );
 }
