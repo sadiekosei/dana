@@ -158,22 +158,70 @@ room, without deliberating.
 
 Also: publish the $250 / $200 single-session rates on the coaching page.
 
-### The packages are priced at exactly her call rate
+### Counting Boundary Boosters as the call time they are
 
-At $250 per 90-minute call, each package costs what the calls alone would
-cost — and the course and Boosters come free:
+A Boundary Booster is a **scheduled 15-minute Zoom call** with a pre-call
+form (per the course FAQ), and must be used within 60 days of enrolment.
+That is delivery time, not a bonus, and it belongs in the maths. At her
+60-minute rate ($200/hr) a 15-minute call is worth **$50** — earlier
+drafts of this audit carried them at $100, which double-counted them.
 
-| Tier | Calls alone at $250 | Package | Included free |
+Total call time and what each package actually earns per hour:
+
+| Tier | Calls | Boosters | Total call time | À la carte | Price | Disc. | **$/hr** | $/hr after credit |
+|---|---|---|---|---|---|---|---|---|
+| Essentials | 4 × 90m | 1 | **6.25 hrs** | $1,050 | $997 | 5% | **$160** | $144 |
+| Evolve | 6 × 90m | 2 | **9.5 hrs** | $1,600 | $1,497 | 6% | **$158** | $147 |
+| Unity | 8 × 90m | 3 | **12.75 hrs** | $2,150 | $1,997 | 7% | **$157** | $149 |
+
+Against her own rates ($167/hr for 90-min, $200/hr for 60-min), the
+packages earn **$157–160/hr** — a 5–7% prepaid-package discount, which is
+normal and defensible. The $97 ascension credit takes it to $144–149/hr,
+a 12–14% total discount. That is the top of the reasonable band but not
+outside it.
+
+**The honest sales line is therefore "you pay for the call time, the
+course is included"** — not "the course *and the Boosters* are included."
+Boosters are 45 minutes of delivery on Unity; they are not free, and the
+copy should not imply they are. They earn their place as a retention and
+upsell touchpoint — the FAQ already routes a Booster that needs more depth
+into a paid full session — but they cost real calendar.
+
+Note also the pre-call form: a 15-minute Booster consumes closer to 30
+minutes of Dana's time once form review and notes are counted, so the
+true rate is a little below the table.
+
+### If she wants to protect the rate instead
+
+Price each package at exactly its call value, keeping the course free:
+
+| Tier | Price | $/hr | After credit |
 |---|---|---|---|
-| 4 calls | $1,000 | **$997** | Course + 1 Booster |
-| 6 calls | $1,500 | **$1,497** | Course + 2 Boosters |
-| 8 calls | $2,000 | **$1,997** | Course + 3 Boosters |
+| Essentials | **$1,047** | $168 | $152 |
+| Evolve | **$1,597** | $168 | $158 |
+| Unity | **$2,147** | $169 | $161 |
 
-That gives one sentence that sells itself, from stage or on a page:
-**"You pay for the calls. The course and the Boosters are included."**
+Less memorable numbers, ~5% more revenue per package, same story. Given
+the strategy is volume-and-ascension off the stage, the rounder
+$997/$1,497/$1,997 is still the better bet — but this is the version that
+holds her rate exactly.
 
-No arithmetic for the buyer, nothing to compare against Calendly, and
-every tier is a genuine discount rather than the current 11–67% markup.
+### Capacity — what this can actually produce
+
+At roughly 10 client hours a week (~43/month), and counting Booster time:
+
+| Tier | Appointments | Hours | Clients/mo | Revenue/mo |
+|---|---|---|---|---|
+| Essentials | 5 | 6.25 | 6.9 | ~$6,900 |
+| Evolve | 8 | 9.50 | 4.5 | ~$6,800 |
+| Unity | 11 | 12.75 | 3.4 | ~$6,700 |
+
+The tiers are near-identical on revenue per hour, so which one sells is a
+buyer-preference question, not a margin question — Dana can push whichever
+converts best. A full 1:1 calendar tops out near **$6,800/month** plus
+course and keynote income. Unity is the thinnest tier and the heaviest to
+deliver (11 appointments, two people); it should be capped or sold
+sparingly while she is travelling to speak.
 
 ### The ascension mechanism
 
@@ -254,8 +302,9 @@ Typeform. That determines whether the captured leads are reachable at all.
   first launch.
 - Is the keynote business the priority, with courses secondary? That
   changes how hard the homepage should push courses.
-- What exactly is a Boundary Booster (length)? Valued at ~$100 above; if
-  it is a full 60-min session the package discounts get slightly deeper.
+- Boosters are 15-min Zoom calls per the FAQ, valued at $50. Confirm the
+  pre-call form overhead — if each Booster really costs 30 min of Dana's
+  time, Unity's effective rate drops another ~$6/hr.
 - Do the Typeform responses feed an email list and a follow-up sequence,
   or sit in Typeform? Determines whether captured leads are reachable.
 
