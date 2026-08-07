@@ -4,7 +4,9 @@ Audited 2026-08-07 from public sources: danaskaggs.com (WP REST + rendered
 pages) and danaskaggs.thinkific.com. No analytics or sales data available —
 conversion claims are inferred from funnel structure, not measured.
 
-Rate card confirmed by Sadie: **90-min coaching call = $250, 60-min = $200.**
+Rate card confirmed by Sadie: **base rate $200/hr.** She currently charges
+$250 for a 90-minute session (a 17% discount on her own rate) and $200 for
+60 minutes. Boundary Boosters are 15-minute Zoom calls = $50 of call time.
 
 ## What exists today
 
@@ -80,13 +82,13 @@ Also:
 ## The pricing problem — the packages cost more than their parts
 
 With the real rate card, the bundles are **marked up over à la carte**, not
-discounted. Valuing a Booster at ~$100 (short check-in):
+discounted (Booster = 15 min = $50):
 
 | Package | À la carte at her own rates | Package price | Markup |
 |---|---|---|---|
-| Essentials | $695 + 4×$250 + $100 = **$1,795** | $2,000 | **+11%** |
-| Evolve | $695 + 6×$250 + $200 = **$2,395** | $3,750 | **+57%** |
-| Unity | $695 + 8×$250 + $300 = **$2,995** | $4,995 | **+67%** |
+| Essentials | $695 + 4×$250 + $50 = **$1,745** | $2,000 | **+15%** |
+| Evolve | $695 + 6×$250 + $100 = **$2,295** | $3,750 | **+63%** |
+| Unity | $695 + 8×$250 + $150 = **$2,845** | $4,995 | **+76%** |
 
 A buyer can book the same calls on Calendly at $250 and buy the course
 separately for less money. The Calendly link sits on the coaching page,
@@ -130,7 +132,7 @@ danaskaggs.com entirely.
 The coaching tiers are *1:1 time sold with course access*. They do not need
 to be Thinkific products at all:
 
-- Publish the one allowed course on Thinkific ($97).
+- Publish the one allowed course on Thinkific ($99).
 - Sell the three packages with **Stripe Payment Links** — free to create,
   standard processing fees, no subscription.
 - On purchase, manually enrol the buyer in the free-tier course and send
@@ -151,60 +153,85 @@ room, without deliberating.
 
 | # | Product | Now | **New** | Payment plan |
 |---|---|---|---|---|
-| 1 | Self-Paced Course | $695 | **$97** | — |
-| 2 | Course + 4 calls (Essentials) | $2,000 | **$997** | 3 × $350 |
-| 3 | Course + 6 calls (Evolve) | $3,750 | **$1,497** | 3 × $525 |
-| 4 | Course + 8 calls, couples (Unity) | $4,995 | **$1,997** | 3 × $700 |
+| 1 | Self-Paced Course | $695 | **$99** | — |
+| 2 | Course + 4 calls (Essentials) | $2,000 | **$1,100** | 3 × $385 |
+| 3 | Course + 6 calls (Evolve) | $3,750 | **$1,700** | 3 × $595 |
+| 4 | Course + 8 calls, couples (Unity) | $4,995 | **$2,200** | 3 × $770 |
 
-Also: publish the $250 / $200 single-session rates on the coaching page.
+This assumes the **90-minute session moves to $300** (see the rate fork
+below). Publish the session rates on the coaching page either way.
 
-### Counting Boundary Boosters as the call time they are
+### Price endings: $99, not $97
+
+The 7-ending is a convention of internet-marketing launch culture, not a
+research finding. There is no good evidence that 7 outperforms 9; the
+reason 7s are everywhere is that one subculture copied another.
+
+9-endings do have real evidence behind them (the classic catalogue
+experiments found $39 outselling $34), though the effects are modest and
+concentrated in low-consideration consumer purchases. For a $99 impulse
+buy that is exactly the right context — and the part that actually matters
+is staying **under $100**, which both do.
+
+The tiebreaker is signalling. To a corporate keynote audience — HR
+leaders, professionals — a 7-ending reads as *funnel*, which cuts against
+the credibility of a licensed psychotherapist. $99 gets the sub-$100
+threshold without the tell.
+
+**For the packages, use round numbers.** Charm pricing on high-ticket 1:1
+services works against you: $1,997 for a clinician's time looks like a
+funnel, $2,200 looks like a professional fee. There is also evidence that
+rounded prices feel "right" for emotionally-driven purchases, which
+boundaries coaching after a keynote very much is. Round is both the
+premium signal and the better fit.
+
+### The rate fork — her 90-minute session is underpriced
+
+If Dana's rate is **$200/hr**, then a 90-minute session should be $300.
+She charges **$250** — a 17% discount on her longest sessions, which are
+also her most common (the intro session is 90 minutes). That single number
+decides what the packages can cost, because a buyer compares the package
+against booking sessions on Calendly at whatever she charges there.
 
 A Boundary Booster is a **scheduled 15-minute Zoom call** with a pre-call
-form (per the course FAQ), and must be used within 60 days of enrolment.
-That is delivery time, not a bonus, and it belongs in the maths. At her
-60-minute rate ($200/hr) a 15-minute call is worth **$50** — earlier
-drafts of this audit carried them at $100, which double-counted them.
+form (per the course FAQ), used within 60 days. That is delivery time, not
+a bonus: $50 at $200/hr. Earlier drafts carried it at $100, double-counted.
 
-Total call time and what each package actually earns per hour:
+Total call time per package: **6.25 / 9.5 / 12.75 hours**.
 
-| Tier | Calls | Boosters | Total call time | À la carte | Price | Disc. | **$/hr** | $/hr after credit |
-|---|---|---|---|---|---|---|---|---|
-| Essentials | 4 × 90m | 1 | **6.25 hrs** | $1,050 | $997 | 5% | **$160** | $144 |
-| Evolve | 6 × 90m | 2 | **9.5 hrs** | $1,600 | $1,497 | 6% | **$158** | $147 |
-| Unity | 8 × 90m | 3 | **12.75 hrs** | $2,150 | $1,997 | 7% | **$157** | $149 |
+**Path A — raise the 90-minute session to $300** (recommended)
 
-Against her own rates ($167/hr for 90-min, $200/hr for 60-min), the
-packages earn **$157–160/hr** — a 5–7% prepaid-package discount, which is
-normal and defensible. The $97 ascension credit takes it to $144–149/hr,
-a 12–14% total discount. That is the top of the reasonable band but not
-outside it.
+| Tier | À la carte | Package | Saving | Her $/hr | After credit |
+|---|---|---|---|---|---|
+| Essentials | $1,349 | **$1,100** | 18% | **$176** | $160 |
+| Evolve | $1,999 | **$1,700** | 15% | **$179** | $169 |
+| Unity | $2,649 | **$2,200** | 17% | **$173** | $165 |
 
-**The honest sales line is therefore "you pay for the call time, the
-course is included"** — not "the course *and the Boosters* are included."
-Boosters are 45 minutes of delivery on Unity; they are not free, and the
-copy should not imply they are. They earn their place as a retention and
-upsell touchpoint — the FAQ already routes a Booster that needs more depth
-into a paid full session — but they cost real calendar.
+**Path B — keep the 90-minute session at $250**
 
-Note also the pre-call form: a 15-minute Booster consumes closer to 30
-minutes of Dana's time once form review and notes are counted, so the
-true rate is a little below the table.
+| Tier | À la carte | Package | Saving | Her $/hr | After credit |
+|---|---|---|---|---|---|
+| Essentials | $1,149 | **$997** | 13% | $160 | $144 |
+| Evolve | $1,699 | **$1,497** | 12% | $158 | $147 |
+| Unity | $2,249 | **$1,997** | 11% | $157 | $149 |
 
-### If she wants to protect the rate instead
+Path A earns roughly **$20/hr more on every package** and allows the round
+premium numbers. Path B caps the packages near $1,000/$1,500/$2,000 — go
+any higher and booking four sessions on Calendly beats the package, which
+is the exact arbitrage that makes the current pricing unsellable.
 
-Price each package at exactly its call value, keeping the course free:
+Both paths give the buyer a real 11–18% saving. The difference is entirely
+whether Dana stops discounting her own longest session.
 
-| Tier | Price | $/hr | After credit |
-|---|---|---|---|
-| Essentials | **$1,047** | $168 | $152 |
-| Evolve | **$1,597** | $168 | $158 |
-| Unity | **$2,147** | $169 | $161 |
+**The sales line is "you pay for the call time, the course is included"** —
+not "the course *and the Boosters* are included." Boosters are 45 minutes
+of delivery on Unity; the copy should not imply they are free. They earn
+their place as a retention and upsell touchpoint — the FAQ already routes
+a Booster needing more depth into a paid session — but they cost calendar.
 
-Less memorable numbers, ~5% more revenue per package, same story. Given
-the strategy is volume-and-ascension off the stage, the rounder
-$997/$1,497/$1,997 is still the better bet — but this is the version that
-holds her rate exactly.
+Note the pre-call form: a 15-minute Booster likely consumes closer to 30
+minutes once review and notes are counted, so the true rate sits a little
+below these tables.
 
 ### Capacity — what this can actually produce
 
@@ -225,23 +252,23 @@ sparingly while she is travelling to speak.
 
 ### The ascension mechanism
 
-**The $97 is credited in full toward any package, within 90 days.**
+**The $99 is credited in full toward any package, within 90 days.**
 
 - Removes the "I already bought the course" objection entirely.
-- An ascending buyer pays $900 / $1,400 / $1,900.
+- An ascending buyer pays $1,001 / $1,601 / $2,101.
 - The 90-day expiry creates a real deadline without manufactured scarcity.
-- Costs almost nothing: it converts a $97 buyer into a $997+ buyer.
+- Costs almost nothing: it converts a $99 buyer into a $1,100+ buyer.
 
 Automate a reminder at day 7, 30 and 60 showing the credit and its expiry.
-This is the whole strategy — the $97 is the qualifying step, not the sale.
+This is the whole strategy — the $99 is the qualifying step, not the sale.
 
-### Why $97 and not $197
+### Why $99 and not $197
 
-$97 is the line below which a professional buys without a decision
+$99 is the line below which a professional buys without a decision
 process. From stage that matters more than margin: the goal is to convert
-a room into a buyer list, then ascend it. $97 × a keynote audience beats
+a room into a buyer list, then ascend it. $99 × a keynote audience beats
 $695 × nobody, and every buyer is a warm prospect for a $997+ package
-carrying $97 of credit.
+carrying $99 of credit.
 
 For live events, offer a **$67 room rate** with a code that expires at the
 end of the event. It gives Dana a reason-to-act-now from the stage, which
@@ -273,9 +300,9 @@ is the single largest lever on in-room conversion.
 Fix the path before touching the numbers, or the new prices sell as well as
 the old ones.
 
-1. **Reprice the self-paced course to $97** and show the price on its
+1. **Reprice the self-paced course to $99** and show the price on its
    sales page (it currently shows none).
-2. **Create three Stripe Payment Links** at $997 / $1,497 / $1,997, plus
+2. **Create three Stripe Payment Links** at $1,100 / $1,700 / $2,200, plus
    the 3-pay variants. No Thinkific upgrade required.
 3. **Replace the waitlist popup** on `/boundaries-course/` with those
    links, and delete the stale "Freedom of No" pricing block.
@@ -283,7 +310,7 @@ the old ones.
    old $2,000/$3,750/$4,995 prices off `/collections`.
 5. **Build the keynote page**: one URL, one button, QR code for the closing
    slide, plus the $67 room-rate code.
-6. Set up the $97 credit: track buyers, automate the day-7/30/60 reminder.
+6. Set up the $99 credit: track buyers, automate the day-7/30/60 reminder.
 7. Put a course CTA in the podcast page + episode content. Capture already
    works there; the pitch doesn't exist.
 8. Add an offer section to the homepage, or accept that `/` is
