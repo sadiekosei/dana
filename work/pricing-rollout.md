@@ -157,11 +157,18 @@ backgrounds.
 
 Three mistakes worth not repeating, all found by Sadie on screenshots:
 
-1. **Never copy a donor widget's settings blind.** The first build lifted
-   settings from the course page's dark "How it Works" band, which carried
-   `title_color`/`text_color` of `#FFFFFF` — every heading rendered white on
-   white. Donors also carry `__dynamic__`; the button donor's popup tag
-   silently overrode the checkout href.
+1. **Never copy a donor widget's settings blind.** This cost three separate
+   bugs from one donor:
+   - `title_color`/`text_color` of `#FFFFFF` (the donor sat on a dark band)
+     — every heading rendered white on white
+   - a `__dynamic__` popup tag that silently overrode the checkout href
+   - **`hide_tablet: "hidden-tablet"` and `hide_mobile: "hidden-mobile"`** —
+     both checkout buttons were invisible on phones and tablets, on a page
+     built for a QR-code audience. Nothing in the data looks wrong; the
+     buttons simply do not render below desktop.
+
+   Copy only the keys you actually want (typography, padding, colour) and
+   set layout/visibility explicitly. Whitelist, never blacklist.
 2. **Full-bleed backgrounds come from the PAGE TEMPLATE, not the section.**
    OceanWP wraps a default-template page in `.content-area` inside
    `.container`, which constrains every section no matter what
