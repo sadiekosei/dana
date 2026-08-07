@@ -5,7 +5,8 @@ Stripe Payment Links, 3-pay available. Rate basis $200/hr; 90-min package
 call = $300; Booster (15 min) = $50; $250 one-time intro call folded in as
 call #1 of every package.
 
-Status: **not yet applied.** Blocked on WordPress credentials (see bottom).
+Status: **section C applied and verified live on 2026-08-07.** D and E
+still open; B (Stripe) is with Dana/Sadie.
 
 ---
 
@@ -65,7 +66,34 @@ Payment Links (free to create, no Thinkific upgrade required):
 
 On purchase: manually enrol in the Thinkific course, send the Calendly link.
 
-## C. WordPress `/boundaries-course/` (page 1356) — I can apply this
+## C. WordPress `/boundaries-course/` (page 1356) — DONE 2026-08-07
+
+Applied via plugin v1.10.x `page-elementor` endpoints and verified on the
+live page. Backups: `work/backups/boundaries-course-elementor-backup-2026-08-07.json`
+plus a server-side copy in postmeta (`_kosei_elementor_backup_20260807_185801`).
+
+- Prices now $1100 / $1700 / $2200 in the compare table (`d5943ef`).
+  **Note:** the EAEL price field is numeric-only — "1,100" renders as
+  "$10", so there is no thousands separator. Left as integers.
+- New feature row "$250 Intro Deep-Dive Session Included" across all three
+  packages.
+- Legacy "Freedom of No" pricing tables (`c9dfa1b`, `d31a61a`, `2b550e0`)
+  removed from column `96ff517`.
+- Curriculum accordion fixed: Modules 11 & 12 now listed under "Property
+  Lines" instead of repeating 9 & 10.
+- FAQ expanded 7 → 25 items; dead `learn.danaskaggs.com` link replaced
+  with `https://danaskaggs.thinkific.com/`.
+- Waitlist popup **1636** ("Course Inquiry Form") select options updated to
+  the new prices and call counts.
+
+**Gotcha worth keeping:** Elementor caches rendered widget markup in
+`_elementor_element_cache` postmeta (210KB on this page). Writing
+`_elementor_data` and purging LiteSpeed is *not* enough — the front end
+keeps serving the old markup. Plugin v1.10.1 adds `/page-cache-bust`,
+which clears that meta plus `_elementor_css` and `_elementor_page_assets`.
+Always call it after a write.
+
+### Original plan (for reference)
 
 1. **Compare-table prices** (`eael-mcpt-package-price`), 3 values:
    `$2000` → **`$1,100`**, `$3750` → **`$1,700`**, `$4995` → **`$2,200`**
@@ -81,7 +109,7 @@ On purchase: manually enrol in the Thinkific course, send the Calendly link.
 5. **Swap the waitlist CTA** for the Stripe links once B exists. Until
    then the popup (Elementor popup `1636`) stays.
 
-## D. WordPress `/coaching/` (page 958) — I can apply this
+## D. WordPress `/coaching/` (page 958) — STILL OPEN
 
 1. **Publish the rates** — the page currently shows none:
    $200/hr, and a $250 one-time intro call.
@@ -92,7 +120,7 @@ On purchase: manually enrol in the Thinkific course, send the Calendly link.
 3. Update the "The Freedom of 'No' Formula 8-Week Course" section to the
    Boundary Blueprint at $99.
 
-## E. Nav — I can apply this
+## E. Nav — STILL OPEN
 
 `http://danaskaggs.thinkific.com` → `https://` (currently insecure scheme).
 

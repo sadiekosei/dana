@@ -1,0 +1,4332 @@
+[
+ {
+  "id": "bcc84fc",
+  "elType": "section",
+  "settings": {
+   "eael_parallax_layers_list": [],
+   "structure": "20",
+   "background_background": "classic",
+   "background_image": {
+    "url": "",
+    "id": "",
+    "size": "",
+    "alt": "",
+    "source": "library"
+   },
+   "eael_ext_content_protection_password_placeholder": "Enter Password",
+   "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+   "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+   "eael_cl_logics": [
+    {
+     "_id": "3b4606b",
+     "dynamic_field_custom_separator": "|"
+    }
+   ],
+   "margin_mobile": {
+    "unit": "px",
+    "top": "0",
+    "right": 0,
+    "bottom": "0",
+    "left": 0,
+    "isLinked": false
+   },
+   "reverse_order_mobile": "reverse-mobile",
+   "layout": "full_width",
+   "background_color": "#012E40"
+  },
+  "elements": [
+   {
+    "id": "25eed94",
+    "elType": "column",
+    "settings": {
+     "_column_size": 50,
+     "_inline_size": 56.735,
+     "content_position": "center",
+     "eael_cl_logics": [
+      {
+       "_id": "ccda2c5",
+       "dynamic_field_custom_separator": "|"
+      }
+     ],
+     "background_background": "classic",
+     "background_image_mobile": {
+      "url": "",
+      "id": "",
+      "size": "",
+      "alt": "",
+      "source": "library"
+     },
+     "margin_mobile": {
+      "unit": "px",
+      "top": "0",
+      "right": "10",
+      "bottom": "40",
+      "left": "10",
+      "isLinked": false
+     },
+     "padding_mobile": {
+      "unit": "px",
+      "top": "20",
+      "right": "20",
+      "bottom": "20",
+      "left": "20",
+      "isLinked": true
+     },
+     "margin_tablet": {
+      "unit": "px",
+      "top": "40",
+      "right": "20",
+      "bottom": "40",
+      "left": "20",
+      "isLinked": false
+     },
+     "z_index_mobile": 2,
+     "padding": {
+      "unit": "px",
+      "top": "100",
+      "right": "40",
+      "bottom": "100",
+      "left": "120",
+      "isLinked": false
+     },
+     "padding_tablet": {
+      "unit": "px",
+      "top": "020",
+      "right": "020",
+      "bottom": "020",
+      "left": "020",
+      "isLinked": true
+     }
+    },
+    "elements": [
+     {
+      "id": "0c5d7ae",
+      "elType": "widget",
+      "settings": {
+       "title": "The <span style=\"font-family: 'epicursive', sans-serif; color: #f29057; font-weight: 400; font-style: normal;\">Boundary</span> Blueprint",
+       "align": "left",
+       "typography_typography": "custom",
+       "typography_font_family": "EB Garamond",
+       "typography_font_size": {
+        "unit": "px",
+        "size": 64,
+        "sizes": []
+       },
+       "typography_font_weight": "500",
+       "typography_font_size_tablet": {
+        "unit": "px",
+        "size": 28,
+        "sizes": []
+       },
+       "typography_font_size_mobile": {
+        "unit": "px",
+        "size": 25,
+        "sizes": []
+       },
+       "_margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "align_mobile": "center",
+       "_padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "6f279cf",
+         "dynamic_field_custom_separator": "|"
+        }
+       ],
+       "_margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "typography_line_height": {
+        "unit": "em",
+        "size": 1.3,
+        "sizes": []
+       },
+       "_element_width": "initial",
+       "_element_custom_width": {
+        "unit": "%",
+        "size": 106.727
+       },
+       "__globals__": {
+        "title_color": ""
+       },
+       "_element_custom_width_mobile": {
+        "unit": "%",
+        "size": 100,
+        "sizes": []
+       },
+       "title_color": "#FFFFFF"
+      },
+      "elements": [],
+      "widgetType": "heading"
+     },
+     {
+      "id": "3be562a",
+      "elType": "widget",
+      "settings": {
+       "editor": "<p><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\">Overgiving. Overcommitting. Overexplaining. You\u2019re not broken\u2014you\u2019re just ready for the boundary blueprint: a structured approach to building healthy limits.</span></p><p>In this high-touch course\u2014rooted in clinical expertise and delivered through personalized coaching\u2014you\u2019ll learn to set strong boundaries and apply them with clarity and confidence.</p>",
+       "align": "left",
+       "typography_typography": "custom",
+       "typography_font_family": "Helvetica",
+       "typography_font_size": {
+        "unit": "px",
+        "size": 16,
+        "sizes": []
+       },
+       "typography_font_weight": "400",
+       "_padding_mobile": {
+        "unit": "px",
+        "top": "10",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "__globals__": {
+        "text_color": ""
+       },
+       "typography_font_size_mobile": {
+        "unit": "px",
+        "size": 16,
+        "sizes": []
+       },
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "4ba46d6",
+         "dynamic_field_custom_separator": "|"
+        }
+       ],
+       "align_mobile": "center",
+       "_padding": {
+        "unit": "px",
+        "top": "10",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "_element_width": "initial",
+       "_element_custom_width": {
+        "unit": "%",
+        "size": 80
+       },
+       "_element_custom_width_mobile": {
+        "unit": "%",
+        "size": 100,
+        "sizes": []
+       },
+       "typography_font_size_tablet": {
+        "unit": "px",
+        "size": 16,
+        "sizes": []
+       },
+       "_element_width_tablet": "initial",
+       "_element_custom_width_tablet": {
+        "unit": "px",
+        "size": 357
+       },
+       "text_color": "#FFFFFF"
+      },
+      "elements": [],
+      "widgetType": "text-editor"
+     },
+     {
+      "id": "f4dc242",
+      "elType": "widget",
+      "settings": {
+       "text": "Learn More",
+       "link": {
+        "url": "#more",
+        "is_external": "",
+        "nofollow": "",
+        "custom_attributes": ""
+       },
+       "align": "justify",
+       "align_mobile": "center",
+       "typography_typography": "custom",
+       "typography_font_family": "Helvetica",
+       "typography_font_size": {
+        "unit": "px",
+        "size": 18,
+        "sizes": []
+       },
+       "typography_font_weight": "500",
+       "background_color": "#FFFFFF",
+       "text_padding_tablet": {
+        "unit": "px",
+        "top": "12",
+        "right": "040",
+        "bottom": "12",
+        "left": "040",
+        "isLinked": false
+       },
+       "button_text_color": "#FFFFFF",
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "e26266c",
+         "dynamic_field_custom_separator": "|"
+        }
+       ],
+       "typography_font_size_mobile": {
+        "unit": "px",
+        "size": 18,
+        "sizes": []
+       },
+       "hover_animation": "grow",
+       "align_tablet": "justify",
+       "_padding_tablet": {
+        "unit": "px",
+        "top": "0",
+        "right": "5",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "text_padding": {
+        "unit": "px",
+        "top": "12",
+        "right": "60",
+        "bottom": "12",
+        "left": "60",
+        "isLinked": false
+       },
+       "text_padding_mobile": {
+        "unit": "px",
+        "top": "12",
+        "right": "30",
+        "bottom": "12",
+        "left": "30",
+        "isLinked": false
+       },
+       "_element_width_mobile": "initial",
+       "_element_custom_width_mobile": {
+        "unit": "%",
+        "size": 199
+       },
+       "background_background": "",
+       "_padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+       },
+       "__dynamic__": [],
+       "content_align_mobile": "center",
+       "_element_width_tablet": "initial",
+       "_element_custom_width_tablet": {
+        "unit": "px",
+        "size": 310.938
+       },
+       "_padding": {
+        "unit": "px",
+        "top": "20",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "_element_width": "initial",
+       "_element_custom_width": {
+        "unit": "%",
+        "size": 54.595
+       }
+      },
+      "elements": [],
+      "widgetType": "button"
+     }
+    ],
+    "isInner": false
+   },
+   {
+    "id": "efe8c1c",
+    "elType": "column",
+    "settings": {
+     "_column_size": 50,
+     "_inline_size": 43.265,
+     "eael_cl_logics": [
+      {
+       "_id": "1f038a1",
+       "dynamic_field_custom_separator": "|"
+      }
+     ],
+     "background_background": "classic",
+     "background_image": {
+      "url": "http://danaskaggs.com/wp-content/uploads/2025/05/Dana-First-Shots-scaled-e1747609778964.jpg",
+      "id": 1606,
+      "size": "",
+      "alt": "",
+      "source": "library"
+     },
+     "background_image_mobile": {
+      "url": "http://danaskaggs.com/wp-content/uploads/2025/05/Dana-Fence-6-1-scaled-e1747180636776.jpg",
+      "id": 1477,
+      "size": "",
+      "alt": "",
+      "source": "library"
+     },
+     "background_position": "center center",
+     "background_position_mobile": "center center",
+     "background_size": "cover"
+    },
+    "elements": [
+     {
+      "id": "6212f17",
+      "elType": "widget",
+      "settings": {
+       "space_mobile": {
+        "unit": "px",
+        "size": 178,
+        "sizes": []
+       },
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "3a54b62",
+         "dynamic_field_custom_separator": "|"
+        }
+       ]
+      },
+      "elements": [],
+      "widgetType": "spacer"
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "49dc0af",
+  "elType": "section",
+  "settings": {
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "margin": {
+    "unit": "px",
+    "top": "",
+    "right": 0,
+    "bottom": "",
+    "left": 0,
+    "isLinked": true
+   },
+   "padding": {
+    "unit": "px",
+    "top": "32",
+    "right": "0",
+    "bottom": "32",
+    "left": "0",
+    "isLinked": false
+   },
+   "background_image": {
+    "url": "",
+    "id": "",
+    "alt": "",
+    "source": "library"
+   },
+   "background_size": "cover",
+   "eael_parallax_layers_list": [],
+   "eael_cl_logics": [
+    {
+     "_id": "79bdcff",
+     "dynamic_field_custom_separator": "|"
+    }
+   ],
+   "eael_ext_content_protection_password_placeholder": "Enter Password",
+   "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+   "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+   "structure": "20",
+   "padding_mobile": {
+    "unit": "px",
+    "top": "0",
+    "right": "0",
+    "bottom": "40",
+    "left": "0",
+    "isLinked": false
+   },
+   "box_shadow_box_shadow_type": "yes",
+   "box_shadow_box_shadow_position": "inset",
+   "z_index": 2,
+   "content_width_mobile": {
+    "unit": "px",
+    "size": 500,
+    "sizes": []
+   },
+   "content_position": "middle",
+   "reverse_order_tablet": "reverse-tablet",
+   "reverse_order_mobile": "reverse-mobile"
+  },
+  "elements": [
+   {
+    "id": "986d2b4",
+    "elType": "column",
+    "settings": {
+     "_column_size": 50,
+     "_inline_size": 55,
+     "eael_cl_logics": [
+      {
+       "_id": "d10e10a",
+       "dynamic_field_custom_separator": "|"
+      }
+     ],
+     "padding_mobile": {
+      "unit": "px",
+      "top": "0",
+      "right": "030",
+      "bottom": "0",
+      "left": "30",
+      "isLinked": false
+     },
+     "padding_tablet": {
+      "unit": "px",
+      "top": "0",
+      "right": "0",
+      "bottom": "0",
+      "left": "20",
+      "isLinked": false
+     },
+     "_inline_size_tablet": 100
+    },
+    "elements": [
+     {
+      "id": "5f20439",
+      "elType": "widget",
+      "settings": {
+       "title": "What is The <br> <span style=\"font-family: 'epicursive', sans-serif; color: #f29057; font-weight: 400; font-style: normal;\">Boundary</span> Blueprint? ",
+       "align": "left",
+       "typography_typography": "custom",
+       "typography_font_family": "EB Garamond",
+       "typography_font_size": {
+        "unit": "px",
+        "size": 65,
+        "sizes": []
+       },
+       "typography_font_weight": "500",
+       "typography_font_size_tablet": {
+        "unit": "px",
+        "size": 28,
+        "sizes": []
+       },
+       "typography_font_size_mobile": {
+        "unit": "px",
+        "size": 27,
+        "sizes": []
+       },
+       "_margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "align_mobile": "center",
+       "_padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "6f279cf",
+         "dynamic_field_custom_separator": "|"
+        }
+       ],
+       "_margin_mobile": {
+        "unit": "px",
+        "top": "10",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "typography_line_height": {
+        "unit": "em",
+        "size": 1.3,
+        "sizes": []
+       },
+       "_element_width": "initial",
+       "_element_custom_width": {
+        "unit": "%",
+        "size": 90,
+        "sizes": []
+       },
+       "__globals__": {
+        "title_color": "globals/colors?id=primary"
+       },
+       "_element_custom_width_mobile": {
+        "unit": "%",
+        "size": 100,
+        "sizes": []
+       },
+       "align_tablet": "center"
+      },
+      "elements": [],
+      "widgetType": "heading"
+     },
+     {
+      "id": "8adc805",
+      "elType": "widget",
+      "settings": {
+       "editor": "<p><strong><em>An 8-week course rooted in clinical expertise and delivered through personalized 1:1 coaching\u2014designed to help you:</em></strong></p>",
+       "typography_typography": "custom",
+       "typography_font_family": "Helvetica",
+       "typography_font_size": {
+        "unit": "px",
+        "size": 16,
+        "sizes": []
+       },
+       "typography_font_weight": "400",
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "f196b0c",
+         "dynamic_field_custom_separator": "|"
+        }
+       ],
+       "_margin": {
+        "unit": "px",
+        "top": "10",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "_padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "100",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "_padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+       },
+       "_padding_tablet": {
+        "unit": "px",
+        "top": "0",
+        "right": "50",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "__globals__": {
+        "text_color": "globals/colors?id=primary"
+       },
+       "align_mobile": "center",
+       "align_tablet": "center"
+      },
+      "elements": [],
+      "widgetType": "text-editor"
+     },
+     {
+      "id": "3346c4e",
+      "elType": "widget",
+      "settings": {
+       "icon_list": [
+        {
+         "text": "Say \u201cno\u201d without guilt, awkwardness, or burnout.",
+         "selected_icon": {
+          "value": {
+           "url": "http://danaskaggs.com/wp-content/uploads/2025/03/Dana-Icon-1-1.svg",
+           "id": 1195
+          },
+          "library": "svg"
+         },
+         "_id": "0d9c958"
+        },
+        {
+         "text": "Stop taking on other people\u2019s stress, drama, and to-do lists.",
+         "selected_icon": {
+          "value": {
+           "url": "http://danaskaggs.com/wp-content/uploads/2025/03/Dana-Icon-1-1.svg",
+           "id": 1195
+          },
+          "library": "svg"
+         },
+         "_id": "baa6b22"
+        },
+        {
+         "text": "Spot boundary violations before they spiral.",
+         "selected_icon": {
+          "value": {
+           "url": "http://danaskaggs.com/wp-content/uploads/2025/03/Dana-Icon-1-1.svg",
+           "id": 1195
+          },
+          "library": "svg"
+         },
+         "_id": "3166db7"
+        },
+        {
+         "text": "Create space for your own needs, peace, and creativity.",
+         "selected_icon": {
+          "value": {
+           "url": "http://danaskaggs.com/wp-content/uploads/2025/03/Dana-Icon-1-1.svg",
+           "id": 1195
+          },
+          "library": "svg"
+         },
+         "_id": "c882708"
+        },
+        {
+         "text": "Build relationships based on respect, not obligation.",
+         "selected_icon": {
+          "value": {
+           "url": "http://danaskaggs.com/wp-content/uploads/2025/03/Dana-Icon-1-1.svg",
+           "id": 1195
+          },
+          "library": "svg"
+         },
+         "_id": "9c8d6df"
+        }
+       ],
+       "space_between": {
+        "unit": "px",
+        "size": 24,
+        "sizes": []
+       },
+       "icon_size": {
+        "unit": "px",
+        "size": 23,
+        "sizes": []
+       },
+       "icon_typography_typography": "custom",
+       "icon_typography_font_family": "Helvetica",
+       "icon_typography_font_size": {
+        "unit": "px",
+        "size": 16,
+        "sizes": []
+       },
+       "icon_typography_font_weight": "400",
+       "icon_typography_line_height": {
+        "unit": "em",
+        "size": 1.5,
+        "sizes": []
+       },
+       "_padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "40",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "b4e947d",
+         "dynamic_field_custom_separator": "|"
+        }
+       ],
+       "__globals__": {
+        "text_color": "globals/colors?id=text"
+       },
+       "space_between_mobile": {
+        "unit": "px",
+        "size": 17,
+        "sizes": []
+       },
+       "icon_size_mobile": {
+        "unit": "px",
+        "size": 20,
+        "sizes": []
+       },
+       "icon_self_vertical_align_mobile": "flex-start",
+       "_padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+       },
+       "icon_vertical_offset_mobile": {
+        "unit": "px",
+        "size": 3,
+        "sizes": []
+       },
+       "icon_align_tablet": "center",
+       "icon_size_tablet": {
+        "unit": "px",
+        "size": 24,
+        "sizes": []
+       },
+       "icon_self_align_tablet": "center",
+       "_element_width_tablet": "initial",
+       "_element_custom_width_tablet": {
+        "unit": "px",
+        "size": 745.8
+       },
+       "_element_vertical_align_tablet": "center"
+      },
+      "elements": [],
+      "widgetType": "icon-list"
+     },
+     {
+      "id": "58e4896",
+      "elType": "widget",
+      "settings": {
+       "editor": "<p>All taught by <strong>Dana Skaggs, a master's level psychotherapist</strong> who has had 15 years of professional experience as well as significant personal knowledge of how boundaries can save our lives.</p>",
+       "typography_typography": "custom",
+       "typography_font_family": "Helvetica",
+       "typography_font_size": {
+        "unit": "px",
+        "size": 16,
+        "sizes": []
+       },
+       "typography_font_weight": "400",
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "f196b0c",
+         "dynamic_field_custom_separator": "|"
+        }
+       ],
+       "_margin": {
+        "unit": "px",
+        "top": "10",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "_padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "100",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "_padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+       },
+       "_padding_tablet": {
+        "unit": "px",
+        "top": "0",
+        "right": "50",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "__globals__": {
+        "text_color": "globals/colors?id=primary"
+       },
+       "align_mobile": "center",
+       "align_tablet": "center"
+      },
+      "elements": [],
+      "widgetType": "text-editor"
+     }
+    ],
+    "isInner": false
+   },
+   {
+    "id": "ad32962",
+    "elType": "column",
+    "settings": {
+     "_column_size": 50,
+     "_inline_size": 45,
+     "eael_cl_logics": [
+      {
+       "_id": "d10e10a",
+       "dynamic_field_custom_separator": "|"
+      }
+     ],
+     "background_background": "classic",
+     "background_image_tablet": {
+      "url": "",
+      "id": "",
+      "size": "",
+      "alt": "",
+      "source": "library"
+     },
+     "background_image_mobile": {
+      "url": "http://danaskaggs.com/wp-content/uploads/2025/04/Dana-Skaggs-Website-Course-7.png",
+      "id": 1395,
+      "size": "",
+      "source": "library",
+      "alt": ""
+     },
+     "background_position_mobile": "center center",
+     "background_xpos_mobile": {
+      "unit": "px",
+      "size": -588,
+      "sizes": []
+     },
+     "background_ypos_mobile": {
+      "unit": "px",
+      "size": -572,
+      "sizes": []
+     },
+     "background_repeat_mobile": "no-repeat",
+     "background_size_mobile": "cover",
+     "padding_mobile": {
+      "unit": "px",
+      "top": "0",
+      "right": "0",
+      "bottom": "0",
+      "left": "0",
+      "isLinked": false
+     },
+     "background_color": "#FFFFFF",
+     "margin_mobile": {
+      "unit": "px",
+      "top": "0",
+      "right": "0",
+      "bottom": "0",
+      "left": "0",
+      "isLinked": false
+     },
+     "_inline_size_tablet": 100,
+     "align_tablet": "center"
+    },
+    "elements": [
+     {
+      "id": "8356fdb",
+      "elType": "widget",
+      "settings": {
+       "youtube_url": "https://youtu.be/i2JWm2caWCE?si=V1J3H-PKnRv4_hKT",
+       "vimeo_url": "https://vimeo.com/235215203",
+       "dailymotion_url": "https://www.dailymotion.com/video/x6tqhqb",
+       "videopress_url": "https://videopress.com/v/ZCAOzTNk",
+       "show_image_overlay": "yes",
+       "image_overlay": {
+        "url": "http://danaskaggs.com/wp-content/uploads/2025/05/DanaRedMural-scaled.jpg",
+        "id": 1476,
+        "size": "",
+        "alt": "",
+        "source": "library"
+       },
+       "aspect_ratio": "43",
+       "_padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "_z_index": 1,
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "e6a111f",
+         "dynamic_field_custom_separator": "|"
+        }
+       ],
+       "_margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "40",
+        "isLinked": false
+       },
+       "_margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+       },
+       "_margin_tablet": {
+        "unit": "px",
+        "top": "20",
+        "right": "20",
+        "bottom": "20",
+        "left": "20",
+        "isLinked": true
+       },
+       "_element_width_tablet": "initial",
+       "_element_custom_width_tablet": {
+        "unit": "px",
+        "size": 453
+       },
+       "_grid_column_tablet": "custom",
+       "play_icon": {
+        "value": "far fa-play-circle",
+        "library": "fa-regular"
+       },
+       "play_icon_color": "#FFFFFF",
+       "play_icon_size": {
+        "unit": "px",
+        "size": 164,
+        "sizes": []
+       },
+       "play_icon_text_shadow_text_shadow_type": "yes",
+       "_element_id": "more",
+       "play_icon_size_mobile": {
+        "unit": "px",
+        "size": 103,
+        "sizes": []
+       }
+      },
+      "elements": [],
+      "widgetType": "video"
+     },
+     {
+      "id": "04cdf3c",
+      "elType": "widget",
+      "settings": {
+       "image": {
+        "url": "http://danaskaggs.com/wp-content/uploads/2025/04/Dana-Skaggs-Website-Course-3.png",
+        "id": 1360,
+        "size": "",
+        "alt": "",
+        "source": "library"
+       },
+       "image_size": "full",
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "0150753",
+         "dynamic_field_custom_separator": "|"
+        }
+       ],
+       "hide_tablet": "hidden-tablet",
+       "hide_mobile": "hidden-mobile",
+       "_margin": {
+        "unit": "px",
+        "top": "-30",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "_padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "40",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "_z_index": 0
+      },
+      "elements": [],
+      "widgetType": "image"
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "c5dd82c",
+  "elType": "section",
+  "settings": {
+   "eael_parallax_layers_list": [],
+   "background_background": "classic",
+   "background_image": {
+    "url": "http://danaskaggs.com/wp-content/uploads/2023/02/Dana-Skaggs-Website-Home-3.png",
+    "id": 203,
+    "size": "",
+    "alt": "",
+    "source": "library"
+   },
+   "eael_ext_content_protection_password_placeholder": "Enter Password",
+   "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+   "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+   "eael_cl_logics": [
+    {
+     "_id": "eede069",
+     "dynamic_field_custom_separator": "|"
+    }
+   ],
+   "background_position_tablet": "center center",
+   "padding": {
+    "unit": "px",
+    "top": "50",
+    "right": "0",
+    "bottom": "100",
+    "left": "0",
+    "isLinked": false
+   },
+   "background_repeat": "no-repeat",
+   "background_size": "cover"
+  },
+  "elements": [
+   {
+    "id": "96ff517",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null,
+     "eael_cl_logics": [
+      {
+       "_id": "269aeb1",
+       "dynamic_field_custom_separator": "|"
+      }
+     ],
+     "content_position": "center",
+     "align_tablet": "center",
+     "align": "center"
+    },
+    "elements": [
+     {
+      "id": "b329c8f",
+      "elType": "widget",
+      "settings": {
+       "title": "Choose Your Boundaries Journey",
+       "align": "center",
+       "typography_typography": "custom",
+       "typography_font_family": "EB Garamond",
+       "typography_font_size": {
+        "unit": "px",
+        "size": 54,
+        "sizes": []
+       },
+       "typography_font_weight": "500",
+       "typography_font_size_tablet": {
+        "unit": "px",
+        "size": 28,
+        "sizes": []
+       },
+       "typography_font_size_mobile": {
+        "unit": "px",
+        "size": 30,
+        "sizes": []
+       },
+       "_margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "align_mobile": "center",
+       "_padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "6f279cf",
+         "dynamic_field_custom_separator": "|"
+        }
+       ],
+       "_margin_mobile": {
+        "unit": "px",
+        "top": "10",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "typography_line_height": {
+        "unit": "em",
+        "size": 1.3,
+        "sizes": []
+       },
+       "_element_width": "initial",
+       "_element_custom_width": {
+        "unit": "%",
+        "size": 100,
+        "sizes": []
+       },
+       "__globals__": {
+        "title_color": ""
+       },
+       "_element_custom_width_mobile": {
+        "unit": "%",
+        "size": 100,
+        "sizes": []
+       },
+       "title_color": "#FFFFFF",
+       "_element_id": "buy"
+      },
+      "elements": [],
+      "widgetType": "heading"
+     },
+     {
+      "id": "58eca05",
+      "elType": "widget",
+      "settings": {
+       "editor": "Whether you're looking for expert support, deep transformation, or a shared journey with your partner, we\u2019ve got you covered.",
+       "text_color": "#FFFFFF",
+       "typography_typography": "custom",
+       "typography_font_family": "Helvetica",
+       "typography_font_size": {
+        "unit": "px",
+        "size": 16,
+        "sizes": []
+       },
+       "typography_font_weight": "300",
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "f196b0c",
+         "dynamic_field_custom_separator": "|"
+        }
+       ],
+       "_margin": {
+        "unit": "px",
+        "top": "10",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "_padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "_padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+       },
+       "_padding_tablet": {
+        "unit": "px",
+        "top": "0",
+        "right": "50",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "__globals__": {
+        "text_color": ""
+       },
+       "align": "center",
+       "typography_font_size_mobile": {
+        "unit": "px",
+        "size": 16,
+        "sizes": []
+       }
+      },
+      "elements": [],
+      "widgetType": "text-editor"
+     },
+     {
+      "id": "d5943ef",
+      "elType": "widget",
+      "settings": {
+       "eael_mcpt_package_title_tag": "h4",
+       "eael_mcpt_collaps_closed_label": "See More",
+       "eael_mcpt_collaps_expanded_label": "See Less",
+       "eael_mcpt_feature_titles": [
+        {
+         "eael_mcpt_feature_title": "What's included?",
+         "_id": "53f6d18",
+         "eael_mcpt_feature_title_icon": {
+          "value": "fas fa-info-circle",
+          "library": "fa-solid"
+         }
+        },
+        {
+         "eael_mcpt_feature_title": "Lifetime Access to The Boundary Blueprint Course",
+         "_id": "8c39ec1"
+        },
+        {
+         "eael_mcpt_feature_title": "14 Video Modules &  Reflection Exercises",
+         "_id": "f283a45"
+        },
+        {
+         "eael_mcpt_feature_title": "One-on-One Coaching Calls (90 mins each) Included",
+         "_id": "1d6b078"
+        },
+        {
+         "eael_mcpt_feature_title": "Boundary Boosters",
+         "_id": "440899a"
+        },
+        {
+         "eael_mcpt_feature_title": "Private Support for Couples",
+         "_id": "c017ad3"
+        }
+       ],
+       "eael_mcpt_packages": [
+        {
+         "eael_mcpt_package_title": "Essentials",
+         "_id": "6cd98fd",
+         "eael_mcpt_featured_badge_text": "Best Value",
+         "eael_mcpt_package_currency": "$",
+         "eael_mcpt_package_price": 2000,
+         "eael_mcpt_package_period": "",
+         "eael_mcpt_package_period_separator": "",
+         "eael_mcpt_package_button_text": "Join the Waitlist",
+         "eael_mcpt_package_link": {
+          "url": "danaskaggs.com/boundaries-course/#course-popup",
+          "is_external": "on",
+          "nofollow": "",
+          "custom_attributes": ""
+         },
+         "eael_mcpt_package_enable_button": ""
+        },
+        {
+         "eael_mcpt_package_title": "Evolve",
+         "_id": "968e047",
+         "eael_mcpt_package_is_featured": "yes",
+         "eael_mcpt_featured_badge_text": "Best Value for 1:1",
+         "eael_mcpt_package_currency": "$",
+         "eael_mcpt_package_price": 3750,
+         "eael_mcpt_package_period": "",
+         "eael_mcpt_package_period_separator": "",
+         "eael_mcpt_package_button_text": "Join the Waitlist",
+         "eael_mcpt_package_link": {
+          "url": "#course-popup",
+          "is_external": "on",
+          "nofollow": "",
+          "custom_attributes": ""
+         },
+         "eael_mcpt_package_enable_button": ""
+        },
+        {
+         "eael_mcpt_package_title": "Unity",
+         "_id": "4cced56",
+         "eael_mcpt_featured_badge_text": "Best Value",
+         "eael_mcpt_package_currency": "$",
+         "eael_mcpt_package_price": 4995,
+         "eael_mcpt_package_period": "",
+         "eael_mcpt_package_period_separator": "",
+         "eael_mcpt_package_button_text": "Join the Waitlist",
+         "eael_mcpt_package_link": {
+          "url": "#course-popup",
+          "is_external": "on",
+          "nofollow": "",
+          "custom_attributes": ""
+         },
+         "eael_mcpt_package_enable_button": ""
+        }
+       ],
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "54dbbf1",
+         "dynamic_field_custom_separator": "|"
+        }
+       ],
+       "eael_mcpt_widget_id": "d5943ef",
+       "eael_mcpt_package_d5943ef_6cd98fd_features": [
+        {
+         "eael_mcpt_feature_title": "What's included?",
+         "eael_mcpt_feature_title_id": "53f6d18",
+         "eael_mcpt_feature_show_content": "yes",
+         "eael_mcpt_feature_content": "",
+         "_id": "4ae6f76"
+        },
+        {
+         "eael_mcpt_feature_title": "Lifetime Access to The Boundary Blueprint Course",
+         "eael_mcpt_feature_title_id": "8c39ec1",
+         "eael_mcpt_feature_show_content": "no",
+         "eael_mcpt_feature_content": "<p>50</p>",
+         "eael_mcpt_feature_icon": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         },
+         "_id": "e2e065b"
+        },
+        {
+         "eael_mcpt_feature_title": "14 Video Modules &  Reflection Exercises",
+         "eael_mcpt_feature_title_id": "f283a45",
+         "eael_mcpt_feature_icon": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         },
+         "_id": "cfb82ce",
+         "eael_mcpt_feature_content": "<p>Content</p>"
+        },
+        {
+         "eael_mcpt_feature_title": "One-on-One Coaching Calls (90 mins each) Included",
+         "eael_mcpt_feature_title_id": "1d6b078",
+         "eael_mcpt_feature_show_content": "yes",
+         "eael_mcpt_feature_content": "<p>4 Sessions</p>",
+         "_id": "da332ae",
+         "eael_mcpt_feature_content_position": "right",
+         "eael_mcpt_feature_icon": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         }
+        },
+        {
+         "eael_mcpt_feature_title": "Boundary Boosters",
+         "eael_mcpt_feature_title_id": "440899a",
+         "eael_mcpt_feature_show_content": "yes",
+         "eael_mcpt_feature_content": "<p>1 Session</p>",
+         "eael_mcpt_feature_icon": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         },
+         "_id": "2e154c2",
+         "eael_mcpt_feature_content_position": "right"
+        },
+        {
+         "eael_mcpt_feature_title": "Private Support for Couples",
+         "eael_mcpt_feature_title_id": "c017ad3",
+         "eael_mcpt_feature_show_content": "no",
+         "eael_mcpt_feature_content": "<p>50</p>",
+         "eael_mcpt_feature_icon": {
+          "value": "fas fa-times-circle",
+          "library": "fa-solid"
+         },
+         "_id": "e56e722"
+        }
+       ],
+       "eael_mcpt_package_d5943ef_968e047_features": [
+        {
+         "eael_mcpt_feature_title": "What's included?",
+         "eael_mcpt_feature_title_id": "53f6d18",
+         "eael_mcpt_feature_show_content": "yes",
+         "eael_mcpt_feature_content": "",
+         "_id": "b8a9c6e"
+        },
+        {
+         "eael_mcpt_feature_title": "Lifetime Access to The Boundary Blueprint Course",
+         "eael_mcpt_feature_title_id": "8c39ec1",
+         "eael_mcpt_feature_show_content": "no",
+         "eael_mcpt_feature_content": "<p>100</p>",
+         "eael_mcpt_feature_icon": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         },
+         "_id": "e25f137"
+        },
+        {
+         "eael_mcpt_feature_title": "14 Video Modules &  Reflection Exercises",
+         "eael_mcpt_feature_title_id": "f283a45",
+         "eael_mcpt_feature_icon": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         },
+         "_id": "e962860",
+         "eael_mcpt_feature_content": "<p>Content</p>"
+        },
+        {
+         "eael_mcpt_feature_title": "One-on-One Coaching Calls (90 mins each) Included",
+         "eael_mcpt_feature_title_id": "1d6b078",
+         "eael_mcpt_feature_show_content": "yes",
+         "eael_mcpt_feature_content": "<p><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\">6 Sessions</span></p>",
+         "_id": "629c387",
+         "eael_mcpt_feature_content_position": "right",
+         "eael_mcpt_feature_icon": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         }
+        },
+        {
+         "eael_mcpt_feature_title": "Boundary Boosters",
+         "eael_mcpt_feature_title_id": "440899a",
+         "eael_mcpt_feature_show_content": "yes",
+         "eael_mcpt_feature_content": "<p><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\">2 Sessions</span></p>",
+         "_id": "8c55381",
+         "eael_mcpt_feature_content_position": "right",
+         "eael_mcpt_feature_icon": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         }
+        },
+        {
+         "eael_mcpt_feature_title": "Private Support for Couples",
+         "eael_mcpt_feature_title_id": "c017ad3",
+         "eael_mcpt_feature_show_content": "no",
+         "eael_mcpt_feature_content": "<p>100</p>",
+         "eael_mcpt_feature_icon": {
+          "value": "fas fa-times-circle",
+          "library": "fa-solid"
+         },
+         "_id": "d0b7c87"
+        }
+       ],
+       "eael_mcpt_package_d5943ef_4cced56_features": [
+        {
+         "eael_mcpt_feature_title": "What's included?",
+         "eael_mcpt_feature_title_id": "53f6d18",
+         "eael_mcpt_feature_show_content": "yes",
+         "eael_mcpt_feature_content": "",
+         "_id": "c7bbc33"
+        },
+        {
+         "eael_mcpt_feature_title": "Lifetime Access to The Boundary Blueprint Course",
+         "eael_mcpt_feature_title_id": "8c39ec1",
+         "eael_mcpt_feature_show_content": "no",
+         "eael_mcpt_feature_content": "<p>Unlimited</p>",
+         "eael_mcpt_feature_icon": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         },
+         "_id": "cccb65b"
+        },
+        {
+         "eael_mcpt_feature_title": "14 Video Modules &  Reflection Exercises",
+         "eael_mcpt_feature_title_id": "f283a45",
+         "eael_mcpt_feature_icon": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         },
+         "_id": "d0dae7e",
+         "eael_mcpt_feature_content": "<p>Content</p>"
+        },
+        {
+         "eael_mcpt_feature_title": "One-on-One Coaching Calls (90 mins each) Included",
+         "eael_mcpt_feature_title_id": "1d6b078",
+         "eael_mcpt_feature_show_content": "yes",
+         "eael_mcpt_feature_content": "<p><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\">8 Sessions</span></p>",
+         "_id": "b0d5357",
+         "eael_mcpt_feature_content_position": "right",
+         "eael_mcpt_feature_icon": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         }
+        },
+        {
+         "eael_mcpt_feature_title": "Boundary Boosters",
+         "eael_mcpt_feature_title_id": "440899a",
+         "eael_mcpt_feature_show_content": "yes",
+         "eael_mcpt_feature_content": "<p><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\">3 Sessions</span></p>",
+         "_id": "b9ef838",
+         "eael_mcpt_feature_content_position": "right",
+         "eael_mcpt_feature_icon": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         }
+        },
+        {
+         "eael_mcpt_feature_title": "Private Support for Couples",
+         "eael_mcpt_feature_title_id": "c017ad3",
+         "eael_mcpt_feature_show_content": "no",
+         "eael_mcpt_feature_content": "<p>Unlimited</p>",
+         "eael_mcpt_feature_icon": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         },
+         "_id": "6d9feac"
+        }
+       ],
+       "eael_mcpt_featured_badge_alignment_tablet": "center",
+       "eael_mcpt_featured_badge_alignment_mobile": "center",
+       "eael_mcpt_featured_badge_text_typography_typography": "custom",
+       "eael_mcpt_featured_badge_text_typography_font_style": "italic",
+       "eael_mcpt_featured_badge_background_color": "#FCEADF",
+       "eael_mcpt_featured_badge_border_radius": {
+        "unit": "px",
+        "top": "6",
+        "right": "06",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "eael_mcpt_featured_badge_position": {
+        "unit": "px",
+        "size": -34,
+        "sizes": []
+       },
+       "eael_mcpt_featured_badge_background_color_background": "classic",
+       "eael_mcpt_featured_badge_background_color_color": "#FCEADF",
+       "eael_mcpt_title_column_width": {
+        "unit": "px",
+        "size": 341,
+        "sizes": []
+       },
+       "eael_mcpt_text_typography_typography": "custom",
+       "eael_mcpt_text_typography_font_size": {
+        "unit": "px",
+        "size": 16,
+        "sizes": []
+       },
+       "eael_mcpt_corner_cell_border_radius": {
+        "unit": "px",
+        "top": "10",
+        "right": "10",
+        "bottom": "10",
+        "left": "10",
+        "isLinked": true
+       },
+       "eael_mcpt_title_column_background": "#FFFFFF",
+       "eael_mcpt_title_column_typography_typography": "custom",
+       "eael_mcpt_title_column_typography_font_family": "Helvetica",
+       "eael_mcpt_title_column_typography_font_size": {
+        "unit": "px",
+        "size": 16,
+        "sizes": []
+       },
+       "eael_mcpt_title_column_padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "20",
+        "bottom": "0",
+        "left": "20",
+        "isLinked": false
+       },
+       "eael_mcpt_feature_package_alignment": "center",
+       "eael_mcpt_feature_package_background_background": "classic",
+       "eael_mcpt_feature_package_background_color": "#EAFBFF",
+       "eael_mcpt_feature_package_typography_typography": "custom",
+       "eael_mcpt_feature_package_typography_font_size": {
+        "unit": "px",
+        "size": 26,
+        "sizes": []
+       },
+       "eael_mcpt_feature_package_typography_font_size_mobile": {
+        "unit": "px",
+        "size": 26,
+        "sizes": []
+       },
+       "eael_mcpt_feature_package_typography_font_weight": "700",
+       "eael_mcpt_feature_package_typography_text_transform": "uppercase",
+       "eael_mcpt_package_title_padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+       },
+       "eael_mcpt_package_title_margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+       },
+       "eael_mcpt_package_period_padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+       },
+       "eael_mcpt_package_sale_price_padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+       },
+       "eael_mcpt_feature_price_typography_typography": "custom",
+       "eael_mcpt_feature_price_typography_font_size": {
+        "unit": "px",
+        "size": 22,
+        "sizes": []
+       },
+       "eael_mcpt_feature_price_typography_font_weight": "400",
+       "eael_mcpt_package_price_padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+       },
+       "eael_mcpt_package_price_margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+       },
+       "eael_mcpt_row_height": {
+        "unit": "px",
+        "size": 97,
+        "sizes": []
+       },
+       "eael_mcpt_feature_background": "#EAFBFF",
+       "eael_mcpt_feature_column_typography_typography": "custom",
+       "eael_mcpt_feature_column_typography_font_size": {
+        "unit": "px",
+        "size": 16,
+        "sizes": []
+       },
+       "eael_mcpt_feature_column_typography_font_size_mobile": {
+        "unit": "px",
+        "size": 14,
+        "sizes": []
+       },
+       "eael_mcpt_feature_column_icon_size": {
+        "unit": "px",
+        "size": 28,
+        "sizes": []
+       },
+       "eael_mcpt_feature_column_alignment": "left",
+       "eael_mcpt_feature_cell_padding": {
+        "unit": "px",
+        "top": 0,
+        "right": "0",
+        "bottom": 0,
+        "left": "40",
+        "isLinked": false
+       },
+       "eael_mcpt_button_background_color": "#A0243F",
+       "eael_mcpt_button_hover_text_color": "#FFFFFF",
+       "eael_mcpt_button_hover_border_color": "#A0243F",
+       "eael_mcpt_button_hover_border_radius": {
+        "unit": "px",
+        "top": "1",
+        "right": "1",
+        "bottom": "1",
+        "left": "1",
+        "isLinked": true
+       },
+       "_margin_mobile": {
+        "unit": "px",
+        "top": "-40",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "_padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+       },
+       "_element_width_tablet": "initial",
+       "__globals__": {
+        "eael_mcpt_button_background_color": "globals/colors?id=secondary",
+        "eael_mcpt_button_hover_text_color": "",
+        "eael_mcpt_button_hover_border_color": "globals/colors?id=secondary",
+        "eael_mcpt_button_hover_background_color": "globals/colors?id=primary",
+        "eael_mcpt_featured_badge_text_color": "globals/colors?id=primary",
+        "eael_mcpt_feature_package_text_color": "globals/colors?id=primary",
+        "eael_mcpt_feature_column_text_color": "globals/colors?id=primary",
+        "eael_mcpt_icon_color": "globals/colors?id=text",
+        "eael_mcpt_title_column_text_color": "globals/colors?id=primary"
+       },
+       "hide_tablet": "hidden-tablet",
+       "hide_mobile": "hidden-mobile",
+       "eael_mcpt_column_gap": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+       },
+       "eael_mcpt_corner_cell_padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+       },
+       "eael_mcpt_package_title_padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+       },
+       "eael_mcpt_package_title_margin": {
+        "unit": "px",
+        "top": "80",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "eael_mcpt_button_padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "eael_mcpt_button_margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       }
+      },
+      "elements": [],
+      "widgetType": "eael-multicolumn-pricing-table"
+     },
+     {
+      "id": "cf4461e",
+      "elType": "widget",
+      "settings": {
+       "text": "Join the Waitlist",
+       "link": {
+        "url": "",
+        "is_external": "",
+        "nofollow": "",
+        "custom_attributes": ""
+       },
+       "align": "justify",
+       "align_mobile": "center",
+       "typography_typography": "custom",
+       "typography_font_family": "Helvetica",
+       "typography_font_size": {
+        "unit": "px",
+        "size": 18,
+        "sizes": []
+       },
+       "typography_font_weight": "500",
+       "background_color": "#FFFFFF",
+       "text_padding_tablet": {
+        "unit": "px",
+        "top": "12",
+        "right": "040",
+        "bottom": "12",
+        "left": "040",
+        "isLinked": false
+       },
+       "button_text_color": "#FFFFFF",
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "e26266c",
+         "dynamic_field_custom_separator": "|"
+        }
+       ],
+       "typography_font_size_mobile": {
+        "unit": "px",
+        "size": 18,
+        "sizes": []
+       },
+       "hover_animation": "grow",
+       "align_tablet": "justify",
+       "_padding_tablet": {
+        "unit": "px",
+        "top": "0",
+        "right": "5",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "text_padding": {
+        "unit": "px",
+        "top": "12",
+        "right": "60",
+        "bottom": "12",
+        "left": "60",
+        "isLinked": false
+       },
+       "text_padding_mobile": {
+        "unit": "px",
+        "top": "12",
+        "right": "30",
+        "bottom": "12",
+        "left": "30",
+        "isLinked": false
+       },
+       "_element_width_mobile": "initial",
+       "_element_custom_width_mobile": {
+        "unit": "%",
+        "size": 199
+       },
+       "background_background": "",
+       "_padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+       },
+       "__dynamic__": {
+        "link": "[elementor-tag id=\"43ab273\" name=\"popup\" settings=\"%7B%22popup%22%3A%221636%22%7D\"]"
+       },
+       "content_align_mobile": "center",
+       "_element_width_tablet": "initial",
+       "_element_custom_width_tablet": {
+        "unit": "px",
+        "size": 310.938
+       },
+       "_padding": {
+        "unit": "px",
+        "top": "20",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "_element_width": "initial",
+       "_element_custom_width": {
+        "unit": "%",
+        "size": 42.857
+       },
+       "content_align": "center",
+       "_element_vertical_align": "center",
+       "hide_tablet": "hidden-tablet",
+       "hide_mobile": "hidden-mobile"
+      },
+      "elements": [],
+      "widgetType": "button"
+     },
+     {
+      "id": "c9dfa1b",
+      "elType": "widget",
+      "settings": {
+       "eael_pricing_table_style": "style-3",
+       "eael_pricing_table_title": "Essentials",
+       "eael_pricing_table_sub_title": "1:1 Coaching Program",
+       "eael_pricing_table_price": "2000",
+       "eael_pricing_table_onsale": "",
+       "eael_pricing_table_onsale_price": "89",
+       "eael_pricing_table_price_cur": "$",
+       "eael_pricing_table_price_period": "",
+       "eael_pricing_table_period_separator": "",
+       "eael_pricing_table_items": [
+        {
+         "eael_pricing_table_item": "Lifetime Access to The \"Freedom of No\" Formula Course",
+         "_id": "2025364",
+         "eael_pricing_table_list_icon_new": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         },
+         "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+         "pricing_item_tooltip_animation_duration": 300,
+         "__globals__": {
+          "eael_pricing_table_list_icon_color": "globals/colors?id=text",
+          "eael_pricing_table_list_text_color": "globals/colors?id=primary"
+         }
+        },
+        {
+         "eael_pricing_table_item": "14 Video Modules & Reflection Exercises",
+         "eael_pricing_table_list_icon_new": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         },
+         "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+         "pricing_item_tooltip_animation_duration": 300,
+         "__globals__": {
+          "eael_pricing_table_list_icon_color": "globals/colors?id=text",
+          "eael_pricing_table_list_text_color": "globals/colors?id=primary"
+         },
+         "_id": "8140a4b"
+        },
+        {
+         "eael_pricing_table_item": "4 One-on-One Coaching Calls (90 mins each) Included",
+         "_id": "383bfda",
+         "eael_pricing_table_list_icon_new": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         },
+         "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+         "pricing_item_tooltip_animation_duration": 300,
+         "__globals__": {
+          "eael_pricing_table_list_icon_color": "globals/colors?id=primary",
+          "eael_pricing_table_list_text_color": "globals/colors?id=primary"
+         }
+        },
+        {
+         "eael_pricing_table_item": "8-week access to Dana for questions and support",
+         "eael_pricing_table_list_icon_new": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         },
+         "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+         "pricing_item_tooltip_animation_duration": 300,
+         "__globals__": {
+          "eael_pricing_table_list_icon_color": "globals/colors?id=primary",
+          "eael_pricing_table_list_text_color": "globals/colors?id=primary"
+         },
+         "_id": "e8f04b3"
+        },
+        {
+         "eael_pricing_table_item": "1 Boundary Booster Session ",
+         "eael_pricing_table_list_icon_new": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         },
+         "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+         "pricing_item_tooltip_animation_duration": 300,
+         "__globals__": {
+          "eael_pricing_table_list_icon_color": "globals/colors?id=primary",
+          "eael_pricing_table_list_text_color": "globals/colors?id=primary"
+         },
+         "_id": "208442e"
+        }
+       ],
+       "eael_pricing_table_btn": "Join the Waitlist",
+       "eael_pricing_table_featured": "",
+       "eael_pricing_table_featured_tag_text": "Featured",
+       "eael_pricing_table_bg_color": "#FFFFFF",
+       "eael_pricing_table_title_typography_typography": "custom",
+       "eael_pricing_table_title_typography_font_family": "Helvetica",
+       "eael_pricing_table_title_typography_font_weight": "600",
+       "eael_pricing_table_title_typography_text_transform": "uppercase",
+       "eael_pricing_table_price_tag_onsale_typography_typography": "custom",
+       "eael_pricing_table_original_price_currency_typography_typography": "custom",
+       "eael_pricing_table_original_price_currency_typography_font_size": {
+        "unit": "px",
+        "size": 35,
+        "sizes": []
+       },
+       "eael_pricing_table_btn_typography_typography": "custom",
+       "eael_pricing_table_btn_typography_font_family": "Helvetica",
+       "eael_pricing_table_btn_typography_font_weight": "500",
+       "eael_pricing_table_btn_typography_text_transform": "none",
+       "_element_width_tablet": "initial",
+       "_element_custom_width_tablet": {
+        "unit": "%",
+        "size": 60,
+        "sizes": []
+       },
+       "_element_custom_width_mobile": {
+        "unit": "%",
+        "size": 100,
+        "sizes": []
+       },
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "5e2cff4",
+         "dynamic_field_custom_separator": "|"
+        }
+       ],
+       "hide_desktop": "hidden-desktop",
+       "__globals__": {
+        "eael_pricing_table_list_item_color": "globals/colors?id=primary",
+        "eael_pricing_table_original_price_currency_color": "globals/colors?id=100c7ae",
+        "eael_pricing_table_pricing_color": "globals/colors?id=secondary",
+        "eael_pricing_table_btn_normal_bg_color": "globals/colors?id=accent",
+        "eael_pricing_table_pricing_onsale_color": "globals/colors?id=primary",
+        "eael_pricing_table_title_color": "globals/colors?id=primary",
+        "eael_pricing_table_btn_hover_bg_color": "globals/colors?id=100c7ae"
+       },
+       "eael_pricing_table_btn_link": {
+        "url": "",
+        "is_external": "",
+        "nofollow": "",
+        "custom_attributes": ""
+       },
+       "__dynamic__": {
+        "eael_pricing_table_btn_link": "[elementor-tag id=\"ca3743c\" name=\"popup\" settings=\"%7B%22popup%22%3A%221636%22%7D\"]"
+       }
+      },
+      "elements": [],
+      "widgetType": "eael-pricing-table"
+     },
+     {
+      "id": "d31a61a",
+      "elType": "widget",
+      "settings": {
+       "eael_pricing_table_style": "style-3",
+       "eael_pricing_table_title": "Evolve",
+       "eael_pricing_table_sub_title": "1:1 Coaching Program",
+       "eael_pricing_table_price": "3750",
+       "eael_pricing_table_onsale": "",
+       "eael_pricing_table_onsale_price": "89",
+       "eael_pricing_table_price_cur": "$",
+       "eael_pricing_table_price_period": "",
+       "eael_pricing_table_period_separator": "",
+       "eael_pricing_table_items": [
+        {
+         "eael_pricing_table_item": "Lifetime Access to The \"Freedom of No\" Formula Course",
+         "_id": "2025364",
+         "eael_pricing_table_list_icon_new": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         },
+         "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+         "pricing_item_tooltip_animation_duration": 300,
+         "__globals__": {
+          "eael_pricing_table_list_icon_color": "globals/colors?id=text",
+          "eael_pricing_table_list_text_color": "globals/colors?id=primary"
+         }
+        },
+        {
+         "eael_pricing_table_item": "14 Video Modules & Reflection Exercises",
+         "eael_pricing_table_list_icon_new": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         },
+         "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+         "pricing_item_tooltip_animation_duration": 300,
+         "__globals__": {
+          "eael_pricing_table_list_icon_color": "globals/colors?id=text",
+          "eael_pricing_table_list_text_color": "globals/colors?id=primary"
+         },
+         "_id": "4228a95"
+        },
+        {
+         "eael_pricing_table_item": "6 One-on-One Coaching Calls (90 mins each) Included",
+         "_id": "383bfda",
+         "eael_pricing_table_list_icon_new": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         },
+         "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+         "pricing_item_tooltip_animation_duration": 300,
+         "__globals__": {
+          "eael_pricing_table_list_icon_color": "globals/colors?id=primary",
+          "eael_pricing_table_list_text_color": "globals/colors?id=primary"
+         }
+        },
+        {
+         "eael_pricing_table_item": "2 Boundary Booster Sessions",
+         "_id": "5736f38",
+         "eael_pricing_table_list_icon_new": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         },
+         "eael_pricing_item_tooltip": "",
+         "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+         "pricing_item_tooltip_animation_duration": 300,
+         "__globals__": {
+          "eael_pricing_table_list_icon_color": "globals/colors?id=primary",
+          "eael_pricing_table_list_text_color": "globals/colors?id=primary"
+         }
+        }
+       ],
+       "eael_pricing_table_btn": "Join the Waitlist",
+       "eael_pricing_table_featured": "yes",
+       "eael_pricing_table_featured_styles": "ribbon-4",
+       "eael_pricing_table_featured_tag_text": "Best Value for 1:1 ",
+       "eael_pricing_table_bg_color": "#EDFAFE",
+       "eael_pricing_table_title_color": "#012E41",
+       "eael_pricing_table_title_typography_typography": "custom",
+       "eael_pricing_table_title_typography_font_family": "Helvetica",
+       "eael_pricing_table_title_typography_font_weight": "600",
+       "eael_pricing_table_title_typography_text_transform": "uppercase",
+       "eael_pricing_table_subtitle_color": "#012E41",
+       "eael_pricing_table_subtitle_typography_typography": "custom",
+       "eael_pricing_table_subtitle_typography_font_style": "italic",
+       "eael_pricing_table_pricing_onsale_color": "#012E41",
+       "eael_pricing_table_original_price_currency_color": "#012E41",
+       "eael_pricing_table_original_price_currency_typography_typography": "custom",
+       "eael_pricing_table_original_price_currency_typography_font_size": {
+        "unit": "px",
+        "size": 35,
+        "sizes": []
+       },
+       "eael_pricing_table_pricing_color": "#A0243F",
+       "eael_pricing_table_list_item_color": "#012E41",
+       "eael_pricing_table_featured_tag_font_size": {
+        "unit": "px",
+        "size": 9,
+        "sizes": []
+       },
+       "eael_pricing_table_featured_tag_text_color": "#FFFFFF",
+       "eael_pricing_table_featured_tag_bg_color": "#0084BC",
+       "eael_pricing_table_btn_typography_typography": "custom",
+       "eael_pricing_table_btn_typography_font_family": "Helvetica",
+       "eael_pricing_table_btn_typography_font_weight": "500",
+       "eael_pricing_table_btn_typography_text_transform": "none",
+       "eael_pricing_table_btn_normal_bg_color": "#A0243F",
+       "eael_pricing_table_btn_hover_bg_color": "#012E41",
+       "_element_width_tablet": "initial",
+       "_element_custom_width_tablet": {
+        "unit": "%",
+        "size": 60,
+        "sizes": []
+       },
+       "_element_custom_width_mobile": {
+        "unit": "%",
+        "size": 100,
+        "sizes": []
+       },
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "5e2cff4",
+         "dynamic_field_custom_separator": "|"
+        }
+       ],
+       "hide_desktop": "hidden-desktop",
+       "__globals__": {
+        "eael_pricing_table_list_item_color": "globals/colors?id=primary",
+        "eael_pricing_table_original_price_currency_color": "globals/colors?id=100c7ae",
+        "eael_pricing_table_pricing_color": "globals/colors?id=secondary",
+        "eael_pricing_table_btn_normal_bg_color": "globals/colors?id=accent",
+        "eael_pricing_table_pricing_onsale_color": "globals/colors?id=primary",
+        "eael_pricing_table_title_color": "globals/colors?id=primary",
+        "eael_pricing_table_subtitle_color": "globals/colors?id=text",
+        "eael_pricing_table_featured_tag_text_color": "",
+        "eael_pricing_table_featured_tag_bg_color": "",
+        "eael_pricing_table_btn_hover_bg_color": "globals/colors?id=100c7ae"
+       },
+       "eael_pricing_table_btn_link": {
+        "url": "",
+        "is_external": "",
+        "nofollow": "",
+        "custom_attributes": ""
+       },
+       "__dynamic__": {
+        "eael_pricing_table_btn_link": "[elementor-tag id=\"5aedb1c\" name=\"popup\" settings=\"%7B%22popup%22%3A%221636%22%7D\"]"
+       }
+      },
+      "elements": [],
+      "widgetType": "eael-pricing-table"
+     },
+     {
+      "id": "2b550e0",
+      "elType": "widget",
+      "settings": {
+       "eael_pricing_table_style": "style-3",
+       "eael_pricing_table_title": "UNITY",
+       "eael_pricing_table_sub_title": "Coaching Program for Couples",
+       "eael_pricing_table_price": "4995",
+       "eael_pricing_table_onsale": "",
+       "eael_pricing_table_onsale_price": "89",
+       "eael_pricing_table_price_cur": "$",
+       "eael_pricing_table_price_period": "",
+       "eael_pricing_table_period_separator": "",
+       "eael_pricing_table_items": [
+        {
+         "eael_pricing_table_item": "Lifetime Access to The \"Freedom of No\" Formula Course",
+         "_id": "2025364",
+         "eael_pricing_table_list_icon_new": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         },
+         "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+         "pricing_item_tooltip_animation_duration": 300,
+         "__globals__": {
+          "eael_pricing_table_list_icon_color": "globals/colors?id=text",
+          "eael_pricing_table_list_text_color": "globals/colors?id=primary"
+         }
+        },
+        {
+         "eael_pricing_table_item": "14 Video Modules & Reflection Exercises",
+         "eael_pricing_table_list_icon_new": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         },
+         "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+         "pricing_item_tooltip_animation_duration": 300,
+         "__globals__": {
+          "eael_pricing_table_list_icon_color": "globals/colors?id=text",
+          "eael_pricing_table_list_text_color": "globals/colors?id=primary"
+         },
+         "_id": "a79fc06"
+        },
+        {
+         "eael_pricing_table_item": "8 Private 90-Min Coaching Calls",
+         "_id": "383bfda",
+         "eael_pricing_table_list_icon_new": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         },
+         "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+         "pricing_item_tooltip_animation_duration": 300,
+         "__globals__": {
+          "eael_pricing_table_list_icon_color": "globals/colors?id=primary",
+          "eael_pricing_table_list_text_color": "globals/colors?id=primary"
+         }
+        },
+        {
+         "eael_pricing_table_item": "3 Boundary Booster Sessions",
+         "eael_pricing_table_list_icon_new": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         },
+         "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+         "pricing_item_tooltip_animation_duration": 300,
+         "__globals__": {
+          "eael_pricing_table_list_icon_color": "globals/colors?id=primary",
+          "eael_pricing_table_list_text_color": "globals/colors?id=primary"
+         },
+         "_id": "b926806"
+        },
+        {
+         "eael_pricing_table_item": "Private Support for Couples ",
+         "_id": "5736f38",
+         "eael_pricing_table_list_icon_new": {
+          "value": "fas fa-check-circle",
+          "library": "fa-solid"
+         },
+         "eael_pricing_item_tooltip": "",
+         "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+         "pricing_item_tooltip_animation_duration": 300,
+         "__globals__": {
+          "eael_pricing_table_list_icon_color": "globals/colors?id=primary",
+          "eael_pricing_table_list_text_color": "globals/colors?id=primary"
+         }
+        }
+       ],
+       "eael_pricing_table_btn": "Join the Waitlist",
+       "eael_pricing_table_featured": "",
+       "eael_pricing_table_featured_tag_text": "Featured",
+       "eael_pricing_table_bg_color": "#FFFFFF",
+       "eael_pricing_table_title_typography_typography": "custom",
+       "eael_pricing_table_title_typography_font_family": "Helvetica",
+       "eael_pricing_table_title_typography_font_weight": "600",
+       "eael_pricing_table_title_typography_text_transform": "uppercase",
+       "eael_pricing_table_subtitle_typography_typography": "custom",
+       "eael_pricing_table_subtitle_typography_font_style": "italic",
+       "eael_pricing_table_original_price_currency_typography_typography": "custom",
+       "eael_pricing_table_original_price_currency_typography_font_size": {
+        "unit": "px",
+        "size": 35,
+        "sizes": []
+       },
+       "eael_pricing_table_btn_typography_typography": "custom",
+       "eael_pricing_table_btn_typography_font_family": "Helvetica",
+       "eael_pricing_table_btn_typography_font_weight": "500",
+       "eael_pricing_table_btn_typography_text_transform": "none",
+       "_element_width_tablet": "initial",
+       "_element_custom_width_tablet": {
+        "unit": "%",
+        "size": "",
+        "sizes": []
+       },
+       "_element_custom_width_mobile": {
+        "unit": "%",
+        "size": "",
+        "sizes": []
+       },
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "5e2cff4",
+         "dynamic_field_custom_separator": "|"
+        }
+       ],
+       "hide_desktop": "hidden-desktop",
+       "__globals__": {
+        "eael_pricing_table_list_item_color": "globals/colors?id=primary",
+        "eael_pricing_table_original_price_currency_color": "globals/colors?id=100c7ae",
+        "eael_pricing_table_pricing_color": "globals/colors?id=secondary",
+        "eael_pricing_table_btn_normal_bg_color": "globals/colors?id=accent",
+        "eael_pricing_table_pricing_onsale_color": "globals/colors?id=primary",
+        "eael_pricing_table_title_color": "globals/colors?id=primary",
+        "eael_pricing_table_subtitle_color": "globals/colors?id=primary",
+        "eael_pricing_table_btn_hover_bg_color": "globals/colors?id=primary"
+       },
+       "eael_pricing_table_btn_link": {
+        "url": "",
+        "is_external": "",
+        "nofollow": "",
+        "custom_attributes": ""
+       },
+       "__dynamic__": {
+        "eael_pricing_table_btn_link": "[elementor-tag id=\"f4b7bee\" name=\"popup\" settings=\"%7B%22popup%22%3A%221636%22%7D\"]"
+       }
+      },
+      "elements": [],
+      "widgetType": "eael-pricing-table"
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "ed38ce0",
+  "elType": "section",
+  "settings": {
+   "height": "min-height",
+   "custom_height": {
+    "unit": "px",
+    "size": 577,
+    "sizes": []
+   },
+   "eael_parallax_layers_list": [],
+   "background_background": "classic",
+   "background_image": {
+    "url": "",
+    "id": "",
+    "size": "",
+    "alt": "",
+    "source": "library"
+   },
+   "background_image_mobile": {
+    "url": "",
+    "id": "",
+    "size": "",
+    "alt": "",
+    "source": "library"
+   },
+   "background_position": "top center",
+   "background_position_mobile": "bottom right",
+   "background_size": "cover",
+   "background_size_mobile": "auto",
+   "padding_mobile": {
+    "unit": "px",
+    "top": "40",
+    "right": "0",
+    "bottom": "40",
+    "left": "0",
+    "isLinked": false
+   },
+   "eael_ext_content_protection_password_placeholder": "Enter Password",
+   "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+   "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+   "eael_cl_logics": [
+    {
+     "_id": "8b99c5a",
+     "dynamic_field_custom_separator": "|"
+    }
+   ],
+   "background_bg_width_mobile": {
+    "unit": "px",
+    "size": 1000,
+    "sizes": []
+   },
+   "background_color": "#FCEADF",
+   "margin": {
+    "unit": "px",
+    "top": "-0",
+    "right": 0,
+    "bottom": "0",
+    "left": 0,
+    "isLinked": false
+   },
+   "margin_mobile": {
+    "unit": "px",
+    "top": "0",
+    "right": 0,
+    "bottom": "0",
+    "left": 0,
+    "isLinked": false
+   }
+  },
+  "elements": [
+   {
+    "id": "3b44c4b",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null,
+     "align": "center",
+     "eael_cl_logics": [
+      {
+       "_id": "7e8a520",
+       "dynamic_field_custom_separator": "|"
+      }
+     ],
+     "margin": {
+      "unit": "px",
+      "top": "-20",
+      "right": "0",
+      "bottom": "0",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "elements": [
+     {
+      "id": "27e2a69",
+      "elType": "widget",
+      "settings": {
+       "title": "How it  <span style=\"font-family: 'epicursive', sans-serif; color: #f29057; font-weight: 400; font-style: normal;\">Works</span> ",
+       "align": "center",
+       "typography_typography": "custom",
+       "typography_font_family": "EB Garamond",
+       "typography_font_size": {
+        "unit": "px",
+        "size": 91,
+        "sizes": []
+       },
+       "typography_font_weight": "500",
+       "typography_font_size_tablet": {
+        "unit": "px",
+        "size": 28,
+        "sizes": []
+       },
+       "typography_font_size_mobile": {
+        "unit": "px",
+        "size": 28,
+        "sizes": []
+       },
+       "_margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "align_mobile": "center",
+       "_padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "6f279cf",
+         "dynamic_field_custom_separator": "|"
+        }
+       ],
+       "_margin_mobile": {
+        "unit": "px",
+        "top": "20",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "typography_line_height": {
+        "unit": "em",
+        "size": 1.3,
+        "sizes": []
+       },
+       "_element_width": "initial",
+       "_element_custom_width": {
+        "unit": "%",
+        "size": 100,
+        "sizes": []
+       },
+       "__globals__": {
+        "title_color": "globals/colors?id=primary"
+       },
+       "_element_custom_width_mobile": {
+        "unit": "%",
+        "size": 100,
+        "sizes": []
+       }
+      },
+      "elements": [],
+      "widgetType": "heading"
+     },
+     {
+      "id": "4a8acee",
+      "elType": "widget",
+      "settings": {
+       "icon_list": [
+        {
+         "text": "Once you sign up, you\u2019ll receive instant access to the course portal and a short onboarding questionnaire to help Dana personalize your coaching experience.",
+         "selected_icon": {
+          "value": {
+           "url": "http://danaskaggs.com/wp-content/uploads/2025/04/Dana-Icon-3.svg",
+           "id": 1386
+          },
+          "library": "svg"
+         },
+         "_id": "0d9c958"
+        },
+        {
+         "text": "Schedule your private 1:1 coaching calls based on your availability using our Calendar Scheduling System\u2014these high-touch sessions are where we apply the material directly to your life.",
+         "selected_icon": {
+          "value": {
+           "url": "http://danaskaggs.com/wp-content/uploads/2025/04/Dana-Icon-4.svg",
+           "id": 1387
+          },
+          "library": "svg"
+         },
+         "_id": "da54583"
+        },
+        {
+         "text": "Start learning right away with 14 video modules\u2014rooted in clinical expertise and designed to complement your 1:1 coaching\u2014as they walk you through the foundations of healthy, confident boundaries.",
+         "selected_icon": {
+          "value": {
+           "url": "http://danaskaggs.com/wp-content/uploads/2025/04/Dana-Icon-5.svg",
+           "id": 1388
+          },
+          "library": "svg"
+         },
+         "_id": "c535fca"
+        }
+       ],
+       "space_between": {
+        "unit": "px",
+        "size": 33,
+        "sizes": []
+       },
+       "icon_size": {
+        "unit": "px",
+        "size": 39,
+        "sizes": []
+       },
+       "icon_typography_typography": "custom",
+       "icon_typography_font_family": "Helvetica",
+       "icon_typography_font_size": {
+        "unit": "px",
+        "size": 16,
+        "sizes": []
+       },
+       "icon_typography_font_weight": "400",
+       "icon_typography_line_height": {
+        "unit": "em",
+        "size": 1.5,
+        "sizes": []
+       },
+       "_padding": {
+        "unit": "px",
+        "top": "30",
+        "right": "40",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "b4e947d",
+         "dynamic_field_custom_separator": "|"
+        }
+       ],
+       "__globals__": {
+        "text_color": "globals/colors?id=text"
+       },
+       "_padding_mobile": {
+        "unit": "px",
+        "top": "20",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "icon_size_mobile": {
+        "unit": "px",
+        "size": 20,
+        "sizes": []
+       },
+       "icon_self_vertical_align_mobile": "flex-start",
+       "icon_vertical_offset_mobile": {
+        "unit": "px",
+        "size": 3,
+        "sizes": []
+       },
+       "_element_width": "initial",
+       "_element_width_mobile": "initial",
+       "_element_custom_width": {
+        "unit": "%",
+        "size": 67.411
+       },
+       "_element_custom_width_mobile": {
+        "unit": "px",
+        "size": 278.95
+       }
+      },
+      "elements": [],
+      "widgetType": "icon-list"
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "dab3c7d",
+  "elType": "section",
+  "settings": {
+   "background_background": "classic",
+   "background_color": "#FFFFFF",
+   "margin": {
+    "unit": "px",
+    "top": "",
+    "right": 0,
+    "bottom": "",
+    "left": 0,
+    "isLinked": true
+   },
+   "padding": {
+    "unit": "px",
+    "top": "0",
+    "right": "0",
+    "bottom": "0",
+    "left": "0",
+    "isLinked": false
+   },
+   "background_image": {
+    "url": "",
+    "id": "",
+    "alt": "",
+    "source": "library"
+   },
+   "background_size": "cover",
+   "eael_parallax_layers_list": [],
+   "eael_cl_logics": [
+    {
+     "_id": "79bdcff",
+     "dynamic_field_custom_separator": "|"
+    }
+   ],
+   "eael_ext_content_protection_password_placeholder": "Enter Password",
+   "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+   "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+   "structure": "20",
+   "reverse_order_mobile": "reverse-mobile",
+   "padding_mobile": {
+    "unit": "px",
+    "top": "0",
+    "right": "0",
+    "bottom": "40",
+    "left": "0",
+    "isLinked": false
+   },
+   "layout": "full_width",
+   "custom_height": {
+    "unit": "px",
+    "size": "",
+    "sizes": []
+   },
+   "box_shadow_box_shadow_position": "inset",
+   "shape_divider_top": "waves",
+   "margin_tablet": {
+    "unit": "px",
+    "top": "50",
+    "right": 0,
+    "bottom": "50",
+    "left": 0,
+    "isLinked": false
+   }
+  },
+  "elements": [
+   {
+    "id": "5726ff4",
+    "elType": "column",
+    "settings": {
+     "_column_size": 50,
+     "_inline_size": null,
+     "eael_cl_logics": [
+      {
+       "_id": "d10e10a",
+       "dynamic_field_custom_separator": "|"
+      }
+     ],
+     "padding_mobile": {
+      "unit": "px",
+      "top": "0",
+      "right": "30",
+      "bottom": "0",
+      "left": "30",
+      "isLinked": false
+     },
+     "padding_tablet": {
+      "unit": "px",
+      "top": "0",
+      "right": "0",
+      "bottom": "0",
+      "left": "30",
+      "isLinked": false
+     },
+     "padding": {
+      "unit": "px",
+      "top": "100",
+      "right": "0",
+      "bottom": "100",
+      "left": "80",
+      "isLinked": false
+     }
+    },
+    "elements": [
+     {
+      "id": "8a766bd",
+      "elType": "widget",
+      "settings": {
+       "title": "Meet Your Coach",
+       "title_color": "#012E41",
+       "typography_typography": "custom",
+       "typography_font_family": "Helvetica",
+       "typography_font_weight": "500",
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "38f6769",
+         "dynamic_field_custom_separator": "|"
+        }
+       ],
+       "typography_font_size": {
+        "unit": "px",
+        "size": 20,
+        "sizes": []
+       },
+       "align_mobile": "center",
+       "typography_font_size_mobile": {
+        "unit": "px",
+        "size": 18,
+        "sizes": []
+       },
+       "align_tablet": "left",
+       "_margin_mobile": {
+        "unit": "px",
+        "top": "30",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       }
+      },
+      "elements": [],
+      "widgetType": "heading"
+     },
+     {
+      "id": "f97a96e",
+      "elType": "widget",
+      "settings": {
+       "title": "About Dana Skaggs",
+       "align": "left",
+       "typography_typography": "custom",
+       "typography_font_family": "EB Garamond",
+       "typography_font_size": {
+        "unit": "px",
+        "size": 42,
+        "sizes": []
+       },
+       "typography_font_weight": "500",
+       "typography_font_size_tablet": {
+        "unit": "px",
+        "size": 28,
+        "sizes": []
+       },
+       "typography_font_size_mobile": {
+        "unit": "px",
+        "size": 28,
+        "sizes": []
+       },
+       "_margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "align_mobile": "center",
+       "_padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "6f279cf",
+         "dynamic_field_custom_separator": "|"
+        }
+       ],
+       "_margin_mobile": {
+        "unit": "px",
+        "top": "-10",
+        "right": "-10",
+        "bottom": "-10",
+        "left": "-10",
+        "isLinked": true
+       },
+       "typography_line_height": {
+        "unit": "em",
+        "size": 1.3,
+        "sizes": []
+       },
+       "_element_width": "initial",
+       "_element_custom_width": {
+        "unit": "%",
+        "size": 90,
+        "sizes": []
+       },
+       "__globals__": {
+        "title_color": "globals/colors?id=primary"
+       },
+       "_element_custom_width_mobile": {
+        "unit": "%",
+        "size": 100,
+        "sizes": []
+       }
+      },
+      "elements": [],
+      "widgetType": "heading"
+     },
+     {
+      "id": "f4addd8",
+      "elType": "widget",
+      "settings": {
+       "editor": "<p>Dana is called the Queen of Boundaries because of her extraordinary skill at helping her clients understand how the lack of healthy boundaries contributes to their problems.</p><p>She has been in private practice for over 15 years, specializing in anxiety and adjustment issues as well as trauma work.</p>",
+       "text_color": "#252525",
+       "typography_typography": "custom",
+       "typography_font_family": "Helvetica",
+       "typography_font_size": {
+        "unit": "px",
+        "size": 16,
+        "sizes": []
+       },
+       "typography_font_weight": "400",
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "f196b0c",
+         "dynamic_field_custom_separator": "|"
+        }
+       ],
+       "_margin": {
+        "unit": "px",
+        "top": "10",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "_padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "100",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "align_mobile": "center",
+       "_padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+       },
+       "_margin_mobile": {
+        "unit": "px",
+        "top": "20",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       }
+      },
+      "elements": [],
+      "widgetType": "text-editor"
+     },
+     {
+      "id": "d9a4ac3",
+      "elType": "widget",
+      "settings": {
+       "text": "Learn More",
+       "link": {
+        "url": "https://danaskaggs.com/about",
+        "is_external": "",
+        "nofollow": "",
+        "custom_attributes": ""
+       },
+       "align": "justify",
+       "align_mobile": "center",
+       "typography_typography": "custom",
+       "typography_font_family": "Helvetica",
+       "typography_font_size": {
+        "unit": "px",
+        "size": 18,
+        "sizes": []
+       },
+       "typography_font_weight": "500",
+       "background_color": "#FFFFFF",
+       "text_padding_tablet": {
+        "unit": "px",
+        "top": "12",
+        "right": "040",
+        "bottom": "12",
+        "left": "040",
+        "isLinked": false
+       },
+       "button_text_color": "#FFFFFF",
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "e26266c",
+         "dynamic_field_custom_separator": "|"
+        }
+       ],
+       "typography_font_size_mobile": {
+        "unit": "px",
+        "size": 18,
+        "sizes": []
+       },
+       "hover_animation": "grow",
+       "align_tablet": "justify",
+       "_padding_tablet": {
+        "unit": "px",
+        "top": "0",
+        "right": "5",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "text_padding": {
+        "unit": "px",
+        "top": "12",
+        "right": "60",
+        "bottom": "12",
+        "left": "60",
+        "isLinked": false
+       },
+       "text_padding_mobile": {
+        "unit": "px",
+        "top": "12",
+        "right": "25",
+        "bottom": "12",
+        "left": "25",
+        "isLinked": false
+       },
+       "_element_width_mobile": "initial",
+       "_element_custom_width_mobile": {
+        "unit": "%",
+        "size": 100
+       },
+       "background_background": "",
+       "_padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "80",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "__dynamic__": [],
+       "_element_width_tablet": "initial",
+       "_element_custom_width_tablet": {
+        "unit": "px",
+        "size": 229.4
+       }
+      },
+      "elements": [],
+      "widgetType": "button"
+     }
+    ],
+    "isInner": false
+   },
+   {
+    "id": "cc4892e",
+    "elType": "column",
+    "settings": {
+     "_column_size": 50,
+     "_inline_size": null,
+     "eael_cl_logics": [
+      {
+       "_id": "d10e10a",
+       "dynamic_field_custom_separator": "|"
+      }
+     ],
+     "background_background": "classic",
+     "background_color": "#FFFFFF",
+     "background_image_tablet": {
+      "url": "",
+      "id": "",
+      "size": "",
+      "alt": "",
+      "source": "library"
+     },
+     "background_position_tablet": "center center",
+     "background_repeat_tablet": "no-repeat",
+     "background_size_mobile": "cover",
+     "padding_mobile": {
+      "unit": "px",
+      "top": "0",
+      "right": "0",
+      "bottom": "0",
+      "left": "0",
+      "isLinked": false
+     },
+     "background_image_mobile": {
+      "url": "http://danaskaggs.com/wp-content/uploads/2023/02/JohnsonCityTnHeadshots-07089-scaled.jpg",
+      "id": 210,
+      "size": "",
+      "alt": "",
+      "source": "library"
+     },
+     "background_image": {
+      "url": "http://danaskaggs.com/wp-content/uploads/2023/02/JohnsonCityTnHeadshots-07089-scaled.jpg",
+      "id": 210,
+      "size": "",
+      "alt": "",
+      "source": "library"
+     },
+     "background_position": "center center",
+     "background_size": "cover"
+    },
+    "elements": [
+     {
+      "id": "9125fd2",
+      "elType": "widget",
+      "settings": {
+       "space_mobile": {
+        "unit": "px",
+        "size": 221,
+        "sizes": []
+       },
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "17fa67d",
+         "dynamic_field_custom_separator": "|"
+        }
+       ]
+      },
+      "elements": [],
+      "widgetType": "spacer"
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "e231eed",
+  "elType": "section",
+  "settings": {
+   "background_background": "classic",
+   "background_color": "#FCEADF",
+   "margin": {
+    "unit": "px",
+    "top": "",
+    "right": 0,
+    "bottom": "",
+    "left": 0,
+    "isLinked": true
+   },
+   "padding": {
+    "unit": "px",
+    "top": "0",
+    "right": "0",
+    "bottom": "0",
+    "left": "0",
+    "isLinked": false
+   },
+   "background_image": {
+    "url": "",
+    "id": "",
+    "alt": "",
+    "source": "library",
+    "size": ""
+   },
+   "background_size": "cover",
+   "eael_parallax_layers_list": [],
+   "eael_cl_logics": [
+    {
+     "_id": "79bdcff",
+     "dynamic_field_custom_separator": "|"
+    }
+   ],
+   "eael_ext_content_protection_password_placeholder": "Enter Password",
+   "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+   "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+   "structure": "20",
+   "reverse_order_mobile": "reverse-mobile",
+   "padding_mobile": {
+    "unit": "px",
+    "top": "0",
+    "right": "0",
+    "bottom": "40",
+    "left": "0",
+    "isLinked": false
+   },
+   "layout": "full_width",
+   "custom_height": {
+    "unit": "px",
+    "size": "",
+    "sizes": []
+   },
+   "border_border": "solid",
+   "box_shadow_box_shadow_type": "yes",
+   "box_shadow_box_shadow_position": "inset",
+   "reverse_order_tablet": "reverse-tablet"
+  },
+  "elements": [
+   {
+    "id": "23e5708",
+    "elType": "column",
+    "settings": {
+     "_column_size": 50,
+     "_inline_size": null,
+     "eael_cl_logics": [
+      {
+       "_id": "d10e10a",
+       "dynamic_field_custom_separator": "|"
+      }
+     ],
+     "padding_mobile": {
+      "unit": "px",
+      "top": "0",
+      "right": "30",
+      "bottom": "0",
+      "left": "30",
+      "isLinked": false
+     },
+     "padding_tablet": {
+      "unit": "px",
+      "top": "0",
+      "right": "0",
+      "bottom": "0",
+      "left": "30",
+      "isLinked": false
+     },
+     "margin_mobile": {
+      "unit": "px",
+      "top": "60",
+      "right": "0",
+      "bottom": "0",
+      "left": "0",
+      "isLinked": false
+     },
+     "padding": {
+      "unit": "px",
+      "top": "100",
+      "right": "0",
+      "bottom": "100",
+      "left": "100",
+      "isLinked": false
+     },
+     "_inline_size_tablet": 100,
+     "align_tablet": "center",
+     "margin_tablet": {
+      "unit": "px",
+      "top": "40",
+      "right": "0",
+      "bottom": "60",
+      "left": "0",
+      "isLinked": false
+     }
+    },
+    "elements": [
+     {
+      "id": "960290c",
+      "elType": "widget",
+      "settings": {
+       "title": "Get a Look Inside <br>The   <span style=\"font-family: 'epicursive', sans-serif; color: #f29057; font-weight: 400; font-style: normal;\">Boundary</span> Blueprint",
+       "align": "left",
+       "typography_typography": "custom",
+       "typography_font_family": "EB Garamond",
+       "typography_font_size": {
+        "unit": "px",
+        "size": 48,
+        "sizes": []
+       },
+       "typography_font_weight": "500",
+       "typography_font_size_tablet": {
+        "unit": "px",
+        "size": 28,
+        "sizes": []
+       },
+       "typography_font_size_mobile": {
+        "unit": "px",
+        "size": 28,
+        "sizes": []
+       },
+       "_margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "align_mobile": "center",
+       "_padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "6f279cf",
+         "dynamic_field_custom_separator": "|"
+        }
+       ],
+       "_margin_mobile": {
+        "unit": "px",
+        "top": "-10",
+        "right": "-10",
+        "bottom": "-10",
+        "left": "-10",
+        "isLinked": true
+       },
+       "typography_line_height": {
+        "unit": "em",
+        "size": 1.3,
+        "sizes": []
+       },
+       "_element_width": "initial",
+       "_element_custom_width": {
+        "unit": "%",
+        "size": 102.774
+       },
+       "__globals__": {
+        "title_color": "globals/colors?id=primary"
+       },
+       "_element_custom_width_mobile": {
+        "unit": "%",
+        "size": 100,
+        "sizes": []
+       },
+       "_padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+       },
+       "align_tablet": "center"
+      },
+      "elements": [],
+      "widgetType": "heading"
+     },
+     {
+      "id": "b7f705e",
+      "elType": "widget",
+      "settings": {
+       "editor": "<p>A proven 8-week path to clearer, stronger, more sustainable boundaries.</p>",
+       "text_color": "#252525",
+       "typography_typography": "custom",
+       "typography_font_family": "Helvetica",
+       "typography_font_size": {
+        "unit": "px",
+        "size": 16,
+        "sizes": []
+       },
+       "typography_font_weight": "400",
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "f196b0c",
+         "dynamic_field_custom_separator": "|"
+        }
+       ],
+       "_margin": {
+        "unit": "px",
+        "top": "10",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "_padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "align_mobile": "center",
+       "_padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+       },
+       "_margin_mobile": {
+        "unit": "px",
+        "top": "20",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "align_tablet": "center"
+      },
+      "elements": [],
+      "widgetType": "text-editor"
+     },
+     {
+      "id": "0f45f03",
+      "elType": "widget",
+      "settings": {
+       "tabs": [
+        {
+         "tab_title": "Welcome",
+         "tab_content": "<p>Exciting Possibilities: Mastering Boundaries for a Better Life</p>",
+         "_id": "3fafcbb"
+        },
+        {
+         "tab_title": "The Hidden Costs of Weak Boundaries",
+         "tab_content": "<p>\u2022 Module 1: Signs You Might Be a Doormat<br />\u2022 Module 2: When \"Yes\" Becomes Your Default</p>",
+         "_id": "bb5e171"
+        },
+        {
+         "tab_title": "Building Stronger Fences\u2014Understanding Boundaries",
+         "tab_content": "<ul><li>Module 3: The Foundation of Boundaries\u2014What They Are and Why They Matter</li><li>\u00a0Module 4: Personal Boundaries: Your Line in the Sand</li></ul>",
+         "_id": "058b2f5"
+        },
+        {
+         "tab_title": "Owning Your Yard\u2014Protecting Your Space",
+         "tab_content": "<ul><li>Module 5: Why Your Yard Matters More Than You Think</li><li>Module 6: When People Trample Your Boundaries\u2014Recognizing Breaches</li></ul>",
+         "_id": "7060a07"
+        },
+        {
+         "tab_title": "The Art of Boundaries\u2014Support vs. Sacrifice",
+         "tab_content": "<ul><li>Module 7: Small Steps, Big Changes\u2014How to Start Setting Boundaries</li><li>Module 8: Keeping the Peace or Losing Yourself? The Fine Line Between Harmony and Self-Betrayal</li></ul>",
+         "_id": "36d6939"
+        },
+        {
+         "tab_title": "From People-Pleasing to Personal Power",
+         "tab_content": "<ul><li>Module 9: Confessions of a People-Pleaser\u2014Why It\u2019s So Hard to Say No</li><li>Module 10: From \u201cYou Made Me Mad!\u201d to Owning Your Reactions</li></ul>",
+         "_id": "42afb67"
+        },
+        {
+         "tab_title": "Property Lines - Where Do You Spend Your Time?",
+         "tab_content": "<ul><li>Module 9: Confessions of a People-Pleaser\u2014Why It\u2019s So Hard to Say No</li><li>Module 10: From \u201cYou Made Me Mad!\u201d to Owning Your Reactions</li></ul>",
+         "_id": "9189863"
+        },
+        {
+         "tab_title": "The Big Leagues: Holding Your Own",
+         "tab_content": "<ul><li>Module 13: \u201cAm I Being Hateful?\u201d \u2013 Setting Boundaries as a Christian</li><li>Module 14: Maneuvering Master Manipulators \u2013 Becoming Immune to Their Tactics</li></ul>",
+         "_id": "a106c34"
+        }
+       ],
+       "title_typography_typography": "custom",
+       "title_typography_font_family": "Helvetica",
+       "title_typography_font_size": {
+        "unit": "px",
+        "size": 16,
+        "sizes": []
+       },
+       "title_typography_font_weight": "600",
+       "title_typography_line_height_mobile": {
+        "unit": "em",
+        "size": 1.4,
+        "sizes": []
+       },
+       "icon_align": "right",
+       "content_typography_typography": "custom",
+       "content_typography_font_family": "Helvetica",
+       "content_typography_font_weight": "400",
+       "content_typography_line_height_mobile": {
+        "unit": "em",
+        "size": 1.6,
+        "sizes": []
+       },
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "006f730",
+         "dynamic_field_custom_separator": "|"
+        }
+       ],
+       "__globals__": {
+        "border_color": "globals/colors?id=primary",
+        "tab_active_color": "globals/colors?id=ead2162"
+       },
+       "border_width": {
+        "unit": "px",
+        "size": 1,
+        "sizes": []
+       },
+       "space_between_tablet": {
+        "unit": "px",
+        "size": 12,
+        "sizes": []
+       },
+       "_element_width_tablet": "initial",
+       "_element_custom_width_tablet": {
+        "unit": "px",
+        "size": 485,
+        "sizes": []
+       }
+      },
+      "elements": [],
+      "widgetType": "toggle"
+     }
+    ],
+    "isInner": false
+   },
+   {
+    "id": "6cee7af",
+    "elType": "column",
+    "settings": {
+     "_column_size": 50,
+     "_inline_size": null,
+     "eael_cl_logics": [
+      {
+       "_id": "d10e10a",
+       "dynamic_field_custom_separator": "|"
+      }
+     ],
+     "background_background": "classic",
+     "background_image_tablet": {
+      "url": "",
+      "id": "",
+      "size": "",
+      "alt": "",
+      "source": "library"
+     },
+     "background_position_tablet": "center center",
+     "background_repeat_tablet": "no-repeat",
+     "background_size_mobile": "cover",
+     "padding_mobile": {
+      "unit": "px",
+      "top": "0",
+      "right": "0",
+      "bottom": "0",
+      "left": "0",
+      "isLinked": false
+     },
+     "background_image_mobile": {
+      "url": "http://danaskaggs.com/wp-content/uploads/2025/04/Dana-Skaggs-Website-Course-7.png",
+      "id": 1395,
+      "size": "",
+      "alt": "",
+      "source": "library"
+     },
+     "content_position": "center",
+     "background_image": {
+      "url": "",
+      "id": "",
+      "size": "",
+      "alt": "",
+      "source": "library"
+     },
+     "background_position": "center center",
+     "background_size": "cover",
+     "_inline_size_tablet": 100
+    },
+    "elements": [
+     {
+      "id": "509d0a8",
+      "elType": "widget",
+      "settings": {
+       "image": {
+        "url": "http://danaskaggs.com/wp-content/uploads/2025/05/The.png",
+        "id": 1609,
+        "size": "",
+        "alt": "",
+        "source": "library"
+       },
+       "image_size": "full",
+       "image_box_shadow_box_shadow_type": "yes",
+       "_padding": {
+        "unit": "px",
+        "top": "40",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "_padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+       },
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "61963c2",
+         "dynamic_field_custom_separator": "|"
+        }
+       ]
+      },
+      "elements": [],
+      "widgetType": "image"
+     },
+     {
+      "id": "9ee5dea",
+      "elType": "widget",
+      "settings": {
+       "space_mobile": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+       },
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "17fa67d",
+         "dynamic_field_custom_separator": "|"
+        }
+       ]
+      },
+      "elements": [],
+      "widgetType": "spacer"
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "1e84f0d",
+  "elType": "section",
+  "settings": {
+   "background_background": "classic",
+   "background_color": "#012E41",
+   "margin": {
+    "unit": "px",
+    "top": "",
+    "right": 0,
+    "bottom": "",
+    "left": 0,
+    "isLinked": true
+   },
+   "padding": {
+    "unit": "px",
+    "top": "0",
+    "right": "32",
+    "bottom": "0",
+    "left": "32",
+    "isLinked": false
+   },
+   "background_image": {
+    "url": "http://danaskaggs.com/wp-content/uploads/2023/02/Dana-Skaggs-Website-Home-3.png",
+    "id": 203,
+    "alt": "",
+    "source": "library"
+   },
+   "background_size": "cover",
+   "eael_parallax_layers_list": [],
+   "eael_cl_logics": [
+    {
+     "_id": "8a3b54d",
+     "dynamic_field_custom_separator": "|"
+    }
+   ],
+   "eael_ext_content_protection_password_placeholder": "Enter Password",
+   "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+   "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+   "background_overlay_background": "classic",
+   "background_overlay_image": {
+    "url": "",
+    "id": "",
+    "size": "",
+    "alt": "",
+    "source": "library"
+   },
+   "background_overlay_position": "bottom left",
+   "background_overlay_repeat": "no-repeat",
+   "background_overlay_opacity": {
+    "unit": "px",
+    "size": 1,
+    "sizes": []
+   },
+   "margin_tablet": {
+    "unit": "px",
+    "top": "0",
+    "right": 0,
+    "bottom": "-10",
+    "left": 0,
+    "isLinked": false
+   }
+  },
+  "elements": [
+   {
+    "id": "64f8bc2",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null,
+     "eael_cl_logics": [
+      {
+       "_id": "1b0c8f9",
+       "dynamic_field_custom_separator": "|"
+      }
+     ]
+    },
+    "elements": [
+     {
+      "id": "3636ce9",
+      "elType": "widget",
+      "settings": {
+       "title": "What Clients Are Saying",
+       "align": "center",
+       "typography_typography": "custom",
+       "typography_font_family": "EB Garamond",
+       "typography_font_size": {
+        "unit": "px",
+        "size": 50,
+        "sizes": []
+       },
+       "typography_font_weight": "500",
+       "typography_font_size_tablet": {
+        "unit": "px",
+        "size": 32,
+        "sizes": []
+       },
+       "typography_font_size_mobile": {
+        "unit": "px",
+        "size": 25,
+        "sizes": []
+       },
+       "_margin": {
+        "unit": "px",
+        "top": "30",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "__globals__": {
+        "title_color": ""
+       },
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "ca8998c",
+         "dynamic_field_custom_separator": "|"
+        }
+       ],
+       "_padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "20",
+        "bottom": "0",
+        "left": "20",
+        "isLinked": false
+       },
+       "title_color": "#FFFFFF"
+      },
+      "elements": [],
+      "widgetType": "heading"
+     },
+     {
+      "id": "609b2fb",
+      "elType": "widget",
+      "settings": {
+       "width": {
+        "unit": "%",
+        "size": 59,
+        "sizes": []
+       },
+       "align": "center",
+       "look": "line_icon",
+       "text": "Divider",
+       "icon": {
+        "value": {
+         "url": "http://danaskaggs.com/wp-content/uploads/2023/02/Untitled-design.svg",
+         "id": 220
+        },
+        "library": "svg"
+       },
+       "color": "#A02640",
+       "weight": {
+        "unit": "px",
+        "size": 3,
+        "sizes": []
+       },
+       "icon_size": {
+        "unit": "px",
+        "size": 45,
+        "sizes": []
+       },
+       "icon_spacing": {
+        "unit": "px",
+        "size": 13,
+        "sizes": []
+       },
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "36b2e69",
+         "dynamic_field_custom_separator": "|"
+        }
+       ]
+      },
+      "elements": [],
+      "widgetType": "divider"
+     },
+     {
+      "id": "d58dcba",
+      "elType": "widget",
+      "settings": {
+       "slides": [
+        {
+         "content": "If I had learned to spot the boundary violations taught in the first module 15 years ago, I could have saved myself and my family years of heartache and pain. \n\n",
+         "name": "\u2014 Jonathan W.",
+         "title": "",
+         "_id": "fc7e39a"
+        },
+        {
+         "content": "The course was truly life changing. I always thought about Boundaries in the context of dealing with others. I realized that I was violating boundaries within myself, in terms of unrealistic expectations.\n\n",
+         "name": "\u2014 Robert B.",
+         "title": "",
+         "_id": "88bd422"
+        },
+        {
+         "content": "Knowing and understanding what boundaries are is an important first step.  Dana explains concepts and presents the thought process necessary to recognize and manage boundaries.\n\n",
+         "name": "\u2014 Jade C.",
+         "title": "",
+         "_id": "0cb930a"
+        },
+        {
+         "content": "The Freedom of No course drastically improved how I approach my relationships and experiences. I struggled with people-pleasing my whole life and it was so exhausting! I now worry less about what others think of me. I\u2019m also more confident and have less anxiety. In fact, by applying the concepts I learned in this course, I know it played a crucial role in helping me land my new job! I learned so many tools and techniques that I can apply in every relationship I have, especially in the one with myself. \n",
+         "name": "\u2014 Bauj G.",
+         "title": "",
+         "_id": "a1a0dc2"
+        }
+       ],
+       "width": {
+        "unit": "%",
+        "size": 100,
+        "sizes": []
+       },
+       "content_typography_typography": "custom",
+       "content_typography_font_family": "Helvetica",
+       "content_typography_font_weight": "400",
+       "content_typography_text_transform": "none",
+       "content_typography_font_style": "normal",
+       "name_typography_typography": "custom",
+       "name_typography_font_family": "Helvetica",
+       "name_typography_font_size": {
+        "unit": "px",
+        "size": 18,
+        "sizes": []
+       },
+       "name_typography_font_weight": "500",
+       "title_typography_typography": "custom",
+       "title_typography_font_family": "Roboto Slab",
+       "title_typography_font_weight": "400",
+       "__globals__": {
+        "name_color": "",
+        "content_color": "",
+        "pagination_color": ""
+       },
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "b467d4d",
+         "dynamic_field_custom_separator": "|"
+        }
+       ],
+       "width_mobile": {
+        "unit": "%",
+        "size": 100,
+        "sizes": []
+       },
+       "alignment_mobile": "center",
+       "width_tablet": {
+        "unit": "%",
+        "size": 100,
+        "sizes": []
+       },
+       "content_color": "#FFFFFF",
+       "name_color": "#FFFFFF",
+       "title_color": "#FFFFFF",
+       "arrows_color": "#FFFFFF",
+       "pagination_color_inactive": "#FFFFFF",
+       "pagination_color": "#8ADBEB",
+       "show_arrows": "",
+       "pagination_size": {
+        "unit": "px",
+        "size": 9,
+        "sizes": []
+       },
+       "slides_per_view": "1",
+       "slides_to_scroll": "1",
+       "slides_name": "Slides"
+      },
+      "elements": [],
+      "widgetType": "global",
+      "templateID": "740"
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ },
+ {
+  "id": "e2ad31c",
+  "elType": "section",
+  "settings": {
+   "height": "min-height",
+   "custom_height": {
+    "unit": "px",
+    "size": 231,
+    "sizes": []
+   },
+   "eael_parallax_layers_list": [],
+   "padding": {
+    "unit": "px",
+    "top": "60",
+    "right": "0",
+    "bottom": "60",
+    "left": "0",
+    "isLinked": false
+   },
+   "eael_ext_content_protection_password_placeholder": "Enter Password",
+   "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+   "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+   "eael_cl_logics": [
+    {
+     "_id": "903bf7b",
+     "dynamic_field_custom_separator": "|"
+    }
+   ]
+  },
+  "elements": [
+   {
+    "id": "da681b5",
+    "elType": "column",
+    "settings": {
+     "_column_size": 100,
+     "_inline_size": null,
+     "align": "center",
+     "eael_cl_logics": [
+      {
+       "_id": "5836dea",
+       "dynamic_field_custom_separator": "|"
+      }
+     ]
+    },
+    "elements": [
+     {
+      "id": "ceedddd",
+      "elType": "widget",
+      "settings": {
+       "title": "Frequently Asked Questions",
+       "align": "center",
+       "typography_typography": "custom",
+       "typography_font_family": "EB Garamond",
+       "typography_font_size": {
+        "unit": "px",
+        "size": 48,
+        "sizes": []
+       },
+       "typography_font_weight": "500",
+       "typography_font_size_tablet": {
+        "unit": "px",
+        "size": 28,
+        "sizes": []
+       },
+       "typography_font_size_mobile": {
+        "unit": "px",
+        "size": 28,
+        "sizes": []
+       },
+       "_margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "align_mobile": "center",
+       "_padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "6f279cf",
+         "dynamic_field_custom_separator": "|"
+        }
+       ],
+       "_margin_mobile": {
+        "unit": "px",
+        "top": "-10",
+        "right": "-10",
+        "bottom": "-10",
+        "left": "-10",
+        "isLinked": true
+       },
+       "typography_line_height": {
+        "unit": "em",
+        "size": 1.3,
+        "sizes": []
+       },
+       "_element_width": "initial",
+       "_element_custom_width": {
+        "unit": "%",
+        "size": 52.857
+       },
+       "__globals__": {
+        "title_color": "globals/colors?id=primary",
+        "_border_color": "globals/colors?id=secondary"
+       },
+       "_element_custom_width_mobile": {
+        "unit": "%",
+        "size": 100,
+        "sizes": []
+       },
+       "_padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+       },
+       "align_tablet": "center",
+       "_border_border": "solid",
+       "_border_width": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "4",
+        "isLinked": false
+       }
+      },
+      "elements": [],
+      "widgetType": "heading"
+     },
+     {
+      "id": "5cdae44",
+      "elType": "widget",
+      "settings": {
+       "tabs": [
+        {
+         "tab_title": "How do the coaching calls work?",
+         "tab_content": "<p class=\"\" data-start=\"142\" data-end=\"399\">After you enroll, you'll receive access to Dana\u2019s scheduling calendar (via Calendly) to book your private coaching calls. Each call is 90 minutes and tailored to help you apply the course content to your specific challenges.</p><p class=\"\" data-start=\"401\" data-end=\"557\">\u00a0</p>",
+         "_id": "3fafcbb"
+        },
+        {
+         "tab_title": "When do I get access to the course?",
+         "tab_content": "<p class=\"\" data-start=\"401\" data-end=\"557\">You\u2019ll get instant access to all modules and your onboarding materials as soon as you sign up\u2014no waiting required.</p><p class=\"\" data-start=\"559\" data-end=\"734\">\u00a0</p>",
+         "_id": "01757b6"
+        },
+        {
+         "tab_title": "How long do I have access to the course content?",
+         "tab_content": "<p class=\"\" data-start=\"559\" data-end=\"734\">You have lifetime access to the course materials, so you can revisit the tools and lessons anytime you need a refresher.</p><p class=\"\" data-start=\"559\" data-end=\"734\">\u00a0</p>",
+         "_id": "2e77e38"
+        },
+        {
+         "tab_title": "Is this course appropriate for couples?",
+         "tab_content": "<p class=\"\" data-start=\"1370\" data-end=\"1571\">Yes\u2014the Unity package is specifically designed for couples who want to reset boundaries and improve their connection together, with joint coaching support.</p><p class=\"\" data-start=\"559\" data-end=\"734\">\u00a0</p>",
+         "_id": "9bbe6da"
+        },
+        {
+         "tab_title": "What\u2019s the difference between the packages?",
+         "tab_content": "<p class=\"\" data-start=\"1573\" data-end=\"1899\">All packages include the full course. The biggest differences are the number of private coaching calls and Boundary Boosters. The Unity Package is designed for couples.\u00a0</p><p class=\"\" data-start=\"559\" data-end=\"734\">\u00a0</p>",
+         "_id": "84eaa79"
+        },
+        {
+         "tab_title": "What is a Boundary Booster? ",
+         "tab_content": "<div>Boundary Boosters are scheduled 15-minute Zoom calls. Clients will complete a short form prior to the call to identify the specific issue or boundary challenge. If they need further support, they can purchase a <span style=\"text-decoration: underline;\"><a href=\"https://danaskaggs.com/coaching/\">full coaching session</a></span>. All Boundary Booster sessions must be scheduled within 60 days of enrollment.\u00a0</div><p class=\"\" data-start=\"559\" data-end=\"734\">\u00a0</p>",
+         "_id": "c1147f8"
+        },
+        {
+         "tab_title": "Can I do the course without the coaching calls? ",
+         "tab_content": "<div>Yes, the Boundary Blueprint course is available for purchase at <a class=\"\" href=\"https://learn.danaskaggs.com\" target=\"_new\" rel=\"noopener\" data-start=\"134\" data-end=\"186\">learn.danaskaggs.com</a>. However, clients see the strongest results when the course is paired with personalized coaching. To book a session, visit <a class=\"\" href=\"https://danaskaggs.com/coaching\" target=\"_new\" rel=\"noopener\" data-start=\"310\" data-end=\"368\">danaskaggs.com/coaching</a>.</div>",
+         "_id": "4e316fe"
+        }
+       ],
+       "title_typography_typography": "custom",
+       "title_typography_font_family": "Helvetica",
+       "title_typography_font_size": {
+        "unit": "px",
+        "size": 16,
+        "sizes": []
+       },
+       "title_typography_font_weight": "600",
+       "title_typography_line_height_mobile": {
+        "unit": "em",
+        "size": 1.4,
+        "sizes": []
+       },
+       "content_typography_typography": "custom",
+       "content_typography_font_family": "Helvetica",
+       "content_typography_font_weight": "400",
+       "content_typography_line_height_mobile": {
+        "unit": "em",
+        "size": 1.6,
+        "sizes": []
+       },
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "006f730",
+         "dynamic_field_custom_separator": "|"
+        }
+       ],
+       "__globals__": {
+        "border_color": "globals/colors?id=primary"
+       },
+       "border_width": {
+        "unit": "px",
+        "size": 1,
+        "sizes": []
+       },
+       "space_between_tablet": {
+        "unit": "px",
+        "size": 12,
+        "sizes": []
+       },
+       "_element_width_tablet": "initial",
+       "_element_custom_width_tablet": {
+        "unit": "px",
+        "size": 485,
+        "sizes": []
+       },
+       "_element_width": "initial",
+       "_element_custom_width": {
+        "unit": "%",
+        "size": 52.946
+       },
+       "_margin_mobile": {
+        "unit": "px",
+        "top": "32",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       }
+      },
+      "elements": [],
+      "widgetType": "toggle"
+     },
+     {
+      "id": "95c6920",
+      "elType": "widget",
+      "settings": {
+       "text": "Join the Waitlist",
+       "link": {
+        "url": "",
+        "is_external": "",
+        "nofollow": "",
+        "custom_attributes": ""
+       },
+       "align": "justify",
+       "align_mobile": "center",
+       "typography_typography": "custom",
+       "typography_font_family": "Helvetica",
+       "typography_font_size": {
+        "unit": "px",
+        "size": 18,
+        "sizes": []
+       },
+       "typography_font_weight": "500",
+       "background_color": "#FFFFFF",
+       "text_padding_tablet": {
+        "unit": "px",
+        "top": "12",
+        "right": "040",
+        "bottom": "12",
+        "left": "040",
+        "isLinked": false
+       },
+       "button_text_color": "#FFFFFF",
+       "eael_tooltip_section_content": "I am a tooltip",
+       "eael_ext_content_protection_password_placeholder": "Enter Password",
+       "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+       "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+       "eael_cl_logics": [
+        {
+         "_id": "e26266c",
+         "dynamic_field_custom_separator": "|"
+        }
+       ],
+       "typography_font_size_mobile": {
+        "unit": "px",
+        "size": 18,
+        "sizes": []
+       },
+       "hover_animation": "grow",
+       "align_tablet": "justify",
+       "_padding_tablet": {
+        "unit": "px",
+        "top": "0",
+        "right": "5",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "text_padding": {
+        "unit": "px",
+        "top": "12",
+        "right": "60",
+        "bottom": "12",
+        "left": "60",
+        "isLinked": false
+       },
+       "text_padding_mobile": {
+        "unit": "px",
+        "top": "12",
+        "right": "30",
+        "bottom": "12",
+        "left": "30",
+        "isLinked": false
+       },
+       "_element_width_mobile": "initial",
+       "_element_custom_width_mobile": {
+        "unit": "%",
+        "size": 199
+       },
+       "background_background": "",
+       "_padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+       },
+       "__dynamic__": {
+        "link": "[elementor-tag id=\"d25f663\" name=\"popup\" settings=\"%7B%22popup%22%3A%221636%22%7D\"]"
+       },
+       "content_align_mobile": "center",
+       "_element_width_tablet": "initial",
+       "_element_custom_width_tablet": {
+        "unit": "px",
+        "size": 310.938
+       },
+       "_margin": {
+        "unit": "px",
+        "top": "60",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+       },
+       "_element_width": "initial",
+       "_element_custom_width": {
+        "unit": "%",
+        "size": 55.625
+       }
+      },
+      "elements": [],
+      "widgetType": "button"
+     }
+    ],
+    "isInner": false
+   }
+  ],
+  "isInner": false
+ }
+]

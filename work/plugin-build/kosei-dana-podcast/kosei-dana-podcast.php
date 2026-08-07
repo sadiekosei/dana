@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Kosei Dana Podcast Tools
  * Description: Narrow, single-purpose REST API for safely appending ONE new top-level Elementor container to the /podcast/ page (post ID 3048) only. Built by Sadie's Claude Code session; safe to deactivate/delete once the podcast archive widget work is finished.
- * Version: 1.9.1
+ * Version: 1.10.2
  * Author: Kosei Designs
  */
 
@@ -88,6 +88,21 @@ add_action( 'rest_api_init', function () {
 	register_rest_route( 'kosei-dana/v1', '/podcast-page-seo-meta', array(
 		'methods'             => 'POST',
 		'callback'            => 'kosei_dana_seo_meta',
+		'permission_callback' => function () { return current_user_can( 'edit_pages' ); },
+	) );
+	register_rest_route( 'kosei-dana/v1', '/page-elementor', array(
+		'methods'             => 'GET',
+		'callback'            => 'kosei_dana_page_elementor_get',
+		'permission_callback' => function () { return current_user_can( 'edit_pages' ); },
+	) );
+	register_rest_route( 'kosei-dana/v1', '/page-elementor', array(
+		'methods'             => 'POST',
+		'callback'            => 'kosei_dana_page_elementor_put',
+		'permission_callback' => function () { return current_user_can( 'edit_pages' ); },
+	) );
+	register_rest_route( 'kosei-dana/v1', '/page-cache-bust', array(
+		'methods'             => 'POST',
+		'callback'            => 'kosei_dana_page_cache_bust',
 		'permission_callback' => function () { return current_user_can( 'edit_pages' ); },
 	) );
 } );
@@ -678,5 +693,130 @@ function kosei_dana_append_section( \WP_REST_Request $req ) {
 		'after_count'  => count( $decoded ),
 		'css_regen'    => $css_regen,
 		'view'         => get_permalink( KOSEI_DANA_PAGE_ID ),
+	), 200 );
+}
+
+
+// ---------------------------------------------------------------------
+// Generic, page-scoped Elementor read/write (added v1.10.0 for the
+// /boundaries-course/ pricing + copy work). Deliberately additive: the
+// endpoints above stay hardcoded to the podcast page and are untouched.
+// Guards: caller must have edit_pages; target must be an existing post of
+// type "page"; the payload must decode to a non-empty JSON array; and a
+// timestamped copy of the previous _elementor_data is kept in postmeta
+// so a bad write can always be rolled back from the DB alone.
+// ---------------------------------------------------------------------
+function kosei_dana_resolve_page( $req ) {
+	$pid = (int) $req->get_param( 'page_id' );
+	if ( ! $pid ) {
+		$body = json_decode( $req->get_body(), true );
+		$pid  = is_array( $body ) ? (int) ( $body['page_id'] ?? 0 ) : 0;
+	}
+	if ( ! $pid ) {
+		return new \WP_Error( 'bad_page', 'page_id is required.', array( 'status' => 400 ) );
+	}
+	$post = get_post( $pid );
+	// elementor_library covers popups/templates -- the waitlist popup that
+	// the course page's CTAs open lives there, not in a page.
+	if ( ! $post || ! in_array( $post->post_type, array( 'page', 'elementor_library' ), true ) ) {
+		return new \WP_Error( 'bad_page', 'page_id must reference an existing post of type "page" or "elementor_library".', array( 'status' => 404 ) );
+	}
+	return $pid;
+}
+
+function kosei_dana_page_elementor_get( \WP_REST_Request $req ) {
+	$pid = kosei_dana_resolve_page( $req );
+	if ( is_wp_error( $pid ) ) { return $pid; }
+	$raw     = get_post_meta( $pid, '_elementor_data', true );
+	$decoded = json_decode( is_string( $raw ) ? $raw : '', true );
+	return new \WP_REST_Response( array(
+		'ok'            => true,
+		'page_id'       => $pid,
+		'title'         => get_the_title( $pid ),
+		'top_elements'  => is_array( $decoded ) ? count( $decoded ) : 0,
+		'bytes'         => is_string( $raw ) ? strlen( $raw ) : 0,
+		'sha256'        => is_string( $raw ) ? hash( 'sha256', $raw ) : null,
+		'data'          => $decoded,
+		'backups'       => array_keys( array_filter( get_post_meta( $pid ), function ( $v, $k ) {
+			return 0 === strpos( $k, '_kosei_elementor_backup_' );
+		}, ARRAY_FILTER_USE_BOTH ) ),
+	), 200 );
+}
+
+function kosei_dana_page_elementor_put( \WP_REST_Request $req ) {
+	$pid = kosei_dana_resolve_page( $req );
+	if ( is_wp_error( $pid ) ) { return $pid; }
+	$body = json_decode( $req->get_body(), true );
+	$data = is_array( $body ) ? ( $body['data'] ?? null ) : null;
+	$sha  = is_array( $body ) ? ( $body['sha256'] ?? '' ) : '';
+	if ( ! is_array( $data ) || empty( $data ) ) {
+		return new \WP_Error( 'bad_body', 'Body must be {"page_id": N, "data": [ ...elementor tree... ], "sha256": "<hash of the encoded data>"}.', array( 'status' => 400 ) );
+	}
+	$encoded = wp_json_encode( $data );
+	if ( ! is_string( $sha ) || ! hash_equals( hash( 'sha256', $encoded ), strtolower( $sha ) ) ) {
+		return new \WP_Error( 'bad_hash', 'sha256 mismatch -- payload may be truncated or re-encoded differently.', array( 'status' => 400 ) );
+	}
+	$prev = get_post_meta( $pid, '_elementor_data', true );
+	if ( is_string( $prev ) && '' !== $prev ) {
+		update_post_meta( $pid, '_kosei_elementor_backup_' . gmdate( 'Ymd_His' ), wp_slash( $prev ) );
+	}
+	update_post_meta( $pid, '_elementor_data', wp_slash( $encoded ) );
+	$css = 'skipped';
+	if ( class_exists( '\\Elementor\\Core\\Files\\CSS\\Post' ) ) {
+		delete_post_meta( $pid, '_elementor_css' );
+		\Elementor\Core\Files\CSS\Post::create( $pid )->update();
+		$css = 'regenerated';
+	}
+	do_action( 'litespeed_purge_post', $pid );
+	do_action( 'litespeed_purge_all' );
+	return new \WP_REST_Response( array(
+		'ok'           => true,
+		'page_id'      => $pid,
+		'bytes'        => strlen( $encoded ),
+		'top_elements' => count( $data ),
+		'css'          => $css,
+	), 200 );
+}
+
+// Elementor 3.x/4.x caches rendered widget output in postmeta
+// (_elementor_element_cache). Writing _elementor_data alone leaves that
+// stale, so the front end keeps serving the OLD markup even after a full
+// LiteSpeed purge. This clears every Elementor-side cache for one page
+// and reports the meta keys it saw, for diagnosis.
+function kosei_dana_page_cache_bust( \WP_REST_Request $req ) {
+	$pid = kosei_dana_resolve_page( $req );
+	if ( is_wp_error( $pid ) ) { return $pid; }
+	$before = array();
+	foreach ( get_post_meta( $pid ) as $k => $v ) {
+		if ( 0 === strpos( $k, '_elementor' ) ) {
+			$before[ $k ] = is_array( $v ) ? strlen( (string) reset( $v ) ) : strlen( (string) $v );
+		}
+	}
+	$cleared = array();
+	foreach ( array( '_elementor_element_cache', '_elementor_css', '_elementor_page_assets', '_elementor_inline_svg' ) as $k ) {
+		if ( metadata_exists( 'post', $pid, $k ) ) {
+			delete_post_meta( $pid, $k );
+			$cleared[] = $k;
+		}
+	}
+	$notes = array();
+	if ( class_exists( '\\Elementor\\Plugin' ) && isset( \Elementor\Plugin::$instance->files_manager ) ) {
+		\Elementor\Plugin::$instance->files_manager->clear_cache();
+		$notes[] = 'files_manager->clear_cache()';
+	}
+	if ( class_exists( '\\Elementor\\Core\\Files\\CSS\\Post' ) ) {
+		\Elementor\Core\Files\CSS\Post::create( $pid )->update();
+		$notes[] = 'css regenerated';
+	}
+	clean_post_cache( $pid );
+	wp_cache_flush();
+	do_action( 'litespeed_purge_post', $pid );
+	do_action( 'litespeed_purge_all' );
+	return new \WP_REST_Response( array(
+		'ok'          => true,
+		'page_id'     => $pid,
+		'meta_before' => $before,
+		'cleared'     => $cleared,
+		'notes'       => $notes,
 	), 200 );
 }
