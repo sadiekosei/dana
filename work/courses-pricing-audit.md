@@ -99,76 +99,95 @@ psychotherapist. The $2,000 is obviously better, so the $695 converts
 nobody — and it is far too expensive to be an impulse buy. It fails in
 both directions.
 
-**There is no entry point and no middle.** A top-5% podcast with 176
-episodes has a cheapest paid product of $695, nothing between free and
-$695, and nothing between $695 and $2,000 — which is where solo-expert
-businesses usually make their money.
+**There is no entry point.** A top-5% podcast with 176 episodes has a
+cheapest paid product of $695, and nothing between free and $695.
 
-## Recommended ladder
+## Blocker 3 — the buy buttons sell the wrong product
 
-| Tier | Now | Recommended | Payment plan |
+On **every** Thinkific course page, the two most prominent CTAs ("Join The
+Course" in the hero, "Enroll Now" further down) are hardcoded to the same
+link:
+
+```
+/cart/add_product/2232432?price_id=3001780
+```
+
+That is the **self-paced course** product. Only the small pricing-table
+button carries the correct per-tier link:
+
+| Page | Price shown | Hero CTA goes to | Correct link |
 |---|---|---|---|
-| Quiz + site-wide popup | Free | Free — keep, it works | — |
-| **NEW — "Say No Without Guilt" mini-course** | — | **$47** | — |
-| Self-Paced Blueprint | $695 | **$297** | 2 × $165 |
-| **NEW — Blueprint + Live Group** (6-wk cohort) | — | **$697** | 3 × $265 |
-| Essentials (4 × 90-min + 1 Booster) | $2,000 | **$1,497** | 3 × $530 |
-| Evolve (6 × 90-min + 2 Boosters) | $3,750 | **$1,997** | 4 × $530 |
-| Unity (couples, 8 × 90-min + 3 Boosters) | $4,995 | **$2,997** | 5 × $650 |
-| Single 1:1 | $250 / $200, unpublished | **publish on the coaching page** | — |
+| `/courses/boundaries` (self-paced) | *none shown* | product 2232432 | — (correct) |
+| `/courses/boundaries-essentials` | $2,000.00 | product 2232432 | `/enroll/3353324` |
+| `/courses/boundaries-evolve` | $3,750.00 | product 2232432 | `/enroll/3360281` |
+| `/courses/copy-of-…-evolve` (Unity) | $4,995.00 | product 2232432 | `/enroll/3360285` |
 
-Rebuilt so each package is a genuine ~10–15% discount on her own rates,
-with the course at $297:
+So a visitor on the $3,750 page who clicks the big obvious button gets the
+$695 self-paced course in their cart. Fix this before repricing — a price
+change on a page whose main button sells something else changes nothing.
 
-- Essentials: $297 + $1,000 + $100 = $1,397 à la carte → **$1,497**, where
-  the small premium is the 8 weeks of between-session access (name it).
-- Evolve: $297 + $1,500 + $200 = $1,997 à la carte → **$1,997**, sold on
-  structure rather than discount.
-- Unity: two people, $297 + $2,000 + $300 = $2,597 → **$2,997** for a
-  couple, i.e. ~$1,500 each.
+## Recommended ladder — four tiers, no new products
 
-### The fork on the premium tiers
+Prices dropped across the board, built only from what already exists, and
+priced so every package is a genuine discount on booking à la carte.
 
-Cutting Evolve from $3,750 to $1,997 is a large drop. The alternative is to
-**raise the session rate** instead: boundaries coaching is not insurance-
-billed therapy, and $250/90-min ($167/hr) is under market for a 15-year
-licensed clinician with a top-5% show and a keynote practice. At
-$400/90-min the current package prices become defensible almost as they
-stand.
+| # | Product | Now | **New** | Payment plan |
+|---|---|---|---|---|
+| 1 | Self-Paced Course | $695 | **$197** | — |
+| 2 | Course + 4 calls (Essentials) | $2,000 | **$1,097** | 3 × $385 |
+| 3 | Course + 6 calls (Evolve) | $3,750 | **$1,597** | 3 × $560 |
+| 4 | Course + 8 calls, couples (Unity) | $4,995 | **$2,097** | 3 × $735 |
 
-Pick one — they cannot coexist. Advertising $250 calls on Calendly while
-selling those same calls inside a $3,750 package is the arbitrage that
-makes the packages unsellable today. Given the goal is revenue from zero,
-align down first and raise rates once volume exists.
+Also: publish the $250 / $200 single-session rates on the coaching page.
 
-Side note: at $250/90-min ($167/hr) vs $200/60-min ($200/hr), the longer
-session is her cheapest hour. Consider $275–$300 for the 90-min to level it.
+Math at her real rates ($250 per 90-min call, Booster valued ~$100):
 
-### Why cut the course but keep 1:1 strong
+| Tier | À la carte | Package | Saving |
+|---|---|---|---|
+| Essentials | $197 + $1,000 + $100 = $1,297 | **$1,097** | 15% |
+| Evolve | $197 + $1,500 + $200 = $1,897 | **$1,597** | 16% |
+| Unity | $197 + $2,000 + $300 = $2,497 | **$2,097** | 16% |
 
-At $695 vs $2,000 the course is the worse deal. At $297 the ladder reads
-correctly: $297 buys information, $1,497+ buys Dana's time. That also makes
-the new $697 group tier the obvious step up from self-paced rather than a
-squeeze between two bad options — and at ~10 people per cohort it is the
-highest-margin product on the list.
+Every tier is now cheaper than assembling the same thing from Calendly,
+which is what makes a package worth buying. Effective rate lands
+$175–$183/hr across all three — consistent with her own rate card.
+
+### Why $197 for tier 1
+
+With no mini-course, the self-paced course *is* the entry product, so it
+has to be the thing a podcast listener buys without deliberating. 1.5 hours
+of video cannot do that at $695; at $197 it can. It also anchors the ladder
+correctly: $197 buys information, $1,097+ buys Dana's time. Consider $147
+for a first-30-days launch window, then settle at $197.
+
+### Simplifying the confusion
+
+- **Lead with call counts, not tier names.** "Course + 6 Calls" is legible
+  on sight; "Evolve" is not. Keep the names as subtitles if she likes them.
+- **One product name everywhere.** The Thinkific site is still titled
+  *The "Freedom of No" Formula* while the WP site says *The Boundary
+  Blueprint*, and the coaching page advertises the old name too.
+- **Fix the slug** `copy-of-the-freedom-of-no-formula-evolve` → `boundaries-unity`.
+- **One pricing table** on `/boundaries-course/`, not the current two.
+- **Show the price** on the self-paced sales page — it currently shows none.
 
 ## Sequence
 
 Fix the path before touching the numbers, or the new prices sell as well as
 the old ones.
 
-1. Replace the waitlist popup on `/boundaries-course/` with real Thinkific
-   checkout links. Delete the stale "Freedom of No" pricing block. This is
-   the single highest-value change: the traffic and the leads already
-   exist, and this is where they hit a wall.
-2. Put a product CTA in the podcast page + episode content — the $47
-   mini-course. Capture already works there; the pitch doesn't exist.
-3. Add an offer section to the homepage, or accept that `/` is
+1. **Fix the Thinkific hero CTAs** so each tier's buttons sell that tier.
+2. Replace the waitlist popup on `/boundaries-course/` with real Thinkific
+   checkout links. Delete the stale "Freedom of No" pricing block. The
+   traffic and the leads already exist; this is where they hit a wall.
+3. Reprice per the table and turn on the 3-pay plans.
+4. Put a course CTA in the podcast page + episode content — the $197
+   course. Capture already works there; the pitch doesn't exist.
+5. Add an offer section to the homepage, or accept that `/` is
    speaker-only and drive course traffic from the podcast instead.
-4. Show prices on the Thinkific sales page and the coaching page. Fix the
+6. Show prices on the Thinkific sales page and the coaching page. Fix the
    `http://` nav link and the dead `learn.danaskaggs.com` link.
-5. Then reprice per the table and turn on payment plans.
-6. Rename the Thinkific site and the `copy-of-...` slug.
+7. Rename the Thinkific site and the `copy-of-...` slug.
 
 Worth checking where the quiz results actually go — whether the Typeform
 responses feed an email list and a follow-up sequence, or just sit in
@@ -178,8 +197,12 @@ Typeform. That determines whether the captured leads are reachable at all.
 
 - Any historical sales at $695? Changes whether this is a repricing or a
   first launch.
-- Which side of the fork — align packages down, or raise the session rate?
-- Appetite for running live cohorts (the $697 tier depends on it).
 - Is the keynote business the priority, with courses secondary? That
   changes how hard the homepage should push courses.
-- What exactly is a Boundary Booster (length)? Priced at ~$100 above.
+- What exactly is a Boundary Booster (length)? Valued at ~$100 above; if
+  it is a full 60-min session the package discounts get slightly deeper.
+- Do the Typeform responses feed an email list and a follow-up sequence,
+  or sit in Typeform? Determines whether captured leads are reachable.
+
+Decisions taken by Sadie (2026-08-07): drop prices; no mini-course; no
+group cohort; keep the ladder to the four existing products.
