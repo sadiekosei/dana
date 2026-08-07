@@ -22,8 +22,30 @@ Status: **not yet applied.** Blocked on WordPress credentials (see bottom).
    - `/courses/boundaries-evolve` → **$3,750.00**
    - `/courses/copy-of-the-freedom-of-no-formula-evolve` → **$4,995.00**
 
-   These are indexable and shareable. Archive or unpublish them properly,
-   or redirect them to `/courses/boundaries`.
+   They carry **no `noindex`**, and Thinkific's `robots.txt` does not
+   block `/courses/`, so they are crawlable. A targeted search surfaces
+   nothing from the subdomain, so they appear unindexed — low urgency,
+   but not zero.
+
+   **Thinkific will not let you edit pricing on an unpublished course**,
+   and the free plan allows only one published course, so the price on
+   these pages cannot be corrected in place.
+
+   **Don't fight it — delete them.** Under the new model these three
+   courses have no job: the packages sell through Stripe Payment Links
+   and the buyer is manually enrolled in the single `boundaries` course.
+   The tier courses are redundant by design, and deleting them makes the
+   URLs 404, which is the outcome we actually want.
+
+   Check enrolments first in the Thinkific admin (very likely zero given
+   revenue has been zero). If any exist, or she wants to keep the content,
+   the fallback is renaming each slug to something unguessable — a
+   settings field rather than a pricing field, so it may not be gated the
+   same way.
+
+   Not worth doing: the publish-swap dance. Publishing a tier to edit its
+   price means unpublishing the live $99 course first, three times over,
+   to fix a number on a page nobody should reach.
 4. **Still open — no price on the sales page.** `/courses/boundaries`
    displays no price anywhere; a visitor only sees $99 after clicking
    through to the order page. Put $99 on the page.
