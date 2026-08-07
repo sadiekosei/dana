@@ -232,9 +232,38 @@ the wrapper.
    Diagnose by grepping the page CSS for the rule, not the class — the
    class being present in the HTML proves nothing.
 
-## E. Nav — STILL OPEN
+## E. Nav — DONE 2026-08-07
 
-`http://danaskaggs.thinkific.com` → `https://` (currently insecure scheme).
+Menu item **902** "Self-paced Boundaries Course" (custom link, parent 901
+"Work with Me", menu 3) repointed from `http://danaskaggs.thinkific.com`
+to `https://danaskaggs.com/course/`. Verified across `/`,
+`/boundaries-course/`, `/podcast/` and `/coaching/`: zero remaining
+links to the Thinkific root in the nav.
+
+That also retires the insecure `http://` scheme, and means the course
+funnel now runs entirely on her own domain with Thinkific reached only at
+checkout.
+
+## H. Reusable Elementor globals worth knowing about
+
+The site has a library of global widgets/templates in `elementor_library`;
+reuse these instead of hand-building equivalents:
+
+| ID | Name | Type |
+|---|---|---|
+| 740 | testimonials white | `testimonial-carousel`, 4 slides |
+| 1180 | testimonials blue | `eael-testimonial-slider` |
+| 1166 | testimonial widget | `eael-testimonial-slider` |
+| 1534 | Meet Dana Skaggs | section |
+| 1520 | Speaking Testimonials | section |
+| 1496 | 4 Symptoms of Boundary Issues | section |
+| 1636 | Course Inquiry Form | popup |
+
+A global widget is referenced as
+`{"elType":"widget","widgetType":"global","templateID":740,"settings":{}}`
+— leave `settings` empty to inherit the global's own content, which is the
+point of it. `/course/` now uses 740 for its testimonials, so edits to that
+one template propagate to every page that uses it.
 
 ---
 
