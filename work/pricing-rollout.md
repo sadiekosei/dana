@@ -290,10 +290,21 @@ reuse these instead of hand-building equivalents:
 | 1636 | Course Inquiry Form | popup |
 
 A global widget is referenced as
-`{"elType":"widget","widgetType":"global","templateID":740,"settings":{}}`
-— leave `settings` empty to inherit the global's own content, which is the
-point of it. `/course/` now uses 740 for its testimonials, so edits to that
-one template propagate to every page that uses it.
+`{"elType":"widget","widgetType":"global","templateID":740,"settings":{}}`.
+
+**Instance-level `settings` on a global widget are ignored.** Elementor
+renders a global purely from its template, so there is no per-page
+override — writing `show_arrows` onto the instance changed nothing. The
+only two options are:
+
+1. edit the template (changes every page using it), or
+2. stop using the global and place a local copy of the widget.
+
+Arrows were enabled by editing template 740 (option 1), which turned them
+on for **both** `/course/` and `/boundaries-course/` — the same component,
+same white arrow styling on both navy sections. Previous state is backed up
+at `work/backups/global-testimonials-740-before-arrows-2026-08-07.json`;
+set `show_arrows` back to `''` to revert.
 
 ---
 
