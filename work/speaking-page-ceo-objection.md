@@ -1,113 +1,113 @@
-# `/speaking/` — new section: the leader's objection
+# `/speaking/` — the leader's objection (revised from the 2025 deck)
 
 **Status: draft for Sadie to massage. Not integrated.**
 
-**Dana already covers this in the keynote.** That is the strongest thing
-the section can say, so it is now the closing line of both versions rather
-than a claim I argue for her: the talk defuses the fear on stage, in front
-of the leaders who hold it. It also reframes the section from "here is our
-rebuttal" to "here is part of what you are booking".
-
-## Where it goes
-
-Page 1190, between section **[3] "Signature Keynote"** and section
-**[5] "Creating Lasting Impact in the Workplace"**.
-
-That sequence does the persuasive work in the right order: *here's the
-talk → here's the worry you're having about booking it → here's what
-actually happens*. The objection is what stops a booking, so it needs
-answering before the outcomes list, not after it.
-
-Section styling would follow the page's existing rhythm — the neighbours
-are `#FFFFFF`, so cream (`#FCEADF`) would make it read as an aside rather
-than another sales block.
+Source: `Keynote - Slide Deck 2025.pdf` (25 slides), pushed to the
+`claude/dana-podcast-shownotes-wt0v42` branch. 7 slides are image-only and
+could not be read here — the visual metaphors (doghouse, yard) are in
+those, so there may be more language worth using.
 
 ---
 
-## Version A — long (recommended)
+## First: the speaking page is selling the wrong talk
 
-> ### But Won't This Just Teach My Team to Say No to Me?
+This is bigger than the section I was asked to write.
+
+| | Speaking page says | 2025 deck says |
+|---|---|---|
+| Title | *Stay in Your Own Yard!* | **Be the CEO of Your Mental Boardroom** |
+| Framework | none named | **The L.E.A.D. Method** — Listen, Externalize, Assess, Direct |
+| Evidence | "science-backed strategies" | **Gallup (2018)** and **Holmes et al. (2008)**, cited on-slide |
+
+The page still sells the yard-titled version. The current keynote is the
+CEO/mental-boardroom talk, which is also the framing on `/quiz/`
+("Being the CEO of your mental boardroom means deciding what belongs on
+your plate"). The subtitle still matches — slide 13 is almost verbatim the
+page's *"How to Say 'No' So You Can Say 'Yes' to What Really Matters."*
+
+**A named method is a strong booking asset and it appears nowhere on the
+site.** Worth a separate pass on the whole page, not just this section.
+
+## Her own lines, worth using verbatim
+
+- **"No Boundaries = No control."** (slide 4)
+- "You have to own it to change it." (slide 12)
+- "Being able to say NO makes it possible to say YES to what really
+  matters." (slide 13)
+- "Each person's 'yard' is different." (slide 9)
+- "Flip your doghouse from punishment to power." (slide 2)
+- "Boundaries are the secret sauce for success." (slide 25)
+
+## The data, with sources
+
+**Gallup, *Employee Burnout, Part 1: The 5 Main Causes* (2018)** — employees
+who frequently experience burnout are:
+- **63% more likely to take a sick day**
+- **2.6× more likely to be actively seeking another job**
+
+Holmes et al. (2008) on imagery vs. logic is about how she teaches, not
+about burnout cost — not needed here.
+
+---
+
+## Revised section
+
+> ### But Won't This Teach My Team to Say No to Me?
 >
 > It's the most common hesitation we hear from leaders, and it's a fair
 > one. Bringing in a speaker to talk about boundaries can sound like
 > handing your team permission to push back.
 >
-> Here's what actually happens.
+> Dana's answer is the premise of the keynote: **no boundaries means no
+> control.**
 >
 > The people with the weakest boundaries are usually your strongest
-> performers — the ones who take on everything, never flag a problem, and
-> absorb whatever lands on their desk. They don't say no. They say yes,
-> quietly fall behind, and stop telling you when something is wrong. By
-> the time it surfaces, they are already halfway out the door.
+> performers — the ones who absorb whatever lands on their desk and never
+> flag a problem. They don't say no. They say yes, quietly fall behind,
+> and stop telling you when something is wrong. Gallup found that
+> employees who frequently experience burnout are **63% more likely to
+> take a sick day** and **2.6× more likely to be actively job hunting.**
+> That's the cost of a team that can't say no — and you're already paying
+> it.
 >
 > A team that can say *"not this week, but I can have it to you Thursday"*
 > is a team you can plan around. That isn't resistance. It's information
 > you weren't getting before.
 >
-> Boundaries don't make people less committed. They make commitment mean
-> something — because when your team says yes, you'll know they mean it.
->
-> Dana takes this on directly in the keynote, with your leaders in the
-> room. It isn't a footnote to the talk — it's part of it.
+> Dana takes this on directly from the stage, with your leaders in the
+> room. They don't leave with permission to refuse work. They leave able
+> to decide what belongs on their plate — and to own what does.
 
-## Version B — short (if the page is getting long)
+*Gallup, Employee Burnout, Part 1: The 5 Main Causes (2018)*
+
+## Shorter variant
 
 > ### But Won't This Teach My Team to Say No to Me?
 >
-> Fair question — and yes, some of them will start saying no.
+> Fair question. Dana's answer is the premise of the keynote: **no
+> boundaries means no control.**
 >
-> Consider what you get instead today: a yes from someone already at
-> capacity, who quietly falls behind and stops telling you when something
-> is wrong. That yes was never reliable.
+> The yes you get today from someone already at capacity was never
+> reliable — they fall behind quietly and stop flagging problems. Gallup
+> found burned-out employees are **2.6× more likely to be job hunting.**
 >
-> A team that can say *"not this week, but Thursday"* is a team you can
-> plan around. When your people can say no, their yes becomes worth
-> something.
->
-> Dana takes this on directly in the keynote, with your leaders in the room.
+> When your people can say no, their yes becomes worth something.
 
 ---
 
-## Optional pull-quote
+## Notes
 
-Works as a standalone line under either version, or as a divider before
-"Creating Lasting Impact":
-
-> **"The 'yes' you get from someone with no boundaries was never
-> reliable in the first place."**
-
-## Optional CTA
-
-The neighbouring sections already carry *Book Dana for Your Event*, so
-this section probably shouldn't repeat it — three CTAs in a row dilutes
-all of them. If it needs one, a softer link works better here:
-
-> *See what teams take away from the keynote ↓*
-
----
-
-## Notes before this goes live
-
-- **No invented statistics.** Everything above is argument, not data. The
-  page already claims "science-backed strategies to reduce burnout and
-  turnover" — if Dana wants a figure here (cost of turnover, burnout
-  prevalence), it should be one she already cites from stage, with a
-  source. I'd rather leave it qualitative than attach a number we can't
-  attribute.
-- **"We" vs "I".** The drafts use "we hear from leaders", matching the
-  page's third-person voice ("Dana Skaggs helps professionals…"). If the
-  section should sound like Dana speaking directly, switch to "the most
-  common hesitation I hear".
-- **Tone check for the buyer.** The reader is the person who *has* the
-  fear. The draft names it without making them feel foolish for having it
-  — "it's a fair one" is doing that work, so keep it if the copy gets
-  cut.
-- **The strongest line is the reframe** — a *no* is information, not
-  resistance. If anything gets trimmed, keep that.
-- **The keynote line is load-bearing too.** It converts the section from a
-  defensive rebuttal into a feature of the booking — worth keeping even if
-  the rest is cut hard. If Dana has a specific phrase she uses on stage for
-  this moment, hers should replace mine.
-- Ties naturally into the yard metaphor already on the page: clear
-  property lines mean everyone knows what's theirs to carry. Worth a
-  sentence if Dana wants the section to echo the keynote language.
+- The Gallup stat is the single strongest addition. It reframes the
+  section from "here's our argument" to "here's what inaction costs" —
+  which is the register a CEO actually buys in.
+- **"No boundaries = no control"** is the sentence to build around. It
+  answers the fear on its own terms: they think boundaries cost them
+  control; she argues the absence of boundaries already has.
+- The closing line now does two jobs: it says the keynote handles this on
+  stage, *and* it distinguishes "permission to refuse work" from
+  "deciding what belongs on your plate" — which is the distinction the
+  buyer is actually worried about.
+- Keep the citation visible under the section. It is the difference
+  between a claim and evidence, and it matches how she presents on stage.
+- Still open: "we hear" vs "I hear" (third vs first person), and whether
+  to run the long or short version.
