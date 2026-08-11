@@ -85,6 +85,16 @@ plus a server-side copy in postmeta (`_kosei_elementor_backup_20260807_185801`).
   with `https://danaskaggs.thinkific.com/`.
 - Waitlist popup **1636** ("Course Inquiry Form") select options updated to
   the new prices and call counts.
+- **FAQ edited again once `/course/` existed** (5 of 12 items):
+  - "Can I do the course without the coaching calls?" now links to
+    `danaskaggs.com/course/`, not the Thinkific subdomain, and states the
+    $99 upgrade credit.
+  - "What's the difference between the packages?" now **names them** the
+    way the pricing table does — Essentials (4 calls), Evolve (6),
+    Unity (8, couples) — instead of only counting calls.
+  - "Is this appropriate for couples?" and "Do you offer payment plans?"
+    likewise name the tiers.
+  - "lifetime access" → "access that never expires", matching `/course/`.
 
 **Gotcha worth keeping:** Elementor caches rendered widget markup in
 `_elementor_element_cache` postmeta (210KB on this page). Writing
