@@ -2,6 +2,12 @@
 
 **Status: draft for Sadie to massage. Not integrated.**
 
+**Dana already covers this in the keynote.** That is the strongest thing
+the section can say, so it is now the closing line of both versions rather
+than a claim I argue for her: the talk defuses the fear on stage, in front
+of the leaders who hold it. It also reframes the section from "here is our
+rebuttal" to "here is part of what you are booking".
+
 ## Where it goes
 
 Page 1190, between section **[3] "Signature Keynote"** and section
@@ -40,6 +46,9 @@ than another sales block.
 >
 > Boundaries don't make people less committed. They make commitment mean
 > something — because when your team says yes, you'll know they mean it.
+>
+> Dana takes this on directly in the keynote, with your leaders in the
+> room. It isn't a footnote to the talk — it's part of it.
 
 ## Version B — short (if the page is getting long)
 
@@ -54,6 +63,8 @@ than another sales block.
 > A team that can say *"not this week, but Thursday"* is a team you can
 > plan around. When your people can say no, their yes becomes worth
 > something.
+>
+> Dana takes this on directly in the keynote, with your leaders in the room.
 
 ---
 
@@ -93,6 +104,10 @@ all of them. If it needs one, a softer link works better here:
   cut.
 - **The strongest line is the reframe** — a *no* is information, not
   resistance. If anything gets trimmed, keep that.
+- **The keynote line is load-bearing too.** It converts the section from a
+  defensive rebuttal into a feature of the booking — worth keeping even if
+  the rest is cut hard. If Dana has a specific phrase she uses on stage for
+  this moment, hers should replace mine.
 - Ties naturally into the yard metaphor already on the page: clear
   property lines mean everyone knows what's theirs to carry. Worth a
   sentence if Dana wants the section to echo the keynote language.
