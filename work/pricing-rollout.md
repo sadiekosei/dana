@@ -132,6 +132,14 @@ The kit already matched the branding; nothing needed inventing:
 | Custom | Dark Blue, cranberry, Brand Orange `#F29057`, Cream `#FCEADF` |
 | Typography | EB Garamond 600 headings, Helvetica 400 body |
 
+**Rounded imagery, site-wide (Sadie, 2026-08-07).** All content images get
+`border-radius: 20px` via the kit's Custom CSS, so it applies everywhere
+without per-widget settings. Deliberately excluded: logos (header, footer,
+`.custom-logo`), SVGs, and testimonial avatars — those stay square or
+circular. Kit 6 had no `custom_css` before this; the payload is backed up
+at `work/backups/kit-6-custom-css-2026-08-07.json`. Verified loading on
+`/`, `/boundaries-course/`, `/about/` and `/podcast/`.
+
 **Rule from Sadie: body copy is black on light backgrounds, white on dark.**
 Implemented by setting the Text global to `#000000` rather than per-page
 hexes, so it propagates. On dark sections white stays explicit (there is no
