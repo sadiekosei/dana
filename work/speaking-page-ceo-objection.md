@@ -2,31 +2,36 @@
 
 **Status: draft for Sadie to massage. Not integrated.**
 
-Source: `Keynote - Slide Deck 2025.pdf` (25 slides), pushed to the
-`claude/dana-podcast-shownotes-wt0v42` branch. 7 slides are image-only and
-could not be read here — the visual metaphors (doghouse, yard) are in
-those, so there may be more language worth using.
+Source: `Keynote - Slide Deck 2025.pdf` (25 slides) — *Be the CEO of Your
+Mental Boardroom*, pushed to the `claude/dana-podcast-shownotes-wt0v42`
+branch. **This is a different keynote from the one the speaking page sells**
+(see correction below). 7 slides are image-only and could not be read here —
+the visual metaphors (doghouse, yard) are in those, so there may be more
+language worth using.
 
 ---
 
-## First: the speaking page is selling the wrong talk
+## Correction: the page is NOT out of date
 
-This is bigger than the section I was asked to write.
+An earlier version of this file claimed the speaking page was selling a
+stale talk. That was wrong. Per Sadie, **"Stay in Your Own Yard! How to Say
+'No' So You Can Say 'Yes' to What Really Matters" is the current keynote.**
+The deck I read — *Be the CEO of Your Mental Boardroom* — is a different
+talk, not a newer version of this one. Both are 2025.
 
-| | Speaking page says | 2025 deck says |
-|---|---|---|
-| Title | *Stay in Your Own Yard!* | **Be the CEO of Your Mental Boardroom** |
-| Framework | none named | **The L.E.A.D. Method** — Listen, Externalize, Assess, Direct |
-| Evidence | "science-backed strategies" | **Gallup (2018)** and **Holmes et al. (2008)**, cited on-slide |
+The two clearly share a spine: slide 13 of the CEO deck is almost verbatim
+the Yard talk's subtitle, and the yard metaphor itself appears in the CEO
+deck (slide 9, "Each person's 'yard' is different").
 
-The page still sells the yard-titled version. The current keynote is the
-CEO/mental-boardroom talk, which is also the framing on `/quiz/`
-("Being the CEO of your mental boardroom means deciding what belongs on
-your plate"). The subtitle still matches — slide 13 is almost verbatim the
-page's *"How to Say 'No' So You Can Say 'Yes' to What Really Matters."*
+**What this means for the copy below:** the lines and the Gallup figure are
+Dana's own material, but they come from the *other* deck. Before publishing,
+confirm they also feature in the Yard talk — particularly the Gallup stat,
+since the section presents it as what this keynote addresses.
 
-**A named method is a strong booking asset and it appears nowhere on the
-site.** Worth a separate pass on the whole page, not just this section.
+Still worth noting separately: **the L.E.A.D. Method** (Listen, Externalize,
+Assess, Direct) is a named framework that appears nowhere on the site. If it
+belongs to the CEO talk only, that talk has no page of its own — which may
+be its own gap, given the site currently advertises one keynote.
 
 ## Her own lines, worth using verbatim
 
