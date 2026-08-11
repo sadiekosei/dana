@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Kosei Dana Podcast Tools
  * Description: Narrow, single-purpose REST API for safely appending ONE new top-level Elementor container to the /podcast/ page (post ID 3048) only. Built by Sadie's Claude Code session; safe to deactivate/delete once the podcast archive widget work is finished.
- * Version: 1.9.1
+ * Version: 1.10.1
  * Author: Kosei Designs
  */
 
@@ -98,19 +98,24 @@ function kosei_dana_seo_meta( \WP_REST_Request $req ) {
 	$body = json_decode( $req->get_body(), true );
 	$desc  = is_array( $body ) ? ( $body['metadesc'] ?? null ) : null;
 	$title = is_array( $body ) ? ( $body['seo_title'] ?? null ) : null;
+	// Optional page_id (defaults to the podcast page); must be a real, editable page.
+	$pid = is_array( $body ) && ! empty( $body['page_id'] ) ? (int) $body['page_id'] : KOSEI_DANA_PAGE_ID;
+	if ( 'page' !== get_post_type( $pid ) ) {
+		return new \WP_Error( 'bad_page', 'page_id does not resolve to a page.', array( 'status' => 400 ) );
+	}
 	if ( null === $desc && null === $title ) {
 		return new \WP_Error( 'bad_body', 'Body must include "metadesc" and/or "seo_title".', array( 'status' => 400 ) );
 	}
-	$out = array( 'ok' => true );
+	$out = array( 'ok' => true, 'page_id' => $pid );
 	if ( null !== $desc ) {
-		update_post_meta( KOSEI_DANA_PAGE_ID, '_yoast_wpseo_metadesc', sanitize_text_field( $desc ) );
-		$out['metadesc'] = get_post_meta( KOSEI_DANA_PAGE_ID, '_yoast_wpseo_metadesc', true );
+		update_post_meta( $pid, '_yoast_wpseo_metadesc', sanitize_text_field( $desc ) );
+		$out['metadesc'] = get_post_meta( $pid, '_yoast_wpseo_metadesc', true );
 	}
 	if ( null !== $title ) {
-		update_post_meta( KOSEI_DANA_PAGE_ID, '_yoast_wpseo_title', sanitize_text_field( $title ) );
-		$out['seo_title'] = get_post_meta( KOSEI_DANA_PAGE_ID, '_yoast_wpseo_title', true );
+		update_post_meta( $pid, '_yoast_wpseo_title', sanitize_text_field( $title ) );
+		$out['seo_title'] = get_post_meta( $pid, '_yoast_wpseo_title', true );
 	}
-	do_action( 'litespeed_purge_post', KOSEI_DANA_PAGE_ID );
+	do_action( 'litespeed_purge_post', $pid );
 	do_action( 'litespeed_purge_all' );
 	return new \WP_REST_Response( $out, 200 );
 }
@@ -264,11 +269,16 @@ function kosei_dana_merge_widget_settings( \WP_REST_Request $req ) {
 	$body = json_decode( $req->get_body(), true );
 	$id   = is_array( $body ) ? ( $body['id'] ?? '' ) : '';
 	$patch = is_array( $body ) ? ( $body['settings'] ?? null ) : null;
+	// Optional page_id (defaults to the podcast page); must be a real page.
+	$pid = is_array( $body ) && ! empty( $body['page_id'] ) ? (int) $body['page_id'] : KOSEI_DANA_PAGE_ID;
+	if ( 'page' !== get_post_type( $pid ) ) {
+		return new \WP_Error( 'bad_page', 'page_id does not resolve to a page.', array( 'status' => 400 ) );
+	}
 	if ( ! $id || ! is_array( $patch ) || empty( $patch ) ) {
 		return new \WP_Error( 'bad_body', 'Body must be {"id": "<element id>", "settings": {"<control>": <value>, ...}}.', array( 'status' => 400 ) );
 	}
 
-	$raw     = get_post_meta( KOSEI_DANA_PAGE_ID, '_elementor_data', true );
+	$raw     = get_post_meta( $pid, '_elementor_data', true );
 	$decoded = json_decode( is_string( $raw ) ? $raw : '', true );
 	if ( ! is_array( $decoded ) ) {
 		return new \WP_Error( 'bad_data', 'Existing _elementor_data did not decode as an array.', array( 'status' => 500 ) );
@@ -304,17 +314,17 @@ function kosei_dana_merge_widget_settings( \WP_REST_Request $req ) {
 		return new \WP_Error( 'not_found', 'No element with that id found on the page.', array( 'status' => 404 ) );
 	}
 
-	update_post_meta( KOSEI_DANA_PAGE_ID, '_elementor_data', wp_slash( wp_json_encode( $decoded ) ) );
+	update_post_meta( $pid, '_elementor_data', wp_slash( wp_json_encode( $decoded ) ) );
 	if ( class_exists( '\Elementor\Core\Files\CSS\Post' ) ) {
 		try {
-			delete_post_meta( KOSEI_DANA_PAGE_ID, '_elementor_css' );
-			\Elementor\Core\Files\CSS\Post::create( KOSEI_DANA_PAGE_ID )->update();
+			delete_post_meta( $pid, '_elementor_css' );
+			\Elementor\Core\Files\CSS\Post::create( $pid )->update();
 		} catch ( \Throwable $e ) { /* non-fatal */ }
 	}
 	if ( class_exists( '\Elementor\Plugin' ) ) {
 		\Elementor\Plugin::$instance->files_manager->clear_cache();
 	}
-	do_action( 'litespeed_purge_post', KOSEI_DANA_PAGE_ID );
+	do_action( 'litespeed_purge_post', $pid );
 	do_action( 'litespeed_purge_all' );
 
 	return new \WP_REST_Response( array(
@@ -374,17 +384,17 @@ function kosei_dana_replace_latest_episodes( \WP_REST_Request $req ) {
 	$replaced_id       = $decoded[ $target_index ]['id'] ?? '?';
 	$decoded[ $target_index ] = $new_section;
 
-	update_post_meta( KOSEI_DANA_PAGE_ID, '_elementor_data', wp_slash( wp_json_encode( $decoded ) ) );
+	update_post_meta( $pid, '_elementor_data', wp_slash( wp_json_encode( $decoded ) ) );
 	if ( class_exists( '\Elementor\Core\Files\CSS\Post' ) ) {
 		try {
-			delete_post_meta( KOSEI_DANA_PAGE_ID, '_elementor_css' );
-			\Elementor\Core\Files\CSS\Post::create( KOSEI_DANA_PAGE_ID )->update();
+			delete_post_meta( $pid, '_elementor_css' );
+			\Elementor\Core\Files\CSS\Post::create( $pid )->update();
 		} catch ( \Throwable $e ) { /* non-fatal */ }
 	}
 	if ( class_exists( '\Elementor\Plugin' ) ) {
 		\Elementor\Plugin::$instance->files_manager->clear_cache();
 	}
-	do_action( 'litespeed_purge_post', KOSEI_DANA_PAGE_ID );
+	do_action( 'litespeed_purge_post', $pid );
 	do_action( 'litespeed_purge_all' );
 
 	return new \WP_REST_Response( array(
