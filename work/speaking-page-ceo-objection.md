@@ -19,32 +19,37 @@ teach my team to say no to me?*
 
 Here's what I've found. **No boundaries means no control.** The people with
 the weakest boundaries are usually your strongest performers — they absorb
-everything, flag nothing, and quietly burn out. Gallup found that employees
-who frequently experience burnout are **2.6× more likely to be job
-hunting.**
+everything, flag nothing, and quietly burn out. [Gallup found](https://www.gallup.com/workplace/237059/employee-burnout-part-main-causes.aspx)
+that employees who frequently experience burnout are **2.6× more likely to
+be job hunting.**
 
-Your team won't leave my keynote with permission to refuse work. They'll
-leave able to decide what belongs on their plate — and to own what does.
+> **CLOSING LINE — pick one.** The original ("won't leave with permission to
+> refuse work…") was doing too much work in a double negative, and it
+> planted "refuse work" in the reader's head at the exact moment we want
+> them reassured.
 
-<small>Gallup, *Employee Burnout, Part 1: The 5 Main Causes* (2018)</small>
+**A — the yard (recommended).** Ties to the talk's own title, so the section
+sounds native to this keynote rather than borrowed:
+
+> They leave knowing exactly where their yard ends — and taking better care
+> of what's inside it.
+
+**B — plain.** Names the fear and dismisses it in one beat:
+
+> The result isn't a team that says no more often. It's a team that knows
+> which work is theirs — and does it properly.
+
+**C — ownership.** Closest to her slide 12, "you have to own it to change it":
+
+> You don't get a team that pushes back. You get one that knows what it's
+> carrying — and carries it.
 
 ---
 
-# EVEN SHORTER (if 90 words is too much under the hero)
-
-### Worried a Boundaries Talk Will Backfire?
-
-Most leaders ask me the same thing: *won't this teach my team to say no to
-me?*
-
-**No boundaries means no control.** Your strongest performers are usually
-the ones absorbing everything and flagging nothing — and Gallup found
-burned-out employees are **2.6× more likely to be job hunting.**
-
-They won't leave with permission to refuse work. They'll leave able to
-decide what belongs on their plate.
-
----
+**Gallup link verified:** `gallup.com/workplace/237059/employee-burnout-part-main-causes.aspx`
+returns 200, is titled *Employee Burnout, Part 1: The 5 Main Causes*, and
+the page itself contains both the 63% and 2.6× figures. Hyperlinked inline
+on "Gallup found" — no citation line needed underneath.
 
 # Build notes
 
@@ -56,6 +61,8 @@ decide what belongs on their plate.
 - **No CTA.** The hero's "Book Dana for Your Event" is directly above it.
 - The italicised question renders as `<em>`; the two bold phrases are the
   load-bearing ones.
+- Gallup is an inline link, `target="_blank" rel="noopener"`, styled as a
+  normal body link — no footnote line under the section.
 
 ## Sourcing — needs one confirmation
 
