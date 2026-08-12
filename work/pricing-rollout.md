@@ -119,6 +119,31 @@ Always call it after a write.
 5. **Swap the waitlist CTA** for the Stripe links once B exists. Until
    then the popup (Elementor popup `1636`) stays.
 
+## I. Plugin reverted mid-session — how to recover
+
+The plugin dropped back to **v1.9.1**, taking every endpoint added this
+session with it. The likely cause: the `claude/dana-podcast-shownotes-wt0v42`
+branch carries v1.9.1, so a session working there that ran
+`plugin-self-update` would overwrite this one's build.
+
+Recovering it needed a step no API call could do:
+
+1. Re-push the current plugin via `/plugin-self-update` — this **succeeds**
+   and `wp/v2/plugins` then reports the new version, because WordPress reads
+   the header off disk.
+2. But the *running* code stays old: PHP serves stale compiled bytecode. The
+   new routes 404 no matter how long you wait. The plugin's own
+   `opcache_reset()` on load cannot help, because the cached copy is what
+   executes.
+3. `wp/v2/plugins` can't cycle it either — that route returns
+   `rest_plugin_not_found` for this plugin's path form.
+4. **Fix: deactivate and reactivate the plugin in WP Admin → Plugins.**
+   That forces a fresh compile and all routes return immediately.
+
+Diagnostic that identifies it quickly: `GET /wp-json/kosei-dana/v1` lists
+the registered routes. If yours are missing while `wp/v2/plugins` reports
+your version, it is bytecode, not the file.
+
 ## D. WordPress `/coaching/` (page 958) — STILL OPEN
 
 1. **Publish the rates** — the page currently shows none:

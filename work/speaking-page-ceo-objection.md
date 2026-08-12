@@ -1,6 +1,10 @@
 # `/speaking/` — "will this backfire?" section
 
-**Status: ready to build, pending Sadie's go-ahead.**
+**Status: LIVE on 2026-08-07.** Section `626e359`, inserted between the hero
+(`59f3932`) and the video playlist (`a244de6`) on page 1190. Backup:
+`work/backups/speaking-page-1190-elementor-2026-08-07.json`.
+
+Closing line chosen: the yard variant.
 **Placement: immediately after the hero** (page 1190, new section between
 [0] hero and [1] the video playlist).
 
